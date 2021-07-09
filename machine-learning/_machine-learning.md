@@ -193,11 +193,11 @@ _Welcome to the introduction to machine learning lesson!_
 - [Webinar of Deep Reinforcement Learning (SUSE Cloud Scholarship) - YouTube](https://www.youtube.com/watch?v=uzEdwfAYP60)
 - [The Debater - YouTube](https://www.youtube.com/watch?v=koec1nnePAM)
 - [Writing Machine Learning Pipelines And Deep Learning Code Using Github Copilot ⭐⭐⭐⭐⭐⭐ - YouTube](https://www.youtube.com/watch?app=desktop&v=m0OEHRA1Kfs)
-- [Machine Learning Engineering for Production (MLOps) - YouTube](https://www.youtube.com/watch?v=Ta14KpeZJok)
-- [(8) NVIDIA Cambridge-1 Inauguration | The UK’s Most Powerful Supercomputer - YouTube](https://www.youtube.com/watch?v=LKa-kDYZ1A8)
-- [timesler/facenet-pytorch: Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models](https://github.com/timesler/facenet-pytorch)
-- [Jetson AI Courses and Certification | NVIDIA Developer](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs?ncid=so-nvsh-311987-vt25#cid=em17_so-nvsh_en-us)
-- [Jukebox Sample Explorer](https://jukebox.openai.com/?song=787948732)
+- [Machine Learning Engineering for Production (MLOps)](https://www.youtube.com/watch?v=Ta14KpeZJok), **YouTube**
+- [The UK’s Most Powerful Supercomputer](https://www.youtube.com/watch?v=LKa-kDYZ1A8), **YouTube**
+- [Pretrained Pytorch face detection (MTCNN)](https://github.com/timesler/facenet-pytorch), **Github**, _timesler/facenet-pytorch_
+- [Jetson AI Courses and Certification](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs?ncid=so-nvsh-311987-vt25#cid=em17_so-nvsh_en-us), **NVDIA Developer**
+- [Jukebox Sample Explorer](https://jukebox.openai.com/?song=787948732). **JukeBox**
 - [Guide To Simple Object Detection Using InceptionResnet_v2](https://analyticsindiamag.com/guide-to-simple-object-detection-using-inceptionresnet_v2/), **AnalyticsIndiaMag**
 - [Course: Machine Learning with Text in Python](https://www.dataschool.io/learn/), **DataSchool**
 - [LightFM Hybrid Recommendation system](https://www.kaggle.com/niyamatalmass/lightfm-hybrid-recommendation-system), **Kaggle**
