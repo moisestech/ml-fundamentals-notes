@@ -7,7 +7,7 @@
 5. Practice with Margins
 6. SVMs and Tricky Data Distributions
 7. SVM Response to Outliers
-8. SVM Outlier Practic
+8. SVM Outlier Practice
 9. Handoff to Katie
 10. SVM in SKlearn
 11. SVM Decision Boundary
