@@ -198,13 +198,13 @@ _Welcome to the introduction to machine learning lesson!_
 - [timesler/facenet-pytorch: Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models](https://github.com/timesler/facenet-pytorch)
 - [Jetson AI Courses and Certification | NVIDIA Developer](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs?ncid=so-nvsh-311987-vt25#cid=em17_so-nvsh_en-us)
 - [Jukebox Sample Explorer](https://jukebox.openai.com/?song=787948732)
-- [Guide To Simple Object Detection Using InceptionResnet_v2](https://analyticsindiamag.com/guide-to-simple-object-detection-using-inceptionresnet_v2/)
-- [Course: Machine Learning with Text in Python](https://www.dataschool.io/learn/)
-- [LightFM Hybrid Recommendation system | Kaggle](https://www.kaggle.com/niyamatalmass/lightfm-hybrid-recommendation-system)
-- [30 Days of ML | Kaggle](https://www.kaggle.com/thirty-days-of-ml)
-- [Deepnote - Data science notebook for teams](https://deepnote.com/)
-- [Manning | Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business)
-- [Gradio | Hub](https://gradio.app/hub)
+- [Guide To Simple Object Detection Using InceptionResnet_v2](https://analyticsindiamag.com/guide-to-simple-object-detection-using-inceptionresnet_v2/), **AnalyticsIndiaMag**
+- [Course: Machine Learning with Text in Python](https://www.dataschool.io/learn/), **DataSchool**
+- [LightFM Hybrid Recommendation system](https://www.kaggle.com/niyamatalmass/lightfm-hybrid-recommendation-system), **Kaggle**
+- [30 Days of ML](https://www.kaggle.com/thirty-days-of-ml), **Kaggle**
+- [Data science notebook for teams](https://deepnote.com/), **DeepNote**
+- [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business), **Manning**
+- [Gradio | Hub](https://gradio.app/hub), **Gradio**
 - [Docs | Image Processing](https://images-process.herokuapp.com/docs.html)
 - [adobe-research/MakeItTalk](https://github.com/adobe-research/MakeItTalk)
 - [leary-leerie/Text_To_Speech.ipynb at master · EO4wellness/leary-leerie](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/Text_To_Speech.ipynb)
