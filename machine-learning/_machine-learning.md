@@ -25,8 +25,13 @@ This lesson is divided into the following sections:
 First, we'll discuss what machine learning is, common terminology, and common components involved in creating a machine learning project.
 Next, we'll step into the shoes of a machine learning practitioner. Machine learning involves using trained models to generate predictions and detect patterns from data. To understand the process, we'll break down the different steps involved and examine a common process that applies to the majority of machine learning projects.
 Finally, we'll take you through three examples using the steps we described to solve real-life scenarios that might be faced by machine learning practitioners.
-Learning Objectives
-By the end of the Introduction to machine learning section, you will be able to do the following. Take a moment to read through these, checking off each item as you go through them.
+
+---
+
+### Learning Objectives
+
+- By the end of the Introduction to machine learning section, you will be able to do the following.
+- Take a moment to read through these, checking off each item as you go through them.
 
 ### Task List
 
