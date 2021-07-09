@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Lesson Outline
+## **1. Lesson Outline**
 
 _Welcome to the introduction to machine learning lesson!_
 
@@ -54,105 +54,104 @@ _Welcome to the introduction to machine learning lesson!_
 
 ---
 
-## 2. What is Machine Learning?
+## **2. What is Machine Learning?**
 
 ---
 
-## 3. Components of Machine Learning
+## **3. Components of Machine Learning**
 
 ---
 
-## 4. Quiz: What is Machine Learning?
+## **4. Quiz: What is Machine Learning?**
 
 ---
 
-## 5. Introduction to Machine Learning Steps
+## **5. Introduction to Machine Learning Steps**
 
 ---
 
-## 6. Define the Problem
+## **6. Define the Problem**
 
 ---
 
-## 7. Quiz: Define the Problem
+## **7. Quiz: Define the Problem**
 
 ---
 
-## 8. Build a Dataset
+## **8. Build a Dataset**
 
 ---
 
-## 9. Quiz: Build a Dataset
+## **9. Quiz: Build a Dataset**
 
 ---
 
-## 10. Model Training
+## **10. Model Training**
 
 ---
 
-## 11. Quiz Model Training
+## **11. Quiz Model Training**
 
 ---
 
-## 12. Model Evaluation
+## **12. Model Evaluation**
 
 ---
 
-## 13. Quiz: Model Evaluation
+## **13. Quiz: Model Evaluation**
 
 ---
 
-## 14. Model Inference
+## **14. Model Inference**
 
 ---
 
-## 15. Quiz: Model Inference
+## **15. Quiz: Model Inference**
 
 ---
 
-## 16. Introduction to Examples
+## **16. Introduction to Examples**
 
 ---
 
-## 17. Example One: House Price Prediction
+## **17. Example One: House Price Prediction**
 
 ---
 
-## 18. Quiz: Example One
+## **18. Quiz: Example One**
 
 ---
 
-## 19. Example Two: Book Genre Exploration
+## **19. Example Two: Book Genre Exploration**
 
 ---
 
-## 20. Quiz: Example Two
+## **20. Quiz: Example Two**
 
 ---
 
-## 21. Example Three: Spill Detection from Video
+## **21. Example Three: Spill Detection from Video**
 
 ---
 
-## 22. Quiz: Example Three
+## **22. Quiz: Example Three**
 
 ---
 
-## 23. Final Quiz
+## **23. Final Quiz**
 
 ---
 
-## 24. Lesson Review
+## **24. Lesson Review**
 
 ---
 
-## 25. Glossary
+## **25. Glossary**
 
 ---
 
-## Machine Learning Resources
+## **Machine Learning Resources**
 
-- [Home - Udacity](https://classroom.udacity.com/me)
 - [Admissions - Udacity](https://admissions.udacity.com/apply/aws-machine-learning-scholarship/submitted)
 - [AWS Machine Learning Foundations Course - Udacity](https://classroom.udacity.com/courses/ud090/lessons/ac47b924-72d3-4bf9-971c-bfccfa368b02/concepts/0ea0ed14-f1ab-4119-bc5a-3ab2de6bc418)
 - [Intro to Deep Learning with PyTorch - Udacity](https://classroom.udacity.com/courses/ud188/lessons/b4ca7aaa-b346-43b1-ae7d-20d27b2eab65/concepts/a3b18b18-8496-4775-af48-921ab35bd306)
