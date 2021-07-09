@@ -19,12 +19,17 @@ Machine learning is a complex subject area. Our goal in this lesson is to introd
 
 Let's look at how the lesson outline.
 
-Lesson Outline
-This lesson is divided into the following sections:
+---
 
-First, we'll discuss what machine learning is, common terminology, and common components involved in creating a machine learning project.
-Next, we'll step into the shoes of a machine learning practitioner. Machine learning involves using trained models to generate predictions and detect patterns from data. To understand the process, we'll break down the different steps involved and examine a common process that applies to the majority of machine learning projects.
-Finally, we'll take you through three examples using the steps we described to solve real-life scenarios that might be faced by machine learning practitioners.
+### Lesson Outline
+
+- This lesson is divided into the following sections:
+
+- First, we'll discuss what machine learning is, common terminology, and common components involved in creating a machine learning project.
+- Next, we'll step into the shoes of a machine learning practitioner.
+  - **Machine learning involves using trained models to generate predictions and detect patterns from data**.
+  - To understand the process, we'll break down the different steps involved and examine a common process that applies to the majority of machine learning projects.
+- Finally, we'll take you through **three examples using the steps we described to solve real-life scenarios** that might be faced by machine learning practitioners.
 
 ---
 
