@@ -8,99 +8,99 @@
 
 ---
 
-2.  What is Machine Learning?
+## 2. What is Machine Learning?
 
 ---
 
-3.  Components of Machine Learning
+## 3. Components of Machine Learning
 
 ---
 
-4.  Quiz: What is Machine Learning?
+## 4. Quiz: What is Machine Learning?
 
 ---
 
-5.  Introduction to Machine Learning Steps
+## 5. Introduction to Machine Learning Steps
 
 ---
 
-6.  Define the Problem
+## 6. Define the Problem
 
 ---
 
-7.  Quiz: Define the Problem
+## 7. Quiz: Define the Problem
 
 ---
 
-8.  Build a Dataset
+## 8. Build a Dataset
 
 ---
 
-9.  Quiz: Build a Dataset
+## 9. Quiz: Build a Dataset
 
 ---
 
-10. Model Training
+## 10. Model Training
 
 ---
 
-11. Quiz Model Training
+## 11. Quiz Model Training
 
 ---
 
-12. Model Evaluation
+## 12. Model Evaluation
 
 ---
 
-13. Quiz: Model Evaluation
+## 13. Quiz: Model Evaluation
 
 ---
 
-14. Model Inference
+## 14. Model Inference
 
 ---
 
-15. Quiz: Model Inference
+## 15. Quiz: Model Inference
 
 ---
 
-16. Introduction to Examples
+## 16. Introduction to Examples
 
 ---
 
-17. Example One: House Price Prediction
+## 17. Example One: House Price Prediction
 
 ---
 
-18. Quiz: Example One
+## 18. Quiz: Example One
 
 ---
 
-19. Example Two: Book Genre Exploration
+## 19. Example Two: Book Genre Exploration
 
 ---
 
-20. Quiz: Example Two
+## 20. Quiz: Example Two
 
 ---
 
-21. Example Three: Spill Detection from Video
+## 21. Example Three: Spill Detection from Video
 
 ---
 
-22. Quiz: Example Three
+## 22. Quiz: Example Three
 
 ---
 
-23. Final Quiz
+## 23. Final Quiz
 
 ---
 
-24. Lesson Review
+## 24. Lesson Review
 
 ---
 
-25. Glossary
+## 25. Glossary
 
 ---
 
