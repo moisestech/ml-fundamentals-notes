@@ -6,18 +6,24 @@
 
 ## 1. Lesson Outline
 
-Welcome to the introduction to machine learning lesson!
+_Welcome to the introduction to machine learning lesson!_
 
-Machine learning is creating rapid and exciting changes across all levels of society.
+- Machine learning is creating rapid and exciting changes across all levels of society.
 
-It is the engine behind the recent advancements in industries such as autonomous vehicles.
-It allows for more accurate and rapid translation of the text into hundreds of languages.
-It powers the AI assistants you might find in your home.
-It can help improve worker safety.
-It can speed up drug design.
-Machine learning is a complex subject area. Our goal in this lesson is to introduce you to some of the most common terms and ideas used in machine learning. I will then walk you through the different steps involved in machine learning and finish with a series of examples that use machine learning to solve real-world situations.
+  - It is the engine behind the recent advancements in industries such as autonomous vehicles.
+  - It allows for more accurate and rapid translation of the text into hundreds of languages.
+  - It powers the AI assistants you might find in your home.
+  - It can help improve worker safety.
+  - It can speed up drug design.
 
-Let's look at how the lesson outline.
+- Machine learning is a complex subject area.
+
+  - Our goal in this lesson is to introduce you to some of the most common terms and ideas used in machine learning.
+  - I will then walk you through the different steps involved in machine learning and finish with a series of examples that use machine learning to solve real-world situations.
+
+- Let's look at how the lesson outline.
+
+[Udacity, Video Link](https://youtu.be/6jOCiXdcg-w)
 
 ---
 
