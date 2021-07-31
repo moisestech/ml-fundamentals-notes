@@ -71,13 +71,22 @@ So, let's dig in!
 
 ## **11. Implementing RNNs**
 
-🎥 [Udacity, Video Link]()
+Image of Cezanne
+Hi, it's Cezanne!
+
+Implementing Recurrent Neural Networks
+Now that you've learned about RNNs and LSTMs from Luis, it's time to see how we implement them in PyTorch. With a bit of an assist from Mat, I'll be leading you through a couple notebooks showing how to build RNNs with PyTorch. First, I'll show you how to learn from time-series data. Then, you'll implement a character-level RNN. That is, it will learn from some text one character at a time, then generate new text one character at a time.
 
 ---
 
 ## **12. Time-Series Prediction**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/xV5jHLFfJbQ)
+
+Code Walkthrough & Repository
+The below video is a walkthrough of code that you can find in our public Github repository, if you navigate to recurrent-neural-networks > time-series and the Simple_RNN.ipynb notebook. Feel free to go through this code on your own, locally.
+
+This example is meant to give you an idea of how PyTorch represents RNNs and how you might represent memory in code. Later, you'll be given more complex exercise and solution notebooks, in-classroom.
 
 ---
 
