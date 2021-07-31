@@ -1,3 +1,83 @@
 # RNNs
 
-<ol class="index--contents-list--33vHB"><li id="contents-list-scroll-target-e0568d87-96f4-4270-8552-22dc05a1e4f4" class="_item--item-selected--3LMMf"><a title="1. Intro to RNNs" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/e0568d87-96f4-4270-8552-22dc05a1e4f4"><span class="_item--waypoint-check--nmzcM"><i class="vds-icon vds-icon--sm" role="img" aria-label="check" aria-hidden="false"><svg viewBox="0 0 33 32"><path d="M17 7a1 1 0 01.117 1.993L17 9h-7v14h14v-7l.007-.117a1 1 0 01.876-.876L25 15a1 1 0 01.993.883L26 16v7a2 2 0 01-2 2H10a2 2 0 01-2-2V9a2 2 0 012-2h7zm8.555.168a1 1 0 01.277 1.387l-8 10a1 1 0 01-1.54.152l-3-3a1 1 0 011.415-1.414l2.138 2.137 7.323-8.985a1 1 0 011.387-.277z"></path></svg></i></span> 1. Intro to RNNs</a></li><li id="contents-list-scroll-target-099654ea-c20c-458a-9f3b-5d393fa14614" class="_item--item--dTIux"><a title="2. RNN vs LSTM" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/099654ea-c20c-458a-9f3b-5d393fa14614"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 2. RNN vs LSTM</a></li><li id="contents-list-scroll-target-70bbdf4a-5e6f-4ee7-884c-409848196529" class="_item--item--dTIux"><a title="3. Basics of LSTM" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/70bbdf4a-5e6f-4ee7-884c-409848196529"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 3. Basics of LSTM</a></li><li id="contents-list-scroll-target-7f4778d7-1aba-4f7b-9824-1122a3522059" class="_item--item--dTIux"><a title="4. Architecture of LSTM" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/7f4778d7-1aba-4f7b-9824-1122a3522059"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 4. Architecture of LSTM</a></li><li id="contents-list-scroll-target-afe4e11e-7f3a-4b23-b046-ab4ab90248d8" class="_item--item--dTIux"><a title="5. The Learn Gate" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/afe4e11e-7f3a-4b23-b046-ab4ab90248d8"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 5. The Learn Gate</a></li><li id="contents-list-scroll-target-f87835a3-9e52-4e40-a538-e553d53a0978" class="_item--item--dTIux"><a title="6. The Forget Gate" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/f87835a3-9e52-4e40-a538-e553d53a0978"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 6. The Forget Gate</a></li><li id="contents-list-scroll-target-bafc7674-799e-4d94-8ad2-c3a7ccda865f" class="_item--item--dTIux"><a title="7. The Remember Gate" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/bafc7674-799e-4d94-8ad2-c3a7ccda865f"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 7. The Remember Gate</a></li><li id="contents-list-scroll-target-0cf688e2-19b3-4e72-848a-49eeb90bd948" class="_item--item--dTIux"><a title="8. The Use Gate" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/0cf688e2-19b3-4e72-848a-49eeb90bd948"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 8. The Use Gate</a></li><li id="contents-list-scroll-target-793c6221-30c9-40cc-b9aa-65a51696b1c7" class="_item--item--dTIux"><a title="9. Putting it All Together" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/793c6221-30c9-40cc-b9aa-65a51696b1c7"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 9. Putting it All Together</a></li><li id="contents-list-scroll-target-f9f95dcb-bb0e-43d3-841c-9277c54207cb" class="_item--item--dTIux"><a title="10. Other architectures" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/f9f95dcb-bb0e-43d3-841c-9277c54207cb"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 10. Other architectures</a></li><li id="contents-list-scroll-target-016118b6-b376-40d4-b115-e4a2465df6a5" class="_item--item--dTIux"><a title="11. Implementing RNNs" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/016118b6-b376-40d4-b115-e4a2465df6a5"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 11. Implementing RNNs</a></li><li id="contents-list-scroll-target-75b86f72-a241-4df3-8eb3-d688835f0b93" class="_item--item--dTIux"><a title="12. Time-Series Prediction" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/75b86f72-a241-4df3-8eb3-d688835f0b93"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 12. Time-Series Prediction</a></li><li id="contents-list-scroll-target-d69b005f-8855-4990-89db-9ab3af3ec7dc" class="_item--item--dTIux"><a title="13. Training &amp; Memory" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/d69b005f-8855-4990-89db-9ab3af3ec7dc"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 13. Training &amp; Memory</a></li><li id="contents-list-scroll-target-6538eb14-1ec2-4a25-bc73-5942a48b1141" class="_item--item--dTIux"><a title="14. Character-wise RNNs" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/6538eb14-1ec2-4a25-bc73-5942a48b1141"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 14. Character-wise RNNs</a></li><li id="contents-list-scroll-target-5a65c5b3-5cfc-4753-bcde-25a490978e6c" class="_item--item--dTIux"><a title="15. Sequence Batching" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/5a65c5b3-5cfc-4753-bcde-25a490978e6c"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 15. Sequence Batching</a></li><li id="contents-list-scroll-target-cfeeb323-45d6-4567-9a7b-49700a25dcfe" class="_item--item--dTIux"><a title="16. Notebook: Character-Level RNN" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/cfeeb323-45d6-4567-9a7b-49700a25dcfe"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 16. Notebook: Character-Level RNN</a></li><li id="contents-list-scroll-target-04794f8a-7728-4c0a-a808-aa7972bc7738" class="_item--item--dTIux"><a title="17. Implementing a Char-RNN" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/04794f8a-7728-4c0a-a808-aa7972bc7738"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 17. Implementing a Char-RNN</a></li><li id="contents-list-scroll-target-dc32e24e-62ef-4339-b455-fd3d905b5211" class="_item--item--dTIux"><a title="18. Batching Data, Solution" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/dc32e24e-62ef-4339-b455-fd3d905b5211"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 18. Batching Data, Solution</a></li><li id="contents-list-scroll-target-a08bb8eb-fb71-4012-8a17-b78c841b68fb" class="_item--item--dTIux"><a title="19. Defining the Model" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/a08bb8eb-fb71-4012-8a17-b78c841b68fb"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 19. Defining the Model</a></li><li id="contents-list-scroll-target-284fab25-93cb-4192-840e-371f0c75cc07" class="_item--item--dTIux"><a title="20. Char-RNN, Solution" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/284fab25-93cb-4192-840e-371f0c75cc07"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 20. Char-RNN, Solution</a></li><li id="contents-list-scroll-target-ecaff24e-7314-43b1-a11d-49762fa5c5ff" class="_item--item--dTIux"><a title="21. Making Predictions" href="/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/ecaff24e-7314-43b1-a11d-49762fa5c5ff"><span class="_item--waypoint-circle--3-qL8"><i class="vds-icon vds-icon--sm" role="img" aria-label="circle full" aria-hidden="false"><svg viewBox="0 0 32 32"><path d="M16 26c-5.523 0-10-4.477-10-10S10.477 6 16 6s10 4.477 10 10-4.477 10-10 10z"></path></svg></i></span> 21. Making Predictions</a></li></ol>
+**1. Intro to RNNs**
+
+---
+
+**2. RNN vs LSTM**
+
+---
+
+**3. Basics of LSTM**
+
+---
+
+**4. Architecture of LSTM**
+
+---
+
+**5. The Learn Gate**
+
+---
+
+**6. The Forget Gate**
+
+---
+
+**7. The Remember Gate**
+
+---
+
+**8. The Use Gate**
+
+---
+
+**9. Putting it All Together**
+
+---
+
+**10. Other architectures**
+
+---
+
+**11. Implementing RNNs**
+
+---
+
+**12. Time-Series Prediction**
+
+---
+
+**13. Training & Memory**
+
+---
+
+**14. Character-wise RNNs**
+
+---
+
+**15. Sequence Batching**
+
+---
+
+**16. Notebook: Character-Level RNN**
+
+---
+
+**17. Implementing a Char-RNN**
+
+---
+
+**18. Batching Data, Solution**
+
+---
+
+**19. Defining the Model**
+
+---
+
+**20. Char-RNN, Solution**
+
+---
+
+**21. Making Predictions**
