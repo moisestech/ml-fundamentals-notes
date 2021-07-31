@@ -17,78 +17,118 @@ So, let's dig in!
 
 ## **2. RNN vs LSTM**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **3. Basics of LSTM**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **4. Architecture of LSTM**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **5. The Learn Gate**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **6. The Forget Gate**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **7. The Remember Gate**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **8. The Use Gate**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **9. Putting it All Together**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **10. Other architectures**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **11. Implementing RNNs**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **12. Time-Series Prediction**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **13. Training & Memory**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **14. Character-wise RNNs**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **15. Sequence Batching**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **16. Notebook: Character-Level RNN**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **17. Implementing a Char-RNN**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **18. Batching Data, Solution**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **19. Defining the Model**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **20. Char-RNN, Solution**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **21. Making Predictions**
+
+🎥 [Udacity, Video Link]()
