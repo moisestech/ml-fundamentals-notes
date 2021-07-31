@@ -1,89 +1,335 @@
 # Conv Nets
 
-1. Introducing Alexis" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/603cdafb-4378-4f13-898a-e7efe44464ff
+---
 
-2. Applications of CNNs href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/e7190f8c-c824-4936-89ff-db6230fd3d12
+## **1. Introducing Alexis**
 
-3. Lesson Outline" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/4a615f86-d757-4409-a1e8-3a7e4b03016493L17 9h-7v14h143. Lesson Outline
+[Udacity, Video Link]()
 
-4. MNIST Dataset" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/289b3d00-2653-42d4-8fde-9dbbe8ec366e
+---
 
-5. How Computers Interpret Images" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/01b5d3f8-5791-49cb-ad8b-bf10b1f36499
+## **2. Applications of CNNs**
 
-6. MLP Structure &amp; Class Scores" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/58e758c0-6961-4775-9b12-bc94d47dbf34
+[Udacity, Video Link]()
 
-7. Do Your Research" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/6e89a80f-cf99-4d0a-9bb2-48c3db1dba87
+---
 
-8. Loss & Optimization href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/dc4ca280-5465-412e-959d-2cf94298cfc7
+## **3. Lesson Outline**
 
-9. Defining a Network in PyTorch" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/8f5cfe14-6076-4256-ae67-3ee53b3fdcc3
+[Udacity, Video Link]()
 
-10. Training the Network" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/0cc9c578-622f-42c9-8844-a8a86520d89c
+---
 
-11. Pre-Notebook: MLP Classification, Exercise" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/6c972bd2-6525-435a-b1dc-6d4d0c2dab58
+## **4. MNIST Dataset**
 
-12. Notebook: MLP Classification, MNIST" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/2da6f20f-5162-47b3-b1b9-f3f6c0191a0b
+[Udacity, Video Link]()
 
-13. One Solution" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/937dc4b9-2cbc-4f5b-92f7-1cd9f806386c
+---
 
-14. Model Validation" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/49ba4879-3c12-4f09-bdb1-182bdce4c71f
+## **5. How Computers Interpret Images**
 
-15. Validation Loss" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/f3acc3a4-83e7-4cfd-87c5-7b9a22d5a699
+[Udacity, Video Link]()
 
-16. Image Classification Steps" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/f939d2ff-441e-46e7-a47d-101eaaaf75c8
+---
 
-17. MLPs vs CNNs" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/95566170-97a7-4cd9-930c-b8123cb6e4c8
+## **6. MLP Structure & Class Scores**
 
-18. Local Connectivity" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/37c9b535-0daa-4d48-ba99-4deaa837f5fc
+[Udacity, Video Link]()
 
-19. Filters and the Convolutional Layer" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/36b2c7df-2073-4cad-8d91-078faa18637b
+---
 
-20. Filters &amp; Edges" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/cf271c4a-ea13-4166-bed4-61cac9958e1c
+## **7. Do Your Research**
 
-21. Frequency in Images" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/11ed5daf-90ec-4f29-9ffd-b1aeb132497b
+[Udacity, Video Link]()
 
-22. High-pass Filters" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/08495a99-5ca0-4030-ba22-b0d73d57deda
+---
 
-23. Quiz: Kernels" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/bd3ed6b2-8ea5-4ac6-8a7c-6e2e875383e8
+## **8. Loss & Optimization**
 
-24. OpenCV &amp; Creating Custom Filters" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/5db86f92-18e0-4937-b5d5-e11eb0cb1749
+[Udacity, Video Link]()
 
-25. Notebook: Finding Edges" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/7fa63120-523f-46fb-ab49-b5c8481196a5
+---
 
-26. Convolutional Layer" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/ee871bfb-1818-49f8-ada6-41d5f3824aac
+## **9. Defining a Network in PyTorch**
 
-27. Convolutional Layers (Part 2)" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/e6e271bf-d148-4e56-9320-04a07797f318"><span class="_item--waypoint-check--nmzcM"><27. class="vds-icon vds-icon--sm" role="img" aria-label="check" aria-hidden="false"><27. viewBox="0 0 33 32"><27. d="M17 7a1 1 0 01.117 1.993L17 9h-7v14h1427. Convolutional Layers (Part 2)
+[Udacity, Video Link]()
 
-28. Stride and Padding" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/f3a846ff-1d56-4080-802c-761924b16973
+---
 
-29. CNNs in PyTorch" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/c7b67c96-0fdc-409b-bdb6-bfd15d760c83
+## **10. Training the Network**
 
-30. Pooling Layers" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/b6363ecd-2c51-4ac2-ac90-189efd0c606d
+[Udacity, Video Link]()
 
-31. Capsule Networks" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/8caa6477-176c-49eb-b09e-c48f373c9f68
+---
 
-32. Notebook: Layer Visualization" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/c57115c6-d1d8-4055-b487-dfd6bf186b92
+## **11. Pre-Notebook: MLP Classification, Exercise**
 
-33. Increasing Depth" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/4a4b5d78-4924-4dd7-93b7-6ec3d46b9e28
+[Udacity, Video Link]()
 
-34. CNNs for Image Classification" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/b8b91ba1-3fe8-44e9-a4f8-c5ec76dacb93
+---
 
-35. Convolutional Layers in PyTorch" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/62a4771f-ea82-44a4-afac-dd6bacda27bc
+## **12. Notebook: MLP Classification, MNIST**
 
-36. Feature Vector" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/54dc6286-9167-463d-a436-1d6228339f3b
+[Udacity, Video Link]()
 
-37. CIFAR Classification Example" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/1ea7e2f1-ad81-40ce-8b35-a5d443a77d75
+---
 
-38. Notebook: CNN Classification" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/37bbcc02-3fd3-43fb-a401-73fe32f72a43
+## **13. One Solution**
 
-39. Image Augmentation" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/c5e2d73f-b4de-4573-af5c-d59582f43edd
+[Udacity, Video Link]()
 
-40. Augmentation Using Transformations" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/bbd66f85-68c0-427a-a572-483dee12f201
+---
 
-41. Groundbreaking CNN Architectures" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/5f7d24d5-f915-413a-aab0-a8485d05e057
+## **14. Model Validation**
 
-42. Visualizing CNNs (Part 1)" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/86518a21-c85a-400b-a50c-8705ed93ca83
+[Udacity, Video Link]()
 
-43. Visualizing CNNs (Part 2)" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/cbf65dc4-c0b4-44c5-81c6-5997e409cb75
+---
 
-44. Summary of CNNs" href="/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/eabcbfd4-41ff-4ad4-b835-30d51e5a2a6f
+## **15. Validation Loss**
+
+[Udacity, Video Link]()
+
+---
+
+## **16. Image Classification Steps**
+
+[Udacity, Video Link]()
+
+---
+
+## **17. MLPs vs CNNs**
+
+[Udacity, Video Link]()
+
+---
+
+## **18. Local Connectivity**
+
+[Udacity, Video Link]()
+
+---
+
+## **19. Filters and the Convolutional Layer**
+
+[Udacity, Video Link]()
+
+---
+
+## **20. Filters & Edges**
+
+[Udacity, Video Link]()
+
+---
+
+## **21. Frequency in Images**
+
+[Udacity, Video Link]()
+
+---
+
+## **22. High-pass Filters**
+
+[Udacity, Video Link]()
+
+---
+
+## **23. Quiz: Kernels**
+
+[Udacity, Video Link]()
+
+---
+
+## **24. OpenCV & Creating Custom Filters**
+
+[Udacity, Video Link]()
+
+---
+
+## **25. Notebook: Finding Edges**
+
+[Udacity, Video Link]()
+
+---
+
+## **26. Convolutional Layer**
+
+[Udacity, Video Link]()
+
+---
+
+## **27. Convolutional Layers (Part 2)**
+
+[Udacity, Video Link]()
+
+---
+
+## **28. Stride and Padding**
+
+[Udacity, Video Link]()
+
+---
+
+## **29. CNNs in PyTorch**
+
+[Udacity, Video Link]()
+
+---
+
+## **30. Pooling Layers**
+
+[Udacity, Video Link]()
+
+---
+
+## **31. Capsule Networks**
+
+[Udacity, Video Link]()
+
+---
+
+## **32. Notebook: Layer Visualization**
+
+[Udacity, Video Link]()
+
+---
+
+## **33. Increasing Depth**
+
+[Udacity, Video Link]()
+
+---
+
+## **34. CNNs for Image Classification**
+
+[Udacity, Video Link]()
+
+---
+
+## **35. Convolutional Layers in PyTorch**
+
+[Udacity, Video Link]()
+
+---
+
+## **36. Feature Vector**
+
+[Udacity, Video Link]()
+
+---
+
+## **37. CIFAR Classification Example**
+
+[Udacity, Video Link]()
+
+---
+
+## **38. Notebook: CNN Classification**
+
+[Udacity, Video Link]()
+
+---
+
+## **39. Image Augmentation**
+
+[Udacity, Video Link]()
+
+---
+
+## **40. Augmentation Using Transformations**
+
+[Udacity, Video Link]()
+
+---
+
+## **41. Groundbreaking CNN Architectures**
+
+[Udacity, Video Link](https://youtu.be/GdYOqihgb2k)
+
+Optional Resources
+Check out the AlexNet paper!
+Read more about VGGNet here.
+The ResNet paper can be found here.
+Here's the Keras documentation for accessing some famous CNN architectures.
+Read this detailed treatment of the vanishing gradients problem.
+Here's a GitHub repository containing benchmarks for different CNN architectures.
+Visit the ImageNet Large Scale Visual Recognition Competition (ILSVRC) website.
+
+---
+
+## **42. Visualizing CNNs (Part 1)**
+
+[Udacity, Video Link](https://youtu.be/mnqS_EhEZVg)
+
+(REALLY COOL) Optional Resources
+If you would like to know more about interpreting CNNs and convolutional layers in particular, you are encouraged to check out these resources:
+
+Here's a section from the Stanford's CS231n course on visualizing what CNNs learn.
+Check out this demonstration of a cool OpenFrameworks app that visualizes CNNs in real-time, from user-supplied video!
+Here's a demonstration of another visualization tool for CNNs. If you'd like to learn more about how these visualizations are made, check out this video.
+Read this Keras blog post on visualizing how CNNs see the world. In this post, you can find an accessible introduction to Deep Dreams, along with code for writing your own deep dreams in Keras. When you've read that:
+
+Also check out this music video that makes use of Deep Dreams (look at 3:15-3:40)!
+Create your own Deep Dreams (without writing any code!) using this website.
+If you'd like to read more about interpretability of CNNs:
+
+Here's an article that details some dangers from using deep learning models (that are not yet interpretable) in real-world applications.
+There's a lot of active research in this area. These authors recently made a step in the right direction.
+
+---
+
+## **43. Visualizing CNNs (Part 2)**
+
+Visualizing CNNs
+Let’s look at an example CNN to see how it works in action.
+
+The CNN we will look at is trained on ImageNet as described in this paper by Zeiler and Fergus. In the images below (from the same paper), we’ll see what each layer in this network detects and see how each layer detects more and more complex ideas.
+
+Example patterns that cause activations in the first layer of the network. These range from simple diagonal lines (top left) to green blobs (bottom middle).
+
+The images above are from Matthew Zeiler and Rob Fergus' deep visualization toolbox, which lets us visualize what each layer in a CNN focuses on.
+
+Each image in the above grid represents a pattern that causes the neurons in the first layer to activate - in other words, they are patterns that the first layer recognizes. The top left image shows a -45 degree line, while the middle top square shows a +45 degree line. These squares are shown below again for reference.
+
+As visualized here, the first layer of the CNN can recognize -45 degree lines.
+
+The first layer of the CNN is also able to recognize +45 degree lines, like the one above.
+
+Let's now see some example images that cause such activations. The below grid of images all activated the -45 degree line. Notice how they are all selected despite the fact that they have different colors, gradients, and patterns.
+
+Example patches that activate the -45 degree line detector in the first layer.
+
+So, the first layer of our CNN clearly picks out very simple shapes and patterns like lines and blobs.
+
+Layer 2
+
+A visualization of the second layer in the CNN. Notice how we are picking up more complex ideas like circles and stripes. The gray grid on the left represents how this layer of the CNN activates (or "what it sees") based on the corresponding images from the grid on the right.
+
+The second layer of the CNN captures complex ideas.
+
+As you see in the image above, the second layer of the CNN recognizes circles (second row, second column), stripes (first row, second column), and rectangles (bottom right).
+
+The CNN learns to do this on its own. There is no special instruction for the CNN to focus on more complex objects in deeper layers. That's just how it normally works out when you feed training data into a CNN.
+
+Layer 3
+
+A visualization of the third layer in the CNN. The gray grid on the left represents how this layer of the CNN activates (or "what it sees") based on the corresponding images from the grid on the right.
+
+The third layer picks out complex combinations of features from the second layer. These include things like grids, and honeycombs (top left), wheels (second row, second column), and even faces (third row, third column).
+
+We'll skip layer 4, which continues this progression, and jump right to the fifth and final layer of this CNN.
+
+Layer 5
+
+A visualization of the fifth and final layer of the CNN. The gray grid on the left represents how this layer of the CNN activates (or "what it sees") based on the corresponding images from the grid on the right.
+
+The last layer picks out the highest order ideas that we care about for classification, like dog faces, bird faces, and bicycles.
+
+---
+
+## **44. Summary of CNNs**
+
+[Udacity, Video Link](https://youtu.be/Te9QCvhx6N8)
+
+External Resource
+Deep learning eBook (2016) authored by Ian Goodfellow, Yoshua Bengio, and Aaron Courville; published by Cambridge: MIT Press.
