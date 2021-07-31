@@ -138,7 +138,11 @@ In this notebook, you'll find training these networks is much faster if you use 
 
 ## **17. Implementing a Char-RNN**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/MMtgZXzFB10)
+
+Typo: Above you may see the title, Chararacter_Level_RNN_Exercise. This is a mistake on my part and the in-classroom notebooks have been updated with the correct spelling.
+
+Know that the code is correct even if the title has a typo :)
 
 ---
 
@@ -150,16 +154,49 @@ In this notebook, you'll find training these networks is much faster if you use 
 
 ## **19. Defining the Model**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/9Eg0wf3eW-k)
 
 ---
 
 ## **20. Char-RNN, Solution**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/_LWzyqq4hCY)
+
+Contiguous variables
+If you are stacking up multiple LSTM outputs, it may be necessary to use .contiguous() to reshape the output. The notebook and Github repo code has been updated to include this use case in the forward function of the model:
+
+```python
+# stack up LSTM outputs
+out = out.contiguous().view(-1, self.n_hidden)
+```
+
+---
+
+## **20. Char-RNN, Solution**
+
+🎥 [Udacity, Video Link](https://youtu.be/ed33qePHrJM)
+
+Representing Memory
+You’ve learned that RNN’s work well for sequences of data because they have a kind of memory. This memory is represented by something called the hidden state.
+
+In the character-level LSTM example, each LSTM cell, in addition to accepting a character as input and generating an output character, also has some hidden state, and each cell will pass along its hidden state to the next cell.
+
+This connection creates a kind of memory by which a series of cells can remember which characters they’ve just seen and use that information to inform the next prediction!
+
+For example, if a cell has just generated the character a it likely will not generate another a, right after that!
+
+net.eval()
+There is an omission in the above code: including net.eval() !
+
+net.eval() will set all the layers in your model to evaluation mode. This affects layers like dropout layers that turn "off" nodes during training with some probability, but should allow every node to be "on" for evaluation. So, you should set your model to evaluation mode before testing or validating your model, and before, for example, sampling and making predictions about the likely next character in a given sequence. I'll set net.train()` (training mode) only during the training loop.
+
+This is reflected in the previous notebook code and in our Github repository.
 
 ---
 
 ## **21. Making Predictions**
 
-🎥 [Udacity, Video Link]()
+Examples of RNNs
+Take a look at one of my favorite examples of RNNs making predictions based on some user-generated input dat: the sketch-rnn by Magenta. This RNN takes as input a starting sketch, drawn by you, and then tries to complete your sketch using a particular model. For example, it can learn to complete a sketch of a pineapple or the mona lisa!
+
+Example sketch-rnn output of the mona lisa.
