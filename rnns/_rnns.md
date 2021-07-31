@@ -65,7 +65,7 @@ So, let's dig in!
 
 ## **10. Other architectures**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/MsxFDuYlTuQ)
 
 ---
 
