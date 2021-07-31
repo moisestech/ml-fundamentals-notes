@@ -47,19 +47,19 @@ So, let's dig in!
 
 ## **7. The Remember Gate**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/0qlm86HaXuU)
 
 ---
 
 ## **8. The Use Gate**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/5Ifolm1jTdY)
 
 ---
 
 ## **9. Putting it All Together**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/IF8FlKW-Zo0)
 
 ---
 
