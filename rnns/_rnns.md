@@ -105,7 +105,7 @@ Say you've defined a GRU layer with input_size = 100, hidden_size = 20, and num_
 
 ## **14. Character-wise RNNs**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/dXl3eWCGLdU)
 
 ---
 
