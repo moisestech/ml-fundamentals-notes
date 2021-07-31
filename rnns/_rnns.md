@@ -111,13 +111,28 @@ Say you've defined a GRU layer with input_size = 100, hidden_size = 20, and num_
 
 ## **15. Sequence Batching**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/Z4OiyU0Cldg)
 
 ---
 
 ## **16. Notebook: Character-Level RNN**
 
-🎥 [Udacity, Video Link]()
+Notebook: Character-Level RNN
+Now you have all the information you need to implement an RNN of our own. The next few videos will be all about character-level text prediction with an LSTM!
+
+It's suggested that you open the notebook in a new, working tab and continue working on it as you go through the instructional videos in this tab. This way you can toggle between learning new skills and coding/applying new skills.
+
+To open this notebook, go to our notebook repo (available from here on Github) and open the notebook Character_Level_RNN_Exercise.ipynb in the recurrent-neural-networks > char-rnn folder. You can either download the repository with git clone https://github.com/udacity/deep-learning-v2-pytorch.git, or download it as an archive file from this link.
+
+Instructions
+Load in text data
+Pre-process that data, encoding characters as integers and creating one-hot input vectors
+Define an RNN that predicts the next character when given an input sequence
+Train the RNN and use it to generate new text
+This is a self-assessed lab. If you need any help or want to check your answers, feel free to check out the solutions notebook in the same folder, or by clicking here.
+
+Note about GPUs
+In this notebook, you'll find training these networks is much faster if you use a GPU. However, you can still complete the exercises without a GPU. If you can't use a local GPU, we suggest you use cloud platforms such as AWS, GCP, and FloydHub to train your networks on a GPU.
 
 ---
 
