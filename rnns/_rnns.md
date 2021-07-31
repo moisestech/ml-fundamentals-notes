@@ -29,19 +29,19 @@ So, let's dig in!
 
 ## **4. Architecture of LSTM**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/ycwthhdx8ws)
 
 ---
 
 ## **5. The Learn Gate**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/aVHVI7ovbHY)
 
 ---
 
 ## **6. The Forget Gate**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/iWxpfxLUPSU)
 
 ---
 
