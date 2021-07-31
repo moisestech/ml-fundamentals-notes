@@ -92,7 +92,14 @@ This example is meant to give you an idea of how PyTorch represents RNNs and how
 
 ## **13. Training & Memory**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/sx7T_KP5v9I)
+
+Recurrent Layers
+Here is the documentation for the main types of recurrent layers in PyTorch. Take a look and read about the three main types: RNN, LSTM, and GRU.
+
+Hidden State Dimensions
+QUIZ QUESTION
+Say you've defined a GRU layer with input_size = 100, hidden_size = 20, and num_layers=1. What will the dimensions of the hidden state be if you're passing in data, batch first, in batches of 3 sequences at a time?
 
 ---
 
