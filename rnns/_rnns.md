@@ -17,13 +17,13 @@ So, let's dig in!
 
 ## **2. RNN vs LSTM**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/70MgF-IwAr8)
 
 ---
 
 ## **3. Basics of LSTM**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/gjb68a4XsqE)
 
 ---
 
