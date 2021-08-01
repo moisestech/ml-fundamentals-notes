@@ -1146,3 +1146,17 @@ In unsupervised learning, there are no labels for the training data. A machine l
 - [Responsible Machine Learning with Error Analysis](https://techcommunity.microsoft.com/t5/azure-ai/responsible-machine-learning-with-error-analysis/ba-p/2141774), **Microsoft**
 
 ---
+
+## Foam Related Links
+
+- [[_svm]]
+- [[_regressions]]
+- [[_naive-bayes]]
+- [[_decision-tree]]
+
+- [[_datasets]]
+
+- [[_nns]]
+
+- [[_ml-aws]]
+- [[ml-ops]]

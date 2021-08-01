@@ -1,6 +1,6 @@
-# Machine Learing with AWS
+# ML w/ AWS
 
-Machine Learning with AWS
+## Machine Learning with AWS
 
 Why AWS?
 The AWS achine learning mission is to put machine learning in the hands of every developer.

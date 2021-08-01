@@ -43,3 +43,11 @@
 41. Getting Your Code Set Up
 42. Author ID Accuracy
 43. Timing Your NB Classifier
+
+---
+
+## Foam Related Links
+
+- [[_scatterplot]]
+- [[_features]]
+- [[_claasification]]

@@ -16,21 +16,13 @@ This documentation assumes that you have a GitHub account and have [Visual Studi
 
 4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
 
-After setting up the repository, head to [[getting-started]] to get familiar with your new knowledge base!
+After setting up the repository, head to getting-started to get familiar with your new knowledge base!
 
 To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/recipes/recipes) bubbles of the Foam documentation workspace.
 
 And remember that you can always join our [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
 
 ## Using Foam
-
-We've created a few Bubbles (markdown documents) to get you started.
-
-- [[inbox]] - a place to write down quick notes to be categorized later
-- [[getting-started]] - learn how to use your Foam workspace
-- [[todo]] - a place to keep track of things to do
-
-In the `docs` directory you can find everything you need to learn the basics of Foam.
 
 ## Submitting Issues
 

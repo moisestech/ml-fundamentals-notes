@@ -758,3 +758,9 @@ This is a self-assessed lab. If you need any help or want to check your answers,
 ## **50. Error Functions Around the World**
 
 🎥 [Udacity, Video Link](https://youtu.be/34AAcTECu2A)
+
+---
+
+## Foam Related Links
+
+- [[_deep-learning]]

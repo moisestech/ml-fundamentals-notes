@@ -56,3 +56,7 @@ get access to GPUs in our in-class workspaces as well as credits for GPU instanc
 This program is the perfect opportunity for you to join this exciting field, advance your career, or even start your own AI startup. You might also be interested in one of our specialized programs such as the Deep Reinforcement Learning, Natural Language Processing, or Computer Vision Nanodegree programs.
 
 ---
+
+## Foam Links Related
+
+- [[ml-ops]]

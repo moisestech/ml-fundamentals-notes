@@ -34,4 +34,6 @@
 
 ---
 
-## Foam Links
+## Foam Related Links
+
+- [[_deep-learning]]
