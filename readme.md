@@ -19,9 +19,15 @@
 
 ## ML Online Certifications
 
-- [AWS ML Certification]()
-- [Kaggle Courses](https://www.kaggle.com/learn), **Kaggle**
+- [AWS ML Certification](), **AWS**
+- [Kaggle Certification](https://www.kaggle.com/learn), **Kaggle**
 - [Data Camp Certification](https://www.datacamp.com/summerchallenge), **Data Camp**
+
+---
+
+## ML Online Courses
+
+- [Cognitive AI](https://cognitiveclass.ai/courses)
 
 ---
 
@@ -32,3 +38,15 @@
 ## AI Ethics
 
 - [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics), **Kaggle**
+
+---
+
+## Course Discounts
+
+- [App Real Discount](https://app.real.discount/)
+
+---
+
+## AirTable Resources
+
+- [AI, ML, RL](https://airtable.com/shry34IwIbBpVThBV/tblOl5GlpuS7fCRIY), **AirTable**
