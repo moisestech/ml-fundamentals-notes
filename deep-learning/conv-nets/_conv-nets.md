@@ -4,7 +4,7 @@
 
 ## **1. Introducing Alexis**
 
-[Udacity, Video Link](https://youtu.be/38ExGpdyvJI)
+🎥 [Udacity, Video Link](https://youtu.be/38ExGpdyvJI)
 
 Find me on Twitter! @alexis_b_cook
 
@@ -12,7 +12,7 @@ Find me on Twitter! @alexis_b_cook
 
 ## **2. Applications of CNNs**
 
-[Udacity, Video Link](https://youtu.be/HrYNL_1SV2Y)
+🎥 [Udacity, Video Link](https://youtu.be/HrYNL_1SV2Y)
 
 Optional Resources
 Read about the WaveNet model.
@@ -52,7 +52,7 @@ An app called FaceApp uses a CNN to make you smile in a picture or change gender
 
 ## **3. Lesson Outline**
 
-[Udacity, Video Link](https://youtu.be/77LzWE1qQrc)
+🎥 [Udacity, Video Link](https://youtu.be/77LzWE1qQrc)
 
 Hi, I'm Cezanne Camacho, I'll be teaching this lesson in tandem with Alexis, and later on, show you how to implement CNNs in PyTorchand use them in a variety of ways.
 
@@ -67,7 +67,7 @@ Next, we’ll see that features like these can be measured, and represented as n
 
 ## **4. MNIST Dataset**
 
-[Udacity, Video Link](https://youtu.be/a7bvIGZpcnk)
+🎥 [Udacity, Video Link](https://youtu.be/a7bvIGZpcnk)
 
 MNIST Data
 The MNIST database is arguably the most famous database in the field of deep learning! Check out this figure that shows datasets referenced over time in NIPS papers.
@@ -76,7 +76,7 @@ The MNIST database is arguably the most famous database in the field of deep lea
 
 ## **5. How Computers Interpret Images**
 
-[Udacity, Video Link](https://youtu.be/mEPfoM68Fx4)
+🎥 [Udacity, Video Link](https://youtu.be/mEPfoM68Fx4)
 
 In the case of our 28x28 images, how many entries will the corresponding, image vector have when this matrix is flattened?
 
