@@ -226,6 +226,8 @@ Aws-Deeplens-Custom-Trash-Detector
 
 Use the following image for quiz questions 1–3.
 
+🎥 [Udacity, Video Link]()
+
 Image for a quiz
 Image for questions 1–3
 
