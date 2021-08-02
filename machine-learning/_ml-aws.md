@@ -68,7 +68,7 @@ Let's get started!
 
 ---
 
-AWS Account Requirements
+## **3. AWS Account Requirements**
 
 🎥 [Udacity, Video Link]()
 
@@ -97,7 +97,7 @@ Task List
 
 ---
 
-Computer Vision and Its Applications
+## **4. Computer Vision and Its Applications**
 
 🎥 [Udacity, Video Link]()
 
@@ -148,7 +148,7 @@ Ready to get started? Check out the Getting started guide in the AWS DeepLens De
 
 ---
 
-Computer Vision with AWS DeepLens
+## **5. Computer Vision with AWS DeepLens**
 
 🎥 [Udacity, Video Link]()
 
