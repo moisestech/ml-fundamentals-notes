@@ -168,6 +168,8 @@ You can buy an AWS DeepLens device on Amazon.com.
 
 ---
 
+🎥 [Udacity, Video Link]()
+
 A Sample Project with AWS DeepLens
 This section provides a hands-on demonstration of a project created as part of an AWS DeepLens sponsored hack-a-thon. In this project, we use an AWS DeepLens device to do an image classification–based task. We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.
 
