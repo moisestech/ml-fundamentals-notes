@@ -649,6 +649,8 @@ In the Advanced challenge, “Melody Harvest”, you train a custom generative A
 
 GANs with AWS DeepComposer
 
+🎥 [Udacity, Video Link]()
+
 Summary
 We’ll begin our journey of popular generative models in AWS DeepComposer with generative adversarial networks or GANs. Within an AWS DeepComposer GAN, models are used to solve a creative task: adding accompaniments that match the style of an input track you provide. Listen to the input melody and the output composition created by the AWS DeepComposer GAN model:
 
@@ -702,6 +704,8 @@ Output Twinkle Twinkle Rock
 
 AR-CNN with AWS DeepComposer
 
+🎥 [Udacity, Video Link]()
+
 Summary
 Our next popular generative model is the autoregressive convolutional neural network (AR-CNN). Autoregressive convolutional neural networks make iterative changes over time to create new data.
 
@@ -725,6 +729,9 @@ Edit event: When a note is either added or removed from your input track during 
 ---
 
 Quiz: Generative AI
+
+🎥 [Udacity, Video Link]()
+
 QUESTION 1 OF 4
 Which is the following statements is false in the context of AR-CNNs?
 
@@ -750,6 +757,9 @@ True or false: Loss functions help us determine when to stop training a model.
 ---
 
 Demo: Create Music with AWS DeepComposer
+
+🎥 [Udacity, Video Link]()
+
 Below you find a video demonstrating how you can use AWS DeepComposer to experiment with GANs and AR-CNN models.
 
 Important
@@ -775,6 +785,9 @@ Congratulations on creating your first piece of music using AWS DeepComposer! No
 ---
 
 Exercise: Generate music with AWS DeepComposer
+
+🎥 [Udacity, Video Link]()
+
 You have seen how the instructor generates a piece of music in AWS DeepComposer. Now, it's your turn to create your very own piece of music. To finish this exercise, you should complete the following steps.
 
 Open the AWS DeepComposer console.
@@ -791,6 +804,9 @@ If you get stuck, you can check out the demo videos on Demo: Create Music with A
 ---
 
 Build a Custom GAN Model (Optional): Part 1
+
+🎥 [Udacity, Video Link]()
+
 To create the custom GAN, you will need to use an instance type that is not covered in the Amazon SageMaker free tier. You may incur a cost if you want to build a custom GAN.
 
 You can learn more about SageMaker costs in the Amazon SageMaker pricing documentation.
@@ -877,6 +893,9 @@ Run the second Load Data cell to prepare the data.
 ---
 
 Build a Custom GAN Model (Optional): Part 2
+
+🎥 [Udacity, Video Link]()
+
 To create the custom GAN, you will need to use an instance type that is not covered in the Amazon SageMaker free tier. You may incur a cost if you want to build a custom GAN.
 
 You can learn more about SageMaker costs in the Amazon SageMaker pricing documentation.
@@ -998,6 +1017,8 @@ In this demo we learned how to setup a Jupyter notebook in Amazon SageMaker, rev
 
 Lesson Review
 
+🎥 [Udacity, Video Link]()
+
 The outline of the lesson
 The outline of the lesson
 
@@ -1019,6 +1040,9 @@ Explain the fundamentals of Generative AI, its applications, and three famous ge
 ---
 
 Glossary
+
+🎥 [Udacity, Video Link]()
+
 Action: For every state, an agent needs to take an action toward achieving its goal.
 Agent: The piece of software you are training is called an agent. It makes decisions in an environment to reach a goal.
 Discriminator: A neural network trained to differentiate between real and synthetic data.
