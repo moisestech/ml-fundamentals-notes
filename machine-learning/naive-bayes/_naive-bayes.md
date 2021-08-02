@@ -2,41 +2,39 @@
 
 ---
 
-## 1. ML in The Google Self-Driving Car
+## **1. ML in The Google Self-Driving Car**
 
 ---
 
-## 2. Acerous Vs Non-Acerous
+## **2. Acerous Vs Non-Acerous**
 
 ---
 
-## 3. Supervised Classification Example
+## **3. Supervised Classification Example**
 
 ---
 
-## 4. Features and Labels Musical Example
+## **4. Features and Labels Musical Example**
 
 ---
 
-## 5. Features Visualization Quiz
+## **5. Features Visualization Quiz**
 
 ---
 
-## 6. Classification By Eye
+## **6. Classification By Eye**
 
 ---
 
-## 7. Intro To Stanley Terrain Classification
+## **7. Intro To Stanley Terrain Classification**
 
 ---
 
-## 8. Speed Scatterplot: Grade and Bumpiness
+## **8. Speed Scatterplot: Grade and Bumpiness**
 
 ---
 
-##
-
-9. **Speed Scatterplot 2**
+## **9. Speed Scatterplot 2**
 
 ---
 
@@ -172,7 +170,7 @@
 
 ---
 
-## 43. Timing Your NB Classifier
+## **43. Timing Your NB Classifier**
 
 ---
 
