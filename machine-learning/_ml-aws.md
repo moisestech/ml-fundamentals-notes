@@ -302,6 +302,9 @@ Action: For every state, an agent needs to take an action toward achieving its g
 ---
 
 Reinforcement Learning with AWS DeepRacer
+
+🎥 [Udacity, Video Link]()
+
 Reinforcement Learning Concepts
 In this section, we’ll learn some basic reinforcement learning terms and concepts using AWS DeepRacer as an example.
 
@@ -397,6 +400,9 @@ If you're interested in tinkering with DeepRacer's open-source device software a
 ---
 
 Demo: Reinforcement Learning with AWS DeepRacer
+
+🎥 [Udacity, Video Link]()
+
 Important
 
 To get you started with AWS DeepRacer, you receive 10 free hours to train or evaluate models and 5GB of free storage during your first month. This offer is valid for 30 days after you have used the service for the first time. Beyond 10 hours of training and evaluation, you pay for training, evaluating, and storing your machine learning models. Please read the AWS account requirements page for more information.
@@ -431,6 +437,9 @@ Once you've created a successful model, you'll learn how to enter it into a race
 ---
 
 Quiz: Reinforcement Learning
+
+🎥 [Udacity, Video Link]()
+
 QUESTION 1 OF 5
 In which type of machine learning are models trained using labeled data?
 
@@ -463,6 +472,9 @@ Environment
 
 Exercise: Interpret the reward graph of your first AWS DeepRacer model
 Instructions
+
+🎥 [Udacity, Video Link]()
+
 Train a model in the AWS DeepRacer console and interpret its reward graph.
 
 Part 1: Train a reinforcement learning model using the AWS DeepRacer console
@@ -504,6 +516,9 @@ As you train and evaluate your first model, you'll want to get a sense of its qu
 ---
 
 Exercise Solution
+
+🎥 [Udacity, Video Link]()
+
 To get a sense of how well your training is going, watch the reward graph. Here is a list of its parts and what they do:
 
 Average reward
@@ -565,6 +580,8 @@ Remember: training experience helps both model and reinforcement learning practi
 
 Introduction to Generative AI
 
+🎥 [Udacity, Video Link]()
+
 Generative AI and Its Applications
 Generative AI is one of the biggest recent advancements in artificial intelligence because of its ability to create new things.
 
@@ -596,6 +613,9 @@ We won't cover this approach in this course but you can learn more about transfo
 ---
 
 Generative AI with AWS DeepComposer
+
+🎥 [Udacity, Video Link]()
+
 What is AWS DeepComposer?
 AWS DeepComposer gives you a creative and easy way to get started with machine learning (ML), specifically generative AI. It consists of a USB keyboard that connects to your computer to input melody and the AWS DeepComposer console, which includes AWS DeepComposer Music studio to generate music, learning capsules to dive deep into generative AI models, and AWS DeepComposer Chartbusters challenges to showcase your ML skills.
 
