@@ -259,6 +259,9 @@ What type of computer vision task is the trash-sorting project?
 ---
 
 Reinforcement Learning and Its Applications
+
+🎥 [Udacity, Video Link]()
+
 This section introduces you to a type of machine learning (ML) called reinforcement learning (RL). You'll hear about its real-world applications and learn basic concepts using AWS DeepRacer as an example. By the end of the section, you will be able to create, train, and evaluate a reinforcement learning model in the AWS DeepRacer console.
 
 Introduction to Reinforcement Learning
