@@ -47,7 +47,7 @@ To learn more about AWS ML Training and Certification offerings, see Training an
 
 ---
 
-Lesson Overview
+## **2. Lesson Overview**
 
 🎥 [Udacity, Video Link]()
 
