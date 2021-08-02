@@ -88,6 +88,9 @@ Task List
 ---
 
 Computer Vision and Its Applications
+
+🎥 [Udacity, Video Link]()
+
 This section introduces you to common concepts in computer vision (CV), and explains how you can use AWS DeepLens to start learning with computer vision projects. By the end of this section, you will be able to explain how to create, train, deploy, and evaluate a trash-sorting project that uses AWS DeepLens.
 
 Introduction to Computer Vision
