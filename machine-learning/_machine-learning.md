@@ -1054,6 +1054,8 @@ In unsupervised learning, there are no labels for the training data. A machine l
 - [Machine Learning with Text in Python](https://www.dataschool.io/learn/), **DataSchool**
 - [Microsoft is offering free Machine Learning Course for beginners // D2C](https://dare2compete.com/blog/microsoft-offers-free-machine-learning-course-for-beginners), **Dare2Compte**
 
+---
+
 ## **Machine Learning Resources**
 
 - [Facebook Fellowship Program](https://research.fb.com/fellowship/), **Facebook Research**
