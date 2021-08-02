@@ -92,7 +92,7 @@ The distribution of such data should resemble a Gaussian function centered at ze
 
 ## **6. MLP Structure & Class Scores**
 
-[Udacity, Video Link](https://youtu.be/fP0Odiai8sk)
+🎥 [Udacity, Video Link](https://youtu.be/fP0Odiai8sk)
 
 After looking at existing work, how many hidden layers will you use in your MLP for image classification?
 
@@ -100,19 +100,19 @@ After looking at existing work, how many hidden layers will you use in your MLP 
 
 ## **7. Do Your Research**
 
-[Udacity, Video Link](https://youtu.be/CR4JeAn1fgk)
+🎥 [Udacity, Video Link](https://youtu.be/CR4JeAn1fgk)
 
 ---
 
 ## **8. Loss & Optimization**
 
-[Udacity, Video Link](https://youtu.be/BmPDtSXv18w)
+🎥 [Udacity, Video Link](https://youtu.be/BmPDtSXv18w)
 
 ---
 
 ## **9. Defining a Network in PyTorch**
 
-[Udacity, Video Link](https://youtu.be/9gvaQvyfLfY)
+🎥 [Udacity, Video Link](https://youtu.be/9gvaQvyfLfY)
 
 ReLU Activation Function
 The purpose of an activation function is to scale the outputs of a layer so that they are a consistent, small value. Much like normalizing input values, this step ensures that our model trains efficiently!
@@ -125,7 +125,7 @@ ReLU function
 
 ## **10. Training the Network**
 
-[Udacity, Video Link](https://youtu.be/904bfqibcCw)
+🎥 [Udacity, Video Link](https://youtu.be/904bfqibcCw)
 
 Cross-Entropy Loss
 In the PyTorch documentation, you can see that the cross entropy loss function actually involves two steps:
@@ -141,16 +141,16 @@ In the forward function of our model, we would explicitly apply a softmax activa
 ...
 ...
 
-# a softmax layer to convert 10 outputs into a distribution of class probabilities
+## a softmax layer to convert 10 outputs into a distribution of class probabilities
 
 x = F.log_softmax(x, dim=1)
 
 return x
 Then, when defining our loss criterion, we would apply NLLLoss
 
-# cross entropy loss combines softmax and nn.NLLLoss() in one single class
+## cross entropy loss combines softmax and nn.NLLLoss() in one single class
 
-# here, we've separated them
+## here, we've separated them
 
 criterion = nn.NLLLoss()
 This separates the usual criterion = nn.CrossEntropy() into two steps: softmax and NLLLoss, and is a useful approach should you want the output of a model to be class probabilities rather than class scores.
@@ -175,7 +175,7 @@ This is a self-assessed lab. If you need any help or want to check your answers,
 
 ## **12. Notebook: MLP Classification, MNIST**
 
-[Udacity, Jupyter Notebook Link](https://classroom.udacity.com/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/2da6f20f-5162-47b3-b1b9-f3f6c0191a0b)
+🎥 [Udacity, Jupyter Notebook Link](https://classroom.udacity.com/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/2da6f20f-5162-47b3-b1b9-f3f6c0191a0b)
 
 ---
 
