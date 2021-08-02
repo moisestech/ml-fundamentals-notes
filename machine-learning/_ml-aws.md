@@ -2,7 +2,12 @@
 
 ## Machine Learning with AWS
 
-Why AWS?
+---
+
+## **1. Why AWS?**
+
+🎥 [Udacity, Video Link]()
+
 The AWS achine learning mission is to put machine learning in the hands of every developer.
 
 AWS offers the broadest and deepest set of artificial intelligence (AI) and machine learning (ML) services with unmatched flexibility.
@@ -43,6 +48,8 @@ To learn more about AWS ML Training and Certification offerings, see Training an
 ---
 
 Lesson Overview
+
+🎥 [Udacity, Video Link]()
 
 In this lesson, you'll get an introduction to machine learning (ML) with AWS and AWS AI devices: AWS DeepLens, AWS DeepComposer, and AWS DeepRacer. Learn the basics of computer vision with AWS DeepLens, race around a track and get familiar with reinforcement learning with AWS DeepRacer, and discover the power of generative AI by creating music using AWS DeepComposer.
 
