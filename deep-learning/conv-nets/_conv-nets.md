@@ -181,7 +181,7 @@ This is a self-assessed lab. If you need any help or want to check your answers,
 
 ## **13. One Solution**
 
-[Udacity, Video Link](https://youtu.be/7q37WPjQhDA)
+🎥 [Udacity, Video Link](https://youtu.be/7q37WPjQhDA)
 
 model.eval()
 There is an omission in the above code: including model.eval() !
@@ -198,43 +198,43 @@ If you'd like more information on activation functions, check out this website.
 
 ## **14. Model Validation**
 
-[Udacity, Video Link](https://youtu.be/b5934VsV3SA)
+🎥 [Udacity, Video Link](https://youtu.be/b5934VsV3SA)
 
 ---
 
 ## **15. Validation Loss**
 
-[Udacity, Video Link](https://youtu.be/uGPP_-pbBsc)
+🎥 [Udacity, Video Link](https://youtu.be/uGPP_-pbBsc)
 
 ---
 
 ## **16. Image Classification Steps**
 
-[Udacity, Video Link](https://youtu.be/UHFBnitKraA)
+🎥 [Udacity, Video Link](https://youtu.be/UHFBnitKraA)
 
 ---
 
 ## **17. MLPs vs CNNs**
 
-[Udacity, Video Link](https://youtu.be/Q7CR3cCOtJQ)
+🎥 [Udacity, Video Link](https://youtu.be/Q7CR3cCOtJQ)
 
 ---
 
 ## **18. Local Connectivity**
 
-[Udacity, Video Link](https://youtu.be/z9wiDg0w-Dc)
+🎥 [Udacity, Video Link](https://youtu.be/z9wiDg0w-Dc)
 
 ---
 
 ## **19. Filters and the Convolutional Layer**
 
-[Udacity, Video Link](https://youtu.be/x_dhnhUzFNo)
+🎥 [Udacity, Video Link](https://youtu.be/x_dhnhUzFNo)
 
 ---
 
 ## **20. Filters & Edges**
 
-[Udacity, Video Link](https://youtu.be/hfqNqcEU6uI)
+🎥 [Udacity, Video Link](https://youtu.be/hfqNqcEU6uI)
 
 Filters
 To detect changes in intensity in an image, you’ll be using and creating specific image filters that look at groups of pixels and react to alternating patterns of dark/light pixels. These filters produce an output that shows edges of objects and differing textures.
@@ -263,7 +263,7 @@ High-frequency components also correspond to the edges of objects in images, whi
 
 ## **22. High-pass Filters**
 
-[Udacity, Video Link](https://youtu.be/OpcFn_H2V-Q)
+🎥 [Udacity, Video Link](https://youtu.be/OpcFn_H2V-Q)
 
 Edge Handling
 Kernel convolution relies on centering a pixel and looking at it's surrounding neighbors. So, what do you do if there are no surrounding pixels like on an image corner or edge? Well, there are a number of ways to process the edges, which are listed below. It’s most common to use padding, cropping, or extension. In extension, the border pixels of an image are copied and extended far enough to result in a filtered image of the same size as the original image.
@@ -317,7 +317,7 @@ This notebook is meant to be a playground where you can try out different filter
 
 ## **25. Notebook: Finding Edges**
 
-[Udacity, Jupyter Notebook Link](https://classroom.udacity.com/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/7fa63120-523f-46fb-ab49-b5c8481196a5)
+🎥 [Udacity, Jupyter Notebook Link](https://classroom.udacity.com/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/7fa63120-523f-46fb-ab49-b5c8481196a5)
 
 ---
 
@@ -346,7 +346,7 @@ In practice, you'll also find that many neural networks learn to detect the edge
 
 ## **27. Convolutional Layers (Part 2)**
 
-[Udacity, Video Link](https://youtu.be/RnM1D-XI--8)
+🎥 [Udacity, Video Link](https://youtu.be/RnM1D-XI--8)
 
 The Jupyter notebook described in the video can be accessed from the deep-learning-v2-pytorch GitHub respository linked here. Navigate to the conv-visualization/ folder and open conv_visualization.ipynb.
 
@@ -357,13 +357,13 @@ Check out this website, which allows you to create your own filter. You can then
 
 ## **28. Stride and Padding**
 
-[Udacity, Video Link](https://youtu.be/GmStpNi8jBI)
+🎥 [Udacity, Video Link](https://youtu.be/GmStpNi8jBI)
 
 ---
 
 ## **29. CNNs in PyTorch**
 
-[Udacity, Video Link](https://youtu.be/GNxzWfiz3do)
+🎥 [Udacity, Video Link](https://youtu.be/GNxzWfiz3do)
 
 Check out the CIFAR-10 Competition's winning architecture!
 
@@ -371,7 +371,7 @@ Check out the CIFAR-10 Competition's winning architecture!
 
 ## **30. Pooling Layers**
 
-[Udacity, Video Link](https://youtu.be/_Ok5xZwOtrk)
+🎥 [Udacity, Video Link](https://youtu.be/_Ok5xZwOtrk)
 
 Other kinds of pooling
 Alexis mentioned one other type of pooling, and it is worth noting that some architectures choose to use average pooling, which chooses to average pixel values in a given window size. So in a 2x2 window, this operation will see 4 pixel values, and return a single, average of those four values, as output!
@@ -431,19 +431,19 @@ Dynamic routing between capsules, hinton et al
 
 ## **32. Notebook: Layer Visualization**
 
-[Udacity, Jupyter Notebook Link](https://classroom.udacity.com/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/c57115c6-d1d8-4055-b487-dfd6bf186b92)
+🎥 [Udacity, Jupyter Notebook Link](https://classroom.udacity.com/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/c57115c6-d1d8-4055-b487-dfd6bf186b92)
 
 ---
 
 ## **33. Increasing Depth**
 
-[Udacity, Video Link](https://youtu.be/YKif1KNpWeE)
+🎥 [Udacity, Video Link](https://youtu.be/YKif1KNpWeE)
 
 ---
 
 ## **34. CNNs for Image Classification**
 
-[Udacity, Video Link](https://youtu.be/smaw5GqRaoY)
+🎥 [Udacity, Video Link](https://youtu.be/smaw5GqRaoY)
 
 Padding
 Padding is just adding a border of pixels around an image. In PyTorch, you specify the size of this border.
@@ -598,13 +598,13 @@ How many parameters, total, will be left after an image passes through all four 
 
 ## **36. Feature Vector**
 
-[Udacity, Video Link](https://youtu.be/g6QuiVno8zI)
+🎥 [Udacity, Video Link](https://youtu.be/g6QuiVno8zI)
 
 ---
 
 ## **37. CIFAR Classification Example**
 
-[Udacity, Video Link](https://youtu.be/FF_EmZ2sf2w)
+🎥 [Udacity, Video Link](https://youtu.be/FF_EmZ2sf2w)
 
 model.eval()
 There is an omission in the above code: including model.eval() !
@@ -634,13 +634,13 @@ In this notebook, you'll find training the network is much faster if you use a G
 
 ## **39. Image Augmentation**
 
-[Udacity, Video Link](https://youtu.be/zQnx2jZmjTA)
+🎥 [Udacity, Video Link](https://youtu.be/zQnx2jZmjTA)
 
 ---
 
 ## **40. Augmentation Using Transformations**
 
-[Udacity, Video Link](https://youtu.be/J_gjHVt9pVw)
+🎥 [Udacity, Video Link](https://youtu.be/J_gjHVt9pVw)
 
 Augmentation Code
 You can take a look at the complete augmentation code in the previous notebook directory, or, directly in the Github repository.
@@ -649,7 +649,7 @@ You can take a look at the complete augmentation code in the previous notebook d
 
 ## **41. Groundbreaking CNN Architectures**
 
-[Udacity, Video Link](https://youtu.be/GdYOqihgb2k)
+🎥 [Udacity, Video Link](https://youtu.be/GdYOqihgb2k)
 
 Optional Resources
 Check out the AlexNet paper!
@@ -664,7 +664,7 @@ Visit the ImageNet Large Scale Visual Recognition Competition (ILSVRC) website.
 
 ## **42. Visualizing CNNs (Part 1)**
 
-[Udacity, Video Link](https://youtu.be/mnqS_EhEZVg)
+🎥 [Udacity, Video Link](https://youtu.be/mnqS_EhEZVg)
 
 (REALLY COOL) Optional Resources
 If you would like to know more about interpreting CNNs and convolutional layers in particular, you are encouraged to check out these resources:
@@ -734,7 +734,7 @@ The last layer picks out the highest order ideas that we care about for classifi
 
 ## **44. Summary of CNNs**
 
-[Udacity, Video Link](https://youtu.be/Te9QCvhx6N8)
+🎥 [Udacity, Video Link](https://youtu.be/Te9QCvhx6N8)
 
 External Resource
 Deep learning eBook (2016) authored by Ian Goodfellow, Yoshua Bengio, and Aaron Courville; published by Cambridge: MIT Press.
