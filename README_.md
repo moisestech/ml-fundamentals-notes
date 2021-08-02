@@ -1,8 +1,11 @@
-# Udacity, Machine Learning Fundamentals
+# Udacity ML
+
+## README Index
 
 - [AWS Machine Learning Foundations Course](https://classroom.udacity.com/courses/ud090/lessons/ac47b924-72d3-4bf9-971c-bfccfa368b02/concepts/0ea0ed14-f1ab-4119-bc5a-3ab2de6bc418), **Udacity**
 - [Intro to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188/lessons/b4ca7aaa-b346-43b1-ae7d-20d27b2eab65/concepts/a3b18b18-8496-4775-af48-921ab35bd306), **Udacity**
 - [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120/lessons/2410328539/concepts/30096788840923), **Udacity**
+- [Intro to Deep Learning w/ PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893), **Udacity**
 - [Natural Language Processing](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892), **Udacity**
 - [Computer Vision](https://www.udacity.com/course/computer-vision-nanodegree--nd891), **Udacity**
@@ -52,3 +55,9 @@
 ## AirTable Resources
 
 - [AI, ML, RL](https://airtable.com/shry34IwIbBpVThBV/tblOl5GlpuS7fCRIY), **AirTable**
+
+---
+
+## Foam Related Links
+
+- [[_machine-learning]]
