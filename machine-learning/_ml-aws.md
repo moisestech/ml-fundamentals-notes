@@ -136,6 +136,9 @@ Ready to get started? Check out the Getting started guide in the AWS DeepLens De
 ---
 
 Computer Vision with AWS DeepLens
+
+🎥 [Udacity, Video Link]()
+
 AWS DeepLens
 AWS DeepLens allows you to create and deploy end-to-end computer vision–based applications. The following video provides a brief introduction to how AWS DeepLens works and how it uses other AWS services.
 
