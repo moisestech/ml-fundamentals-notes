@@ -184,9 +184,10 @@ You can buy an AWS DeepLens device on Amazon.com.
 
 ---
 
+## **6. A Sample Project with AWS DeepLens**
+
 🎥 [Udacity, Video Link]()
 
-A Sample Project with AWS DeepLens
 This section provides a hands-on demonstration of a project created as part of an AWS DeepLens sponsored hack-a-thon. In this project, we use an AWS DeepLens device to do an image classification–based task. We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.
 
 Summary
@@ -242,7 +243,7 @@ Aws-Deeplens-Custom-Trash-Detector
 
 ---
 
-Use the following image for quiz questions 1–3.
+## **7. Use the following image for quiz questions 1–3.**
 
 🎥 [Udacity, Video Link]()
 
@@ -278,7 +279,7 @@ What type of computer vision task is the trash-sorting project?
 
 ---
 
-Reinforcement Learning and Its Applications
+## **8. Reinforcement Learning and Its Applications**
 
 🎥 [Udacity, Video Link]()
 
@@ -324,7 +325,7 @@ Action: For every state, an agent needs to take an action toward achieving its g
 
 ---
 
-Reinforcement Learning with AWS DeepRacer
+## **9. Reinforcement Learning with AWS DeepRacer**
 
 🎥 [Udacity, Video Link]()
 
