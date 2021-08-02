@@ -62,6 +62,9 @@ Let's get started!
 ---
 
 AWS Account Requirements
+
+🎥 [Udacity, Video Link]()
+
 An AWS account is required
 To complete the exercises in this course, you need an AWS Account ID.
 
