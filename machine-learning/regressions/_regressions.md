@@ -74,7 +74,7 @@
 
 ## **13. Intercept Quiz**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/cuBxHYSPrkA)
 
 ---
 
