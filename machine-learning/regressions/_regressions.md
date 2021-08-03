@@ -86,7 +86,7 @@
 
 ## **15. Adding An Intercept**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/xPDk70gKkjk)
 
 ---
 
