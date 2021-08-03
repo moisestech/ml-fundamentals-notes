@@ -20,7 +20,7 @@
 
 ## **4. Weather: Continuous or Discrete**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/jTKkq6DdJMw)
 
 ---
 
