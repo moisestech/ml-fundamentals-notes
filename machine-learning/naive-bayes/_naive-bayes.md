@@ -1,5 +1,7 @@
 # Naive Bayes
 
+[Udacity, Lesson]()
+
 ---
 
 ## **1. ML in The Google Self-Driving Car**
