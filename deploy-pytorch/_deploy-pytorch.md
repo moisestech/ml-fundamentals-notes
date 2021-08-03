@@ -13,47 +13,48 @@ I'll be showing you how to use these new features to compile Python models for u
 
 ## **2. Installing PyTorch 1.0**
 
-https://youtu.be/kIwKPxgReFY
+🎥 [Udacity, Video Link](https://youtu.be/kIwKPxgReFY)
 
 ---
 
 ## **3. PyTorch for Production**
 
-https://youtu.be/DBSoZWd4lQo
+🎥 [Udacity, Video Link](https://youtu.be/DBSoZWd4lQo)
 
 ---
 
 ## **4. Torch Script & Tracing**
 
-https://youtu.be/lYmQDUprQa0
+🎥 [Udacity, Video Link](https://youtu.be/lYmQDUprQa0)
 
 ---
 
 ## **5. Annotations**
 
-https://youtu.be/pO1RM7mKaFg
+🎥 [Udacity, Video Link](https://youtu.be/pO1RM7mKaFg)
 
 ---
 
 ## **6. PyTorch C++ API**
 
-https://youtu.be/P1S1dN1gHmw
+🎥 [Udacity, Video Link](https://youtu.be/P1S1dN1gHmw)
 
 ---
 
 ## **7. Want to learn more?**
 
-Want to learn more?
-We hope you enjoyed this course on deep learning with PyTorch. What we've built here is just a small part of deep learning. There are tons of models and techniques for you to learn that will deepen your skills in this exciting field. If you want to keep learning and building your deep learning skills, please check out our Deep Learning Nanodegree Program.
+### Want to learn more?
 
-Some of the lessons in this course were taken from the Deep Learning Nanodegree program, however, you've experienced only a fraction of the content we've created for you. In the Deep Learning Nanodegree program, you will:
+- We hope you enjoyed this course on deep learning with PyTorch. What we've built here is just a small part of deep learning. There are tons of models and techniques for you to learn that will deepen your skills in this exciting field. If you want to keep learning and building your deep learning skills, please check out our Deep Learning Nanodegree Program.
 
-learn more uses for convolutional and recurrent networks, train generative adversarial networks, and deploy deep learning models to production.
-get hands on experience implementing papers such as Word2Vec and DCGANs
-learn from deep learning experts Andrew Trask, Ian Goodfellow, Jun-Yan Zhu, and Sebastian Thrun.
-receive detailed project feedback and in-class support from our mentors
-get access to GPUs in our in-class workspaces as well as credits for GPU instances on AWS
-This program is the perfect opportunity for you to join this exciting field, advance your career, or even start your own AI startup. You might also be interested in one of our specialized programs such as the Deep Reinforcement Learning, Natural Language Processing, or Computer Vision Nanodegree programs.
+- Some of the lessons in this course were taken from the Deep Learning Nanodegree program, however, you've experienced only a fraction of the content we've created for you. In the Deep Learning Nanodegree program, you will:
+
+- learn more uses for convolutional and recurrent networks, train generative adversarial networks, and deploy deep learning models to production.
+- get hands on experience implementing papers such as Word2Vec and DCGANs
+- learn from deep learning experts Andrew Trask, Ian Goodfellow, Jun-Yan Zhu, and Sebastian Thrun.
+- receive detailed project feedback and in-class support from our mentors
+- get access to GPUs in our in-class workspaces as well as credits for GPU instances on AWS
+- This program is the perfect opportunity for you to join this exciting field, advance your career, or even start your own AI startup. You might also be interested in one of our specialized programs such as the Deep Reinforcement Learning, Natural Language Processing, or Computer Vision Nanodegree programs.
 
 ---
 
