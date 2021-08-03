@@ -56,7 +56,7 @@
 
 ## **10. Equation of the Regression Line**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/--Pc1ASVjmM)
 
 ---
 
