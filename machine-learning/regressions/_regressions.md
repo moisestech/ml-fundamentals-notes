@@ -2,7 +2,7 @@
 
 ## **1. Continuous Output Quiz**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/udJvijJvs1M)
 
 ---
 
