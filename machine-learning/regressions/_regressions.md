@@ -38,7 +38,7 @@
 
 ## **7. Income: Continuous or Discrete?**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/4yapJV56YoM)
 
 ---
 
