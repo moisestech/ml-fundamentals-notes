@@ -1,5 +1,7 @@
 # Deep Learning
 
+[Udacity, Lesson]()
+
 ---
 
 ## Foam Related Links
