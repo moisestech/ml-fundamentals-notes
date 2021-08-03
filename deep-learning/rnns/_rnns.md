@@ -1,5 +1,9 @@
 # RNNs
 
+[Udacity, UD188, Lesson 7](https://classroom.udacity.com/courses/ud188/lessons/a8fc0724-37ed-40d9-a226-57175b8bb8cc/concepts/ecaff24e-7314-43b1-a11d-49762fa5c5ff)
+
+---
+
 ## **1. Intro to RNNs**
 
 Recurrent Neural Networks
