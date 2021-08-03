@@ -32,7 +32,7 @@
 
 ## **6. Phone Number: Continuous or Discrete?**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/5dt0N4XN-y4)
 
 ---
 
