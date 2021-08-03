@@ -62,7 +62,7 @@
 
 ## **11. Slope and Intercept**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/Ksn1g5fCe1I)
 
 ---
 
