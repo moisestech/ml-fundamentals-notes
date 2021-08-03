@@ -44,7 +44,7 @@
 
 ## **8. Continuous Feature Quiz**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/TIs9j-QITxw)
 
 ---
 
