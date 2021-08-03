@@ -1,5 +1,7 @@
 # Conv Nets
 
+[Udacity, UD 188, Lesson 5, Convolutional Neural Networks](https://classroom.udacity.com/courses/ud188/lessons/b1e148af-0beb-464e-a389-9ae293cb1dcd/concepts/e7190f8c-c824-4936-89ff-db6230fd3d12)
+
 ---
 
 ## **1. Introducing Alexis**
