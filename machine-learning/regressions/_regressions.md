@@ -80,7 +80,7 @@
 
 ## **14. Predictions Using Regression**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/cuBxHYSPrkA)
 
 ---
 
