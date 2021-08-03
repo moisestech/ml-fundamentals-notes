@@ -14,7 +14,7 @@
 
 ## **3. Age: Continuous or Discrete?**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/OrPlWwv19Jc)
 
 ---
 
