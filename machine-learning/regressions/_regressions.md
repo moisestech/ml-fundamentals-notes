@@ -8,7 +8,7 @@
 
 ## **2. Continuous Quiz**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/Bp6oBbLw8qE)
 
 ---
 
