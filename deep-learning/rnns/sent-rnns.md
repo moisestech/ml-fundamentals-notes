@@ -1,10 +1,10 @@
 # Sent RNNs
 
-## Sentiment Analysis and Prediction
+[Udacity, UD188, Lesson 8, Sentiment Analysis and Prediction](https://classroom.udacity.com/courses/ud188/lessons/2f4910ee-6d67-47df-97e2-f35db67cbc19/concepts/a8556c8d-3a22-4ed0-b232-ebc953269bd0)
 
 ---
 
-## 1. Sentiment Analysis RNNs
+## **1. Sentiment Analysis RNNs**
 
 Sentiment Analysis and Prediction
 Welcome to this lesson on sentiment analysis and prediction. Here you'll be building a model that can read in some text and make a prediction about the sentiment of that text, where it is positive or negative. We'll be training the model on a dataset of movie reviews from IMDB that have been labeled either "positive" or "negative". Since this is text data, words in a sequence, we can use an RNN to build a model that doesn't only consider the individual words, but the order they appear in. This leads to a powerful model for making these types of sentiment predictions.
@@ -13,16 +13,18 @@ See you in the classroom!
 
 ---
 
-## 2. Notebook: Sentiment RNN
+## **2. Notebook: Sentiment RNN**
 
-Notebook: Sentiment RNN
+### Notebook: Sentiment RNN
+
 The next few videos will be all about implementing a complete RNN that can classify the sentiment of movie reviews (positive or negative).
 
 It's suggested that you open the notebook in a new, working tab and continue working on it as you go through the instructional videos in this tab. This way you can toggle between learning new skills and coding/applying new skills.
 
-To open this notebook, go to our notebook repo (available from here on Github) and open the notebook Sentiment_RNN_Exercise.ipynb in the sentiment-rnn folder. You can either download the repository with git clone https://github.com/udacity/deep-learning-v2-pytorch.git, or download it as an archive file from this link.
+To open this notebook, go to our notebook repo (available from here on Github) and open the notebook Sentiment_RNN_Exercise.ipynb in the sentiment-rnn folder. You can either download the repository with git clone [](https://github.com/udacity/deep-learning-v2-pytorch.git), or download it as an archive file from this link.
 
-Instructions
+### Instructions
+
 Load in text data
 Pre-process that data, encoding characters as integers
 Pad the data such that each review is a standard sequence length
@@ -31,64 +33,68 @@ Train the RNN
 See how it performs on test data
 This is a self-assessed lab. If you need any help or want to check your answers, feel free to check out the solutions notebook in the same folder, or by clicking here.
 
-Note about GPUs
+### Note about GPUs
+
 In this notebook, you'll find that training the network is much faster if you use a GPU. However, you can still complete the exercises without a GPU. If you can't use a local GPU, we suggest you use cloud platforms such as AWS, GCP, and FloydHub to train your networks on a GPU.
 
 ---
 
-## 3. Data Pre-Processing
+## **3. Data Pre-Processing**
 
-https://youtu.be/Xw1MWmql7no
-
----
-
-## 4. Encoding Words, Solution
-
-https://youtu.be/4RYyn3zv1Hg
+🎥 [Udacity, Video Link](https://youtu.be/Xw1MWmql7no)
 
 ---
 
-## 5. Getting Rid of Zero-Length
+## **4. Encoding Words, Solution**
 
-https://youtu.be/Hs6ithuvDJg
-
----
-
-## 6. Cleaning & Padding Data
-
-https://youtu.be/UgPo1_cq-0g
+🎥 [Udacity, Video Link](https://youtu.be/4RYyn3zv1Hg)
 
 ---
 
-## 7. Padded Features, Solution
+## **5. Getting Rid of Zero-Length**
 
-https://youtu.be/sYOd1IDmep8
-
----
-
-## 8. TensorDataset & Batching Data
-
-https://youtu.be/Oxuf2QIPjj4
+🎥 [Udacity, Video Link](https://youtu.be/Hs6ithuvDJg)
 
 ---
 
-## 9. Defining the Model
+## **6. Cleaning & Padding Data**
 
-https://youtu.be/SpvIZl1YQRI
+🎥 [Udacity, Video Link](https://youtu.be/UgPo1_cq-0g)
 
 ---
 
-## 10. Complete Sentiment RNN
+## **7. Padded Features, Solution**
 
-Consult the Solution Code
-To take a closer look at this solution, feel free to check out the solution workspace or click here to see it as a webpage.
+🎥 [Udacity, Video Link](https://youtu.be/sYOd1IDmep8)
 
-Complete RNN Class
-I hope you tried out defining this model on your own and got it to work! Below, is how I completed this model.
+---
 
-I know I want an embedding layer, a recurrent layer, and a final, linear layer with a sigmoid applied; I defined all of those in the **init** function, according to passed in parameters.
+## **8. TensorDataset & Batching Data**
 
-def **init**(self, vocab_size, output_size, embedding_dim, hidden_dim, n_layers, drop_prob=0.5):
+🎥 [Udacity, Video Link](https://youtu.be/Oxuf2QIPjj4)
+
+---
+
+## **9. Defining the Model**
+
+🎥 [Udacity, Video Link](https://youtu.be/SpvIZl1YQRI)
+
+---
+
+## **10. Complete Sentiment RNN**
+
+### Consult the Solution Code
+
+- To take a closer look at this solution, feel free to check out the solution workspace or click here to see it as a webpage.
+
+### Complete RNN Class
+
+- I hope you tried out defining this model on your own and got it to work! Below, is how I completed this model.
+
+_I know I want an embedding layer, a recurrent layer, and a final, linear layer with a sigmoid applied; I defined all of those in the `__init__` function, according to passed in parameters._
+
+```python
+def __init__(self, vocab_size, output_size, embedding_dim, hidden_dim, n_layers, drop_prob=0.5):
 """
 Initialize the model by setting up the layers.
 """
@@ -109,17 +115,21 @@ super(SentimentRNN, self).**init**()
         # linear and sigmoid layers
         self.fc = nn.Linear(hidden_dim, output_size)
         self.sig = nn.Sigmoid()
+```
 
-**init** explanation
-First I have an embedding layer, which should take in the size of our vocabulary (our number of integer tokens) and produce an embedding of embedding_dim size. So, as this model trains, this is going to create and embedding lookup table that has as many rows as we have word integers, and as many columns as the embedding dimension.
+### `__init__` explanation
 
-Then, I have an LSTM layer, which takes in inputs of embedding_dim size. So, it's accepting embeddings as inputs, and producing an output and hidden state of a hidden size. I am also specifying a number of layers, and a dropout value, and finally, I’m setting batch_first to True because we are using DataLoaders to batch our data like that!
+- First I have an **embedding layer**, which should take in the size of our vocabulary (our number of integer tokens) and produce an embedding of `embedding_dim` size. So, as this model trains, this is going to create and embedding lookup table that has as many rows as we have word integers, and as many columns as the embedding dimension.
 
-Then, the LSTM outputs are passed to a dropout layer and then a fully-connected, linear layer that will produce output_size number of outputs. And finally, I’ve defined a sigmoid layer to convert the output to a value between 0-1.
+- Then, I have an **LSTM layer**, which takes in inputs of `embedding_dim` size. So, it's accepting embeddings as inputs, and producing an output and hidden state of a hidden size. I am also specifying a number of layers, and a dropout value, and finally, I’m setting `batch_first` to True because we are using DataLoaders to batch our data like that!
 
-Feedforward behavior
-Moving on to the forward function, which takes in an input x and a hidden state, I am going to pass an input through these layers in sequence.
+- Then, the LSTM outputs are passed to a dropout layer and then a fully-connected, linear layer that will produce output_size number of outputs. And finally, I’ve defined a sigmoid layer to convert the output to a value between 0-1.
 
+### Feedforward behavior
+
+- Moving on to the forward function, which takes in an input x and a hidden state, I am going to pass an input through these layers in sequence.
+
+```python
 def forward(self, x, hidden):
 """
 Perform a forward pass of our model on some input and hidden state.
@@ -146,21 +156,25 @@ batch_size = x.size(0)
 
         # return last sigmoid output and hidden state
         return sig_out, hidden
+```
 
-forward explanation
-So, first, I'm getting the batch_size of my input x, which I’ll use for shaping my data. Then, I'm passing x through the embedding layer first, to get my embeddings as output
+### `forward` explanation
 
-These embeddings are passed to my lstm layer, alongside a hidden state, and this returns an lstm_output and a new hidden state! Then I'm going to stack up the outputs of my LSTM to pass to my last linear layer.
+- So, first, I'm getting the `batch_size` of my input x, which I’ll use for shaping my data. Then, I'm passing x through the embedding layer first, to get my embeddings as output
 
-Then I keep going, passing the reshaped lstm_output to a dropout layer and my linear layer, which should return a specified number of outputs that I will pass to my sigmoid activation function.
+- These embeddings are passed to my lstm layer, alongside a hidden state, and this returns an `lstm_output` and a new `hidden` state! Then I'm going to stack up the outputs of my LSTM to pass to my last linear layer.
 
-Now, I want to make sure that I’m returning only the last of these sigmoid outputs for a batch of input data, so, I’m going to shape these outputs into a shape that is batch_size first. Then I'm getting the last bacth by called `sig_out[:, -1], and that’s going to give me the batch of last labels that I want!
+- Then I keep going, passing the reshaped `lstm_output` to a dropout layer and my linear layer, which should return a specified number of outputs that I will pass to my sigmoid activation function.
 
-Finally, I am returning that output and the hidden state produced by the LSTM layer.
+- Now, I want to make sure that I’m returning only the **last** of these sigmoid outputs for a batch of input data, so, I’m going to shape these outputs into a shape that is `batch_size` first. Then I'm getting the last bacth by called `sig_out[:, -1], and that’s going to give me the batch of last labels that I want!
 
-init_hidden
-That completes my forward function and then I have one more: init_hidden and this is just the same as you’ve seen before. The hidden and cell states of an LSTM are a tuple of values and each of these is size (n_layers by batch_size, by hidden_dim). I’m initializing these hidden weights to all zeros, and moving to a gpu if available.
+- Finally, I am returning that output and the hidden state produced by the LSTM layer.
 
+### `init_hidden`
+
+- That completes my forward function and then I have one more: `init_hidden` and this is just the same as you’ve seen before. The hidden and cell states of an LSTM are a tuple of values and each of these is size (n_layers by batch_size, by hidden_dim). I’m initializing these hidden weights to all zeros, and moving to a gpu if available.
+
+```python
 def init_hidden(self, batch_size):
 ''' Initializes hidden state ''' # Create two new tensors with sizes n_layers x batch_size x hidden_dim, # initialized to zero, for hidden state and cell state of LSTM
 weight = next(self.parameters()).data
@@ -173,17 +187,18 @@ weight = next(self.parameters()).data
                       weight.new(self.n_layers, batch_size, self.hidden_dim).zero_())
 
         return hidden
+```
 
-After this, I’m ready to instantiate and train this model, you should see if you can decide on good hyperparameters of your own, and then check out the solution code, next!
+- After this, I’m ready to instantiate and train this model, you should see if you can decide on good hyperparameters of your own, and then check out the solution code, next!
 
 ---
 
-## 11. Training the Model
+## **11. Training the Model**
 
 Hyperparameters
 After defining my model, next I should instantiate it with some hyperparameters.
 
-# Instantiate the model w/ hyperparams
+### Instantiate the model w/ hyperparams
 
 vocab_size = len(vocab_to_int)+1 # +1 for the 0 padding + our word tokens
 output_size = 1
@@ -213,7 +228,7 @@ BCELoss, or Binary Cross Entropy Loss, applies cross entropy loss to a single va
 
 We'll define an Adam optimizer, as usual.
 
-# loss and optimization functions
+### loss and optimization functions
 
 lr=0.001
 
@@ -234,7 +249,7 @@ You can see that I am initializing my hidden state before entering the batch loo
 I’m getting my input and label data from my train_dataloader. Then applying my model to the inputs and comparing the outputs and the true labels.
 I also have some code that checks performance on my validation set, which, if you want, may be a great thing to use to decide when to stop training or which best model to save!
 
-# training params
+### training params
 
 epochs = 4 # 3-4 is approx where I noticed the validation loss stop decreasing
 
@@ -242,14 +257,14 @@ counter = 0
 print_every = 100
 clip=5 # gradient clipping
 
-# move model to GPU, if available
+### move model to GPU, if available
 
 if(train_on_gpu):
 net.cuda()
 
 net.train()
 
-# train for some number of epochs
+### train for some number of epochs
 
 for e in range(epochs): # initialize hidden state
 h = net.init_hidden(batch_size)
@@ -311,25 +326,27 @@ To take a closer look at this solution, feel free to check out the solution work
 
 ---
 
-## 12. Testing
+## **12. Testing**
+
+🎥 [Udacity, Video Link]()
 
 Testing the Trained Model
 I want to show you two great ways to test: using test data and using inference. The first is similar to what you’ve seen in our CNN lessons. I am iterating through the test data in the test_loader, recording the test loss and calculating the accuracy based on how many labels this model got correct!
 
 I’m doing this by looking at the rounded value of our output. Recall that this is a sigmoid output between 0-1 and so rounding this value will give us an integer that is the most likely label: 0 or 1. Then I’m comparing that predicted label to the true label; if it matches, I record that as a correctly-labeled test review.
 
-# Get test data loss and accuracy
+### Get test data loss and accuracy
 
 test_losses = [] # track loss
 num_correct = 0
 
-# init hidden state
+### init hidden state
 
 h = net.init_hidden(batch_size)
 
 net.eval()
 
-# iterate over test data
+### iterate over test data
 
 for inputs, labels in test_loader:
 
@@ -355,13 +372,13 @@ for inputs, labels in test_loader:
     correct = np.squeeze(correct_tensor.numpy()) if not train_on_gpu else np.squeeze(correct_tensor.cpu().numpy())
     num_correct += np.sum(correct)
 
-# -- stats! --
+### -- stats! --
 
-# avg test loss
+## avg test loss
 
 print("Test loss: {:.3f}".format(np.mean(test_losses)))
 
-# accuracy over all test data
+### accuracy over all test data
 
 test_acc = num_correct/len(test_loader.dataset)
 print("Test accuracy: {:.3f}".format(test_acc))
@@ -396,12 +413,14 @@ Try to solve this task on your own, then check out the solution, next!
 
 ---
 
-## 13. Inference, Solution
+## **13. Inference, Solution**
+
+🎥 [Udacity, Video Link]()
 
 Inference
 Let's put all these pieces together! One of the coolest ways to test a model like this is to give it user-generated data, without any true label, and see what happens. So, in this case, that data will just be a single string: a review that you can write and here’s just one test_reviewas an example:
 
-# negative test review
+### negative test review
 
 test_review_neg = 'The worst movie I have seen; acting was terrible and I want my money back. This movie had bad acting and the dialogue was slow.'
 We can see that this review is a negative one, but let's see if our model can identify it's sentiment correctly!
