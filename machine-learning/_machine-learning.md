@@ -1,12 +1,14 @@
 # Machine Learning
 
-[Udacity Course, Intro to ML, Lesson 2](https://classroom.udacity.com/nanodegrees/nd065/parts/a5a4c41f-9cc7-48bd-9f00-582f35a7da53/modules/885b116b-2ca3-453a-8df1-4ea4b436b5da/lessons/15cbb472-1fc6-44fa-a256-4ade21ee0c7f/concepts/0821ddd0-6ff3-4e2f-8f83-1c14e7d0182f)
+[Udacity, ND065, Lesson 2, Intro to ML](https://classroom.udacity.com/nanodegrees/nd065/parts/a5a4c41f-9cc7-48bd-9f00-582f35a7da53/modules/885b116b-2ca3-453a-8df1-4ea4b436b5da/lessons/15cbb472-1fc6-44fa-a256-4ade21ee0c7f/concepts/0821ddd0-6ff3-4e2f-8f83-1c14e7d0182f)
 
 ---
 
 ## **1. Lesson Outline**
 
 _Welcome to the introduction to machine learning lesson!_
+
+🎥 [Udacity, Video Link](https://youtu.be/lutsouJpr7E)
 
 - Machine learning is creating rapid and exciting changes across all levels of society.
 
@@ -23,11 +25,11 @@ _Welcome to the introduction to machine learning lesson!_
 
 - Let's look at how the lesson outline.
 
-[Udacity, Video Link](https://youtu.be/6jOCiXdcg-w)
-
 ---
 
 ### Lesson Outline
+
+🎥 [Udacity, Video Link](https://youtu.be/6jOCiXdcg-w)
 
 - This lesson is divided into the following sections:
 
@@ -55,6 +57,8 @@ _Welcome to the introduction to machine learning lesson!_
 ---
 
 ## **2. What is Machine Learning?**
+
+🎥 [Udacity, Video Link](https://youtu.be/dZN6Jw_upS0)
 
 What is Machine Learning?
 Machine learning (ML) is a modern software development technique and a type of artificial intelligence (AI) that enables computers to solve problems by using examples of real-world data. It allows computers to automatically learn and improve from experience without being explicitly programmed to do so.
@@ -100,6 +104,8 @@ Want to learn more about how software and application come together? Reading thr
 ---
 
 ## **3. Components of Machine Learning**
+
+🎥 [Udacity, Video Link](https://youtu.be/w0R0VnImVK8)
 
 Components of Machine Learning
 
@@ -211,6 +217,8 @@ Model inference algorithm
 
 ## **5. Introduction to Machine Learning Steps**
 
+🎥 [Udacity, Video Link](https://youtu.be/Q5N7JGTNBHg)
+
 Introduction to the Five Machine Learning Steps
 
 Steps of machine learning
@@ -228,6 +236,8 @@ Task List
 ---
 
 ## **6. Define the Problem**
+
+🎥 [Udacity, Video Link](https://youtu.be/DzhnpkXrRV4)
 
 Step One: Define the Problem
 
@@ -345,6 +355,8 @@ How might you change the scope or redefine the question to be better suited, and
 
 ## **8. Build a Dataset**
 
+🎥 [Udacity, Video Link](https://youtu.be/PIlWp3w936s)
+
 Step Two: Build a Dataset
 
 Summary
@@ -418,6 +430,8 @@ True or false: After you start using your model (performing inference), you don'
 
 ## **10. Model Training**
 
+🎥 [Udacity, Video Link](https://youtu.be/7x6fG0bA5q8)
+
 Step Three: Model Training
 
 You're ready to start training your first model.
@@ -475,27 +489,28 @@ Various neural network structures have been determined for modeling different ki
 
 A short (but not complete!) list of noteworthy examples includes:
 
-FFNN: The most straightforward way of structuring a neural network, the Feed Forward Neural Network (FFNN) structures neurons in a series of layers, with each neuron in a layer containing weights to all neurons in the previous layer.
-CNN: Convolutional Neural Networks (CNN) represent nested filters over grid-organized data. They are by far the most commonly used type of model when processing images.
-RNN/LSTM: Recurrent Neural Networks (RNN) and the related Long Short-Term Memory (LSTM) model types are structured to effectively represent for loops in traditional computing, collecting state while iterating over some object. They can be used for processing sequences of data.
-Transformer: A more modern replacement for RNN/LSTMs, the transformer architecture enables training over larger datasets involving sequences of data.
+- **FFNN**: The most straightforward way of structuring a neural network, the **Feed Forward Neural Network (FFNN)** structures neurons in a series of layers, with each neuron in a layer containing weights to all neurons in the previous layer.
+- **CNN: Convolutional Neural Networks (CNN)** represent nested filters over grid-organized data. They are by far the most commonly used type of model when processing images.
+- **RNN/LSTM: Recurrent Neural Networks (RNN)** and the related Long Short-Term Memory (LSTM) model types are structured to effectively represent for loops in traditional computing, collecting state while iterating over some object. They can be used for processing sequences of data.
+- **Transformer**: A more modern replacement for RNN/LSTMs, the transformer architecture enables training over larger datasets involving sequences of data.
+
 Machine Learning Using Python Libraries
 For more classical models (linear, tree-based) as well as a set of common ML-related tools, take a look at scikit-learn. The web documentation for this library is also organized for those getting familiar with space and can be a great place to get familiar with some extremely useful tools and techniques.
+
 For deep learning, mxnet, tensorflow, andpytorch are the three most common libraries. For the purposes of the majority of machine learning needs, each of these is feature-paired and equivalent.
-Terminology
-Hyperparameters are settings on the model which are not changed during training but can affect how quickly or how reliably the model trains, such as the number of clusters the model should identify.
 
-A loss function is used to codify the model’s distance from this goal
+### Terminology
 
-Training dataset: The data on which the model will be trained. Most of your data will be here.
+- **Hyperparameters** are settings on the model which are not changed during training but can affect how quickly or how reliably the model trains, such as the number of clusters the model should identify.
+- A **loss function** is used to codify the model’s distance from this goal
+- Training dataset: The data on which the model will be trained. Most of your data will be here.
+- **Test dataset**: The data withheld from the model during training, which is used to test how well your model will generalize to new data.
+- **Model parameters** are settings or configurations the training algorithm can update to change how the model behaves.
 
-Test dataset: The data withheld from the model during training, which is used to test how well your model will generalize to new data.
+### Additional reading
 
-Model parameters are settings or configurations the training algorithm can update to change how the model behaves.
-
-Additional reading
-The Wikipedia entry on the bias-variance trade-off can help you understand more about this common machine learning concept.
-In this AWS Machine Learning blog post, you can see how to train a machine-learning algorithm to predict the impact of weather on air quality using Amazon SageMaker.
+- The Wikipedia entry on the bias-variance trade-off can help you understand more about this common machine learning concept.
+- In this AWS Machine Learning blog post, you can see how to train a machine-learning algorithm to predict the impact of weather on air quality using Amazon SageMaker.
 
 ---
 
@@ -514,6 +529,8 @@ What makes hyperparameters different than model parameters? There may be more th
 ---
 
 ## **12. Model Evaluation**
+
+🎥 [Udacity, Video Link](https://youtu.be/B6_-J44L9gY)
 
 Step Four: Model Evaluation
 
@@ -579,6 +596,8 @@ Enter your response here, there's no right or wrong answer
 
 ## **14. Model Inference**
 
+🎥 [Udacity, Video Link](https://youtu.be/MfXyh1XaKSc)
+
 Step Five: Model Inference
 
 Summary
@@ -606,6 +625,8 @@ Model inference involves...
 
 ## **16. Introduction to Examples**
 
+🎥 [Udacity, Video Link](https://youtu.be/c5V4q-JtMJo)
+
 Introduction to Examples
 
 Through the remainder of the lesson, we will be walking through 3 different case study examples of machine learning tasks actually solving problems in the real world.
@@ -620,6 +641,8 @@ While this type of task is beyond the scope of this lesson, we wanted to show yo
 ---
 
 ## **17. Example One: House Price Prediction**
+
+🎥 [Udacity, Video Link](https://youtu.be/CY5PQ0aJ-ig)
 
 Example One: House Price Prediction
 
@@ -714,6 +737,8 @@ Enter your response here, there's no right or wrong answer
 
 ## **19. Example Two: Book Genre Exploration**
 
+🎥 [Udacity, Video Link](https://youtu.be/XP4-FOvlxVs)
+
 Example Two: Book Genre Exploration
 
 In this video, you saw how the machine learning process can be applied to an unsupervised machine learning task that uses book description text to identify different micro-genres.
@@ -805,6 +830,8 @@ True or false: An unsupervised learning approach is the only approach that can b
 ---
 
 ## **21. Example Three: Spill Detection from Video**
+
+🎥 [Udacity, Video Link](https://youtu.be/XP4-FOvlxVs)
 
 Example Three: Spill Detection from Video
 
@@ -901,6 +928,8 @@ In the Protecting people from hazardous areas through virtual boundaries with Co
 
 ## **22. Quiz: Example Three**
 
+🎥 [Udacity, Video Link]()
+
 Quiz: Example Three
 QUIZ QUESTION
 Now that you've seen a few examples, let's double-check our understanding of the process. Match each step with an action you might take during that step.
@@ -948,6 +977,8 @@ Supervised learning uses labeled data while training a model, and unsupervised l
 
 ## **24. Lesson Review**
 
+🎥 [Udacity, Video Link](https://youtu.be/Fbg0n4Q8Nfg)
+
 Lesson Review
 
 Congratulations on making it through the lesson. Let's review what you learning
@@ -967,75 +998,40 @@ Task List
 
 ## **25. Glossary**
 
-Glossary
-
-Bag of words: A technique used to extract features from the text. It counts how many times a word appears in a document (corpus), and then transforms that information into a dataset.
-
-A categorical label has a discrete set of possible values, such as "is a cat" and "is not a cat."
-
-Clustering. Unsupervised learning task that helps to determine if there are any naturally occurring groupings in the data.
-
-CNN: Convolutional Neural Networks (CNN) represent nested filters over grid-organized data. They are by far the most commonly used type of model when processing images.
-
-A continuous (regression) label does not have a discrete set of possible values, which means possibly an unlimited number of possibilities.
-
-Data vectorization: A process that converts non-numeric data into a numerical format so that it can be used by a machine learning model.
-
-Discrete: A term taken from statistics referring to an outcome taking on only a finite number of values (such as days of the week).
-
-FFNN: The most straightforward way of structuring a neural network, the Feed Forward Neural Network (FFNN) structures neurons in a series of layers, with each neuron in a layer containing weights to all neurons in the previous layer.
-
-Hyperparameters are settings on the model which are not changed during training but can affect how quickly or how reliably the model trains, such as the number of clusters the model should identify.
-
-Log loss is used to calculate how uncertain your model is about the predictions it is generating.
-
-Hyperplane: A mathematical term for a surface that contains more than two planes.
-
-Impute is a common term referring to different statistical tools which can be used to calculate missing values from your dataset.
-
-label refers to data that already contains the solution.
-
-loss function is used to codify the model’s distance from this goal
-
-Machine learning, or ML, is a modern software development technique that enables computers to solve problems by using examples of real-world data.
-
-Model accuracy is the fraction of predictions a model gets right. Discrete: A term taken from statistics referring to an outcome taking on only a finite number of values (such as days of the week). Continuous: Floating-point values with an infinite range of possible values. The opposite of categorical or discrete values, which take on a limited number of possible values.
-
-Model inference is when the trained model is used to generate predictions.
-
-model is an extremely generic program, made specific by the data used to train it.
-
-Model parameters are settings or configurations the training algorithm can update to change how the model behaves.
-
-Model training algorithms work through an interactive process where the current model iteration is analyzed to determine what changes can be made to get closer to the goal. Those changes are made and the iteration continues until the model is evaluated to meet the goals.
-
-Neural networks: a collection of very simple models connected together. These simple models are called neurons. The connections between these models are trainable model parameters called weights.
-
-Outliers are data points that are significantly different from others in the same sample.
-
-Plane: A mathematical term for a flat surface (like a piece of paper) on which two points can be joined by a straight line.
-
-Regression: A common task in supervised machine learning.
-
-In reinforcement learning, the algorithm figures out which actions to take in a situation to maximize a reward (in the form of a number) on the way to reaching a specific goal.
-
-RNN/LSTM: Recurrent Neural Networks (RNN) and the related Long Short-Term Memory (LSTM) model types are structured to effectively represent for loops in traditional computing, collecting state while iterating over some object. They can be used for processing sequences of data.
-
-Silhouette coefficient: A score from -1 to 1 describing the clusters found during modeling. A score near zero indicates overlapping clusters, and scores less than zero indicate data points assigned to incorrect clusters. A
-
-Stop words: A list of words removed by natural language processing tools when building your dataset. There is no single universal list of stop words used by all-natural language processing tools.
-
-In supervised learning, every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values.
-
-Test dataset: The data withheld from the model during training, which is used to test how well your model will generalize to new data.
-
-Training dataset: The data on which the model will be trained. Most of your data will be here.
-
-Transformer: A more modern replacement for RNN/LSTMs, the transformer architecture enables training over larger datasets involving sequences of data.
-
-In unlabeled data, you don't need to provide the model with any kind of label or solution while the model is being trained.
-
-In unsupervised learning, there are no labels for the training data. A machine learning algorithm tries to learn the underlying patterns or distributions that govern the data.
+- **Bag of words**: A technique used to extract features from the text. It counts how many times a word appears in a document (corpus), and then transforms that information into a dataset.
+- A **categorical label** has a discrete set of possible values, such as "is a cat" and "is not a cat."
+- **Clustering**. Unsupervised learning task that helps to determine if there are any naturally occurring groupings in the data.
+- **CNN: Convolutional Neural Networks**(CNN) represent nested filters over grid-organized data. They are by far the most commonly used type of model when processing images.
+- **A continuous (regression) label** does not have a discrete set of possible values, which means possibly an unlimited number of possibilities.
+- **Data vectorization**: A process that converts non-numeric data into a numerical format so that it can be used by a machine learning model.
+- **Discrete**: A term taken from statistics referring to an outcome taking on only a finite number of values (such as days of the week).
+- **FFNN**: The most straightforward way of structuring a neural network, the Feed Forward Neural Network (FFNN) structures neurons in a series of layers, with each neuron in a layer containing weights to all neurons in the previous layer.
+- **Hyperparameters** are settings on the model which are not changed during training but can affect how quickly or how reliably the model trains, such as the number of clusters the model should identify.
+- **Log** loss is used to calculate how uncertain your model is about the predictions it is generating.
+- **Hyperplane**: A mathematical term for a surface that contains more than two planes.
+- **Impute** is a common term referring to different statistical tools which can be used to calculate missing values from your dataset.
+- **label** refers to data that already contains the solution.
+- **loss function** is used to codify the model’s distance from this goal
+- **Machine learning**, or ML, is a modern software development technique that enables computers to solve problems by using examples of real-world data.
+- **Model accuracy** is the fraction of predictions a model gets right. Discrete: A term taken from statistics referring to an outcome taking on only a finite number of values (such as days of the week). Continuous: Floating-point values with an infinite range of possible values. The opposite of categorical or discrete values, which take on a limited number of possible values.
+- **Model inference** is when the trained model is used to generate predictions.
+- **model** is an extremely generic program, made specific by the data used to train it.
+- **Model parameters** are settings or configurations the training algorithm can update to change how the model behaves.
+- **Model training** algorithms work through an interactive process where the current model iteration is analyzed to determine what changes can be made to get closer to the goal. Those changes are made and the iteration continues until the model is evaluated to meet the goals.
+- **Neural networks**: a collection of very simple models connected together. These simple models are called neurons. The connections between these models are trainable model parameters called weights.
+- **Outliers** are data points that are significantly different from others in the same sample.
+- **Plane**: A mathematical term for a flat surface (like a piece of paper) on which two points can be joined by a straight line.
+- **Regression**: A common task in supervised machine learning.
+- In **reinforcement learning**, the algorithm figures out which actions to take in a situation to maximize a reward (in the form of a number) on the way to reaching a specific goal.
+- **RNN/LSTM**: Recurrent Neural Networks (RNN) and the related Long Short-Term Memory (LSTM) model types are structured to effectively represent for loops in traditional computing, collecting state while iterating over some object. They can be used for processing sequences of data.
+- **Silhouette coefficient**: A score from -1 to 1 describing the clusters found during modeling. A score near zero indicates overlapping clusters, and scores less than zero indicate data points assigned to incorrect clusters. A
+- **Stop words**: A list of words removed by natural language processing tools when building your dataset. There is no single universal list of stop words used by all-natural language processing tools.
+- In **supervised learning**, every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values.
+- **Test dataset**: The data withheld from the model during training, which is used to test how well your model will generalize to new data.
+- **Training dataset**: The data on which the model will be trained. Most of your data will be here.
+- **Transformer**: A more modern replacement for **RNN/LSTMs**, the transformer architecture enables training over larger datasets involving sequences of data.
+- In **unlabeled data**, you don't need to provide the model with any kind of label or solution while the model is being trained.
+- In **unsupervised learning**, there are no labels for the training data. A machine learning algorithm tries to learn the underlying patterns or distributions that govern the data.
 
 ---
 
