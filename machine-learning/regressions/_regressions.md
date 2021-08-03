@@ -50,7 +50,7 @@
 
 ## **9. Supervised Learning w/ Continuous Output**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/dkLEMSLTxvk)
 
 ---
 
