@@ -68,7 +68,7 @@
 
 ## **12. Slope Quiz**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/Kn9v0KGDsvc)
 
 ---
 
