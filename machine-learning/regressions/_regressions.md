@@ -26,7 +26,7 @@
 
 ## **5. Email Author: Continuous or Discrete**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/GD9Bpjm31co)
 
 ---
 
