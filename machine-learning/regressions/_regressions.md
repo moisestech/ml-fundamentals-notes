@@ -92,13 +92,13 @@
 
 ## **16. Handoff to Katie**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/M3Nwl_B_bZ8)
 
 ---
 
 ## **17. Coding It Up**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/BTFOf2qXy5U)
 
 ---
 
