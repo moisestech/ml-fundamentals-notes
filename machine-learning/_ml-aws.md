@@ -1,12 +1,14 @@
 # ML w/ AWS
 
-## Machine Learning with AWS
+## 🎓 [Udacity, ND065, Lesson 3, Machine Learning with AWS](https://classroom.udacity.com/nanodegrees/nd065/parts/a5a4c41f-9cc7-48bd-9f00-582f35a7da53/modules/885b116b-2ca3-453a-8df1-4ea4b436b5da/lessons/8b79bd0c-6a77-40bc-8f96-b669c36d6103/concepts/f5654891-eb15-4bcc-ac94-aaf812d0ac7d)
 
 ---
 
-## **1. Why AWS?**
+## **1. ML with AWS**
 
-🎥 [Udacity, Video Link]()
+### Why AWS?
+
+🎥 [Udacity, Video Link](https://youtu.be/ZBao7oT6BGs)
 
 The AWS achine learning mission is to put machine learning in the hands of every developer.
 
@@ -49,7 +51,7 @@ To learn more about AWS ML Training and Certification offerings, see Training an
 
 ## **2. Lesson Overview**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/Hx7y7JKNE2I)
 
 In this lesson, you'll get an introduction to machine learning (ML) with AWS and AWS AI devices: AWS DeepLens, AWS DeepComposer, and AWS DeepRacer. Learn the basics of computer vision with AWS DeepLens, race around a track and get familiar with reinforcement learning with AWS DeepRacer, and discover the power of generative AI by creating music using AWS DeepComposer.
 
@@ -69,8 +71,6 @@ Let's get started!
 ---
 
 ## **3. AWS Account Requirements**
-
-🎥 [Udacity, Video Link]()
 
 An AWS account is required
 To complete the exercises in this course, you need an AWS Account ID.
@@ -99,7 +99,7 @@ Task List
 
 ## **4. Computer Vision and Its Applications**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/LKV97Js0QFI)
 
 This section introduces you to common concepts in computer vision (CV), and explains how you can use AWS DeepLens to start learning with computer vision projects. By the end of this section, you will be able to explain how to create, train, deploy, and evaluate a trash-sorting project that uses AWS DeepLens.
 
@@ -150,7 +150,7 @@ Ready to get started? Check out the Getting started guide in the AWS DeepLens De
 
 ## **5. Computer Vision with AWS DeepLens**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/XIrF8m7xEuI)
 
 AWS DeepLens
 AWS DeepLens allows you to create and deploy end-to-end computer vision–based applications. The following video provides a brief introduction to how AWS DeepLens works and how it uses other AWS services.
@@ -186,7 +186,7 @@ You can buy an AWS DeepLens device on Amazon.com.
 
 ## **6. A Sample Project with AWS DeepLens**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/CZAtmy69_50)
 
 This section provides a hands-on demonstration of a project created as part of an AWS DeepLens sponsored hack-a-thon. In this project, we use an AWS DeepLens device to do an image classification–based task. We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.
 
@@ -245,8 +245,6 @@ Aws-Deeplens-Custom-Trash-Detector
 
 ## **7. Use the following image for quiz questions 1–3.**
 
-🎥 [Udacity, Video Link]()
-
 Image for a quiz
 Image for questions 1–3
 
@@ -281,7 +279,7 @@ What type of computer vision task is the trash-sorting project?
 
 ## **8. Reinforcement Learning and Its Applications**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/UVnjiIYLUsQ)
 
 This section introduces you to a type of machine learning (ML) called reinforcement learning (RL). You'll hear about its real-world applications and learn basic concepts using AWS DeepRacer as an example. By the end of the section, you will be able to create, train, and evaluate a reinforcement learning model in the AWS DeepRacer console.
 
@@ -327,7 +325,7 @@ Action: For every state, an agent needs to take an action toward achieving its g
 
 ## **9. Reinforcement Learning with AWS DeepRacer**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/li-lJe3QWds)
 
 Reinforcement Learning Concepts
 In this section, we’ll learn some basic reinforcement learning terms and concepts using AWS DeepRacer as an example.
@@ -423,9 +421,9 @@ If you're interested in tinkering with DeepRacer's open-source device software a
 
 ---
 
-Demo: Reinforcement Learning with AWS DeepRacer
+## **10. Demo: Reinforcement Learning with AWS DeepRacer**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/90VJxfnfR6c)
 
 Important
 
@@ -460,9 +458,7 @@ Once you've created a successful model, you'll learn how to enter it into a race
 
 ---
 
-Quiz: Reinforcement Learning
-
-🎥 [Udacity, Video Link]()
+## **11. Quiz: Reinforcement Learning**
 
 QUESTION 1 OF 5
 In which type of machine learning are models trained using labeled data?
@@ -494,10 +490,11 @@ Environment
 
 ---
 
-Exercise: Interpret the reward graph of your first AWS DeepRacer model
-Instructions
+## **12. AWS DeepRacer Reinforcement Learning Exercise**
 
-🎥 [Udacity, Video Link]()
+### Exercise: Interpret the reward graph of your first AWS DeepRacer model
+
+### Instructions
 
 Train a model in the AWS DeepRacer console and interpret its reward graph.
 
@@ -539,9 +536,7 @@ As you train and evaluate your first model, you'll want to get a sense of its qu
 
 ---
 
-Exercise Solution
-
-🎥 [Udacity, Video Link]()
+## **13.Exercise Solution: AWS DeepRacer**
 
 To get a sense of how well your training is going, watch the reward graph. Here is a list of its parts and what they do:
 
@@ -602,9 +597,9 @@ Remember: training experience helps both model and reinforcement learning practi
 
 ---
 
-Introduction to Generative AI
+## **14. Introduction to Generative AI**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/YziMYb9xA-g)
 
 Generative AI and Its Applications
 Generative AI is one of the biggest recent advancements in artificial intelligence because of its ability to create new things.
@@ -636,9 +631,9 @@ We won't cover this approach in this course but you can learn more about transfo
 
 ---
 
-Generative AI with AWS DeepComposer
+## **15. Generative AI with AWS DeepComposer**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/5bMSoN-m9Po)
 
 What is AWS DeepComposer?
 AWS DeepComposer gives you a creative and easy way to get started with machine learning (ML), specifically generative AI. It consists of a USB keyboard that connects to your computer to input melody and the AWS DeepComposer console, which includes AWS DeepComposer Music studio to generate music, learning capsules to dive deep into generative AI models, and AWS DeepComposer Chartbusters challenges to showcase your ML skills.
@@ -691,9 +686,9 @@ In the Advanced challenge, “Melody Harvest”, you train a custom generative A
 
 ---
 
-GANs with AWS DeepComposer
+## **16. GANs with AWS DeepComposer**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/urpSUKYMcn8)
 
 Summary
 We’ll begin our journey of popular generative models in AWS DeepComposer with generative adversarial networks or GANs. Within an AWS DeepComposer GAN, models are used to solve a creative task: adding accompaniments that match the style of an input track you provide. Listen to the input melody and the output composition created by the AWS DeepComposer GAN model:
@@ -746,9 +741,9 @@ Output Twinkle Twinkle Rock
 
 ---
 
-AR-CNN with AWS DeepComposer
+## **17. AR-CNN with AWS DeepComposer**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link](https://youtu.be/NkxWTTXM9pI)
 
 Summary
 Our next popular generative model is the autoregressive convolutional neural network (AR-CNN). Autoregressive convolutional neural networks make iterative changes over time to create new data.
@@ -772,9 +767,7 @@ Edit event: When a note is either added or removed from your input track during 
 
 ---
 
-Quiz: Generative AI
-
-🎥 [Udacity, Video Link]()
+## **18. Quiz: Generative AI**
 
 QUESTION 1 OF 4
 Which is the following statements is false in the context of AR-CNNs?
@@ -800,9 +793,10 @@ True or false: Loss functions help us determine when to stop training a model.
 
 ---
 
-Demo: Create Music with AWS DeepComposer
+## **19. Demo: Create Music with AWS DeepComposer**
 
-🎥 [Udacity, Video Link]()
+🎥 [Udacity, Video Link, Demo Part 1:](https://youtu.be/9ofSAkC_104)
+🎥 [Udacity, Video Link, Demo Part 2:](https://youtu.be/0-MSE1tCZ74)
 
 Below you find a video demonstrating how you can use AWS DeepComposer to experiment with GANs and AR-CNN models.
 
@@ -828,9 +822,7 @@ Congratulations on creating your first piece of music using AWS DeepComposer! No
 
 ---
 
-Exercise: Generate music with AWS DeepComposer
-
-🎥 [Udacity, Video Link]()
+## **20. Exercise: Generate music with AWS DeepComposer**
 
 You have seen how the instructor generates a piece of music in AWS DeepComposer. Now, it's your turn to create your very own piece of music. To finish this exercise, you should complete the following steps.
 
@@ -847,7 +839,7 @@ If you get stuck, you can check out the demo videos on Demo: Create Music with A
 
 ---
 
-Build a Custom GAN Model (Optional): Part 1
+## **21. Build a Custom GAN Model (Optional): Part 1**
 
 🎥 [Udacity, Video Link]()
 
@@ -936,9 +928,7 @@ Run the second Load Data cell to prepare the data.
 
 ---
 
-Build a Custom GAN Model (Optional): Part 2
-
-🎥 [Udacity, Video Link]()
+## **22. Build a Custom GAN Model (Optional): Part 2**
 
 To create the custom GAN, you will need to use an instance type that is not covered in the Amazon SageMaker free tier. You may incur a cost if you want to build a custom GAN.
 
@@ -1059,7 +1049,7 @@ In this demo we learned how to setup a Jupyter notebook in Amazon SageMaker, rev
 
 ---
 
-Lesson Review
+## **23. Lesson Review**
 
 🎥 [Udacity, Video Link]()
 
@@ -1083,23 +1073,19 @@ Explain the fundamentals of Generative AI, its applications, and three famous ge
 
 ---
 
-Glossary
+## **24. Glossary**
 
-🎥 [Udacity, Video Link]()
-
-Action: For every state, an agent needs to take an action toward achieving its goal.
-Agent: The piece of software you are training is called an agent. It makes decisions in an environment to reach a goal.
-Discriminator: A neural network trained to differentiate between real and synthetic data.
-Discriminator loss: Evaluates how well the discriminator differentiates between real and fake data.
-Edit event: When a note is either added or removed from your input track during inference.
-Environment: The environment is the surrounding area within which the agent interacts.
-Exploration versus exploitation: An agent should exploit known information from previous experiences to achieve higher cumulative rewards, but it also needs to explore to gain new experiences that can be used in choosing the best actions in the future.
-
-Generator: A neural network that learns to create new data resembling the source data on which it was trained.
-
-Generator loss: Measures how far the output data deviates from the real data present in the training dataset.
-Hidden layer: A layer that occurs between the output and input layers. Hidden layers are tailored to a specific task.
-Input layer: The first layer in a neural network. This layer receives all data that passes through the neural network.
-Output layer: The last layer in a neural network. This layer is where the predictions are generated based on the information captured in the hidden layers.
-Piano roll: A two-dimensional piano roll matrix that represents input tracks. Time is on the horizontal axis and pitch is on the vertical axis.
-Reward: Feedback is given to an agent for each action it takes in a given state. This feedback is a numerical reward.
+- **Action**: For every state, an agent needs to take an action toward achieving its goal.
+- **Agent**: The piece of software you are training is called an agent. It makes decisions in an environment to reach a goal.
+- **Discriminator**: A neural network trained to differentiate between real and synthetic data.
+- **Discriminator loss**: Evaluates how well the discriminator differentiates between real and fake data.
+- **Edit event**: When a note is either added or removed from your input track during inference.
+- **Environment**: The environment is the surrounding area within which the agent interacts.
+- **Exploration versus exploitation**: An agent should exploit known information from previous experiences to achieve higher cumulative rewards, but it also needs to explore to gain new experiences that can be used in choosing the best actions in the future.
+- **Generator**: A neural network that learns to create new data resembling the source data on which it was trained.
+- **Generator loss**: Measures how far the output data deviates from the real data present in the training dataset.
+- **Hidden layer**: A layer that occurs between the output and input layers. Hidden layers are tailored to a specific task.
+- **Input layer**: The first layer in a neural network. This layer receives all data that passes through the neural network.
+- **Output layer**: The last layer in a neural network. This layer is where the predictions are generated based on the information captured in the hidden layers.
+- **Piano roll**: A two-dimensional piano roll matrix that represents input tracks. Time is on the horizontal axis and pitch is on the vertical axis.
+- **Reward**: Feedback is given to an agent for each action it takes in a given state. This feedback is a numerical reward.
