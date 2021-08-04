@@ -1147,10 +1147,7 @@ Task List
 
 ## Foam Related Links
 
-- [[_svm]]
-- [[_regressions]]
-- [[_naive-bayes]]
-- [[_decision-tree]]
+- [[ml-algo]]
 
 - [[_datasets]]
 
