@@ -267,3 +267,5 @@
 - [[_scatterplot]]
 - [[_features]]
 - [[_claasification]]
+
+- **[[ml-algo]]**
