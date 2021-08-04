@@ -36,4 +36,4 @@
 
 ## Foam Related Links
 
-- [[_deep-learning]]
+- [[_nns]]
