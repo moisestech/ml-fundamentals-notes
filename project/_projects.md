@@ -10,4 +10,4 @@
 - [[_sent-predict]]
 - [[_enron-data]]
 - [[_choose-algo]]
-- [[_style-transfer]]
+- [[__style-transfer]]
