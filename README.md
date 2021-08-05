@@ -7,6 +7,7 @@
 - [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120/lessons/2410328539/concepts/30096788840923), **Udacity**
 - [Intro to Deep Learning w/ PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Intro to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
 - [Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893), **Udacity**
 - [Natural Language Processing](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892), **Udacity**
 - [Computer Vision](https://www.udacity.com/course/computer-vision-nanodegree--nd891), **Udacity**
