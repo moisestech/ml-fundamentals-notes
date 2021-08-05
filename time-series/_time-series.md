@@ -4,127 +4,127 @@
 
 ---
 
-## 1. **Meet Your Instructor**
+## **1. Meet Your Instructor**
 
 ---
 
-## 2. **Introduction**
+## **2. Introduction**
 
 ---
 
-## 3. **Applications**
+## **3. Applications**
 
 ---
 
-## 4. **Common Patterns**
+## **4. Common Patterns**
 
 ---
 
-## 5. **Colab: Common Patterns**
+## **5. Colab: Common Patterns**
 
 ---
 
-## 6. **Forecasting**
+## **6. Forecasting**
 
 ---
 
-## 7. **Colab: Naive Forecasting**
+## **7. Colab: Naive Forecasting**
 
 ---
 
-## 8. **Metrics**
+## **8. Metrics**
 
 ---
 
-## 9. **Colab: Moving Average**
+## **9. Colab: Moving Average**
 
 ---
 
-## 10.**Time Windows**
+## **10. Time Windows**
 
 ---
 
-## 11.**Colab: Time Windows**
+## **11. Colab: Time Windows**
 
 ---
 
-## 12.**Forecasting with Machine Learning**
+## **12. Forecasting with Machine Learning**
 
 ---
 
-## 13.**Colab: Forecasting with Machine Learning**
+## **13. Colab: Forecasting with Machine Learning**
 
 ---
 
-## 14.**RNNs**
+## **14. RNNs**
 
 ---
 
-## 15.**Recurrent Layer**
+## **15. Recurrent Layer**
 
 ---
 
-## 16.**Forecasting with an RNN**
+## **16. Forecasting with an RNN**
 
 ---
 
-## 17.**Back Propagation Through Time**
+## **17. Back Propagation Through Time**
 
 ---
 
-## 18.**Colab: Forecasting with RNNs**
+## **18. Colab: Forecasting with RNNs**
 
 ---
 
-## 19.**Stateless and Stateful RNNs**
+## **19. Stateless and Stateful RNNs**
 
 ---
 
-## 20.**Implementing a Stateful RNN**
+## **20. Implementing a Stateful RNN**
 
 ---
 
-## 21.**Colab: Forecasting with Stateful RNNs**
+## **21. Colab: Forecasting with Stateful RNNs**
 
 ---
 
-## 22.**LSTM Cells**
+## **22. LSTM Cells**
 
 ---
 
-## 23.**Implementing an LSTM**
+## **23. Implementing an LSTM**
 
 ---
 
-## 24.**Colab: Forecasting with LSTM**
+## **24. Colab: Forecasting with LSTM**
 
 ---
 
-## 25.**CNNs**
+## **25. CNNs**
 
 ---
 
-## 26.**Padding**
+## **26. Padding**
 
 ---
 
-## 27.**Stride**
+## **27. Stride**
 
 ---
 
-## 28.**Kernels**
+## **28. Kernels**
 
 ---
 
-## 29.**WaveNet**
+## **29. WaveNet**
 
 ---
 
-## 30.**Colab: Forecasting with CNNs**
+## **30. Colab: Forecasting with CNNs**
 
 ---
 
-## 31.**Outro**
+## **31. Outro**
 
 ---
 
