@@ -332,4 +332,4 @@ Start Quiz
 
 ## Foam Related Links
 
-- **[[ml-algo]]**
+- **[[supervised]]**
