@@ -1147,7 +1147,7 @@ Task List
 
 ## Foam Related Links
 
-- [[ml-algo]]
+- [[supervised]]
 
 - [[_datasets]]
 
