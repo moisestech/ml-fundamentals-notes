@@ -4,6 +4,10 @@
 
 ---
 
+🎥 [Udacity, Video Link]()
+
+---
+
 ## Foam Related Links
 
 - [[_rnns]]
