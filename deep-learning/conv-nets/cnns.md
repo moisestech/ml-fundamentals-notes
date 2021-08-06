@@ -6,29 +6,43 @@
 
 ## [**1. Interview with Sebastian**]
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **2. Introduction**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **3. Convolutions**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **4. Max Pooling**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
 ## **5. Recap**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **6. Colab: Fashion MNIST with CNNs**
 
+🎥 [Udacity, Video Link]()
+
 ---
 
 ## **7. Summary**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
