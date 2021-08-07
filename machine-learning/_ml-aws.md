@@ -1,6 +1,6 @@
 # ML w/ AWS
 
-## 🎓 [Udacity, ND065, Lesson 3, Machine Learning with AWS](https://classroom.udacity.com/nanodegrees/nd065/parts/a5a4c41f-9cc7-48bd-9f00-582f35a7da53/modules/885b116b-2ca3-453a-8df1-4ea4b436b5da/lessons/8b79bd0c-6a77-40bc-8f96-b669c36d6103/concepts/f5654891-eb15-4bcc-ac94-aaf812d0ac7d)
+## [🎓 Machine Learning with AWS, Udacity, Lesson 3, ND065](https://classroom.udacity.com/nanodegrees/nd065/parts/a5a4c41f-9cc7-48bd-9f00-582f35a7da53/modules/885b116b-2ca3-453a-8df1-4ea4b436b5da/lessons/8b79bd0c-6a77-40bc-8f96-b669c36d6103/concepts/f5654891-eb15-4bcc-ac94-aaf812d0ac7d)
 
 ---
 
