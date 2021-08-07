@@ -1,6 +1,6 @@
 # Gradient Descent
 
-## [Gradient Descent, Lesson , Udacity, UD]()
+## [🎓Gradient Descent, Lesson , Udacity, UD]()
 
 ---
 
