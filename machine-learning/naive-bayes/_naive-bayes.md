@@ -1,6 +1,6 @@
 # Naive Bayes
 
-## [Naive Bayes, Lesson 2, Udacity, UD120](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/29561391780923)
+## [🎓 Naive Bayes, Lesson 2, Udacity, UD120](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/29561391780923)
 
 ---
 
