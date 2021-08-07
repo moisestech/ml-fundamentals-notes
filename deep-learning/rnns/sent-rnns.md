@@ -1,6 +1,6 @@
 # Sent RNNs
 
-[Udacity, UD188, Lesson 8, Sentiment Analysis and Prediction](https://classroom.udacity.com/courses/ud188/lessons/2f4910ee-6d67-47df-97e2-f35db67cbc19/concepts/a8556c8d-3a22-4ed0-b232-ebc953269bd0)
+[🎓 Sentiment Analysis and Prediction, Lesson 8, Udacity, UD188](https://classroom.udacity.com/courses/ud188/lessons/2f4910ee-6d67-47df-97e2-f35db67cbc19/concepts/a8556c8d-3a22-4ed0-b232-ebc953269bd0)
 
 ---
 
