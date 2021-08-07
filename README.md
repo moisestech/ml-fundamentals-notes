@@ -32,7 +32,7 @@
 - [AWS ML Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/), **AWS**
 - [Kaggle Certification](https://www.kaggle.com/learn), **Kaggle**
 - [Data Camp Certification](https://www.datacamp.com/summerchallenge), **Data Camp**
-- [AWS Educate](www.awseducate.com)
+- [AWS Educate](https://www.awseducate.com), **AWS**
 
 ---
 
