@@ -1,6 +1,6 @@
 # Deep Learning
 
-[Udacity, Lesson]()
+[🎓 Deep Learning, Lesson , Udacity, UD]()
 
 ---
 
