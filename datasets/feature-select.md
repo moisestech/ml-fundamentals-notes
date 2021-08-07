@@ -1,6 +1,6 @@
 # Feature Select
 
-## [Feature Selection, Lesson 12, Udacity, UD120](https://classroom.udacity.com/courses/ud120/lessons/2948958577/concepts/30368385820923)
+## [🎓 Feature Selection, Lesson 12, Udacity, UD120](https://classroom.udacity.com/courses/ud120/lessons/2948958577/concepts/30368385820923)
 
 ---
 
