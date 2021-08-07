@@ -1,6 +1,6 @@
 # Outliers
 
-## [Outliers, Lesson 8, Udacity, UD120](https://classroom.udacity.com/courses/ud120/lessons/2269418543/concepts/28053085450923)
+## [🎓 Outliers, Lesson 8, Udacity, UD120](https://classroom.udacity.com/courses/ud120/lessons/2269418543/concepts/28053085450923)
 
 ---
 
