@@ -8,6 +8,35 @@
 
 ---
 
+---
+
+## Resources
+
+### TF GoogleIO 2021
+
+- [Google I/O 2021](https://events.google.com/io/session/4c81862b-95db-4a0a-94f0-61425fcec6f0?lng=en), **GoogleIO**
+- [Train TF models at cloud scale w/ TF Cloud](https://www.youtube.com/watch?v=v4OZzDlv3aI), **YouTube**
+- [ML Ops on Google Cloud](https://www.youtube.com/watch?v=tDZAiT6YNfo), **YouTube**
+- [Build and deploy a model w/ Vertex AI](https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models#0), **CodeLabs**
+- [TF Lite for Microcontrollers](https://experiments.withgoogle.com/collection/tfliteformicrocontrollers), **Experiments w/ Google**
+- [Build and deploy a custom object detection model w/ TensorFlow Lite (Android)](https://codelabs.developers.google.com/tflite-object-detection-android#0)
+- [Level Up - AI Coach - YouTube](https://www.youtube.com/watch?v=hH2kENvQe8s), **YouTube**
+- [TensorFlow Lite | ML for Mobile and Edge Devices](https://www.tensorflow.org/lite), **TensorFlow Website**
+- [Spotting and solving everyday problems w/ machine learning](https://www.youtube.com/watch?v=_1QtMPuYIVw), **YouTube**
+- [Level Up - AI Director - YouTube](https://www.youtube.com/watch?v=jIyM_qT9RZw), **YouTube**
+- [Level Up - Getting started w/ Coral Dev Board - YouTube](https://www.youtube.com/watch?v=-RpNI4ZrfIM), **YouTube**
+- [Beyond evaluation: Improving fairness w/ Model Remediation](https://www.youtube.com/watch?v=toPJiD1ha_4), **YouTube**
+- [What's new in Machine Learning](https://www.youtube.com/watch?v=qKkjCQlS1g4), **YouTube**
+- [Intro to Autoencoders | TensorFlow Core](https://www.tensorflow.org/tutorials/generative/autoencoder), **TensorFlow Website**
+- [TensorFlow.js Transfer Learning Image Classifier](https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab#0), **CodeLabs**
+- [TensorFlow.js: Convert a Python SavedModel to TensorFlow.js format](https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0), **CodeLabs**
+- [Make a smart webcam in JavaScript w/ a TensorFlow.js pre-trained Machine Learning model](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection#0), **CodeLabs**
+- [TensorFlow.js — Making Predictions from 2D Data](https://codelabs.developers.google.com/codelabs/tfjs-training-regression#0), **CodeLabs**
+- [TensorFlow.js — Handwritten digit recognition w/ CNNs](https://codelabs.developers.google.com/codelabs/tfjs-training-classfication#0), **CodeLabs**
+- [Building Trusted AI Products with the PAIR Guidebook](https://codelabs.developers.google.com/codelabs/pair-guidebook#0), **CodeLabs**
+
+---
+
 ## Foam Related Link
 
 - [[_nns]]
