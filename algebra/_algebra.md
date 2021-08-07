@@ -1,6 +1,6 @@
 # Algebra
 
-## [Algebra, Lesson , Udacity, UD]()
+## [🎓 Algebra, Lesson , Udacity, UD]()
 
 ---
 
