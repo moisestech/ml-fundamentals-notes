@@ -1,6 +1,6 @@
-# Sent RNN
+# Sent Predict
 
-## [Sentiment Recurrent Neural Networks, Lesson , Udacity, UD]()
+## [🎓 Sentiment Recurrent Neural Networks, Lesson , Udacity, UD]()
 
 ---
 
@@ -10,4 +10,4 @@
 
 ## Foam Related Links
 
--[[_rnns]]
+-[[_projects]]
