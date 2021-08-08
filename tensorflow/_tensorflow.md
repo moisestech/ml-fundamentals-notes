@@ -43,6 +43,9 @@
 50 Must Know Concepts,Algorithms in Machine Learning
 https://www.udemy.com/course/must-know-in-machine-learning/learn/lecture/16660786?start=0#content
 
+Simplified: All About Neural Networks
+https://www.udemy.com/course/simplified-all-about-neural-networks/learn/lecture/23938082?start=0#content
+
 ---
 
 ## Foam Related Link
