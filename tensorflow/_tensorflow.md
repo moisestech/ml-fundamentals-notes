@@ -58,6 +58,9 @@ https://www.udemy.com/course/machine-learning-linear-regression-absolute-fundame
 Augmented Data Visualization with Machine Learning
 https://www.udemy.com/course/machinelearning-analytics/learn/lecture/14125587?start=0#content
 
+AWS Certified Machine Learning Specialty 2021 - Hands On!
+https://www.udemy.com/course/aws-machine-learning/learn/lecture/16397664?start=0#content
+
 ---
 
 ## Foam Related Link
