@@ -64,6 +64,12 @@ https://www.udemy.com/course/aws-machine-learning/learn/lecture/16397664?start=0
 Machine Learning with Javascript
 https://www.udemy.com/course/machine-learning-with-javascript/learn/lecture/12076466?start=0#content
 
+AWS Certified Machine Learning Specialty Practice Exam
+https://www.udemy.com/course/aws-machine-learning-practice-exam/learn/quiz/4713424#content
+
+AWS Certified Machine Learning Specialty (MLS-C01)
+https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/learn/lecture/17424622?start=0#content
+
 ---
 
 ## Foam Related Link
