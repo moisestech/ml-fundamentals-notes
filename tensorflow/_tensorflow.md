@@ -35,6 +35,14 @@
 - [TensorFlow.js — Handwritten digit recognition w/ CNNs](https://codelabs.developers.google.com/codelabs/tfjs-training-classfication#0), **CodeLabs**
 - [Building Trusted AI Products with the PAIR Guidebook](https://codelabs.developers.google.com/codelabs/pair-guidebook#0), **CodeLabs**
 
+### Udemy Courses
+
+- [Object Detect wi/ TensorFlow, React, Mongo, Typescript](https://www.udemy.com/course-dashboard-redirect/?course_id=3682704), **Udemy**, _Eugene Maksymenko_
+- [Generative A.I., from GANs to CLIP, w/ PyTorch](https://www.udemy.com/course-dashboard-redirect/?course_id=4033434), **Udemy**, _Javier Ideami_
+
+50 Must Know Concepts,Algorithms in Machine Learning
+https://www.udemy.com/course/must-know-in-machine-learning/learn/lecture/16660786?start=0#content
+
 ---
 
 ## Foam Related Link
