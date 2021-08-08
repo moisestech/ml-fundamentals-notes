@@ -55,6 +55,9 @@ https://www.udemy.com/course/machine-learning-one-hour/learn/lecture/20439617?st
 Linear Regression: Absolute Fundamentals
 https://www.udemy.com/course/machine-learning-linear-regression-absolute-fundamentals/learn/lecture/20990298?start=0#content
 
+Augmented Data Visualization with Machine Learning
+https://www.udemy.com/course/machinelearning-analytics/learn/lecture/14125587?start=0#content
+
 ---
 
 ## Foam Related Link
