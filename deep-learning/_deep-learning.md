@@ -8,6 +8,14 @@
 
 ---
 
+## Resources
+
+### Courses
+
+- [Transformer Models](https://huggingface.co/course/chapter1), **HuggingFace**
+
+---
+
 ## Foam Related Links
 
 - [[_rnns]]
