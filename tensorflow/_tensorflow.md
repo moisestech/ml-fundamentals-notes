@@ -20,11 +20,11 @@
 - [Build and deploy a model w/ Vertex AI](https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models#0), **CodeLabs**
 - [TF Lite for Microcontrollers](https://experiments.withgoogle.com/collection/tfliteformicrocontrollers), **Experiments w/ Google**
 - [Build and deploy a custom object detection model w/ TensorFlow Lite (Android)](https://codelabs.developers.google.com/tflite-object-detection-android#0)
-- [Level Up - AI Coach - YouTube](https://www.youtube.com/watch?v=hH2kENvQe8s), **YouTube**
+- [Level Up - AI Coach](https://www.youtube.com/watch?v=hH2kENvQe8s), **YouTube**
 - [TensorFlow Lite | ML for Mobile and Edge Devices](https://www.tensorflow.org/lite), **TensorFlow Website**
 - [Spotting and solving everyday problems w/ machine learning](https://www.youtube.com/watch?v=_1QtMPuYIVw), **YouTube**
-- [Level Up - AI Director - YouTube](https://www.youtube.com/watch?v=jIyM_qT9RZw), **YouTube**
-- [Level Up - Getting started w/ Coral Dev Board - YouTube](https://www.youtube.com/watch?v=-RpNI4ZrfIM), **YouTube**
+- [Level Up - AI Director](https://www.youtube.com/watch?v=jIyM_qT9RZw), **YouTube**
+- [Level Up - Getting started w/ Coral Dev Board](https://www.youtube.com/watch?v=-RpNI4ZrfIM), **YouTube**
 - [Beyond evaluation: Improving fairness w/ Model Remediation](https://www.youtube.com/watch?v=toPJiD1ha_4), **YouTube**
 - [What's new in Machine Learning](https://www.youtube.com/watch?v=qKkjCQlS1g4), **YouTube**
 - [Intro to Autoencoders | TensorFlow Core](https://www.tensorflow.org/tutorials/generative/autoencoder), **TensorFlow Website**
