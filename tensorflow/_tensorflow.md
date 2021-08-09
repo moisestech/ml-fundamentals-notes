@@ -62,6 +62,8 @@
 - [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/l)
 - [Artificial & Machine Learning for AnyBody, Everybody and All](https://www.udemy.com/course/teach-a-machine-to-learn-to-recognize-images-audio-and-pose/)
 - [Deep Learning, Transfer Learning and Turtles](https://www.udemy.com/course/deep-learning-transfer-learning-and-turtles/)
+- [Data Analysis Real world use-cases- Hands on Python](https://www.udemy.com/course/data-analysis-real-world-use-cases-hands-on-python/)
+- [Artificial Intelligence and Machine Learning Made Simple](https://www.udemy.com/course/ai-made-simple-for-everyone/)
 
 ---
 
