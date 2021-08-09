@@ -55,6 +55,10 @@
 - [TensorFlow JS - Build Machine Learning Projects using JS](https://www.udemy.com/course/tensorflow-js-build-machine-learning-projects-using-js/learn/lecture/22759387?start=0#content)
 - [Python AI and Machine Learning for Production & Development](https://www.udemy.com/course/techlatestnet-ai-ml/learn/lecture/16104909?start=0#content)
 - [Deep Learning Prerequisites: The Numpy Stack in Python V2](https://www.udemy.com/course/numpy-python/learn/lecture/19394354?start=0#content)
+- [Python for Data Science](https://www.udemy.com/course/top-python-for-data-science-course/)
+- [Deploy Computer Vision Flask Web App using Python in CLOUD](https://www.udemy.com/course/deploy-image-classification-flask-web-app-in-pythonanywhere/)
+- [Machine Learning Real World projects in Python](https://www.udemy.com/course/machine-learning-real-world-projects-in-python/)
+- [Machine Learning & Deep Learning in Python & R](https://www.udemy.com/course/data_science_a_to_z/)
 
 ---
 
