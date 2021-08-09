@@ -89,8 +89,13 @@
 - [Pandas with Python for Data Science](https://www.udemy.com/course/pandas-with-python-for-data-science-examturf/)
 - [Time Series Analysis and Forecasting using Python](https://www.udemy.com/course/machine-learning-time-series-forecasting-in-python/)
 - [Deep Learning Bootcamp with 4 Capstone Projects](https://www.udemy.com/course/deep-learning-machine-learning/)
-- [Natural Language Processing: NLP In Python with Projects]
-  (https://www.udemy.com/course/nlp-bootcamp-machine-learning-deep-learning/)
+- [Natural Language Processing: NLP In Python with Projects](https://www.udemy.com/course/nlp-bootcamp-machine-learning-deep-learning/)
+- [Decision Trees, Random Forests, AdaBoost & XGBoost in Pyth…](https://www.udemy.com/course/machine-learning-advanced-decision-trees-in-python/)
+- [Complete Linear Regression Analysis in Python](https://www.udemy.com/course/machine-learning-basics-building-regression-model-in-python/)
+- [Data Analytics A-Z with Python](https://www.udemy.com/course/dataanalyticsa-zwithpython/)
+- [Machine Learning - Regression and Classification (math Inc.)](https://www.udemy.com/course/machine-learning-regression-and-classification-math-inc/)
+- [Essential Non Technical Skills of Effective Data Scientists](https://www.udemy.com/course/essential-non-technical-skills-of-effective-data-scientists/)
+- [Web Scraping with Beautiful Soup for Data Science](https://www.udemy.com/course/web-scraping-with-beautiful-soup-for-data-science/)
 
 ---
 
