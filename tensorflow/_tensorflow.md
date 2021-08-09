@@ -84,6 +84,8 @@
 - [SQL for Data Analysis and Data Science in 2021](https://www.udemy.com/course/sql-course-for-data-science)
 - [Data Visualization & Data Wrangling Masterclass with Python](https://www.udemy.com/course/data-visualization-wrangling-python/)
 - [Big Data Complete Course](https://www.udemy.com/course/big-data-complete-course/learn/lecture/27513528?start=0#content)
+- [Python Data Visualization using Seaborn – Advanced](https://www.udemy.com/course/python-data-visualization-using-seaborn-advanced-examturf/)
+- [Machine Learning with SciKit-Learn with Python](https://www.udemy.com/course/machine-learning-with-scikit-learn-with-python-examturf/)
 
 ---
 
