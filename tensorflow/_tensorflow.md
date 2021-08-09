@@ -73,6 +73,12 @@
 - [Exploratory Data Analysis (EDA) for Machine Learning](https://www.udemy.com/course/exploratory-data-analysis-for-ml/)
 - [Mastering Time Series Forecasting with Python](https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/)
 - [Pandas Masterclass: Advanced Data Analysis with Pandas](https://www.udemy.com/course/pandas-python/)
+- [Data Analytics Real-World Projects in Python](https://www.udemy.com/course/data-analytics-projects-python/)
+- [Predicting Diabetes on Diagnostic using Machine Learning](https://www.udemy.com/course/predicting-diabetes-on-diagnostic-using-machine-learning-examturf/)
+- [Tensorflow with Python](https://www.udemy.com/course/tensorflow-with-python-examturf/)
+- [Python-Introduction to Data Science and Machine learning A-Z](https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/)
+- [70+ Exercises - Python Programming - Data Science - NumPy](https://www.udemy.com/course/numpy-and-recursion-in-python/)
+- [Natural Language Processing Real-World Projects in Python](https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/)
 
 ---
 
