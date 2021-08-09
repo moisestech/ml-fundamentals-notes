@@ -52,6 +52,8 @@
 - [AWS SageMaker Practical for Beginners | Build 6 Projects](https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/)
 - [AWS Machine Learning Certification Exam | Complete Guide](https://www.udemy.com/course/amazon-web-services-machine-learning/)
 - [Machine Learning in JavaScript with TensorFlow.js](https://www.udemy.com/course/machine-learning-in-javascript-with-tensorflow-js/learn/lecture/15381100?start=0#content)
+- [TensorFlow JS - Build Machine Learning Projects using JS](https://www.udemy.com/course/tensorflow-js-build-machine-learning-projects-using-js/learn/lecture/22759387?start=0#content)
+- [Python AI and Machine Learning for Production & Development](https://www.udemy.com/course/techlatestnet-ai-ml/learn/lecture/16104909?start=0#content)
 
 ---
 
