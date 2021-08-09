@@ -44,9 +44,7 @@
 - [Implementation of ML Algorithm Using Pyth…Implementation of ML Algorithm Using Python](https://www.udemy.com/course/implementation-of-ml-algorithm-using-python/learn/lecture/22766701?start=0#content)
 - [Practical Machine Learning with Scikit-Learn](https://www.udemy.com/course/machine-learning-one-hour/learn/lecture/20439617?start=0#content)
 - [Linear Regression: Absolute Fundamentals](https://www.udemy.com/course/machine-learning-linear-regression-absolute-fundamentals/learn/lecture/20990298?start=0#content)
-
-Augmented Data Visualization with Machine Learning
-https://www.udemy.com/course/machinelearning-analytics/learn/lecture/14125587?start=0#content
+- [Augmented Data Visualization with Machine Learning](https://www.udemy.com/course/machinelearning-analytics/learn/lecture/14125587?start=0#content)
 
 AWS Certified Machine Learning Specialty 2021 - Hands On!
 https://www.udemy.com/course/aws-machine-learning/learn/lecture/16397664?start=0#content
