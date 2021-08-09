@@ -59,6 +59,7 @@
 - [Deploy Computer Vision Flask Web App using Python in CLOUD](https://www.udemy.com/course/deploy-image-classification-flask-web-app-in-pythonanywhere/)
 - [Machine Learning Real World projects in Python](https://www.udemy.com/course/machine-learning-real-world-projects-in-python/)
 - [Machine Learning & Deep Learning in Python & R](https://www.udemy.com/course/data_science_a_to_z/)
+- [Learn Machine learning & AI (Including Hands-on 3 Projects)](https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/learn/lecture/22374358?start=0#content)
 
 ---
 
