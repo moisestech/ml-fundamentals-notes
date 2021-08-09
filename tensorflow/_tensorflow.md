@@ -89,6 +89,8 @@
 - [Pandas with Python for Data Science](https://www.udemy.com/course/pandas-with-python-for-data-science-examturf/)
 - [Time Series Analysis and Forecasting using Python](https://www.udemy.com/course/machine-learning-time-series-forecasting-in-python/)
 - [Deep Learning Bootcamp with 4 Capstone Projects](https://www.udemy.com/course/deep-learning-machine-learning/)
+- [Natural Language Processing: NLP In Python with Projects]
+  (https://www.udemy.com/course/nlp-bootcamp-machine-learning-deep-learning/)
 
 ---
 
