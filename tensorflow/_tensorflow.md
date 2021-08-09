@@ -39,9 +39,7 @@
 
 - [Object Detect wi/ TensorFlow, React, Mongo, Typescript](https://www.udemy.com/course-dashboard-redirect/?course_id=3682704), **Udemy**, _Eugene Maksymenko_
 - [Generative A.I., from GANs to CLIP, w/ PyTorch](https://www.udemy.com/course-dashboard-redirect/?course_id=4033434), **Udemy**, _Javier Ideami_
-
-50 Must Know Concepts,Algorithms in Machine Learning
-https://www.udemy.com/course/must-know-in-machine-learning/learn/lecture/16660786?start=0#content
+- [50 Must Know Concepts,Algorithms in Machine Learning](https://www.udemy.com/course/must-know-in-machine-learning/learn/lecture/16660786?start=0#content)
 
 Simplified: All About Neural Networks
 https://www.udemy.com/course/simplified-all-about-neural-networks/learn/lecture/23938082?start=0#content
