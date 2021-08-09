@@ -79,6 +79,8 @@
 - [Python-Introduction to Data Science and Machine learning A-Z](https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/)
 - [70+ Exercises - Python Programming - Data Science - NumPy](https://www.udemy.com/course/numpy-and-recursion-in-python/)
 - [Natural Language Processing Real-World Projects in Python](https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/)
+- [Artificial Intelligence in App Creation: Beginners Edition](https://www.udemy.com/course/artificial-intelligence-in-app-creation-beginners-edition/)
+- [Machine Learning- From Basics to Advanced](https://www.udemy.com/course/step-by-step-guide-to-machine-learning-course/)
 
 ---
 
