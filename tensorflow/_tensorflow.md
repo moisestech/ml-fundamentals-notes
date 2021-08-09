@@ -50,6 +50,7 @@
 - [AWS Certified Machine Learning Specialty Practice Exam](https://www.udemy.com/course/aws-machine-learning-practice-exam/learn/quiz/4713424#content)
 - [AWS Certified Machine Learning Specialty (MLS-C01)](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/learn/lecture/17424622?start=0#content)
 - [AWS SageMaker Practical for Beginners | Build 6 Projects](https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/)
+- [AWS Machine Learning Certification Exam | Complete Guide](https://www.udemy.com/course/amazon-web-services-machine-learning/)
 
 ---
 
