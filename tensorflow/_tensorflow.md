@@ -64,6 +64,10 @@
 - [Deep Learning, Transfer Learning and Turtles](https://www.udemy.com/course/deep-learning-transfer-learning-and-turtles/)
 - [Data Analysis Real world use-cases- Hands on Python](https://www.udemy.com/course/data-analysis-real-world-use-cases-hands-on-python/)
 - [Artificial Intelligence and Machine Learning Made Simple](https://www.udemy.com/course/ai-made-simple-for-everyone/)
+- [Master Python With NumPy For Data Science & Machine Learn…Master Python With NumPy For Data Science & Machine Learning](https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/)
+- [Machine Learning Interview Questions & Answers](https://www.udemy.com/course/machine-learning-interview-questions-and-answers/)
+- [https://www.udemy.com/course/tensorflow-interview-questions-and-answers/](https://www.udemy.com/course/tensorflow-interview-questions-and-answers/)
+- [Time Series Analysis Real World Projects in Python](https://www.udemy.com/course/time-series-analysis-real-world-projects-in-python/)
 
 ---
 
