@@ -81,6 +81,9 @@
 - [Natural Language Processing Real-World Projects in Python](https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/)
 - [Artificial Intelligence in App Creation: Beginners Edition](https://www.udemy.com/course/artificial-intelligence-in-app-creation-beginners-edition/)
 - [Machine Learning- From Basics to Advanced](https://www.udemy.com/course/step-by-step-guide-to-machine-learning-course/)
+- [SQL for Data Analysis and Data Science in 2021](https://www.udemy.com/course/sql-course-for-data-science)
+- [Data Visualization & Data Wrangling Masterclass with Python](https://www.udemy.com/course/data-visualization-wrangling-python/)
+- [Big Data Complete Course](https://www.udemy.com/course/big-data-complete-course/learn/lecture/27513528?start=0#content)
 
 ---
 
