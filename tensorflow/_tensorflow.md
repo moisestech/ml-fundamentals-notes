@@ -86,6 +86,9 @@
 - [Big Data Complete Course](https://www.udemy.com/course/big-data-complete-course/learn/lecture/27513528?start=0#content)
 - [Python Data Visualization using Seaborn – Advanced](https://www.udemy.com/course/python-data-visualization-using-seaborn-advanced-examturf/)
 - [Machine Learning with SciKit-Learn with Python](https://www.udemy.com/course/machine-learning-with-scikit-learn-with-python-examturf/)
+- [Pandas with Python for Data Science](https://www.udemy.com/course/pandas-with-python-for-data-science-examturf/)
+- [Time Series Analysis and Forecasting using Python](https://www.udemy.com/course/machine-learning-time-series-forecasting-in-python/)
+- [Deep Learning Bootcamp with 4 Capstone Projects](https://www.udemy.com/course/deep-learning-machine-learning/)
 
 ---
 
