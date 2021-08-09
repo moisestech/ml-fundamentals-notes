@@ -68,6 +68,11 @@
 - [Machine Learning Interview Questions & Answers](https://www.udemy.com/course/machine-learning-interview-questions-and-answers/)
 - [https://www.udemy.com/course/tensorflow-interview-questions-and-answers/](https://www.udemy.com/course/tensorflow-interview-questions-and-answers/)
 - [Time Series Analysis Real World Projects in Python](https://www.udemy.com/course/time-series-analysis-real-world-projects-in-python/)
+- [Bootcamp of Data Science with Python [+250 exercises][A-Z]](https://www.udemy.com/course/bootcamp-data-science-with-python/)
+- [Machine Learning Bootcamp: SVM,Kmeans,KNN,LinReg,PCA,DBS](https://www.udemy.com/course/smtbm-ml-py/)
+- [Exploratory Data Analysis (EDA) for Machine Learning](https://www.udemy.com/course/exploratory-data-analysis-for-ml/)
+- [Mastering Time Series Forecasting with Python](https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/)
+- [Pandas Masterclass: Advanced Data Analysis with Pandas](https://www.udemy.com/course/pandas-python/)
 
 ---
 
