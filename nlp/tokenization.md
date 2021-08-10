@@ -93,6 +93,25 @@ Word Embeddings and Sentiment
 
 🎥 [Udacity, Video Link](https://youtu.be/pW8db9sLRbM)
 
+There are a number of ways in which you might improve the sentiment analysis model we’ve built already:
+
+Data and preprocessing-based approaches
+More data
+Adjusting vocabulary size (make sure to consider the overall size of the corpus!)
+Adjusting sequence length (more or less padding or truncation)
+Whether to pad or truncate pre or post (usually less of an effect than the others)
+Model-based approaches
+Adjust the number of embedding dimensions
+Changing use of Flatten vs. GlobalAveragePooling1D
+Considering other layers like Dropout
+Adjusting the number of nodes in intermediate fully-connected layers
+These are just some of the potential things you might tweak to better predict sentiment from text.
+
+Tweaking the Model Quiz
+Even with these potential tweaks, do you think there is anything the models still are missing that could improve performance?
+
+Enter your response here, there's no right or wrong answer
+
 ---
 
 ## **15. Colab: Tweaking the Model**
