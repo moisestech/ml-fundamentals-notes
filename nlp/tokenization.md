@@ -59,6 +59,11 @@ Tokenizing Text
 
 🎥 [Udacity, Video Link](https://youtu.be/zcT84FBe8Rc)
 
+Colab Notebook
+To access the Colab Notebook, login to your Google account and click on the link below:
+
+Tokenize and Sequence a Larger Corpus of Text
+
 ---
 
 ## **10. Word Embeddings**
