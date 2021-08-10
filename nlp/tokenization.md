@@ -118,6 +118,22 @@ Tweaking the Model
 ## **18. Lesson Conclusion**
 
 🎥 [Udacity, Video Link](https://youtu.be/rwIF6t4CFFg)
+You’ve already learned an amazing amount of material on Natural Language Processing with TensorFlow in this lesson.
+
+You started with Tokenization by:
+
+Tokenizing input text
+Creating and padding sequences
+Incorporating out of vocabulary words
+Generalizing tokenization and sequence methods to real world datasets
+From there, you moved onto Embeddings, where you:
+
+transformed tokenized sequences into embeddings
+developed a basic sentiment analysis model
+visualized the embeddings vector
+tweaked hyperparameters of the model to improve it
+and diagnosed potential issues with using pre-trained subword tokenizers when the network doesn’t have sequence context
+In the next lesson, you’ll dive into Recurrent Neural Networks, which will be able to understand the sequence of inputs, and you'll learn how to generate new text.
 
 ---
 
