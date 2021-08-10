@@ -112,6 +112,7 @@ Tweaking the Model
 ## **17. Colab: What's in a (sub)word?**
 
 🎥 [Udacity, Video Link](https://youtu.be/8ARUNInoDrk)
+
 Colab Notebook
 To access the Colab Notebook, login to your Google account and click on the link below:
 
