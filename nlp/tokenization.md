@@ -19,12 +19,68 @@
 ## **3. Lesson Outline**
 
 🎥 [Udacity, Video Link](https://youtu.be/uOB5jKoO1No)
+Lesson Outline
+
+In the first lesson on Natural Language Processing with TensorFlow, we’ll focus on Tokenization and Embeddings, which will help convert input text into useful data for input into the neural network layers you’ve seen before.
+
+In the second lesson, we’ll dive into Recurrent Neural Networks (such as the LSTMs you saw in the Time Series Analysis lesson) as well as Text Generation, which allows for the creation of new text.
 
 ---
 
 ## **4. Tokenizing Text**
 
 🎥 [Udacity, Video Link](https://youtu.be/7u_ZUlh4gu0)
+
+Neural networks utilize numbers as their inputs, so we need to convert our input text into numbers. Tokenization is the process of assigning numbers to our inputs, but there is more than one way to do this - should each letter have its own numerical token, each word, phrase, etc.
+
+As you saw in the video, tokenizing based on letters with our current neural networks doesn’t always work so well - anagrams, for instance, may be made up of the same letters but have vastly different meanings. So, in our case, we’ll start by tokenizing each individual word.
+
+Tokenizer
+With TensorFlow, this is done easily through use of a Tokenizer, found within tf.keras.preprocessing.text. If you wanted only the first 10 most common words, you could initialize it like so:
+
+tokenizer = Tokenizer(num_words=10)
+Fit on Texts
+Then, to fit the tokenizer to your inputs (in the below case a list of strings called sentences), you use .fit_on_texts():
+
+tokenizer.fit_on_texts(sentences)
+Text to Sequences
+From there, you can use the tokenizer to convert sentences into tokenized sequences:
+
+tokenizer.texts_to_sequences(sentences)
+Out of Vocabulary Words
+However, new sentences may have new words that the tokenizer was not fit on. By default, the tokenizer will just ignore these words and not include them in the tokenized sequences. However, you can also add an “out of vocabulary”, or OOV, token to represent these words. This has to be specified when originally creating the Tokenizer object.
+
+tokenizer = Tokenizer(num_words=20, oov_token=’OOV’)
+Viewing the Word Index
+Lastly, if you want to see how the tokenizer has mapped numbers to words, use the tokenizer.word_index property to see this mapping.
+
+QUESTION 1 OF 2
+Match the different words below that would have the exact same letter-based embeddings. As a hint, look for words that are anagrams.
+
+WORD 1
+
+WORD 2
+
+silent
+
+burned
+
+infests
+
+looped
+
+QUESTION 2 OF 2
+Which of the following would be an appropriate tokenization of the below two sentences?
+
+The person ran quickly.
+
+The car drove quickly to the bank.
+
+Further Research
+Many NLP models get trained on very large text corpuses to avoid having too many OOV words. Below are a couple of great resources for finding datasets that you might find useful on your NLP journey:
+
+A popular Github repo for NLP datasets
+Google's newly public dataset search
 
 ---
 
@@ -41,9 +97,26 @@ Tokenizing Text
 
 🎥 [Udacity, Video Link](https://youtu.be/bn_ou4GPkB4)
 
+Even after converting sentences to numerical values, there’s still an issue of providing equal length inputs to our neural networks - not every sentence will be the same length!
+
+There’s two main ways you can process the input sentences to achieve this - padding the shorter sentences with zeroes, and truncating some of the longer sequences to be shorter. In fact, you’ll likely use some combination of these.
+
+With TensorFlow, the pad_sequences function from tf.keras.preprocessing.sequence can be used for both of these tasks. Given a list of sequences, you can specify a maxlen (where any sequences longer than that will be cut shorter), as well as whether to pad and truncate from either the beginning or ending, depending on pre or post settings for the padding and truncating arguments. By default, padding and truncation will happen from the beginning of the sequence, so set these to post if you want it to occur at the end of the sequence.
+
+If you wanted to pad and truncate from the beginning, you could use the following:
+
+padded = pad_sequences(sequences, maxlen=10)
+Further Research
+Head here if you’d like to check out the full TensorFlow documentation for pad_sequences.
+
 ---
 
 ## **7. Colab: Preparing Text to Use with TensorFlow Models**
+
+Colab Notebook
+To access the Colab Notebook, login to your Google account and click on the link below:
+
+Preparing Text to Use with TensorFlow Models
 
 🎥 [Udacity, Video Link](https://youtu.be/kkdoQx8S_sQ)
 
@@ -52,6 +125,18 @@ Tokenizing Text
 ## **8. Tokenization of Large Datasets**
 
 🎥 [Udacity, Video Link](https://youtu.be/hPLWdUmtuwM)
+
+Everything you have learned previously applies fairly similarly to larger datasets. In many cases, you’ll want to be even more focused on the total number of words used with the Tokenizer, as well as understanding the right sequence length to create from pad_sequences.
+
+In the upcoming Colab, we’ll use portions of a Sentiment Analysis Dataset on Kaggle that contains both Amazon product and Yelp restaurant reviews.
+
+QUIZ QUESTION
+When specifying num_words in the Tokenizer, if set at 1,000:
+
+Only the most common 1,000 words are kept
+
+Further Research
+Once again, it can be useful to check out Google’s Dataset Search to find large datasets to work with, and Kaggle also has a wide variety of datasets available for use.
 
 ---
 
