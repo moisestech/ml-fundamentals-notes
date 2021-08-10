@@ -65,11 +65,45 @@ Tokenizing Text
 
 🎥 [Udacity, Video Link](https://youtu.be/xQzKJgNQRK0)
 
+Embeddings are clusters of vectors in multi-dimensional space, where each vector represents a given word in those dimensions. While it’s difficult for us humans to think in many dimensions, luckily the TensorFlow Projector makes it fairly easy for us to view these clusters in a 3D projection (later Colabs will generate the necessary files for use with the projection tool).
+
+This can be very useful for sentiment analysis models, where you’d expect to see clusters around either more positive or more negative sentiment associated with each word.
+
+An example embedding projection, post-training. Negative sentiment words are separated quite distinctly from positive sentiment words, such as “incredible”.
+An example of a post-training embedding projection, with clear distinctions between positive and negative sentiments.
+
+QUIZ QUESTION
+Match the below words to their most likely sentiments.
+
+WORD
+
+SENTIMENT
+
+Amazing
+
+Dog
+
+Terrible
+
+Further Research
+If you want to learn more on why word embeddings are used in NLP, check out this useful post.
+
 ---
 
 ## **11. Building a Basic Sentiment Model**
 
 🎥 [Udacity, Video Link](https://youtu.be/-g5Tqsna8yE)
+
+We’ve given you the code to create the files for input into the projector. This will download two files: 1) the vectors, and 2) the metadata.
+
+The projector will already come with a pre-loaded visualization, so you’ll need to use the “Load” button on the left and upload each of the two files. In some cases, there may be a small difference in the number of tensors present in the vector file and the metadata file (usually with a message appearing after uploading the metadata); if this appears, wait for a few seconds for the error message to disappear, and then click outside the window. Typically, the visualization will still load just fine.
+
+Make sure to click the checkbox for “Sphereize data”, which will better show whether there is separation between positive and negative sentiment (or not).
+
+Visualizing Embeddings Quiz
+In your own words, why might being able to visualize word embeddings be useful?
+
+Enter your response here, there's no right or wrong answer
 
 ---
 
