@@ -8,11 +8,40 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/vSFJ3mDpgrI)
 
+We’re happy to have you here to learn about Natural Language Processing with TensorFlow!
+
+Jocelyn is a Developer Advocate for the TensorFlow team at Google, and started her tech career in AI.
+
+Michael is a Curriculum Manager at Udacity, and first began using TensorFlow way back before v1 was released.
+
 ---
 
 ## **2. Introduction to Natural Language Processing**
 
 🎥 [Udacity, Video Link](https://youtu.be/n8HmBdOOvhY)
+
+Natural Language Processing, or NLP for short, focuses on analyzing text and speech data. This can range from simple recognition (what words are in the given text/speech), to sentiment analysis (was a review positive or negative), and all the way to areas like text generation (creating novel song lyrics from scratch).
+
+We’ll focus only on text in these lessons and not speech, but many of the same principles apply.
+
+NLP got its start mostly on machine translation, where users often had to create strict, manual rules to go from one language to another. It has since morphed to be more machine learning-based, reliant on much larger datasets than the early methods were.
+
+An example of sentiment analysis. “The food was amazing” is predicted as positive, while “the room was dirty” is predicted as negative.
+An example of sentiment analysis
+
+QUIZ QUESTION
+Which of the below areas are related to Natural Language Processing?
+
+Speech Recognition
+
+Text Translation
+
+Further Research
+In these lessons, we'll focus on how to implement certain NLP methods in TensorFlow code without necessarily diving deep on the background to each topic. If you are interested in a deeper dive, you should check out either of the two Nanodegree programs below:
+
+Deep Learning Nanodegree
+Natural Language Processing Nanodegree
+We will also include a handful of videos from these programs within the Recurrent Neural Networks lesson later on for additional information.
 
 ---
 
