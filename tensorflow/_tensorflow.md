@@ -96,6 +96,10 @@
 - [Machine Learning - Regression and Classification (math Inc.)](https://www.udemy.com/course/machine-learning-regression-and-classification-math-inc/)
 - [Essential Non Technical Skills of Effective Data Scientists](https://www.udemy.com/course/essential-non-technical-skills-of-effective-data-scientists/)
 - [Web Scraping with Beautiful Soup for Data Science](https://www.udemy.com/course/web-scraping-with-beautiful-soup-for-data-science/)
+- [Web Scraping for Data Science - Python & Selenium - Basics](https://www.udemy.com/course/web-scraping-for-data-science-python-selenium-basics/)
+- [Statistical Decision Making in Data Science with Case Study](https://www.udemy.com/course/linear-regression-with-case-study-in-python-2020/)
+- [Artificial Neural Networks (ANN) with Keras in Python and R](https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/)
+- [Master Natural Language Processing & Build NLP Web App](https://www.udemy.com/course/nlp-natural-language-processing/)
 
 ---
 
