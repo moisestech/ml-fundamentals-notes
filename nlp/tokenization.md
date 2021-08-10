@@ -1,8 +1,12 @@
 # Tokenization
 
+## [NLP: Tokenization and Embeddings, Lesson 9, Udacity, UD187, Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187/lessons/a5e9e6cc-e286-430f-aaa9-735c014ee950/concepts/b829bd12-65dc-4f9f-9688-6b860e4f98aa)
+
 ---
 
 ## **1. Meet Your Instructors**
+
+🎥 [Udacity, Video Link]()
 
 ---
 
