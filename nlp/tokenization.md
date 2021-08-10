@@ -82,7 +82,8 @@ Tokenizing Text
 ## **13. Colab: Word Embeddings and Sentiment**
 
 Colab Notebook
-To access the Colab Notebook, login to your Google account and click on the link below:
+
+- To access the Colab Notebook, login to your Google account and click on the link below:
 
 Word Embeddings and Sentiment
 
@@ -96,10 +97,11 @@ Word Embeddings and Sentiment
 
 ## **15. Colab: Tweaking the Model**
 
-Colab Notebook
-To access the Colab Notebook, login to your Google account and click on the link below:
+### Colab Notebook
 
-Tweaking the Model
+- To access the Colab Notebook, login to your Google account and click on the link below:
+
+- [Tweaking the Model](https://colab.sandbox.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l09c05_nlp_tweaking_the_model.ipynb)
 
 ---
 
