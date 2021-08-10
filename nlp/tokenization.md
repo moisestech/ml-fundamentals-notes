@@ -106,6 +106,25 @@ Tweaking the Model
 ## **16. What's in a (sub)word?**
 
 🎥 [Udacity, Video Link](https://youtu.be/A_F5ZcQzid0)
+We’ve worked with full words before for our sentiment models, and Jocelyn had shown us some issues right at the start of the lesson when using character-based tokenization. Subwords are another approach, where individual words are broken up into the more commonly appearing pieces of themselves. This helps avoid marking very rare words as OOV when you use only the most common words in a corpus.
+
+As shown in the video, this can further expose an issue affecting all of our models up to this point, in that they don’t understand the full context of the sequence of words in an input. The next lesson on recurrent neural networks will help address this issue.
+
+The example subwords from the video breaking out Decent, Decadent and Decay.
+Our example subwords using Decent, Decadent and Decay.
+
+Subword Datasets
+There are a number of already created subwords datasets available online. If you check out the IMDB dataset on TFDS, for instance, by scrolling down you can see datasets with both 8,000 subwords as well as 32,000 subwords in a corpus (along with regular full-word datasets).
+
+However, I want you to know how to create these yourself as well, so we’ll use TensorFlow’s SubwordTextEncoder and its build_from_corpus function to create one from the reviews dataset we used previously.
+
+QUIZ QUESTION
+Subwords are:
+
+Pieces of words, often made up of smaller words, that make words with similar roots be tokenized more similarly.
+
+Further Research
+If you’re interested in more work with subwords, there’s an unofficial Google repository called SentencePiece that contains some interesting techniques for improved creation of the subwords dataset from an original text dataset.
 
 ---
 
