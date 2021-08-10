@@ -112,6 +112,10 @@ Tweaking the Model
 ## **17. Colab: What's in a (sub)word?**
 
 🎥 [Udacity, Video Link](https://youtu.be/8ARUNInoDrk)
+Colab Notebook
+To access the Colab Notebook, login to your Google account and click on the link below:
+
+[What’s in a subword?](https://colab.sandbox.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l09c06_nlp_subwords.ipynb)
 
 ---
 
