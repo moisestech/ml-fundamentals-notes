@@ -77,6 +77,17 @@ Tokenizing Text
 
 🎥 [Udacity, Video Link](https://youtu.be/PgWGqesxH5U)
 
+We’ve given you the code to create the files for input into the projector. This will download two files: 1) the vectors, and 2) the metadata.
+
+The projector will already come with a pre-loaded visualization, so you’ll need to use the “Load” button on the left and upload each of the two files. In some cases, there may be a small difference in the number of tensors present in the vector file and the metadata file (usually with a message appearing after uploading the metadata); if this appears, wait for a few seconds for the error message to disappear, and then click outside the window. Typically, the visualization will still load just fine.
+
+Make sure to click the checkbox for “Sphereize data”, which will better show whether there is separation between positive and negative sentiment (or not).
+
+Visualizing Embeddings Quiz
+In your own words, why might being able to visualize word embeddings be useful?
+
+Enter your response here, there's no right or wrong answer
+
 ---
 
 ## **13. Colab: Word Embeddings and Sentiment**
