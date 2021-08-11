@@ -208,11 +208,15 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/aALYYSwS7MM)
 
+Start Quiz
+
 ---
 
 ## **27. Normalizing 2**
 
 🎥 [Udacity, Video Link](https://youtu.be/EPrrQaYp7H0)
+
+Start Quiz
 
 ---
 
@@ -220,11 +224,15 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/FBRK-XwPC54)
 
+Start Quiz
+
 ---
 
 ## **29. Total Probability**
 
 🎥 [Udacity, Video Link](https://youtu.be/FlbDcNPGgUE)
+
+Start Quiz
 
 ---
 
@@ -238,11 +246,17 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/wPI9WOfpZbM)
 
+Start Quiz
+Note that 50% (.5) of Sara's words are love.
+
 ---
 
 ## **32. Chris or Sara**
 
 🎥 [Udacity, Video Link](https://youtu.be/nNna_SLlIT8)
+
+Start Quiz
+Note that 50% (.5) of Sara's words are love.
 
 ---
 
@@ -250,11 +264,17 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/lJlS-Xdlu5o)
 
+Start Quiz
+Note that 50% (.5) of Sara's words are love.
+
 ---
 
 ## **34. Bayesian Probabilities On Your Own**
 
 🎥 [Udacity, Video Link](https://youtu.be/2StCBxTOoK0)
+
+Start Quiz
+Note that 50% (.5) of Sara's words are love.
 
 ---
 
@@ -267,6 +287,8 @@ Start Quiz
 ## **36. Naive Bayes Strengths and Weaknesses**
 
 🎥 [Udacity, Video Link](https://youtu.be/nfbKTrufPOs)
+
+Start Quiz
 
 ---
 
@@ -295,7 +317,7 @@ Start Quiz
 
 - So, what now?
 
-- if you know git, you can clone the starter files: git clone `https://github.com/udacity/ud120-projects.git`
+- if you know git, you can clone the starter files: git clone [`https://github.com/udacity/ud120-projects.git`](https://github.com/udacity/ud120-projects.git)
 
 - If you don't know git, Udacity has a great (and short) course that can get you started
 
