@@ -310,6 +310,12 @@ print "training time:", round(time()-t0, 3), "s"
 
 ---
 
+## Resources
+
+- [Naive Bayes, Clearly Explained](https://youtu.be/O2L2Uv9pdDA), **YouTube**, _StatQuest with Josh Starmer_
+
+---
+
 ## Foam Related Links
 
 - [[_scatterplot]]
