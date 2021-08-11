@@ -291,7 +291,8 @@ Some students have encountered memory problems when executing the code for this 
 
 ## **43. Timing Your NB Classifier**
 
-An important topic that we didn’t explicitly talk about is the time to train and test our algorithms. Put in two lines of code, above and below the line fitting your classifier, like this:
+- An important topic that we didn’t explicitly talk about is **the time to train and test our algorithms**.
+  - Put in two lines of code, above and below the line fitting your classifier, like this:
 
 t0 = time()
 < your clf.fit() line of code >
