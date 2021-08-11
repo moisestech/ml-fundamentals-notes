@@ -16,7 +16,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/TeFF9wXiFfs)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -24,7 +24,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/buxApBhZCO0)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -38,7 +38,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/t0iflCpBUDA)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -46,7 +46,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/xeMDpSRTLWc)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -60,7 +60,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/IMWsjjIeOrY)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -68,7 +68,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/T4GbEVybNlY)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -76,7 +76,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/PaE5caOJ5kg)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -84,7 +84,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/dGS0SKu1ox0)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -92,7 +92,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/tkllhaHoko8)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -100,7 +100,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/gbkORDbJM50)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -108,7 +108,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/sudTOiG-NJo)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -140,7 +140,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/VBs6D4ggnYY)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 - To find the `ClassifyNB.py` script that you need to update for the quiz, you can click on the dropdown in the classroom code editor to get a list of files that will be used.
 
@@ -156,7 +156,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/-gJJmckPBAg)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 - In this example, we print the accuracy. However, the quiz is slightly different in that you return the accuracy, rather than printing it directly.
 
@@ -190,7 +190,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/EL5z2lUuxY4)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 - Reminder of the question: the prior probability of cancer is 1%, and a sensitivity and specificity are 90%, what's the probability that someone with a positive cancer test actually has the disease?
 
@@ -200,7 +200,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/EL5z2lUuxY4)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -208,7 +208,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/aALYYSwS7MM)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -216,7 +216,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/EPrrQaYp7H0)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -224,7 +224,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/FBRK-XwPC54)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -232,7 +232,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/FlbDcNPGgUE)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
@@ -246,7 +246,7 @@ Start Quiz
 
 🎥 [Udacity, Video Link](https://youtu.be/wPI9WOfpZbM)
 
-Start Quiz
+📝 [**Start Quiz**]()
 Note that 50% (.5) of Sara's words are love.
 
 ---
@@ -255,7 +255,7 @@ Note that 50% (.5) of Sara's words are love.
 
 🎥 [Udacity, Video Link](https://youtu.be/nNna_SLlIT8)
 
-Start Quiz
+📝 [**Start Quiz**]()
 Note that 50% (.5) of Sara's words are love.
 
 ---
@@ -264,7 +264,7 @@ Note that 50% (.5) of Sara's words are love.
 
 🎥 [Udacity, Video Link](https://youtu.be/lJlS-Xdlu5o)
 
-Start Quiz
+📝 [**Start Quiz**]()
 Note that 50% (.5) of Sara's words are love.
 
 ---
@@ -273,7 +273,7 @@ Note that 50% (.5) of Sara's words are love.
 
 🎥 [Udacity, Video Link](https://youtu.be/2StCBxTOoK0)
 
-Start Quiz
+📝 [**Start Quiz**]()
 Note that 50% (.5) of Sara's words are love.
 
 ---
@@ -288,7 +288,7 @@ Note that 50% (.5) of Sara's words are love.
 
 🎥 [Udacity, Video Link](https://youtu.be/nfbKTrufPOs)
 
-Start Quiz
+📝 [**Start Quiz**]()
 
 ---
 
