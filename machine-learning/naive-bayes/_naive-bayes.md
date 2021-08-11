@@ -306,7 +306,7 @@ print "training time:", round(time()-t0, 3), "s"
 
 - **We will compare the Naive Bayes timing to a couple other algorithms**, so note down the speed and accuracy you get and we’ll revisit this in the next mini-project.
 
-Start Quiz
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30127485730923#)
 
 ---
 
