@@ -1,6 +1,6 @@
 # NLP RNNs
 
-## [🎓 NLP: Recurrent Neural Networks, Lesson 10, Udacity, UD187](https://classroom.udacity.com/courses/ud187/lessons/52b95146-ddb7-471c-9237-20fb24d25237/concepts/0435d8ae-25af-4482-80f2-5e580976b4ab)
+## [🎓 NLP: Recurrent Neural Networks, Lesson 10, Udacity, UD187, Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187/lessons/52b95146-ddb7-471c-9237-20fb24d25237/concepts/0435d8ae-25af-4482-80f2-5e580976b4ab)
 
 ---
 
