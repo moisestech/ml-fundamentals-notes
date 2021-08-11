@@ -8,17 +8,23 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/aALYYSwS7MM)
 
+- In this video we're discussing the self-driving car and the technology behind land section.
+
 ---
 
 ## **2. Acerous Vs Non-Acerous**
 
 🎥 [Udacity, Video Link](https://youtu.be/TeFF9wXiFfs)
 
+Start Quiz
+
 ---
 
 ## **3. Supervised Classification Example**
 
 🎥 [Udacity, Video Link](https://youtu.be/buxApBhZCO0)
+
+Start Quiz
 
 ---
 
@@ -32,11 +38,15 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/t0iflCpBUDA)
 
+Start Quiz
+
 ---
 
 ## **6. Classification By Eye**
 
 🎥 [Udacity, Video Link](https://youtu.be/xeMDpSRTLWc)
+
+Start Quiz
 
 ---
 
@@ -50,11 +60,15 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/IMWsjjIeOrY)
 
+Start Quiz
+
 ---
 
 ## **9. Speed Scatterplot 2**
 
 🎥 [Udacity, Video Link](https://youtu.be/T4GbEVybNlY)
+
+Start Quiz
 
 ---
 
@@ -62,11 +76,15 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/PaE5caOJ5kg)
 
+Start Quiz
+
 ---
 
 ## **11. From Scatterplots to Predictions**
 
 🎥 [Udacity, Video Link](https://youtu.be/dGS0SKu1ox0)
+
+Start Quiz
 
 ---
 
@@ -74,17 +92,23 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/tkllhaHoko8)
 
+Start Quiz
+
 ---
 
 ## **13. From Scatterplots to Decision Surfaces**
 
 🎥 [Udacity, Video Link](https://youtu.be/gbkORDbJM50)
 
+Start Quiz
+
 ---
 
 ## **14. A Good Linear Decision Surface**
 
 🎥 [Udacity, Video Link](https://youtu.be/sudTOiG-NJo)
+
+Start Quiz
 
 ---
 
@@ -116,11 +140,31 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/VBs6D4ggnYY)
 
+Start Quiz
+
+- To find the `ClassifyNB.py` script that you need to update for the quiz, you can click on the dropdown in the classroom code editor to get a list of files that will be used.
+
+- In the quiz that follows, the line that reads
+  `pred = clf.predict(features_test)`
+  is not necessary for drawing the decision boundary, at least as we've written the code.
+
+- However, the whole point of making a classifier is that you can make predictions with it, so be sure to keep it in mind since you'll be using it in the quiz after this one.
+
 ---
 
 ## **20. Calculating NB Accuracy**
 
 🎥 [Udacity, Video Link](https://youtu.be/-gJJmckPBAg)
+
+Start Quiz
+
+- In this example, we print the accuracy. However, the quiz is slightly different in that you return the accuracy, rather than printing it directly.
+
+- Remember, accuracy is defined as the number of test points that are classified correctly divided by the total number of test points.
+
+- There's another way you can do this, too –
+
+- `print clf.score(features_test, labels_test)`
 
 ---
 
@@ -146,11 +190,17 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/EL5z2lUuxY4)
 
+Start Quiz
+
+- Reminder of the question: the prior probability of cancer is 1%, and a sensitivity and specificity are 90%, what's the probability that someone with a positive cancer test actually has the disease?
+
 ---
 
 ## **25. Prior and Posterior**
 
 🎥 [Udacity, Video Link](https://youtu.be/EL5z2lUuxY4)
+
+Start Quiz
 
 ---
 
