@@ -71,7 +71,7 @@
 
 - Have fun!
 
-### Colab
+### Colab 1
 
 - To access the Colab Notebook, login to your Google account and click on the link below:
 
@@ -81,9 +81,10 @@
 
 ## 8. **Solution: Flowers with Transfer Learning**
 
-- We hope you had fun using transfer learning to create your own CNN to classify images of flowers! Feel free to check your solution with ours by taking a look at the Colab below.
+- We hope you had fun using transfer learning to create your own CNN to classify images of flowers!
+  - Feel free to check your solution with ours by taking a look at the Colab below.
 
-### Colab
+### Colab 2
 
 - To access the Colab Notebook, login to your Google account and click on the link below:
 
