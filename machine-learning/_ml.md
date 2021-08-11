@@ -8,6 +8,8 @@
 - [Intro to ML, ND065]()
 - [ML, UD187]()
 
+- [ML Vocabulary]()
+
 ---
 
 ## ML Classification
