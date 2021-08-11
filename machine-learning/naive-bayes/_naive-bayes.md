@@ -234,18 +234,20 @@
 
 ## **39. Getting Started with Mini-Projects**
 
-Welcome to the first mini-project! Here's what to expect:
+- Welcome to the first mini-project! Here's what to expect:
 
-you'll download the project starter files (one time only)
-you'll run a startup script
-near the end of each lesson, there will be a video and/or reading node telling you about the mini-project for that lesson
-then, a series of reading nodes at the end of the lesson will walk you through what you should do for that mini-project, and give you a chance to enter the answers that you get as you work through the tasks (these will look like quizzes)
-you'll develop the code on your own computer based on the instructions in the reading nodes
-the code you write will enable you to answer the quiz questions
+- you'll download the project starter files (one time only)
+- you'll run a startup script
+- near the end of each lesson, there will be a video and/or reading node telling you about the mini-project for that lesson
+- then, a series of reading nodes at the end of the lesson will walk you through what you should do for that mini-project, and give you a chance to enter the answers that you get as you work through the tasks (these will look like quizzes)
+- you'll develop the code on your own computer based on the instructions in the reading nodes
+- the code you write will enable you to answer the quiz questions
 
-So, what now?
-if you know git, you can clone the starter files: git clone https://github.com/udacity/ud120-projects.git
-If you don't know git, Udacity has a great (and short) course that can get you started
+- So, what now?
+
+- if you know git, you can clone the starter files: git clone `https://github.com/udacity/ud120-projects.git`
+
+- If you don't know git, Udacity has a great (and short) course that can get you started
 
 ---
 
