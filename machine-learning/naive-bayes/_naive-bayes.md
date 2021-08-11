@@ -300,9 +300,11 @@ t0 = time()
 print "training time:", round(time()-t0, 3), "s"
 ```
 
-Put similar lines of code around the clf.predict() line of code, so you can compare the time to train the classifier and to make predictions with it. What is faster, training or prediction?
+- Put similar lines of code around the `clf.predict()` line of code, so you can compare the time to train the classifier and to make predictions with it.
 
-We will compare the Naive Bayes timing to a couple other algorithms, so note down the speed and accuracy you get and we’ll revisit this in the next mini-project.
+  - What is faster, training or prediction?
+
+- **We will compare the Naive Bayes timing to a couple other algorithms**, so note down the speed and accuracy you get and we’ll revisit this in the next mini-project.
 
 Start Quiz
 
