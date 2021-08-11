@@ -12,8 +12,7 @@
 
 ## **2. Applications of GANs**
 
-🎥 [Udacity, Video Link]()
-https://youtu.be/dW2puRa-yqo
+🎥 [Udacity, Video Link](https://youtu.be/dW2puRa-yqo)
 
 ---
 
