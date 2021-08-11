@@ -278,14 +278,15 @@ You only have to do this once, the code base contains the starter code for all t
 
 ## **42. Author ID Accuracy**
 
-Create and train a Naive Bayes classifier in naive_bayes/nb_author_id.py. Use it to make predictions for the test set. What is the accuracy?
+- Create and train a Naive Bayes classifier in naive_bayes/nb_author_id.py. Use it to make predictions for the test set. What is the accuracy?
 
-When training you may see the following error: UserWarning: Duplicate scores. Result may depend on feature ordering.There are probably duplicate features, or you used a classification score for a regression task. warn("Duplicate scores. Result may depend on feature ordering.")
+- When training you may see the following error: UserWarning: Duplicate scores. Result may depend on feature ordering.There are probably duplicate features, or you used a classification score for a regression task. warn("Duplicate scores. Result may depend on feature ordering.")
 
-This is a warning that two or more words happen to have the same usage patterns in the emails--as far as the algorithm is concerned, this means that two features are the same. Some algorithms will actually break (mathematically won’t work) or give multiple different answers (depending on feature ordering) when there are duplicate features and sklearn is giving us a warning. Good information, but not something we have to worry about.
+- This is a warning that two or more words happen to have the same usage patterns in the emails--as far as the algorithm is concerned, this means that two features are the same. Some algorithms will actually break (mathematically won’t work) or give multiple different answers (depending on feature ordering) when there are duplicate features and sklearn is giving us a warning. Good information, but not something we have to worry about.
 
-Start Quiz
-Some students have encountered memory problems when executing the code for this problem. To reduce the chance of seeing a memory error while running the code, we recommend that you use a computer with at least 2GB of RAM. If you find that the code is causing memory errors, you can also try setting test_size = 0.5 in the email_preprocess.py file.
+📝 [**Start Quiz**]()
+
+- Some students have encountered memory problems when executing the code for this problem. To reduce the chance of seeing a memory error while running the code, we recommend that you use a computer with at least 2GB of RAM. If you find that the code is causing memory errors, you can also try setting test_size = 0.5 in the email_preprocess.py file.
 
 ---
 
