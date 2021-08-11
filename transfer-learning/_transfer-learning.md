@@ -94,15 +94,21 @@
 
 ## 9. **Summary**
 
-- In this lesson we learned how we can use Transfer Learning to create very powerful Convolutional Neural Networks with very little effort. The main key points of this lesson are:
+- In this lesson we learned how we can use Transfer Learning to create very powerful Convolutional Neural Networks with very little effort.
 
-- **Transfer Learning**: A technique that reuses a model that was created by machine learning experts and that has already been trained on a large dataset. When performing transfer learning we must always change the last layer of the pre-trained model so that it has the same number of classes that we have in the dataset we are working with.
-- **Freezing Parameters**: Setting the variables of a pre-trained model to non-trainable. By freezing the parameters, we will ensure that only the variables of the last classification layer get trained, while the variables from the other layers of the pre-trained model are kept the same.
-- **MobileNet**: A state-of-the-art convolutional neural network developed by Google that uses a very efficient neural network architecture that minimizes the amount of memory and computational resources needed, while maintaining a high level of accuracy. MobileNet is ideal for mobile devices that have limited memory and computational resources.
+  - The main key points of this lesson are:
 
-- You also used transfer learning to create a Convolutional Neural Network that uses MobileNet to classify images of Dogs and Cats. You were able to see that transfer learning greatly improves the accuracy achieved in the Dogs and Cats dataset. As an exercise, you were able to apply everything you learned in this lesson to create your own CNN using MobileNet to classify images of flowers.
+- **Transfer Learning**: A technique that reuses a model that was created by machine learning experts and that has already been trained on a large dataset.
+  - When performing transfer learning we must always change the last layer of the pre-trained model so that it has the same number of classes that we have in the dataset we are working with.
+- **Freezing Parameters**: Setting the variables of a pre-trained model to non-trainable.
+  - By freezing the parameters, we will ensure that only the variables of the last classification layer get trained, while the variables from the other layers of the pre-trained model are kept the same.
+- **MobileNet**: A state-of-the-art convolutional neural network developed by Google that uses a very efficient neural network architecture that minimizes the amount of memory and computational resources needed, while maintaining a high level of accuracy.
 
-;
+  - MobileNet is ideal for mobile devices that have limited memory and computational resources.
+
+- You also used transfer learning to create a Convolutional Neural Network that uses MobileNet to classify images of Dogs and Cats.
+  - You were able to see that transfer learning greatly improves the accuracy achieved in the Dogs and Cats dataset.
+  - As an exercise, you were able to apply everything you learned in this lesson to create your own CNN using MobileNet to classify images of flowers.
 
 ---
 
