@@ -393,7 +393,7 @@ Note that 50% (.5) of Sara's words are love.
   - Some algorithms will actually break (mathematically won’t work) or give multiple different answers (depending on feature ordering) when there are duplicate features and sklearn is giving us a warning.
   - Good information, but not something we have to worry about.
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30245185880923#)
 
 - Some students have encountered memory problems when executing the code for this problem.
   - To reduce the chance of seeing a memory error while running the code, we recommend that you use a computer with at least 2GB of RAM.
