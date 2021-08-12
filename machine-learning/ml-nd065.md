@@ -106,7 +106,8 @@ Machine learning is a new field created at the intersection of statistics, appli
 
 ### Additional Reading
 
-- Want to learn more about how software and application come together? Reading through this entry about the software development process from Wikipedia can help.
+- Want to learn more about how software and application come together?
+- Reading through this entry about the software development process from Wikipedia can help.
 
 ---
 
