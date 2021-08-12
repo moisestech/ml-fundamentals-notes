@@ -176,22 +176,25 @@ The overall goal is to use a model created by a model training algorithm to gene
 - Snow cones sold regression chart
 
 - In the graph above, you can see one example of a model, a linear regression model (indicated by the solid line).
+
   - You can see that, based on the data provided, the model predicts that as the high temperate for the day increases so do the average number of snow cones sold. Sweet!
 
-Example 2
+- Example 2
 
-Let's look at a different example that uses the same linear regression model, but with different data and to answer completely different questions.
+- Let's look at a different example that uses the same linear regression model, but with different data and to answer completely different questions.
 
-Imagine that you work in higher education and you want to better understand the relationship between the cost of enrollment and the number of students attending college. In this example, our model predicts that as the cost of tuition increases the number of people attending college is likely to decrease.
+- Imagine that you work in higher education and you want to better understand the relationship between the cost of enrollment and the number of students attending college.
 
-average tuition cost regression chart
-Average tuition regression chart
+  - In this example, our model predicts that as the cost of tuition increases the number of people attending college is likely to decrease.
 
-Using the same linear regression model (indicated by the solid line), you can see that the number of people attending college does go down as the cost increases.
+- average tuition cost regression chart
+- Average tuition regression chart
 
-Both examples showcase that a model is a generic program made specific by the data used to train it.
+- Using the same linear regression model (indicated by the solid line), you can see that the number of people attending college does go down as the cost increases.
 
-Model Training
+- Both examples showcase that a model is a generic program made specific by the data used to train it.
+
+### Model Training
 
 How are model training algorithms used to train a model?
 In the preceding section, we talked about two key pieces of information: a model and data. In this section, we show you how those two pieces of information are used to create a trained model. This process is called model training.
