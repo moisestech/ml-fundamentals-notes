@@ -88,11 +88,13 @@ In a way, machine learning automates some of the statistical reasoning and patte
 
 The overall goal is to use a model created by a model training algorithm to generate predictions or find patterns in data that can be used to solve a problem.
 
-Understanding Terminology
-Perspectives of machine learning
-Fields that influence machine learning
+## Understanding Terminology
 
-Machine learning is a new field created at the intersection of statistics, applied math, and computer science. Because of the rapid and recent growth of machine learning, each of these fields might use slightly different formal definitions of the same terms.
+- Perspectives of machine learning
+- Fields that influence machine learning
+
+- Machine learning is a new field created at the intersection of statistics, applied math, and computer science.
+  - Because of the rapid and recent growth of machine learning, each of these fields might use slightly different formal definitions of the same terms.
 
 ### Terminology
 
