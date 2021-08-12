@@ -134,18 +134,17 @@ The overall goal is to use a model created by a model training algorithm to gene
 
 🎥 [Udacity, Video Link](https://youtu.be/w0R0VnImVK8)
 
-Components of Machine Learning
+- clay analogy for machine learning
+- Clay analogy for machine learning
 
-clay analogy for machine learning
-Clay analogy for machine learning
+- Nearly all tasks solved with machine learning involve three primary components:
 
-Nearly all tasks solved with machine learning involve three primary components:
+- A machine learning model
+- A model training algorithm
+- A model inference algorithm
 
-A machine learning model
-A model training algorithm
-A model inference algorithm
-Clay Analogy for Machine Learning
-You can understand the relationships between these components by imagining the stages of crafting a teapot from a lump of clay.
+- Clay Analogy for Machine Learning
+- You can understand the relationships between these components by imagining the stages of crafting a teapot from a lump of clay.
 
 First, you start with a block of raw clay. At this stage, the clay can be molded into many different forms and be used to serve many different purposes. You decide to use this lump of clay to make a teapot.
 So how do you create this teapot? You inspect and analyze the raw clay and decide how to change it to make it look more like the teapot you have in mind.
