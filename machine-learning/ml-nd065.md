@@ -69,8 +69,11 @@ _Welcome to the introduction to machine learning lesson!_
 Machine learning is part of the broader field of artificial intelligence. This field is concerned with the capability of machines to perform activities using human-like intelligence. Within machine learning there are several different kinds of tasks or techniques:
 
 In supervised learning, every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values. We will explore this in-depth in this lesson.
+
 In unsupervised learning, there are no labels for the training data. A machine learning algorithm tries to learn the underlying patterns or distributions that govern the data. We will explore this in-depth in this lesson.
+
 In reinforcement learning, the algorithm figures out which actions to take in a situation to maximize a reward (in the form of a number) on the way to reaching a specific goal. This is a completely different approach than supervised and unsupervised learning. We will dive deep into this in the next lesson.
+
 How does machine learning differ from traditional programming-based approaches?
 Traditional programs vs. machine learning programs
 Traditional programming versus machine learning
@@ -91,7 +94,8 @@ Fields that influence machine learning
 
 Machine learning is a new field created at the intersection of statistics, applied math, and computer science. Because of the rapid and recent growth of machine learning, each of these fields might use slightly different formal definitions of the same terms.
 
-Terminology
+### Terminology
+
 Machine learning, or ML, is a modern software development technique that enables computers to solve problems by using examples of real-world data.
 
 In supervised learning, every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values.
@@ -100,7 +104,8 @@ In reinforcement learning, the algorithm figures out which actions to take in a 
 
 In unsupervised learning, there are no labels for the training data. A machine learning algorithm tries to learn the underlying patterns or distributions that govern the data.
 
-Additional Reading
+### Additional Reading
+
 Want to learn more about how software and application come together? Reading through this entry about the software development process from Wikipedia can help.
 
 ---
