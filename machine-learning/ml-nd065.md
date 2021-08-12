@@ -252,11 +252,11 @@ The overall goal is to use a model created by a model training algorithm to gene
 
 ### QUESTION 1 OF 2
 
-Think back to the clay teapot analogy. Is it true or false that you always need to have an idea of what you're making when you're handling your raw block of clay?
+- Think back to the clay teapot analogy. Is it true or false that you always need to have an idea of what you're making when you're handling your raw block of clay?
 
 ### QUESTION 2 OF 2
 
-We introduced three common components of machine learning. Let's review your new knowledge by matching each component to its definition.
+- We introduced three common components of machine learning. Let's review your new knowledge by matching each component to its definition.
 
 MACHINE LEARNING COMPONENT
 
