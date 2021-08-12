@@ -146,10 +146,11 @@ The overall goal is to use a model created by a model training algorithm to gene
 - Clay Analogy for Machine Learning
 - You can understand the relationships between these components by imagining the stages of crafting a teapot from a lump of clay.
 
-First, you start with a block of raw clay. At this stage, the clay can be molded into many different forms and be used to serve many different purposes. You decide to use this lump of clay to make a teapot.
-So how do you create this teapot? You inspect and analyze the raw clay and decide how to change it to make it look more like the teapot you have in mind.
-Next, you mold the clay to make it look more like the teapot that is your goal.
-Congratulations! You've completed your teapot. You've inspected the materials, evaluated how to change them to reach your goal, and made the changes, and the teapot is now ready for your enjoyment.
+- First, you start with a block of raw clay. At this stage, the clay can be molded into many different forms and be used to serve many different purposes.
+  - You decide to use this lump of clay to make a teapot.
+  - So how do you create this teapot? You inspect and analyze the raw clay and decide how to change it to make it look more like the teapot you have in mind.
+    Next, you mold the clay to make it look more like the teapot that is your goal.
+    Congratulations! You've completed your teapot. You've inspected the materials, evaluated how to change them to reach your goal, and made the changes, and the teapot is now ready for your enjoyment.
 
 What are machine learning models?
 A machine learning model, like a piece of clay, can be molded into many different forms and serve many different purposes. A more technical definition would be that a machine learning model is a block of code or framework that can be modified to solve different but related problems based on the data provided.
