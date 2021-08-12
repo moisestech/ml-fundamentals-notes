@@ -258,15 +258,15 @@ The overall goal is to use a model created by a model training algorithm to gene
 
 - We introduced three common components of machine learning. Let's review your new knowledge by matching each component to its definition.
 
-MACHINE LEARNING COMPONENT
+### MACHINE LEARNING COMPONENT
 
-DEFINITION
+### DEFINITION
 
-Machine learning model
+- Machine learning model
 
-Model training algorithm
+- Model training algorithm
 
-Model inference algorithm
+- Model inference algorithm
 
 ---
 
