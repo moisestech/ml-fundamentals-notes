@@ -226,12 +226,14 @@ The overall goal is to use a model created by a model training algorithm to gene
 - completed clay teapot
 - A finished teapot
 
-Images
+- Images
 
-Clay
-Clay hands
-Teapot
-QUIZ QUESTION
+- Clay
+- Clay hands
+- Teapot
+
+### QUIZ QUESTION
+
 Which of the following are the primary components used in machine learning?
 
 Terminology
