@@ -104,7 +104,7 @@ _Welcome to the introduction to machine learning lesson!_
 
 The overall goal is to use a model created by a model training algorithm to generate predictions or find patterns in data that can be used to solve a problem.
 
-## Understanding Terminology
+### Understanding Terminology
 
 - Perspectives of machine learning
 - Fields that influence machine learning
