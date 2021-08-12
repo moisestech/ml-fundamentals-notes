@@ -164,15 +164,19 @@ The overall goal is to use a model created by a model training algorithm to gene
 - A model is an extremely generic program(or block of code), made specific by the data used to train it.
   - It is used to solve different problems.
 
-Two simple examples
-Example 1
+### Two simple examples
 
-Imagine you own a snow cone cart, and you have some data about the average number of snow cones sold per day based on the high temperature. You want to better understand this relationship to make sure you have enough inventory on hand for those high sales days.
+- Example 1
 
-Snow cones based on temperature
-Snow cones sold regression chart
+- Imagine you own a snow cone cart, and you have some data about the average number of snow cones sold per day based on the high temperature.
 
-In the graph above, you can see one example of a model, a linear regression model (indicated by the solid line). You can see that, based on the data provided, the model predicts that as the high temperate for the day increases so do the average number of snow cones sold. Sweet!
+  - You want to better understand this relationship to make sure you have enough inventory on hand for those high sales days.
+
+- Snow cones based on temperature
+- Snow cones sold regression chart
+
+- In the graph above, you can see one example of a model, a linear regression model (indicated by the solid line).
+  - You can see that, based on the data provided, the model predicts that as the high temperate for the day increases so do the average number of snow cones sold. Sweet!
 
 Example 2
 
