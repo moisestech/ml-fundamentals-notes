@@ -234,14 +234,17 @@ The overall goal is to use a model created by a model training algorithm to gene
 
 ### QUIZ QUESTION
 
-Which of the following are the primary components used in machine learning?
+- Which of the following are the primary components used in machine learning?
 
-Terminology
-A model is an extremely generic program, made specific by the data used to train it.
+- Terminology
 
-Model training algorithms work through an interactive process where the current model iteration is analyzed to determine what changes can be made to get closer to the goal. Those changes are made and the iteration continues until the model is evaluated to meet the goals.
+- A model is an extremely generic program, made specific by the data used to train it.
 
-Model inference is when the trained model is used to generate predictions.
+- Model training algorithms work through an interactive process where the current model iteration is analyzed to determine what changes can be made to get closer to the goal.
+
+  - Those changes are made and the iteration continues until the model is evaluated to meet the goals.
+
+- Model inference is when the trained model is used to generate predictions.
 
 ---
 
