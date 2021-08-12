@@ -92,7 +92,9 @@ _Welcome to the introduction to machine learning lesson!_
 
   - For many real-world problems, this process can be laborious (or even impossible) because a correct solution would need to consider a vast number of edge cases.
 
-- Imagine, for example, the challenging task of writing a program that can detect if a cat is present in an image. Solving this in the traditional way would require careful attention to details like varying lighting conditions, different types of cats, and various poses a cat might be in.
+- Imagine, for example, the challenging task of writing a program that can detect if a cat is present in an image.
+
+  - Solving this in the traditional way would require careful attention to details like varying lighting conditions, different types of cats, and various poses a cat might be in.
 
 - In machine learning, the problem solver abstracts away part of their solution as a flexible component called a model, and uses a special program called a model training algorithm to adjust that model to real-world data.
 
