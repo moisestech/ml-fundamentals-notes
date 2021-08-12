@@ -155,11 +155,14 @@ The overall goal is to use a model created by a model training algorithm to gene
 
 ### What are machine learning models?
 
-A machine learning model, like a piece of clay, can be molded into many different forms and serve many different purposes. A more technical definition would be that a machine learning model is a block of code or framework that can be modified to solve different but related problems based on the data provided.
+- A machine learning model, like a piece of clay, can be molded into many different forms and serve many different purposes.
 
-Important
+  - A more technical definition would be that a machine learning model is a block of code or framework that can be modified to solve different but related problems based on the data provided.
 
-A model is an extremely generic program(or block of code), made specific by the data used to train it. It is used to solve different problems.
+- Important
+
+- A model is an extremely generic program(or block of code), made specific by the data used to train it.
+  - It is used to solve different problems.
 
 Two simple examples
 Example 1
