@@ -96,17 +96,17 @@ Machine learning is a new field created at the intersection of statistics, appli
 
 ### Terminology
 
-Machine learning, or ML, is a modern software development technique that enables computers to solve problems by using examples of real-world data.
+- Machine learning, or ML, is a modern software development technique that enables computers to solve problems by using examples of real-world data.
 
-In supervised learning, every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values.
+- In supervised learning, every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values.
 
-In reinforcement learning, the algorithm figures out which actions to take in a situation to maximize a reward (in the form of a number) on the way to reaching a specific goal.
+- In reinforcement learning, the algorithm figures out which actions to take in a situation to maximize a reward (in the form of a number) on the way to reaching a specific goal.
 
-In unsupervised learning, there are no labels for the training data. A machine learning algorithm tries to learn the underlying patterns or distributions that govern the data.
+- In unsupervised learning, there are no labels for the training data. A machine learning algorithm tries to learn the underlying patterns or distributions that govern the data.
 
 ### Additional Reading
 
-Want to learn more about how software and application come together? Reading through this entry about the software development process from Wikipedia can help.
+- Want to learn more about how software and application come together? Reading through this entry about the software development process from Wikipedia can help.
 
 ---
 
