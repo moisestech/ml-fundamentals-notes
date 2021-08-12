@@ -196,8 +196,10 @@ The overall goal is to use a model created by a model training algorithm to gene
 
 ### Model Training
 
-How are model training algorithms used to train a model?
-In the preceding section, we talked about two key pieces of information: a model and data. In this section, we show you how those two pieces of information are used to create a trained model. This process is called model training.
+- How are model training algorithms used to train a model?
+- In the preceding section, we talked about two key pieces of information: a model and data.
+  - In this section, we show you how those two pieces of information are used to create a trained model.
+  - This process is called model training.
 
 Model training algorithms work through an interactive process
 Let's revisit our clay teapot analogy. We've gotten our piece of clay, and now we want to make a teapot. Let's look at the algorithm for molding clay and how it resembles a machine learning algorithm:
