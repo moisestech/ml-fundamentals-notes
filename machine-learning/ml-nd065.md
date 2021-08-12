@@ -274,10 +274,10 @@ The overall goal is to use a model created by a model training algorithm to gene
 
 🎥 [Udacity, Video Link](https://youtu.be/Q5N7JGTNBHg)
 
-Introduction to the Five Machine Learning Steps
+- Introduction to the Five Machine Learning Steps
 
-Steps of machine learning
-Steps of machine learning
+- Steps of machine learning
+- Steps of machine learning
 
 Major Steps in the Machine Learning Process
 In the preceding diagram, you can see an outline of the major steps of the machine learning process. Regardless of the specific model or training algorithm used, machine learning practitioners practice a common workflow to accomplish machine learning tasks.
