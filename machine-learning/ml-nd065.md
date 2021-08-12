@@ -204,16 +204,18 @@ The overall goal is to use a model created by a model training algorithm to gene
 
 - Model training algorithms work through an interactive process
 - Let's revisit our clay teapot analogy. We've gotten our piece of clay, and now we want to make a teapot.
+
   - Let's look at the algorithm for molding clay and how it resembles a machine learning algorithm:
 
-Think about the changes that need to be made. The first thing you would do is inspect the raw clay and think about what changes can be made to make it look more like a teapot. Similarly, a model training algorithm uses the model to process data and then compares the results against some end goal, such as our clay teapot.
-Make those changes. Now, you mold the clay to make it look more like a teapot. Similarly, a model training algorithm gently nudges specific parts of the model in a direction that brings the model closer to achieving the goal.
-Repeat. By iterating over these steps over and over, you get closer and closer to what you want until you determine that you’re close enough that you can stop.
-clay analogy for machine learning
-Think about the changes that need to be made Molding clay analoogy for machine learning
-Make those changes
-Model Inference: Using Your Trained Model
-Now you have our completed teapot. You inspected the clay, evaluated the changes that needed to be made, and made them, and now the teapot is ready for you to use. Enjoy your tea!
+- Think about the changes that need to be made.
+  - The first thing you would do is inspect the raw clay and think about what changes can be made to make it look more like a teapot. Similarly, a model training algorithm uses the model to process data and then compares the results against some end goal, such as our clay teapot.
+    Make those changes. Now, you mold the clay to make it look more like a teapot. Similarly, a model training algorithm gently nudges specific parts of the model in a direction that brings the model closer to achieving the goal.
+    Repeat. By iterating over these steps over and over, you get closer and closer to what you want until you determine that you’re close enough that you can stop.
+    clay analogy for machine learning
+    Think about the changes that need to be made Molding clay analoogy for machine learning
+    Make those changes
+    Model Inference: Using Your Trained Model
+    Now you have our completed teapot. You inspected the clay, evaluated the changes that needed to be made, and made them, and now the teapot is ready for you to use. Enjoy your tea!
 
 So what does this mean from a machine learning perspective? We are ready to use the model inference algorithm to generate predictions using the trained model. This process is often referred to as model inference.
 
