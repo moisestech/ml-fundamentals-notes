@@ -285,10 +285,11 @@ The overall goal is to use a model created by a model training algorithm to gene
   - Regardless of the specific model or training algorithm used, machine learning practitioners practice a common workflow to accomplish machine learning tasks.
 
 - These steps are iterative.
+
   - In practice, that means that at each step along the process, you review how the process is going. Are things operating as you expected?
   - If not, go back and revisit your current step or previous steps to try and identify the breakdown.
 
-The rest of the course is designed around these very important steps. Check through them again here and get ready to dive deep into each of them!
+- The rest of the course is designed around these very important steps. Check through them again here and get ready to dive deep into each of them!
 
 Task List
 
