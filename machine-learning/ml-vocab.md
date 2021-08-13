@@ -1,4 +1,4 @@
-# ML Vocabulary
+# ML Vocab
 
 - [Paperspace AI Wiki](https://docs.paperspace.com/machine-learning/)
 - [Google Doc](https://docs.google.com/document/d/1ElkOp8sU7_NlBJgQ6UQmlMnJNVr2RcgYL_fhVjOQCTY/edit#)
