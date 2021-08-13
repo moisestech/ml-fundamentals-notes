@@ -1,3 +1,0 @@
-# NB Classification
-
-[Udacity, Lesson]()
