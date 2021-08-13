@@ -1,5 +1,0 @@
-# Scatterplot
-
-[Udacity, Lesson]()
-
----
