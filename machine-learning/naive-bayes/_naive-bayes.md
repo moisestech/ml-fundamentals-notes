@@ -16,7 +16,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/TeFF9wXiFfs)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30775389770923#)
 
 ---
 
@@ -24,7 +24,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/buxApBhZCO0)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/23458286770923#)
 
 ---
 
@@ -38,7 +38,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/t0iflCpBUDA)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/23834887130923#)
 
 ---
 
@@ -46,7 +46,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/xeMDpSRTLWc)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/24177185370923#)
 
 ---
 
@@ -60,7 +60,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/IMWsjjIeOrY)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30162187150923#)
 
 ---
 
@@ -68,7 +68,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/T4GbEVybNlY)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30324487400923#)
 
 ---
 
@@ -76,7 +76,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/PaE5caOJ5kg)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30128387240923#)
 
 ---
 
@@ -84,7 +84,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/dGS0SKu1ox0)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30140587780923#)
 
 ---
 
@@ -92,7 +92,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/tkllhaHoko8)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30152286580923#)
 
 ---
 
@@ -100,7 +100,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/gbkORDbJM50)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30047786360923#)
 
 ---
 
@@ -108,7 +108,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/sudTOiG-NJo)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30031787130923#)
 
 ---
 
@@ -140,7 +140,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/VBs6D4ggnYY)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/24196685390923#)
 
 - To find the `ClassifyNB.py` script that you need to update for the quiz, you can click on the dropdown in the classroom code editor to get a list of files that will be used.
 
@@ -156,7 +156,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/-gJJmckPBAg)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/22853385400923#)
 
 - In this example, we print the accuracy. However, the quiz is slightly different in that you return the accuracy, rather than printing it directly.
 
@@ -190,7 +190,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/EL5z2lUuxY4)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/29897086260923#)
 
 - Reminder of the question: the prior probability of cancer is 1%, and a sensitivity and specificity are 90%, what's the probability that someone with a positive cancer test actually has the disease?
 
@@ -200,7 +200,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/EL5z2lUuxY4)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30134285350923#)
 
 ---
 
@@ -208,7 +208,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/aALYYSwS7MM)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/29561391780923#)
 
 ---
 
@@ -216,7 +216,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/EPrrQaYp7H0)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30061885360923#)
 
 ---
 
@@ -224,7 +224,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/FBRK-XwPC54)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30081285350923#)
 
 ---
 
@@ -232,7 +232,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/FlbDcNPGgUE)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/29913289200923#)
 
 ---
 
@@ -246,7 +246,7 @@
 
 🎥 [Udacity, Video Link](https://youtu.be/wPI9WOfpZbM)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/23503786520923#)
 Note that 50% (.5) of Sara's words are love.
 
 ---
@@ -255,7 +255,7 @@ Note that 50% (.5) of Sara's words are love.
 
 🎥 [Udacity, Video Link](https://youtu.be/nNna_SLlIT8)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/24322585350923#)
 Note that 50% (.5) of Sara's words are love.
 
 ---
@@ -264,7 +264,7 @@ Note that 50% (.5) of Sara's words are love.
 
 🎥 [Udacity, Video Link](https://youtu.be/lJlS-Xdlu5o)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30226787120923#)
 Note that 50% (.5) of Sara's words are love.
 
 ---
@@ -273,7 +273,7 @@ Note that 50% (.5) of Sara's words are love.
 
 🎥 [Udacity, Video Link](https://youtu.be/2StCBxTOoK0)
 
-📝 [**Start Quiz**]()
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/24144385410923#)
 Note that 50% (.5) of Sara's words are love.
 
 ---
@@ -281,6 +281,7 @@ Note that 50% (.5) of Sara's words are love.
 ## **35. Why Is Naive Bayes Naive**
 
 🎥 [Udacity, Video Link](https://youtu.be/H7IlFC5wbjk)
+📝 [**Start Quiz**](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/24261685360923#)
 
 ---
 
