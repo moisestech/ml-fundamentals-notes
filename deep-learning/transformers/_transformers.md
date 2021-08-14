@@ -10,6 +10,8 @@
 
 ## Resources
 
+### Courses
+
 - [Transformer Models](https://huggingface.co/course/chapter1), **HuggingFace**
 
 ---
