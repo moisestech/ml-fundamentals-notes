@@ -6,10 +6,11 @@
 
 ## **1. Welcome!**
 
-PyTorch in Production
-Welcome to this lesson on using PyTorch in production. PyTorch has been most popular in research settings due to its flexibility, expressiveness, and ease of development in general. However, adoption has been slow in industry because it wasn't as useful in production environments which typically require models to run in C++. To address this, PyTorch 1.0 has introduced new features for exporting your models from Python into C++.
+### PyTorch in Production
 
-I'll be showing you how to use these new features to compile Python models for use in C++ environments. Follow along while I walk through this tutorial. I'll show you how to convert your models into a new representation called Torch Script. Using two methods, tracing and annotations, you can convert your models into ScriptModules which can be exported as serialized files then loaded into a C++ application. Using this combination of Torch Script and the PyTorch C++ API, you can do all the development and training of your network in Python, then utilize the trained model in a C++ application.
+- Welcome to this lesson on using PyTorch in production. PyTorch has been most popular in research settings due to its flexibility, expressiveness, and ease of development in general. However, adoption has been slow in industry because it wasn't as useful in production environments which typically require models to run in C++. To address this, PyTorch 1.0 has introduced new features for exporting your models from Python into C++.
+
+- I'll be showing you how to use these new features to compile Python models for use in C++ environments. Follow along while I walk through this tutorial. I'll show you how to convert your models into a new representation called Torch Script. Using two methods, tracing and annotations, you can convert your models into ScriptModules which can be exported as serialized files then loaded into a C++ application. Using this combination of Torch Script and the PyTorch C++ API, you can do all the development and training of your network in Python, then utilize the trained model in a C++ application.
 
 ---
 
@@ -62,4 +63,4 @@ I'll be showing you how to use these new features to compile Python models for u
 
 ## Foam Links Related
 
-- [[ml-ops]]
+- [[_ml-ops]]
