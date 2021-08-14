@@ -10,6 +10,9 @@
 ---
 
 - 📘 [Machine Learning]()
+- 📕 [Supervised Learning]()
+- 📙 [Supervised Learning]()
+- 📗 [Reinforcement Learning]()
 
 ---
 
