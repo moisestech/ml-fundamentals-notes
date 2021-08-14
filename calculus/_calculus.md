@@ -10,4 +10,4 @@
 
 ## Related Foam Links
 
-- [[_machine-learning]]
+- [[_algebra]]
