@@ -32,6 +32,17 @@
 
 ---
 
+## ML Pipeline w/ SageMaker Projects
+
+- **Flight Delays**
+  - Determine wether or not a flight will be delayed.
+- **Recommendation Engine**
+  - Recommend content based on Amazon.com customer reviews.
+- **Fraud Detection**
+  - Indetify fraudulent activities using Amazon Sagemaker.
+
+---
+
 ## Foam Related Links
 
 - [[_mini_projects]]
