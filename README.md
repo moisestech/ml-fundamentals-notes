@@ -9,9 +9,9 @@
 
 ---
 
-- 📘 [Machine Learning]()
-- 📕 [Supervised Learning]()
-- 📙 [Supervised Learning]()
+- 📘 [Machine Learning](https://github.com/moisestech/ml-fundamentals-notes/blob/master/machine-learning/_ml.md)
+- 📕 [Supervised Learning](https://github.com/moisestech/ml-fundamentals-notes/blob/master/machine-learning/supervised/_supervised.md)
+- 📙 [Unsupervised Learning](https://github.com/moisestech/ml-fundamentals-notes/blob/master/machine-learning/unsupervised/_unsupervised.md)
 - 📗 [Reinforcement Learning]()
 
 ---
