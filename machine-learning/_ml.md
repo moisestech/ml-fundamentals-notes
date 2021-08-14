@@ -39,11 +39,12 @@
 
 ## Foam Related Links
 
-- [[ml-aws-nd065]]
 - [[ml-nd065]]
 - [[ml-ud187]]
 
 - [[supervised]]
+- [[unsupervised]]
+- [[_algorithms]]
 
 - [[_datasets]]
 
