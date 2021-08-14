@@ -1,23 +1,36 @@
 # README
 
-## Udacity ML
+---
 
-- [AWS Machine Learning Foundations Course](https://classroom.udacity.com/courses/ud090/lessons/ac47b924-72d3-4bf9-971c-bfccfa368b02/concepts/0ea0ed14-f1ab-4119-bc5a-3ab2de6bc418), **Udacity**
-- [Intro to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188/lessons/b4ca7aaa-b346-43b1-ae7d-20d27b2eab65/concepts/a3b18b18-8496-4775-af48-921ab35bd306), **Udacity**
-- [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120/lessons/2410328539/concepts/30096788840923), **Udacity**
-- [Intro to Deep Learning w/ PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
-- [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
-- [Intro to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
-- [Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893), **Udacity**
-- [Natural Language Processing](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892), **Udacity**
-- [Computer Vision](https://www.udacity.com/course/computer-vision-nanodegree--nd891), **Udacity**
-- [Intro to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333), **Udacity**
-- [Descriptive Statistics](https://www.udacity.com/course/ud827), **Udacity**
-- [Inferential Statistics](https://www.udacity.com/course/ud201), **Udacity**
+## Link Map
+
+🔗 = Outbound Links
+📘 = Markdown Notes
 
 ---
 
-- [Pytorch Scholarship, Student Story Challenge](https://sites.google.com/udacity.com/pytorch-scholarship-facebook/phase-1-archived/community-archived/top-5-student-stories/student-story-challenge), **Udacity**
+- 📘 [Machine Learning]()
+
+---
+
+## Udacity ML
+
+- 🔗[AWS Machine Learning Foundations Course](https://classroom.udacity.com/courses/ud090/lessons/ac47b924-72d3-4bf9-971c-bfccfa368b02/concepts/0ea0ed14-f1ab-4119-bc5a-3ab2de6bc418), **Udacity**
+- 🔗[Intro to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188/lessons/b4ca7aaa-b346-43b1-ae7d-20d27b2eab65/concepts/a3b18b18-8496-4775-af48-921ab35bd306), **Udacity**
+- 🔗[Intro to Machine Learning](https://classroom.udacity.com/courses/ud120/lessons/2410328539/concepts/30096788840923), **Udacity**
+- 🔗[Intro to Deep Learning w/ PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- 🔗[Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- 🔗[Intro to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+- 🔗[Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893), **Udacity**
+- 🔗[Natural Language Processing](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892), **Udacity**
+- 🔗[Computer Vision](https://www.udacity.com/course/computer-vision-nanodegree--nd891), **Udacity**
+- 🔗[Intro to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333), **Udacity**
+- 🔗[Descriptive Statistics](https://www.udacity.com/course/ud827), **Udacity**
+- 🔗[Inferential Statistics](https://www.udacity.com/course/ud201), **Udacity**
+
+---
+
+- 🔗[Pytorch Scholarship, Student Story Challenge](https://sites.google.com/udacity.com/pytorch-scholarship-facebook/phase-1-archived/community-archived/top-5-student-stories/student-story-challenge), **Udacity**
 
 ---
 
