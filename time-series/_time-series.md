@@ -6,10 +6,8 @@
 
 ## **1. Meet Your Instructor**
 
-- Aurélien Géron
-
 - Meet Your Instructor
-- Aurélien Géron is a Machine Learning consultant, author of the best-selling O'Reilly book "Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow".
+- **Aurélien Géron** is a Machine Learning consultant, author of the best-selling O'Reilly book ["Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow"](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).
   - A former Googler, he led YouTube's video classification team from 2013 to 2016.
   - He was also a founder and CTO of Wifirst from 2002 to 2012, a leading Wireless ISP in France.
   - Before this he worked as a consultant in a variety of domains: finance (JP Morgan and Société Générale), defense (Canada's DOD), and healthcare (blood transfusion).
