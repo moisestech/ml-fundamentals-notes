@@ -114,4 +114,4 @@
 
 ## Foam Related Links
 
-- [[_nns]]
+- [[_deep-learning]]
