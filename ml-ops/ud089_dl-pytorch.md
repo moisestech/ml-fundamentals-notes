@@ -10,4 +10,4 @@
 
 ## Foam Related Links
 
-- [[_pytorch]]
+- [[_ml-ops]]
