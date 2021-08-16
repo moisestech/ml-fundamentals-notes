@@ -271,4 +271,4 @@ Our general suggestion is to try a few different algorithms for each problem. Tu
 
 ## Foam Related Links
 
-- **[[supervised]]**
+- **[[_supervised]]**
