@@ -253,102 +253,75 @@ print(output_frame.to_string(index=False))
 - ✅ Closer
 
 🎥 [Udacity, Video Link](https://youtu.be/fATmrG2hQzI)
-Time for some math!
-Now that we've learned that the points that are misclassified, want the line to move closer to them, let's do some math. The following video shows a mathematical trick that modifies the equation of the line, so that it comes closer to a particular point.
 
-For the second example, where the line is described by 3x1+ 4x2 - 10 = 0, if the learning rate was set to 0.1, how many times would you have to apply the perceptron trick to move the line to a position where the blue point, at (1, 1), is correctly classified?
+### Time for some math
 
-10
+- Now that we've learned that the points that are misclassified, want the line to move closer to them, let's do some math.
+
+🎥 [Udacity, Video Link](https://youtu.be/lif_qPmXvWA)
+
+- The following video shows a mathematical trick that modifies the equation of the line, so that it comes closer to a particular point.
+
+### ❓ _For the second example, where the line is described by `3x1+ 4x2 - 10 = 0`, if the learning rate was set to `0.1`_
+
+### _how many times would you have to apply the perceptron trick to move the line to a position where the blue point, at `(1, 1)`, is correctly classified?_
+
+- ✅ `10`
 
 ---
 
 ## **10. Perceptron Algorithm**
 
+- And now, with the perceptron trick in our hands, we can fully develop the perceptron algorithm!
+  - The following video will show you the pseudocode, and in the quiz below, you'll have the chance to code it in Python.
+
 🎥 [Udacity, Video Link](https://youtu.be/p8Q3yu9YqYk)
 
-Perceptron Algorithm
-And now, with the perceptron trick in our hands, we can fully develop the perceptron algorithm! The following video will show you the pseudocode, and in the quiz below, you'll have the chance to code it in Python.
+- There's a small error in the above video in that `W_i` should be updated to W_i = W_i + +αx_i (plus or minus depending on the situation).
 
-There's a small error in the above video in that W_iW
-i
-​
-should be updated to W_i = W_i + \alpha x_iW
-i
-​
-=W
-i
-​
-+αx
-i
-​
-(plus or minus depending on the situation).
+### Coding the Perceptron Algorithm
 
-Coding the Perceptron Algorithm
-Time to code! In this quiz, you'll have the chance to implement the perceptron algorithm to separate the following data (given in the file data.csv).
+- Time to code! In this quiz, you'll have the chance to implement the perceptron algorithm to separate the following data (given in the file `data.csv`).
 
-Recall that the perceptron step works as follows. For a point with coordinates (p,q)(p,q), label yy, and prediction given by the equation \hat{y} = step(w_1x_1 + w_2x_2 + b)
-y
-^
-​
-=step(w
-1
-​
-x
-1
-​
-+w
-2
-​
-x
-2
-​
-+b):
+![]()
 
-If the point is correctly classified, do nothing.
-If the point is classified positive, but it has a negative label, subtract \alpha p, \alpha q,αp,αq, and \alphaα from w_1, w_2,w
-1
-​
-,w
-2
-​
-, and bb respectively.
-If the point is classified negative, but it has a positive label, add \alpha p, \alpha q,αp,αq, and \alphaα to w_1, w_2,w
-1
-​
-,w
-2
-​
-, and bb respectively.
-Then click on test run to graph the solution that the perceptron algorithm gives you. It'll actually draw a set of dotted lines, that show how the algorithm approaches to the best solution, given by the black solid line.
+- Recall that the perceptron step works as follows.
 
-Feel free to play with the parameters of the algorithm (number of epochs, learning rate, and even the randomizing of the initial parameters) to see how your initial conditions can affect the solution!
+  - For a point with coordinates `(p,q)`, label `y`, and prediction given by the equation `y^ = step(w_1x_1 + w_2x_2 + b)`
 
-perceptron.py
-data.csv
-solution.py
+  - If the point is correctly classified, do nothing.
+  - If the point is classified positive, but it has a negative label, subtract `αp,αq`, and `α` from `w_1`, `w_2`, and `b` respectively.
+  - If the point is classified negative, but it has a positive label, add `αp`, `αp`, and `α` to `w_1`, `w_2`, and `b` respectively.
+
+- Then click on `test run` to graph the solution that the perceptron algorithm gives you.
+
+  - It'll actually draw a set of dotted lines, that show how the algorithm approaches to the best solution, given by the black solid line.
+
+- Feel free to play with the parameters of the algorithm (number of epochs, learning rate, and even the randomizing of the initial parameters) to see how your initial conditions can affect the solution!
+
+`perceptron.py`
+`data.csv`
+`solution.py`
+
+```python
 import numpy as np
 
-### Setting the random seed, feel free to change it and see different solutions.
-
+# Setting the random seed, feel free to change it and see different solutions.
 np.random.seed(42)
 
 def stepFunction(t):
-if t >= 0:
-return 1
-return 0
+  if t >= 0:
+  return 1
+  return 0
 
 def prediction(X, W, b):
 return stepFunction((np.matmul(X,W)+b)[0])
 
-### TODO: Fill in the code below to implement the perceptron trick.
-
-### The function should receive as inputs the data X, the labels y,
-
-### the weights W (as an array), and the bias b,
-
-### update the weights and bias W, b, according to the perceptron algorithm,
-
-### and return W and b.
+# TODO: Fill in the code below to implement the perceptron trick.
+# The function should receive as inputs the data X, the labels y,
+# the weights W (as an array), and the bias b,
+# update the weights and bias W, b, according to the perceptron algorithm,
+# and return W and b.
 
 def perceptronStep(X, y, W, b, learn_rate = 0.01): # Fill in code
 for i in range(len(X)):
@@ -363,15 +336,11 @@ W[1] -= X[i][1]*learn_rate
 b -= learn_rate
 return W, b
 
-### This function runs the perceptron algorithm repeatedly on the dataset,
-
-### and returns a few of the boundary lines obtained in the iterations,
-
-### for plotting purposes.
-
-### Feel free to play with the learning rate and the num_epochs,
-
-### and see your results plotted below.
+# This function runs the perceptron algorithm repeatedly on the dataset,
+# and returns a few of the boundary lines obtained in the iterations,
+# for plotting purposes.
+# Feel free to play with the learning rate and the num_epochs,
+# and see your results plotted below.
 
 def trainPerceptronAlgorithm(X, y, learn_rate = 0.01, num_epochs = 25):
 x_min, x_max = min(X.T[0]), max(X.T[0])
@@ -383,6 +352,7 @@ for i in range(num_epochs): # In each epoch, we apply the perceptron step.
 W, b = perceptronStep(X, y, W, b, learn_rate)
 boundary_lines.append((-W[0]/W[1], -b/W[1]))
 return boundary_lines
+```
 
 ---
 
@@ -425,12 +395,12 @@ The error function should be continuous
 
 ### 📝 QUIZ QUESTION
 
-- The sigmoid function is defined as sigmoid(x) = 1/(1+e-x).
+### The sigmoid function is defined as `sigmoid(x) = 1/(1+e-x)`.
 
-  - If the score is defined by 4x1 + 5x2 - 9 = score, then which of the following points has exactly a 50% probability of being blue or red? (Choose all that are correct.)
+### ❓ _If the score is defined by `4x1 + 5x2 - 9 = score`, then which of the following points has exactly a `50%` probability of being blue or red? (Choose all that are correct.)_
 
-- (1, 1)
-- (-4, 5)
+- `(1, 1)`
+- `(-4, 5)`
 
 ---
 
@@ -583,21 +553,29 @@ def cross*entropy(Y, P):
 
 - Red and blue data points with some overlap.
 
-Workspace
-To open this notebook, you have two options:
+### Workspace
 
-Go to the next page in the classroom (recommended)
-Clone the repo from Github and open the notebook GradientDescent.ipynb in the intro-neural-networks > gradient-descent folder. You can either download the repository via the command line with git clone https://github.com/udacity/deep-learning-v2-pytorch.git, or download it as an archive file from this link.
-Instructions
-In this notebook, you'll be implementing the functions that build the gradient descent algorithm, namely:
+- To open this notebook, you have two options:
 
-sigmoid: The sigmoid activation function.
-output_formula: The formula for the prediction.
-error_formula: The formula for the error at a point.
-update_weights: The function that updates the parameters with one gradient descent step.
-When you implement them, run the train function and this will graph the several of the lines that are drawn in successive gradient descent steps. It will also graph the error function, and you can see it decreasing as the number of epochs grows.
+- Go to the next page in the classroom (recommended)
 
-This is a self-assessed lab. If you need any help or want to check your answers, feel free to check out the solutions notebook in the same folder, or by clicking here.
+- Clone the repo from Github and open the notebook `GradientDescent.ipynb` in the intro-neural-networks > gradient-descent folder.
+  - You can either download the repository via the command line with git clone [https://github.com/udacity/deep-learning-v2-pytorch.git](https://github.com/udacity/deep-learning-v2-pytorch.git), or download it as an archive file from this link.
+
+### Instructions
+
+- In this notebook, you'll be implementing the functions that build the gradient descent algorithm, namely:
+
+- sigmoid: The sigmoid activation function.
+- output_formula: The formula for the prediction.
+- error_formula: The formula for the error at a point.
+- update_weights: The function that updates the parameters with one gradient descent step.
+- When you implement them, run the train function and this will graph the several of the lines that are drawn in successive gradient descent steps.
+
+  - It will also graph the error function, and you can see it decreasing as the number of epochs grows.
+
+- This is a self-assessed lab.
+  - If you need any help or want to check your answers, feel free to check out the solutions notebook in the same folder, or by clicking here.
 
 ---
 
@@ -611,7 +589,8 @@ This is a self-assessed lab. If you need any help or want to check your answers,
 
 🎥 [Udacity, Video Link](https://youtu.be/uL5LuRPivTA)
 
-In the video at 0:12 mark, the instructor said y hat minus y. It should be y minus y hat instead as stated on the slide.
+- In the video at `0:12` mark, the instructor said `y^ - y`.
+- It should be `y - y^` instead as stated on the slide.
 
 ---
 
@@ -637,30 +616,33 @@ In the video at 0:12 mark, the instructor said y hat minus y. It should be y min
 
 🎥 [Udacity, Video Link](https://youtu.be/Boy3zHVrWB4)
 
-Neural Network Architecture
-Ok, so we're ready to put these building blocks together, and build great Neural Networks! (Or Multi-Layer Perceptrons, however you prefer to call them.)
+- Ok, so we're ready to put these building blocks together, and build great Neural Networks! (Or Multi-Layer Perceptrons, however you prefer to call them.)
 
-This first two videos will show us how to combine two perceptrons into a third, more complicated one.
+- This first two videos will show us how to combine two perceptrons into a third, more complicated one.
 
-### 📝 QUESTION 1 OF 2
+### 📝 QUESTION 10: 1 OF 2
 
-Based on the above video, let's define the combination of two new perceptrons as w1*0.4 + w2*0.6 + b. Which of the following values for the weights and the bias would result in the final probability of the point to be 0.88?
+- Based on the above video, let's define the combination of two new perceptrons as w1*0.4 + w2*0.6 + b.
 
-w1: 3, w2: 5, b: -2.2
+  - Which of the following values for the weights and the bias would result in the final probability of the point to be 0.88?
 
-Multiple layers
-Now, not all neural networks look like the one above. They can be way more complicated! In particular, we can do the following things:
+- w1: 3, w2: 5, b: -2.2
 
-Add more nodes to the input, hidden, and output layers.
-Add more layers.
-We'll see the effects of these changes in the next video.
+### Multiple layers
 
-Multi-Class Classification
-And here we elaborate a bit more into what can be done if our neural network needs to model data with more than one output.
+- Now, not all neural networks look like the one above.
 
-How many nodes in the output layer would you require if you were trying to classify all the letters in the English alphabet?
+  - They can be way more complicated! In particular, we can do the following things:
 
-26
+- Add more nodes to the input, hidden, and output layers.
+- Add more layers.
+- We'll see the effects of these changes in the next video.
+
+### Multi-Class Classification
+
+- And here we elaborate a bit more into what can be done if our neural network needs to model data with more than one output.
+- How many nodes in the output layer would you require if you were trying to classify all the letters in the English alphabet?
+- 26
 
 ---
 
@@ -668,11 +650,12 @@ How many nodes in the output layer would you require if you were trying to class
 
 🎥 [Udacity, Video Link](https://youtu.be/hVCuvMGOfyY)
 
-Feedforward
-Feedforward is the process neural networks use to turn the input into an output. Let's study it more carefully, before we dive into how to train the networks.
+- **Feedforward**
 
-Error Function
-Just as before, neural networks will produce an error function, which at the end, is what we'll be minimizing. The following video shows the error function for a neural network.
+  - **Feedforward** is the process neural networks use to turn the input into an output. Let's study it more carefully, before we dive into how to train the networks.
+
+- **Error Function**
+  - Just as before, neural networks will produce an error function, which at the end, is what we'll be minimizing. The following video shows the error function for a neural network.
 
 ---
 
@@ -680,27 +663,33 @@ Just as before, neural networks will produce an error function, which at the end
 
 🎥 [Udacity, Video Link](https://youtu.be/1SmY3TZTyUk)
 
-Backpropagation
-Now, we're ready to get our hands into training a neural network. For this, we'll use the method known as backpropagation. In a nutshell, backpropagation will consist of:
+### Backpropagation
 
-Doing a feedforward operation.
-Comparing the output of the model with the desired output.
-Calculating the error.
-Running the feedforward operation backwards (backpropagation) to spread the error to each of the weights.
-Use this to update the weights, and get a better model.
-Continue this until we have a model that is good.
-Sounds more complicated than what it actually is. Let's take a look in the next few videos. The first video will show us a conceptual interpretation of what backpropagation is.
+- Now, we're ready to get our hands into training a neural network. For this, we'll use the method known as backpropagation. In a nutshell, backpropagation will consist of:
 
-Backpropagation Math
-And the next few videos will go deeper into the math. Feel free to tune out, since this part gets handled by Keras pretty well. If you'd like to go start training networks right away, go to the next section. But if you enjoy calculating lots of derivatives, let's dive in!
+- Doing a feedforward operation.
+- Comparing the output of the model with the desired output.
+- Calculating the error.
+- Running the feedforward operation backwards (backpropagation) to spread the error to each of the weights.
+- Use this to update the weights, and get a better model.
+- Continue this until we have a model that is good.
+- Sounds more complicated than what it actually is. Let's take a look in the next few videos. The first video will show us a conceptual interpretation of what backpropagation is.
 
-In the video below at 1:24, the edges should be directed to the sigmoid function and not the bias at that last layer; the edges of the last layer point to the bias currently which is incorrect.
+### Backpropagation Math
 
-Chain Rule
-We'll need to recall the chain rule to help us calculate derivatives.
+- And the next few videos will go deeper into the math.
 
-Calculation of the derivative of the sigmoid function
-Recall that the sigmoid function has a beautiful derivative, which we can see in the following calculation. This will make our backpropagation step much cleaner.
+  - Feel free to tune out, since this part gets handled by Keras pretty well.
+  - If you'd like to go start training networks right away, go to the next section.
+  - But if you enjoy calculating lots of derivatives, let's dive in!
+
+- In the video below at `1:24`, the edges should be directed to the sigmoid function and not the bias at that last layer; the edges of the last layer point to the bias currently which is incorrect.
+
+- Chain Rule
+- We'll need to recall the chain rule to help us calculate derivatives.
+
+- Calculation of the derivative of the sigmoid function
+- Recall that the sigmoid function has a beautiful derivative, which we can see in the following calculation. This will make our backpropagation step much cleaner.
 
 ---
 
@@ -708,17 +697,22 @@ Recall that the sigmoid function has a beautiful derivative, which we can see in
 
 - Now, we're ready to put neural networks in practice. We'll analyze a dataset of student admissions at UCLA.
 
-To open this notebook, you have two options:
+- To open this notebook, you have two options:
 
-Go to the next page in the classroom (recommended).
-Clone the repo from Github and open the notebook StudentAdmissions.ipynb in the intro-neural-networks > student_admissions folder. You can either download the repository with git clone https://github.com/udacity/deep-learning-v2-pytorch.git, or download it as an archive file from this link.
-Instructions
-In this notebook, you'll be implementing some of the steps in the training of the neural network, namely:
+- Go to the next page in the classroom (recommended).
+- Clone the repo from Github and open the notebook `StudentAdmissions.ipynb` in the intro-neural-networks > student_admissions folder.
+  - You can either download the repository with git clone [https://github.com/udacity/deep-learning-v2-pytorch.git](https://github.com/udacity/deep-learning-v2-pytorch.git), or download it as an archive file from this link.
 
-One-hot encoding the data
-Scaling the data
-Writing the backpropagation step
-This is a self-assessed lab. If you need any help or want to check your answers, feel free to check out the solutions notebook in the same folder, or by clicking here.
+### Instructions
+
+- In this notebook, you'll be implementing some of the steps in the training of the neural network, namely:
+
+- One-hot encoding the data
+- Scaling the data
+- Writing the backpropagation step
+
+- This is a self-assessed lab.
+  - If you need any help or want to check your answers, feel free to check out the solutions notebook in the same folder, or by clicking here.
 
 ---
 
