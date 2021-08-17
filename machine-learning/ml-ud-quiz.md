@@ -12,7 +12,7 @@
 
 ---
 
-### **What are hyperparameters?**
+### **2. What are hyperparameters?**
 
 - [ ] Model parameters that change faster than most other model paramters during model training.
 - [ ] Model paramters that have more of an impact on the final result than most other model parameters.
@@ -21,7 +21,7 @@
 
 ---
 
-### **Which of the following is the best explanation for how a model trainig algorithm works?**
+### **3. Which of the following is the best explanation for how a model trainig algorithm works?**
 
 - [ ] Model training algorithms incrementally adjust model parameters to minimize some loss function.
 - [ ] Model training algorithms slowly add or remove model parameters until the model fits the dataset it was trained on.
@@ -30,12 +30,18 @@
 
 ---
 
-### **Which of the following would not be a good reason to us a linear model?**
+### **4. Which of the following would not be a good reason to us a linear model?**
 
 - [ ] I am not yet sure what model would work well with my data, and I want to establish a quick baseline.
 - [ ] The input-output relationships I'm trying to model look like they're pretty straightforward.. When plotting my label as a function of each of my input variables. I can see that fitting a line would do better than randomly guessing in many cases.
 - [ ] Linear models worked for most other problems I've tacked before, so it should definately work well for my current challenge.
 - [ ] I'm still early on in building my understanding of machine learning and want to start with something I can easily understand and visualize.
+
+---
+
+### **5.**
+
+---
 
 ---
 
