@@ -870,4 +870,4 @@ Thanks for joining us for this lesson. We hope you continue to learn more about 
 
 ## Foam Related Link
 
-- [[gan]]
+- [[_ml-aws]]
