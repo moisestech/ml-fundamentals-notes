@@ -4,4 +4,4 @@
 
 ## Foam Related Links
 
-- [[_algorithms]]
+- [[nn-intro-ud089]]
