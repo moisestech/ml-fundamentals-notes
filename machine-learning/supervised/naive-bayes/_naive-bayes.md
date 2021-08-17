@@ -435,4 +435,4 @@ print "training time:", round(time()-t0, 3), "s"
 - [[_features]]
 - [[_claasification]]
 
-- **[[supervised]]**
+- **[[_supervised]]**
