@@ -30,6 +30,15 @@
 
 ---
 
+### **Which of the following would not be a good reason to us a linear model?**
+
+- [ ] I am not yet sure what model would work well with my data, and I want to establish a quick baseline.
+- [ ] The input-output relationships I'm trying to model look like they're pretty straightforward.. When plotting my label as a function of each of my input variables. I can see that fitting a line would do better than randomly guessing in many cases.
+- [ ] Linear models worked for most other problems I've tacked before, so it should definately work well for my current challenge.
+- [ ] I'm still early on in building my understanding of machine learning and want to start with something I can easily understand and visualize.
+
+---
+
 ## Foam Related Links
 
 - [[_ml]]
