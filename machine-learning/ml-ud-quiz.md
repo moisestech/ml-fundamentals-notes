@@ -12,6 +12,17 @@
 
 ---
 
+### **What are hyperparameters?**
+
+- [ ] Model parameters that change faster than most other model paramters during model training.
+- [ ] Model paramters that have more of an impact on the final result than most other model parameters.
+- [ ] Parameters within a model inference algorithm.
+- [ ] Parameters which affect model training but typically cannot be incrementally adjusted like other paramters as part of model training.
+
+---
+
+### \*\*\*\*
+
 ## Foam Related Links
 
 - [[_ml]]
