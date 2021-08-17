@@ -1,4 +1,8 @@
-# Regressions
+# Regress
+
+## [Regression, Lesson, Udactiy, UD, ]()
+
+---
 
 ## **1. Continuous Output Quiz**
 
@@ -332,4 +336,4 @@ Start Quiz
 
 ## Foam Related Links
 
-- **[[supervised]]**
+- **[[_supervised]]**
