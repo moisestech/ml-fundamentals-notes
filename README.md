@@ -18,18 +18,25 @@
 
 ## Udacity ML
 
-- 🔗[AWS Machine Learning Foundations Course](https://classroom.udacity.com/courses/ud090/lessons/ac47b924-72d3-4bf9-971c-bfccfa368b02/concepts/0ea0ed14-f1ab-4119-bc5a-3ab2de6bc418), **Udacity**
-- 🔗[Intro to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188/lessons/b4ca7aaa-b346-43b1-ae7d-20d27b2eab65/concepts/a3b18b18-8496-4775-af48-921ab35bd306), **Udacity**
-- 🔗[Intro to Machine Learning](https://classroom.udacity.com/courses/ud120/lessons/2410328539/concepts/30096788840923), **Udacity**
-- 🔗[Intro to Deep Learning w/ PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
-- 🔗[Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
-- 🔗[Intro to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
-- 🔗[Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893), **Udacity**
-- 🔗[Natural Language Processing](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892), **Udacity**
-- 🔗[Computer Vision](https://www.udacity.com/course/computer-vision-nanodegree--nd891), **Udacity**
-- 🔗[Intro to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333), **Udacity**
-- 🔗[Descriptive Statistics](https://www.udacity.com/course/ud827), **Udacity**
-- 🔗[Inferential Statistics](https://www.udacity.com/course/ud201), **Udacity**
+- 🔗[AWS Machine Learning Foundations Course, UD090](https://classroom.udacity.com/courses/ud090), **Udacity**
+- 🔗[Intro to Deep Learning with PyTorch, UD188](https://classroom.udacity.com/courses/ud188), **Udacity**
+- 🔗[Intro to Machine Learning, UD120](https://classroom.udacity.com/courses/ud120), **Udacity**
+- 🔗[Intro to Deep Learning w/ PyTorch, UD188](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- 🔗[Intro to TensorFlow for Deep Learning, UD187](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- 🔗[Intro to TensorFlow Lite, UD190](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+- 🔗[Deep Reinforcement Learning, ND893](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893), **Udacity**
+- 🔗[Natural Language Processing, ND892](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892), **Udacity**
+- 🔗[Computer Visio, ND891](https://www.udacity.com/course/computer-vision-nanodegree--nd891), **Udacity**
+- 🔗[Intro to Machine Learning using Microsoft Azure, UD00333](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333), **Udacity**
+- 🔗[Descriptive Statistics, UD827](https://www.udacity.com/course/ud827), **Udacity**
+- 🔗[Inferential Statistics, UD201](https://www.udacity.com/course/ud201), **Udacity**
+- 🔗[Spark, UD2002](https://classroom.udacity.com/courses/ud2002), **Udacity**
+- 🔗[Full Stack,UD088](https://classroom.udacity.com/courses/ud088), **Udacity**
+- 🔗[Differential Equations in Action, CS222](https://classroom.udacity.com/courses/cs222), **Udacity**
+- 🔗[Intro to Algorithms, CS215](https://classroom.udacity.com/courses/cs215), **Udacity**
+- 🔗[Machine Learning, UD262](https://classroom.udacity.com/courses/ud262), **Udacity**
+- 🔗[Full Stack ,Foundations, UD088](https://classroom.udacity.com/courses/ud088), **Udacity**
+- 🔗[Edge AI Fundamentals with OpenVINO, UD132](https://classroom.udacity.com/courses/ud132), **Udacity**
 
 ---
 
@@ -82,4 +89,4 @@
 
 ## Foam Related Links
 
-- [[_machine-learning]]
+- [[_ml]]
