@@ -1,6 +1,6 @@
 # Intro NN UD188
 
-## [Neural Networks, Lesson, Udacity, UD, Intro To Machine Learning]()
+## [Neural Networks, Lesson, Udacity, UD188, Intro To Machine Learning]()
 
 ---
 
@@ -372,15 +372,15 @@ return boundary_lines
 
 🎥 [Udacity, Video Link](https://youtu.be/jfKShxGAbok)
 
-We pick back up on log-loss error with the gradient descent concept.
+- We pick back up on log-loss error with the gradient descent concept.
 
 ### 📝 QUIZ QUESTION
 
-Which of the following conditions should be met in order to apply gradient descent? (Check all that apply.)
+- Which of the following conditions should be met in order to apply gradient descent? (Check all that apply.)
 
-The error function should be differentiable
+- The error function should be differentiable
 
-The error function should be continuous
+- The error function should be continuous
 
 ---
 
@@ -417,10 +417,10 @@ The error function should be continuous
 
 ### _What function turns every number into a positive number?_
 
-exp
+- exp
 
-Quiz: Coding Softmax
-And now, your time to shine! Let's code the formula for the Softmax function in Python.
+- Quiz: Coding Softmax
+- And now, your time to shine! Let's code the formula for the Softmax function in Python.
 
 `softmax.py`
 `solution.py`
@@ -622,11 +622,11 @@ def cross*entropy(Y, P):
 
 ### 📝 QUESTION 10: 1 OF 2
 
-- Based on the above video, let's define the combination of two new perceptrons as w1*0.4 + w2*0.6 + b.
+- Based on the above video, let's define the combination of two new perceptrons as `w1*0.4 + w2*0.6 + b`.
 
   - Which of the following values for the weights and the bias would result in the final probability of the point to be 0.88?
 
-- w1: 3, w2: 5, b: -2.2
+- w1: `3`, w2: `5`, b: `-2.2`
 
 ### Multiple layers
 
@@ -650,9 +650,7 @@ def cross*entropy(Y, P):
 
 🎥 [Udacity, Video Link](https://youtu.be/hVCuvMGOfyY)
 
-- **Feedforward**
-
-  - **Feedforward** is the process neural networks use to turn the input into an output. Let's study it more carefully, before we dive into how to train the networks.
+- **Feedforward** is the process neural networks use to turn the input into an output. Let's study it more carefully, before we dive into how to train the networks.
 
 - **Error Function**
   - Just as before, neural networks will produce an error function, which at the end, is what we'll be minimizing. The following video shows the error function for a neural network.
@@ -662,8 +660,6 @@ def cross*entropy(Y, P):
 ## **33. Backpropagation**
 
 🎥 [Udacity, Video Link](https://youtu.be/1SmY3TZTyUk)
-
-### Backpropagation
 
 - Now, we're ready to get our hands into training a neural network. For this, we'll use the method known as backpropagation. In a nutshell, backpropagation will consist of:
 
