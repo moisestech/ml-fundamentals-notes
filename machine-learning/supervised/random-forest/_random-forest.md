@@ -8,4 +8,4 @@
 
 ## Foam Related Links
 
-- [[_machine-learning]]
+- [[_supervised]]
