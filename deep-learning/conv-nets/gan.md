@@ -106,6 +106,14 @@
 
 ---
 
-## Foam Related Links
+## Resources
+
+### Courses
 
 - [Generative Adversarial Networks Specialization](https://www.deeplearning.ai/program/generative-adversarial-networks-gans-specialization/), **DeepLearningAI**
+
+---
+
+## Foam Related Links
+
+- [[autoencoders]]
