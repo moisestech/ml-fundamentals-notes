@@ -42,8 +42,6 @@
 - [[ml-nd065]]
 - [[ml-ud187]]
 
-- [[supervised]]
-- [[unsupervised]]
 - [[_algorithms]]
 
 - [[_datasets]]
