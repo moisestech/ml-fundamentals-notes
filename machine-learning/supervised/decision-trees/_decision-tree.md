@@ -244,32 +244,32 @@ Start Quiz
 
 ## **39. Changing the Number of Features**
 
-go into ../tools/email_preprocess.py, and find the line of code that looks like this:
+- go into `../tools/email_preprocess.py`, and find the line of code that looks like this:
 
-selector = SelectPercentile(f_classif, percentile=10)
+- `selector = SelectPercentile(f_classif, percentile=10)`
 
-Change percentile from 10 to 1, and rerun dt_author_id.py. What’s the number of features now?
+- Change percentile from 10 to 1, and `rerun dt_author_id.py`. What’s the number of features now?
 
-Start Quiz
+- Start Quiz
 
 ---
 
 ## **40. SelectPercentile and Complexity**
 
-What do you think SelectPercentile is doing? Would a large value for percentile lead to a more complex or less complex decision tree, all other things being equal? Note the difference in training time depending on the number of features.
+- What do you think SelectPercentile is doing? Would a large value for percentile lead to a more complex or less complex decision tree, all other things being equal? Note the difference in training time depending on the number of features.
 
-Start Quiz
+- Start Quiz
 
 ---
 
 ## **41. Accuracy Using 1% of Features**
 
-What's the accuracy of your decision tree when you use only 1% of your available features (i.e. percentile=1)?
+- What's the accuracy of your decision tree when you use only 1% of your available features (i.e. percentile=1)?
 
-Start Quiz
+- Start Quiz
 
 ---
 
 ## Foam Related Links
 
-- **[[supervised]]**
+- **[[_supervised]]**
