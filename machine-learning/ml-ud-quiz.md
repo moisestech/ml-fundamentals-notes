@@ -226,7 +226,12 @@
 
 ---
 
-### **27.**
+### **27. What is the correct syntax for installing numpy packages using conda?**
+
+- [ ] numpy install
+- [ ] install numpy
+- [ ] C install numpy
+- [ ] conda install numpy
 
 ---
 
