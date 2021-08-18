@@ -73,7 +73,12 @@
 
 ---
 
-### **9.**
+### **9. Let's say you're trying to predict a child's show size from their age and parent's show sizes. You relax the problem to allow for predictions between shoe sizes. What kind of machine learning task would you use to represent this problem?**
+
+- [ ] Regression
+- [ ] Classification
+- [ ] Reinforcement Learning
+- [ ] Clustering
 
 ---
 
