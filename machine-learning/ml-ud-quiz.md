@@ -167,7 +167,12 @@
 
 ---
 
-### **20.**
+### **20. Objects and instance variable are created in**
+
+- Stack memory
+- Set memory
+- Heap memory
+- Hash memory
 
 ---
 
