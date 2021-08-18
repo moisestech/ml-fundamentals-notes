@@ -149,13 +149,21 @@
 
 ---
 
-### **18.**
+### **18. Which of the following are considered actions of a student object?**
+
+- [ ] Name
+- [ ] Age
+- [ ] Schedule a class
+- [ ] Student ID
 
 ---
 
----
+### **19. Which of the following are consired characteristics of a student object?**
 
-### **19.**
+- [ ] Name
+- [ ] Age
+- [ ] Schedule a class
+- [ ] Student ID
 
 ---
 
