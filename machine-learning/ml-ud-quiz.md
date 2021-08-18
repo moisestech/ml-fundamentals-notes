@@ -251,7 +251,13 @@
 
 ---
 
-### **30.**
+### **30. Select the Python package managers:**
+
+- [ ] file_manager
+- [ ] Coonda
+- [ ] Conda
+- [ ] Venv
+- [ ] AirManager
 
 ---
 
