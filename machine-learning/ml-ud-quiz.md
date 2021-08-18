@@ -114,7 +114,12 @@
 
 ---
 
-### **14.**
+### **14. Which of the following are good code review questions? Select all that apply**
+
+- [ ] Is the code clean and modular.
+- [ ] Is the code efficient.
+- [ ] Is the documentation effective.
+- [ ] Is the code well tested.
 
 ---
 
