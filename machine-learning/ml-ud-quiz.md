@@ -235,11 +235,19 @@
 
 ---
 
-### **28.**
+### **28. True or False. Magic methods are special methods that allow users to define specific behavior of an object during lifecycle**
+
+- [ ] True
+- [ ] False
 
 ---
 
-### **29.**
+### **29. What is the purpose of the magic method `_init_` ?**
+
+- [ ] It creates an init object in Python.
+- [ ] It runs unit tests in Python.
+- [ ] It allows users to define the deconstruction behavior of an object.
+- [ ] It allows users to define the intialization behavior of an objects.
 
 ---
 
