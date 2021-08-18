@@ -141,7 +141,11 @@
 
 ---
 
-### **17.**
+### **17. Which programming paradigm uses classes as a way to mel software to promote better understanding and reusability of code? Choose one.**
+
+- [ ] Object-oriented
+- [ ] Procedural
+- [ ] Both object-oriented and procedural
 
 ---
 
