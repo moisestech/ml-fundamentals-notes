@@ -201,11 +201,19 @@
 
 ---
 
-### **24.**
+### **24. In Python what practice do we use to provide another class with all of the functions and properties from another class?**
+
+- [ ] Object-oriented
+- [ ] Inheritance
+- [ ] Procedure
+- [ ] Cross compatability
 
 ---
 
-### **25.**
+### **25. True or False. Conda does two things: manages pacages and manages environments.**
+
+- [ ] True
+- [ ] False
 
 ---
 
