@@ -277,7 +277,12 @@
 
 ---
 
-### **33.**
+### **33. In a test output file how are test failures indentified?**
+
+- [ ] Fs
+- [ ] Comma
+- [ ] Periods
+- [ ] Question marks
 
 ---
 
