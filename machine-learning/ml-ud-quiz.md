@@ -268,7 +268,12 @@
 
 ---
 
-### **32.**
+### **32. How do you install pytest?**
+
+- [ ] Type "dos install -U pytest" in your terminal
+- [ ] Type "pip install -U pytest" in your terminal
+- [ ] Type "pip install -I pytest" in your terminal
+- [ ] Type "pip install -J pytest" in your terminal
 
 ---
 
