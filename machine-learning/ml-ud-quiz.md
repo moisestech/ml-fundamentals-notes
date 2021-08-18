@@ -96,11 +96,21 @@
 
 ---
 
-### **12.**
+### **12. In Python when objects are no longer needed**
+
+- [ ] They exist until the program ends.
+- [ ] They are removed by the developer.
+- [ ] They are eligible for garbage collection.
+- [ ] They are moved into another memory bucket to reduce the memory footprint of the application.
 
 ---
 
-### **13.**
+### **13. In an object-oriented paradigm objects can be. Select all that apply.**
+
+- [ ] Nothing
+- [ ] Places
+- [ ] Things
+- [ ] People
 
 ---
 
