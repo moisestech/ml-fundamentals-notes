@@ -217,7 +217,12 @@
 
 ---
 
-### **26.**
+### **26. What is a package?**
+
+- [ ] A collection of Python modules
+- [ ] A type of class that wraps code in a container
+- [ ] A virtual environment used for testing
+- [ ] An output file that describes unit test failures
 
 ---
 
