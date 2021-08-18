@@ -56,7 +56,11 @@
 
 ---
 
-### **7.**
+### **7. Your friend suggests you should ranfomize the order of your data before splitting into a training and test dataset is your friend right?**
+
+- [ ] No, your friend is not right. There is no benefit to doing this, and the detail just makes the process too complex.
+- [ ] No, your friend is not right. You should make sure your work is always repeatable, and there is no way to gt repeatability if you randomly reorder the dataset.
+- [ ] Yes, your friend is right. It is possible your data was originally organized in such a way that splitting will give the model a biased view of the dataset (imagine for example if all the data was ordered by some feature)
 
 ---
 
