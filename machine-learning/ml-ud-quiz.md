@@ -114,7 +114,7 @@
 
 ---
 
-### **14. Which of the following are good code review questions? Select all that apply**
+### **14. Which of the following are good code review questions? Select all that apply.**
 
 - [ ] Is the code clean and modular.
 - [ ] Is the code efficient.
@@ -123,7 +123,7 @@
 
 ---
 
-### **15.**
+### **15. Why do we want to use object-oriented programming? Select all that apply.**
 
 ---
 
