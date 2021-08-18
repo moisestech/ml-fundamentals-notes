@@ -125,9 +125,19 @@
 
 ### **15. Why do we want to use object-oriented programming? Select all that apply.**
 
+- [ ] Object oriented programming allows you to create large, modular programs that can easily expand over time.
+- [ ] Object-oriented makes programs more difficult to navigate through.
+- [ ] Object-oriented programs hide the implementation from the end user.
+- [ ] Object-oriented programs expose the implementation to the developer.
+
 ---
 
-### **16.**
+### **16. The goals of object-oriented paradigm are: Select all that apply.**
+
+- [ ] To promote code reuse.
+- [ ] To increase the speed of computation operations.
+- [ ] To reduce memory footprint of the application.
+- [ ] To model software as real world examples.
 
 ---
 
