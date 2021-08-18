@@ -64,7 +64,12 @@
 
 ---
 
-### **8.**
+### **8. Let's say you're trying to cluster anonymized foot traffic locatin data to determine common "downtown" hubs in a city. You're confident hubs will show up as tight clusters, so you're surprised when you first approach misses certain clusters you know should exist. What should you do?**
+
+- [ ] Check the dataset to test your assumptions, is the data well-formatted? Does the data effectively represent the real world? For example, do you have data in the missing clusters?
+- [ ] Inspect the model to test your assumptions. Does your model contain assumptions about how the data is organized? For example, does the model assume all clusters are the same size? How does the model handle clusters that are very close to each other?
+- [ ] Inspect your model evaluation mechanism to ensure you're asking the right questions. Is your evaluation mechnism's definition of a "better" model aligned with the problem you're trying to solve?
+- [ ] All of these answers.
 
 ---
 
