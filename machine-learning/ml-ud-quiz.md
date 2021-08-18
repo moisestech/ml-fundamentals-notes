@@ -169,14 +169,19 @@
 
 ### **20. Objects and instance variable are created in**
 
-- Stack memory
-- Set memory
-- Heap memory
-- Hash memory
+- [ ] Stack memory
+- [ ] Set memory
+- [ ] Heap memory
+- [ ] Hash memory
 
 ---
 
-### **21.**
+### **21. A class is considered the blueprint for**
+
+- [ ] Creating objects
+- [ ] Creating variables
+- [ ] Creating functions
+- [ ] Creating memory
 
 ---
 
