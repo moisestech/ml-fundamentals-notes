@@ -82,7 +82,10 @@
 
 ---
 
-### **10.**
+### **10. Is model accuracy sufficient to use in all cases?**
+
+- [ ] Yes. By definition, it's measuring how good your model is at making predictions.
+- [ ] No, You might care more about some predictions than others, and model accuracy treats all predictions as the same.
 
 ---
 
