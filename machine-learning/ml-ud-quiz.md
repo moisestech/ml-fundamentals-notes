@@ -192,7 +192,12 @@
 
 ---
 
-### **23.**
+### **23. What is pip?**
+
+- [ ] A Python class that collects unused data files.
+- [ ] A virtual memory management that frees up memory by destroying unsed objects.
+- [ ] A Python package manager that helps with installing and uninstalling Python packages.
+- [ ] A Python library that supports adding and removing objects.
 
 ---
 
