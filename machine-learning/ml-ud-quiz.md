@@ -39,11 +39,20 @@
 
 ---
 
-### **5.**
+### **5. What is a machine learning model?**
+
+- [ ] Generic program, made specific by data.
+- [ ] A set of high-level statistics and visualizations that help you understand the shape of your data.
+- [ ] A linear function.
 
 ---
 
-### **6.**
+### **6. Which of the following is not a model evaluation metric?**
+
+- [ ] Root Mean Square (RMS)
+- [ ] Model Inference Algorithm
+- [ ] Silhouette Coefficient
+- [ ] Accuracy
 
 ---
 
