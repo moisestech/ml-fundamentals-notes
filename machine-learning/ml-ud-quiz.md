@@ -313,11 +313,19 @@
 
 ---
 
-### **37.**
+### **37. Why do we want to conduct code reviews? Select all that apply.**
+
+- [ ] Catch errors
+- [ ] Ensure Readability
+- [ ] Check Standards are met
+- [ ] Share knowledge among teams
 
 ---
 
-### **38.**
+### **38. True or False: Logging is valuable for understanding the events that occur while running your program. Choose one.**
+
+- [ ] True
+- [ ] False
 
 ---
 
