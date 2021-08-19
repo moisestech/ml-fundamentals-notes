@@ -338,7 +338,12 @@
 
 ---
 
-### **40.**
+### **40. Why are assertions used in unit testing?**
+
+- [ ] Assertions are statments that are believed to be true.
+- [ ] Assertions are used to document test cases.
+- [ ] Assertions valudate the syntax of functions and variables.
+- [ ] Assertions are used to skip test runs.
 
 ---
 
