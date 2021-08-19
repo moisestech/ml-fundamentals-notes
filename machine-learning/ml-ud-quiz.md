@@ -427,6 +427,12 @@
 
 ---
 
+## **51. What is a machine learning model? Choose one.**
+
+- [ ] Generic progra, made specific by data.
+- [ ] A set of high-level statistics and visualizations that help you understand the shape of your data.
+- [ ] A linear function.
+
 ---
 
 ## Foam Related Links
