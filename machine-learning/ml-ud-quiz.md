@@ -329,7 +329,12 @@
 
 ---
 
-### **39.**
+### **39. Which item in Python will stop a unit test abruptly?**
+
+- [ ] Assertion failures
+- [ ] Syntax errors
+- [ ] Dynamic linking error
+- [ ] Input errors
 
 ---
 
