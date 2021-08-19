@@ -418,7 +418,7 @@
 
 ---
 
-### **50.Which of the following is false about most machine learning mdoels?**
+### **50.Which of the following is false about most machine learning mdoels? Choose one.**
 
 - [ ] They require numbers or collections of numbers as input.
 - [ ] They are flexible enough to handle all issues you might see in your dataset (lack of data, incorrect data, etc)
