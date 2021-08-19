@@ -393,11 +393,21 @@
 
 ---
 
-### **47.**
+### **47. Which of the following is not an example of a supervised learning task?**
+
+- [ ] Building a spam email classifier from data labeled as "spam" or "not spam".
+- [ ] Building a system that can identify a product type by images of that product.
+- [ ] Building a system that can estimate the temperature in your house from historic data comparing the weather channel's temperature value to your thermostat reading.
+- [ ] Building a system that trie to group customers into customer segments based on product usage patterns, with the specific segments not known in advanced.
 
 ---
 
-### **48.**
+### **48. Which of the following is not a component of maachine learning?**
+
+- [ ] Machine learnign models
+- [ ] Model training algorithm
+- [ ] Artificial Intelligence
+- [ ] Model inference algorithm
 
 ---
 
