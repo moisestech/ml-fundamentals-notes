@@ -379,7 +379,10 @@
 
 ---
 
-### **45.**
+### **45. The generator in generative adversarial networks is trained with random noise.**
+
+- False
+- True
 
 ---
 
