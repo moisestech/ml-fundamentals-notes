@@ -347,7 +347,12 @@
 
 ---
 
-### **41.**
+### **41. Why is it recommended to have only one assert statement per test?**
+
+- [ ] In a test output file we see every assertions that fails.
+- [ ] We do not see failures in the output file.
+- [ ] In a test output file we only see which tests functions fail.
+- [ ] In a test output we see both functions and assertions that fail.
 
 ---
 
