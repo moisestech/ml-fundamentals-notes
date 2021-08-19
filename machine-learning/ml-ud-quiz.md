@@ -295,7 +295,12 @@
 
 ---
 
-### **35.**
+### **35. What type of testing tests more than one component, including interactions between different components?**
+
+- [ ] Unit Testing
+- [ ] Integration Testing
+- [ ] Test-driven development (TDD)
+- [ ] Formal Testing
 
 ---
 
