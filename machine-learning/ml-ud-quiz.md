@@ -379,14 +379,14 @@
 
 ---
 
-### **45. The generator in generative adversarial networks is trained with random noise.**
+### **45. The generator in generative adversarial networks is trained with random noise. Choose one.**
 
 - False
 - True
 
 ---
 
-### **46. The function of a discriminator in a a generative adversarial network is to classigy true data from fake data.**
+### **46. The function of a discriminator in a a generative adversarial network is to classigy true data from fake data. Choose one.**
 
 - [ ] True
 - [ ] False
