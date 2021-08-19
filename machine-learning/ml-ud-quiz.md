@@ -370,7 +370,12 @@
 
 ---
 
-### **44.**
+### **44. Which of the following machine learning techniques are examples of generative models?**
+
+- [ ] Generative Adversarial Networks
+- [ ] Transformers
+- [ ] Autoregressive CNN
+- [ ] Reinforcement Learning
 
 ---
 
