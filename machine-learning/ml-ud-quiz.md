@@ -411,11 +411,21 @@
 
 ---
 
-### **49.**
+### **49. Why is it important to inspect your dataset before selecting and training a macine learning model?**
+
+- [ ] It isn't! Machine learning handles all of the reasoning about data for you.
+- [ ] Understanding the basic shape and structure of your data can help you make more informed decisions on how to select a machine learning model.
 
 ---
 
-### **50.**
+### **50.Which of the following is false about most machine learning mdoels?**
+
+- [ ] They require numbers or collections of numbers as input.
+- [ ] They are flexible enough to handle all issues you might see in your dataset (lack of data, incorrect data, etc)
+- [ ] They are trained by iteratively adjusting their prarameteres to minmize a loss function.
+- [ ] Once trained, their model parameters can be used to make new predictions in a process called a "model inference algorithm"
+
+---
 
 ---
 
