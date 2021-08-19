@@ -411,7 +411,7 @@
 
 ---
 
-### **49. Why is it important to inspect your dataset before selecting and training a macine learning model?**
+### **49. Why is it important to inspect your dataset before selecting and training a macine learning model? Choose one.**
 
 - [ ] It isn't! Machine learning handles all of the reasoning about data for you.
 - [ ] Understanding the basic shape and structure of your data can help you make more informed decisions on how to select a machine learning model.
