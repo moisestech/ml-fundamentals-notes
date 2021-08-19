@@ -304,7 +304,12 @@
 
 ---
 
-### **36.**
+### **36. In a test output file how are test successes indentified? Choose One.**
+
+- [ ] Fs
+- [ ] Comma
+- [ ] Periods
+- [ ] Question marks
 
 ---
 
