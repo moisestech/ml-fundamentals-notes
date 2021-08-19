@@ -402,7 +402,7 @@
 
 ---
 
-### **48. Which of the following is not a component of maachine learning?**
+### **48. Which of the following is not a component of maachine learning? Choose one.**
 
 - [ ] Machine learnign models
 - [ ] Model training algorithm
