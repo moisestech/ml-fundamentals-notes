@@ -393,7 +393,7 @@
 
 ---
 
-### **47. Which of the following is not an example of a supervised learning task?**
+### **47. Which of the following is not an example of a supervised learning task? Choose one.**
 
 - [ ] Building a spam email classifier from data labeled as "spam" or "not spam".
 - [ ] Building a system that can identify a product type by images of that product.
