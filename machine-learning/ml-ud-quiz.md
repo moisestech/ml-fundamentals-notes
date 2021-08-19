@@ -356,7 +356,10 @@
 
 ---
 
-### **42.**
+### **42. In addition to classifying the True data from the Fake data, the discriminator also provides feedback to the generator.**
+
+- [ ] True
+- [ ] False
 
 ---
 
