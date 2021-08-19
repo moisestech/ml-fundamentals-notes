@@ -363,7 +363,10 @@
 
 ---
 
-### **43.**
+### **43. The funciton of a generator in a generative adversarial network is to generate new data samples that are similar to input data samples.**
+
+- [ ] False
+- [ ] True
 
 ---
 
