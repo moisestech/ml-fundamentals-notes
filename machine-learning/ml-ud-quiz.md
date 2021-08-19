@@ -386,7 +386,10 @@
 
 ---
 
-### **46.**
+### **46. The function of a discriminator in a a generative adversarial network is to classigy true data from fake data.**
+
+- [ ] True
+- [ ] False
 
 ---
 
