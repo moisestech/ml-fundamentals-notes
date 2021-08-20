@@ -56,7 +56,7 @@
 
 ---
 
-### **7. Your friend suggests you should ranfomize the order of your data before splitting into a training and test dataset is your friend right?**
+### **7. Your friend suggests you should ranfomize the order of your data before splitting into a training and test dataset is your friend right? Choose One.**
 
 - [ ] No, your friend is not right. There is no benefit to doing this, and the detail just makes the process too complex.
 - [ ] No, your friend is not right. You should make sure your work is always repeatable, and there is no way to gt repeatability if you randomly reorder the dataset.
@@ -64,7 +64,7 @@
 
 ---
 
-### **8. Let's say you're trying to cluster anonymized foot traffic locatin data to determine common "downtown" hubs in a city. You're confident hubs will show up as tight clusters, so you're surprised when you first approach misses certain clusters you know should exist. What should you do?**
+### **8. Let's say you're trying to cluster anonymized foot traffic locatin data to determine common "downtown" hubs in a city. You're confident hubs will show up as tight clusters, so you're surprised when you first approach misses certain clusters you know should exist. What should you do? Choose One.**
 
 - [ ] Check the dataset to test your assumptions, is the data well-formatted? Does the data effectively represent the real world? For example, do you have data in the missing clusters?
 - [ ] Inspect the model to test your assumptions. Does your model contain assumptions about how the data is organized? For example, does the model assume all clusters are the same size? How does the model handle clusters that are very close to each other?
