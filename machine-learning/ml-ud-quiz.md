@@ -295,7 +295,7 @@
 
 ---
 
-### **35. What type of testing tests more than one component, including interactions between different components?**
+### **35. What type of testing tests more than one component, including interactions between different components? Choose One.**
 
 - [ ] Unit Testing
 - [ ] Integration Testing
