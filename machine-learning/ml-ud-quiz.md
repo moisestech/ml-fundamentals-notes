@@ -217,7 +217,7 @@
 
 ---
 
-### **26. What is a package?**
+### **26. What is a package? Choose One.**
 
 - [ ] A collection of Python modules
 - [ ] A type of class that wraps code in a container
