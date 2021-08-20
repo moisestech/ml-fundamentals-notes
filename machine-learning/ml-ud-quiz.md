@@ -251,7 +251,7 @@
 
 ---
 
-### **30. Select the Python package managers:**
+### **30. Select the Python package managers: Select all that apply.**
 
 - [ ] file_manager
 - [ ] Coonda
