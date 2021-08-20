@@ -185,7 +185,7 @@
 
 ---
 
-### **22. True or False. Classes, object, attributes, methods, and inheritance are common to all object-oriented programming laguages.**
+### **22. True or False. Classes, object, attributes, methods, and inheritance are common to all object-oriented programming laguages. Choose One.**
 
 - [ ] True
 - [ ] False
