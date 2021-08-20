@@ -210,7 +210,7 @@
 
 ---
 
-### **25. True or False. Conda does two things: manages pacages and manages environments.**
+### **25. True or False. Conda does two things: manages pacages and manages environments. Choose One.**
 
 - [ ] True
 - [ ] False
