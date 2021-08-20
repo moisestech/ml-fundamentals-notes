@@ -30,7 +30,7 @@
 
 ---
 
-### **4. Which of the following would not be a good reason to us a linear model?**
+### **4. Which of the following would not be a good reason to us a linear model? Choose One.**
 
 - [ ] I am not yet sure what model would work well with my data, and I want to establish a quick baseline.
 - [ ] The input-output relationships I'm trying to model look like they're pretty straightforward.. When plotting my label as a function of each of my input variables. I can see that fitting a line would do better than randomly guessing in many cases.
