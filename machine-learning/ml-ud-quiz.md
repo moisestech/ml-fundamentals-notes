@@ -39,7 +39,7 @@
 
 ---
 
-### **5. What is a machine learning model?**
+### **5. What is a machine learning model? Choose One.**
 
 - [ ] Generic program, made specific by data.
 - [ ] A set of high-level statistics and visualizations that help you understand the shape of your data.
