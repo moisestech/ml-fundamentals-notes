@@ -176,7 +176,7 @@
 
 ---
 
-### **21. A class is considered the blueprint for**
+### **21. A class is considered the blueprint for: Choose One.**
 
 - [ ] Creating objects
 - [ ] Creating variables
