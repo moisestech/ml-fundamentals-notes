@@ -89,7 +89,7 @@
 
 ---
 
-### **11. What is the definition of model accuracy?**
+### **11. What is the definition of model accuracy? Choose One.**
 
 - [ ] How of your model makes a correct prediction.
 - [ ] How often your model makes similar predictions.
