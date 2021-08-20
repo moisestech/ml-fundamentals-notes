@@ -277,7 +277,7 @@
 
 ---
 
-### **33. In a test output file how are test failures indentified?**
+### **33. In a test output file how are test failures indentified? Choose One.**
 
 - [ ] Fs
 - [ ] Comma
