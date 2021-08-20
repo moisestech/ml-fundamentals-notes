@@ -96,7 +96,7 @@
 
 ---
 
-### **12. In Python when objects are no longer needed**
+### **12. In Python when objects are no longer needed. Choose One.**
 
 - [ ] They exist until the program ends.
 - [ ] They are removed by the developer.
