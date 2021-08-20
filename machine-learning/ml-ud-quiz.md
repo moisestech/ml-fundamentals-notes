@@ -21,7 +21,7 @@
 
 ---
 
-### **3. Which of the following is the best explanation for how a model trainig algorithm works?**
+### **3. Which of the following is the best explanation for how a model trainig algorithm works? Choose One.**
 
 - [ ] Model training algorithms incrementally adjust model parameters to minimize some loss function.
 - [ ] Model training algorithms slowly add or remove model parameters until the model fits the dataset it was trained on.
