@@ -47,7 +47,7 @@
 
 ---
 
-### **6. Which of the following is not a model evaluation metric?**
+### **6. Which of the following is not a model evaluation metric? Choose One.**
 
 - [ ] Root Mean Square (RMS)
 - [ ] Model Inference Algorithm
