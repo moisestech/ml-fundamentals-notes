@@ -261,7 +261,7 @@
 
 ---
 
-### **31.True or False. In Python we can have more than one class with the same name in a different package.**
+### **31.True or False. In Python we can have more than one class with the same name in a different package. Choose One.**
 
 - [ ] True
 - [ ] False
