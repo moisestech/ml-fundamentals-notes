@@ -286,7 +286,7 @@
 
 ---
 
-### **34. How do we define unit tests within a test file?**
+### **34. How do we define unit tests within a test file? Choose One.**
 
 - [ ] @unit tests
 - [ ] test\_
