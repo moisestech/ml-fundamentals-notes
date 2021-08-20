@@ -4,7 +4,7 @@
 
 ---
 
-### **1. True or False: All problems where you're trying to predict some value can be solved with machine learning.**
+### **1. True or False: All problems where you're trying to predict some value can be solved with machine learning. Choose One.**
 
 - [ ] True. You might have to get pretty clever with how you use machine learning in some cases, but all predictions can be solved with machine learning.
 
