@@ -167,7 +167,7 @@
 
 ---
 
-### **20. Objects and instance variable are created in**
+### **20. Objects and instance variable are created in: Choose One.**
 
 - [ ] Stack memory
 - [ ] Set memory
