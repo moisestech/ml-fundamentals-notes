@@ -12,7 +12,7 @@
 
 ---
 
-### **2. What are hyperparameters?**
+### **2. What are hyperparameters? Choose One.**
 
 - [ ] Model parameters that change faster than most other model paramters during model training.
 - [ ] Model paramters that have more of an impact on the final result than most other model parameters.
