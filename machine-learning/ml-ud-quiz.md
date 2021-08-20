@@ -149,7 +149,7 @@
 
 ---
 
-### **18. Which of the following are considered actions of a student object?**
+### **18. Which of the following are considered actions of a student object? Choose One.**
 
 - [ ] Name
 - [ ] Age
