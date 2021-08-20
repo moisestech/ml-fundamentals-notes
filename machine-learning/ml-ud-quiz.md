@@ -158,7 +158,7 @@
 
 ---
 
-### **19. Which of the following are consired characteristics of a student object?**
+### **19. Which of the following are consired characteristics of a student object? Select all that apply.**
 
 - [ ] Name
 - [ ] Age
