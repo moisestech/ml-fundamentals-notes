@@ -794,6 +794,9 @@ multi-scale vehicle representation (MSVR)
 multi-stage detectors
 multi-task learning (MTL)
 multi-task loss function
+
+---
+
 N
 naive implementation
 naive representation
@@ -876,6 +879,9 @@ nonlinearities
 non-trainable params
 normalizing data
 nstaller/application.yaml file
+
+---
+
 O
 oad_weights() method
 object detection
@@ -958,6 +964,9 @@ regularization techniques to avoid
 augmenting data
 dropout layers
 L2 regularization
+
+---
+
 P
 padding
 PAMTRI (pose aware multi-task learning)
@@ -1016,9 +1025,15 @@ pretrained model
 as classifiers
 as feature extractors
 priors
+
+---
+
 Q
 query sets
 Quick, Draw! dataset, Google
+
+---
+
 R
 disadvantages of
 limitations of
