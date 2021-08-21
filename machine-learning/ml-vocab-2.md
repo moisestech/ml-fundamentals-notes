@@ -1078,6 +1078,9 @@ anchor boxes
 predicting bounding box with regressors
 training
 runtime analysis of losses
+
+---
+
 S
 s argument
 save_interval
@@ -1134,6 +1137,9 @@ supervised learning
 suppression.
 synapses
 synset (synonym set)
+
+---
+
 T
 tanh (hyperbolic tangent function)
 tanh activation function
@@ -1226,11 +1232,17 @@ tuning hyperparameters
 collecting data vs.
 neural network hyperparameters
 parameters vs. hyperparameters
+
+---
+
 U
 underfitting
 untrained layers
 Upsampling layer
 Upsampling2D layer
+
+---
+
 V
 val_acc
 val_acc value
@@ -1279,6 +1291,9 @@ datasets
 features
 loss
 VUIs (voice user interfaces)
+
+---
+
 W
 warm-up learning rate
 weight connections
@@ -1293,6 +1308,9 @@ non-trainable params
 trainable params
 weights vector
 width value
+
+---
+
 X
 X argument
 x_test
@@ -1304,6 +1322,9 @@ object detection with
 overview
 output bounding boxes
 predictions across different scales
+
+---
+
 Z
 zero-padding
 
