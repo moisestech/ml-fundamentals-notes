@@ -18,13 +18,15 @@
 - **improvements to**
 - **of image classification**
 - **building model architecture**
-  **evaluating models**
-  importing dependencies
-  preparing data for training
-  training models
-  activation functions
-  binary classifier
-  heaviside step function
+- **evaluating models**
+- **importing dependencies**
+- **preparing data for training**
+- **training models**
+
+**activation functions**
+
+- **binary classifier**
+- **heaviside step function**
   leaky ReLU
   linear transfer function
   logistic function
