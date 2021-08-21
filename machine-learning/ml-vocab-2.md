@@ -4,9 +4,12 @@
 
 ---
 
-$
+## $
+
 1 × 1 convolutional layer
-A
+
+## A
+
 AAVER (adaptive attention for vehicle re-identification)
 acc value
 accuracy
@@ -68,7 +71,9 @@ creating AWS account
 Jupyter notebooks
 remotely connect to instance
 setting up
-B
+
+## B
+
 background region
 backpropagation
 backward pass
