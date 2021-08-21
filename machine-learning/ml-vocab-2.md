@@ -538,6 +538,9 @@ tuning
 collecting data vs.
 neural network hyperparameters
 parameters vs. hyperparameters
+
+---
+
 I
 identity function
 if-else statements
@@ -608,10 +611,16 @@ input_shape argument
 instances
 interpreting devices
 IoU (intersection over union)
+
+---
+
 J
 Jaccard distance
 joint training
 Jupyter notebooks
+
+---
+
 K
 K object classes
 Kaggle datasets
@@ -630,6 +639,9 @@ keras_ssd7.py file
 kernel
 kernel size
 kernel_size hyperparameter
+
+---
+
 L
 L2 regularization
 label smoothing
@@ -706,6 +718,9 @@ naive implementation
 loss value
 lr variable
 lr_schedule function
+
+---
+
 M
 MAC (multiplier-accumulator)
 MAC operation
