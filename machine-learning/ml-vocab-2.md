@@ -62,21 +62,24 @@
 **alpha**
 **AMI (Amazon Machine Images)**
 **Anaconda**
-anchor boxes
-AP (average precision)
-artificial neural networks (ANNs)
-atrous convolutions
-attention network
-AUC (area under the curve)
-data
-for image classification
-in AlexNet
-images
-average pooling
-creating AWS account
-Jupyter notebooks
-remotely connect to instance
-setting up
+**anchor boxes**
+**AP (average precision)**
+**artificial neural networks (ANNs)**
+**atrous convolutions**
+**attention network**
+**AUC (area under the curve)**
+
+- **data**
+- **for image classification**
+- **in AlexNet**
+- **images**
+
+**average pooling**
+
+- **creating AWS account**
+- **Jupyter notebooks**
+- **remotely connect to instance**
+- **setting up**
 
 ## B
 
