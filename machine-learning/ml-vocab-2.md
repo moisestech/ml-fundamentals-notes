@@ -111,10 +111,10 @@
 **batch weighted (BW)**
 **batch_size hyperparameter**
 **Bayes error rate**
-biases
-BIER (boosting independent embeddings robustly)
-binary classifier
-binary_crossentropy function
+**biases**
+**BIER (boosting independent embeddings robustly)**
+**binary classifier**
+**binary_crossentropy function**
 block1_conv1 layer
 block3_conv2 layer
 block5_conv2 layer
