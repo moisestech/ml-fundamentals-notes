@@ -1034,7 +1034,8 @@ Quick, Draw! dataset, Google
 
 ---
 
-R
+## R
+
 disadvantages of
 limitations of
 multi-stage detectors vs. single-stage detectors
@@ -1081,7 +1082,8 @@ runtime analysis of losses
 
 ---
 
-S
+## S
+
 s argument
 save_interval
 scalar
