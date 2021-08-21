@@ -1243,7 +1243,8 @@ Upsampling2D layer
 
 ---
 
-V
+## V
+
 val_acc
 val_acc value
 val_error value
@@ -1294,7 +1295,8 @@ VUIs (voice user interfaces)
 
 ---
 
-W
+## W
+
 warm-up learning rate
 weight connections
 weight decay
