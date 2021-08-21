@@ -27,53 +27,54 @@
 
 - **binary classifier**
 - **heaviside step function**
-  leaky ReLU
-  linear transfer function
-  logistic function
-  ReLU
-  sigmoid function
-  softmax function
-  tanh
-  activation maps
-  activation type
-  Adam (adaptive moment estimation)
-  Adam optimizer
-  adaptive learning
-  adversarial training
-  AGI (artificial general intelligence)
-  AI vision systems
-  AlexNet
-  architecture of
-  data augmentation
-  dropout layers
-  features of
-  in Keras
-  learning hyperparameters in
-  local response normalization
-  performance
-  ReLu activation function
-  training on multiple GPUs
-  weight regularization
-  classifier learning algorithms
-  in DeepDream
-  alpha
-  AMI (Amazon Machine Images)
-  Anaconda
-  anchor boxes
-  AP (average precision)
-  artificial neural networks (ANNs)
-  atrous convolutions
-  attention network
-  AUC (area under the curve)
-  data
-  for image classification
-  in AlexNet
-  images
-  average pooling
-  creating AWS account
-  Jupyter notebooks
-  remotely connect to instance
-  setting up
+- **leaky ReLU**
+- **linear transfer function**
+- **logistic function**
+- **ReLU**
+- **sigmoid function**
+- **softmax function**
+- **tanh**
+
+**activation maps**
+**activation type**
+**Adam (adaptive moment estimation)**
+**Adam optimizer**
+**adaptive learning**
+**adversarial training**
+**AGI (artificial general intelligence)**
+**AI vision systems**
+**AlexNet**
+**architecture of**
+data augmentation
+dropout layers
+features of
+in Keras
+learning hyperparameters in
+local response normalization
+performance
+ReLu activation function
+training on multiple GPUs
+weight regularization
+classifier learning algorithms
+in DeepDream
+alpha
+AMI (Amazon Machine Images)
+Anaconda
+anchor boxes
+AP (average precision)
+artificial neural networks (ANNs)
+atrous convolutions
+attention network
+AUC (area under the curve)
+data
+for image classification
+in AlexNet
+images
+average pooling
+creating AWS account
+Jupyter notebooks
+remotely connect to instance
+setting up
 
 ## B
 
