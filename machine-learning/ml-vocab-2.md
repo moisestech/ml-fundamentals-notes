@@ -115,12 +115,12 @@
 **BIER (boosting independent embeddings robustly)**
 **binary classifier**
 **binary_crossentropy function**
-block1_conv1 layer
-block3_conv2 layer
-block5_conv2 layer
-block5_conv3 layer
-blocks.
-bottleneck layers
+**block1_conv1 layer**
+**block3_conv2 layer**
+**block5_conv2 layer**
+**block5_conv3 layer**
+**blocks.**
+**bottleneck layers**
 bottleneck residual block
 bottleneck_residual_block function
 bounding box coordinates
