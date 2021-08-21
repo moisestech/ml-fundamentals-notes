@@ -89,16 +89,16 @@
 **backpropagation**
 **backward pass**
 **base networks**
-predicting with
-to extract features
-baseline models
-base_model summary
-batch gradient descent (BGD)
-derivative
-direction
-gradient
-learning rate
-pitfalls of
+**predicting with**
+**to extract features**
+**baseline models**
+**base_model summary**
+**batch gradient descent (BGD)**
+**derivative**
+**direction**
+**gradient**
+**learning rate**
+**pitfalls of**
 step size
 batch hard (BH)
 batch normalization
