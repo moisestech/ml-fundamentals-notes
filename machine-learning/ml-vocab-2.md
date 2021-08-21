@@ -99,10 +99,10 @@
 **gradient**
 **learning rate**
 **pitfalls of**
-step size
-batch hard (BH)
-batch normalization
-defined
+**step size**
+**batch hard (BH)**
+**batch normalization**
+**defined**
 in neural networks
 in Keras
 overview
