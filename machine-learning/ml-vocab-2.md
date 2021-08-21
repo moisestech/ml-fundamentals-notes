@@ -85,10 +85,10 @@
 
 ## B
 
-background region
-backpropagation
-backward pass
-base networks
+**background region**
+**backpropagation**
+**backward pass**
+**base networks**
 predicting with
 to extract features
 baseline models
@@ -133,7 +133,8 @@ build_model() function
 
 ---
 
-C
+## C
+
 Cars Dataset, Stanford
 categories
 CCTV monitoring
@@ -276,7 +277,8 @@ visual perception
 
 ---
 
-D
+## D
+
 Darknet-53
 augmenting
 for image classification
@@ -350,7 +352,8 @@ dropout regularization
 
 ---
 
-E
+## E
+
 early stopping
 EC2 Management Console
 EC2 On-Demand Pricing page
@@ -388,7 +391,8 @@ exponential decay
 
 ---
 
-F
+## F
+
 f argument
 face identification
 face recognition (FR)
@@ -455,7 +459,8 @@ training
 
 ---
 
-G
+## G
+
 gallery set
 GANs (generative adversarial networks)
 applications for
@@ -514,7 +519,8 @@ GSTE (group-sensitive triplet embedding)
 
 ---
 
-H
+## H
+
 hard data mining
 hard negative sample
 hard positive sample
@@ -541,7 +547,8 @@ parameters vs. hyperparameters
 
 ---
 
-I
+## I
+
 identity function
 if-else statements
 image classification
@@ -614,14 +621,16 @@ IoU (intersection over union)
 
 ---
 
-J
+## J
+
 Jaccard distance
 joint training
 Jupyter notebooks
 
 ---
 
-K
+## K
+
 K object classes
 Kaggle datasets
 AlexNet in
@@ -642,7 +651,8 @@ kernel_size hyperparameter
 
 ---
 
-L
+## L
+
 L2 regularization
 label smoothing
 labeled data
