@@ -721,7 +721,8 @@ lr_schedule function
 
 ---
 
-M
+## M
+
 MAC (multiplier-accumulator)
 MAC operation
 human brain vs.
