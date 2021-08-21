@@ -45,21 +45,23 @@
 **AI vision systems**
 **AlexNet**
 **architecture of**
-data augmentation
-dropout layers
-features of
-in Keras
-learning hyperparameters in
-local response normalization
-performance
-ReLu activation function
-training on multiple GPUs
-weight regularization
-classifier learning algorithms
-in DeepDream
-alpha
-AMI (Amazon Machine Images)
-Anaconda
+
+- **data augmentation**
+- **dropout layers**
+- **features of**
+- **in Keras**
+- **learning hyperparameters in**
+- **local response normalization**
+- **performance**
+- **ReLu activation function**
+- **training on multiple GPUs**
+- **weight regularization**
+- **classifier learning algorithms**
+- **in DeepDream**
+
+**alpha**
+**AMI (Amazon Machine Images)**
+**Anaconda**
 anchor boxes
 AP (average precision)
 artificial neural networks (ANNs)
