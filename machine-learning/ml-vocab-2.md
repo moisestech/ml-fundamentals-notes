@@ -347,6 +347,9 @@ in CNN architecture
 overview
 dropout rate
 dropout regularization
+
+---
+
 E
 early stopping
 EC2 Management Console
@@ -382,6 +385,9 @@ Evaluator class
 exhaustive search algorithm
 exploding gradients
 exponential decay
+
+---
+
 F
 f argument
 face identification
