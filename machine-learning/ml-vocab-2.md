@@ -130,6 +130,9 @@ predicting with regressors
 bounding-box regressors
 build_discriminator function
 build_model() function
+
+---
+
 C
 Cars Dataset, Stanford
 categories
@@ -270,6 +273,9 @@ vision systems
 AI vision systems
 human vision systems
 visual perception
+
+---
+
 D
 Darknet-53
 augmenting
