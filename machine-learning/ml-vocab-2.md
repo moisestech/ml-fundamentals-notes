@@ -108,9 +108,9 @@
 **overview**
 **batch normalization (BN)**
 **batch sample (BS)**
-batch weighted (BW)
-batch_size hyperparameter
-Bayes error rate
+**batch weighted (BW)**
+**batch_size hyperparameter**
+**Bayes error rate**
 biases
 BIER (boosting independent embeddings robustly)
 binary classifier
