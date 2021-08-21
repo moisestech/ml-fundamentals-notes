@@ -1140,7 +1140,8 @@ synset (synonym set)
 
 ---
 
-T
+## T
+
 tanh (hyperbolic tangent function)
 tanh activation function
 Tensorflow playground
@@ -1235,7 +1236,8 @@ parameters vs. hyperparameters
 
 ---
 
-U
+## U
+
 underfitting
 untrained layers
 Upsampling layer
