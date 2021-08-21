@@ -1311,7 +1311,8 @@ width value
 
 ---
 
-X
+## X
+
 X argument
 x_test
 x_train
@@ -1325,7 +1326,8 @@ predictions across different scales
 
 ---
 
-Z
+## Z
+
 zero-padding
 
 ---
