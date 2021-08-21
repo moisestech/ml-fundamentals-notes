@@ -452,6 +452,9 @@ F-score
 fully connected layers
 images as
 training
+
+---
+
 G
 gallery set
 GANs (generative adversarial networks)
@@ -508,6 +511,9 @@ converting color images
 images
 ground truth bounding box
 GSTE (group-sensitive triplet embedding)
+
+---
+
 H
 hard data mining
 hard negative sample
