@@ -882,7 +882,8 @@ nstaller/application.yaml file
 
 ---
 
-O
+## O
+
 oad_weights() method
 object detection
 framework
@@ -967,7 +968,8 @@ L2 regularization
 
 ---
 
-P
+## P
+
 padding
 PAMTRI (pose aware multi-task learning)
 calculating
