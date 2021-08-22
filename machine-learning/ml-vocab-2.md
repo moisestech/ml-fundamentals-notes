@@ -128,15 +128,17 @@
 **block5_conv3 layer**
 **blocks.**
 **bottleneck layers**
-bottleneck residual block
-bottleneck_residual_block function
-bounding box coordinates
-bounding box prediction
-in YOLOv3
-predicting with regressors
-bounding-box regressors
-build_discriminator function
-build_model() function
+**bottleneck residual block**
+**bottleneck_residual_block function**
+**bounding box coordinates**
+**bounding box prediction**
+
+- **in YOLOv3**
+- **predicting with regressors**
+
+**bounding-box regressors**
+**build_discriminator function**
+**build_model() function**
 
 ---
 
