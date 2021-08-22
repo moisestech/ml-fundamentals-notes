@@ -331,18 +331,18 @@ classifier learning algorithms
 
 ### dataloader
 
-finding useful triplets
-normalizing
-preparing for training
-preprocessing
-augmenting images
-grayscaling images
-resizing images
-splitting
+- **finding useful triplets**
+- **normalizing**
+- **preparing for training**
+- **preprocessing**
+- **augmenting images**
+- **grayscaling images**
+- **resizing images**
+- **splitting**
 
-data distillation
-DataGenerator objects
-dataloader
+**data distillation**
+**DataGenerator objects**
+**dataloader**
 
 ### downloading to GANs
 
