@@ -317,7 +317,7 @@ classifier learning algorithms
 
 ## D
 
-### Darknet-53
+### **Darknet-53**
 
 - **augmenting**
 - **for image classification**
@@ -329,7 +329,7 @@ classifier learning algorithms
 - **BS**
 - **BW**
 
-### dataloader
+### **dataloader**
 
 - **finding useful triplets**
 - **normalizing**
@@ -344,45 +344,50 @@ classifier learning algorithms
 **DataGenerator objects**
 **dataloader**
 
-### downloading to GANs
+### **downloading to GANs**
 
-Kaggle
-loading
-MNIST
-splitting for training
-splitting for validation
-validation datasets
+**Kaggle**
+**loading**
+**MNIST**
+**splitting for training**
+**splitting for validation**
+**validation datasets**
 
-DCGANs (deep convolutional generative adversarial networks)
-deep neural network
+**DCGANs (deep convolutional generative adversarial networks)**
+**deep neural network**
 
-### DeepDream
+### **DeepDream**
 
-algorithms in
-in Keras
+**algorithms in**
+**in Keras**
 
-deltas
+**deltas**
 
-### dendrites
+### **dendrites**
 
-See also
-Dense_1 layer
-Dense_2 layer
-dependencies, importing
-deprocess_image(x)
+**See also**
 
-### design patterns
+**Dense_1 layer**
+**Dense_2 layer**
+**dependencies, importing**
+**deprocess_image(x)**
 
-measuring speed of
-multi-stage vs. single-stage
-overfitting
-underfitting
-dilated convolutions
-dilation rate
-dimensionality reduction with Inception
-1 × 1 convolutional layer
-impact on network performance
-direction
+### **design patterns**
+
+- **measuring speed of**
+- **multi-stage vs. single-stage**
+- **overfitting**
+- **underfitting**
+
+**dilated convolutions**
+**dilation rate**
+
+### **dimensionality reduction with Inception**
+
+- 1 × 1 convolutional layer
+- impact on network performance
+
+**direction**
 discriminator
 discriminator_model method
 in GANs
