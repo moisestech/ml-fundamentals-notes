@@ -107,10 +107,12 @@
 
 **batch hard (BH)**
 **batch normalization**
-**defined**
-**in neural networks**
-**in Keras**
-**overview**
+
+- **defined**
+- **in neural networks**
+- **in Keras**
+- **overview**
+
 **batch normalization (BN)**
 **batch sample (BS)**
 **batch weighted (BW)**
