@@ -256,54 +256,59 @@ CONV5 layer
 
 **ConvNet weights**
 
-- overview
+- **overview**
 
 **convolutional layers**
 
 **convolutional operations**
 
-- kernel size
-- number of filters in
-- padding
-- strides
+- k**ernel size**
+- **number of filters in**
+- **padding**
+- **strides**
 
-convolutional neural network
-convolutional neural networks.
-convolutional operations
-correct prediction
-cost functions
-defined
-in neural networks
-cross-entropy
-cross-entropy loss
-cuDNN
-CV (computer vision)
-applications of
-creating images
-face recognition
-image classification
-image recommendation systems
-localization
-neural style transfer
-object detection
-classifier learning algorithms
-extracting features
-automatically extracted features
-handcrafted features
-advantages of
-overview
-image input
-color images
-computer processing of images
-images as functions
-image preprocessing
-interpreting devices
-pipeline
-sensing devices
-vision systems
-AI vision systems
-human vision systems
-visual perception
+**convolutional neural network**
+**convolutional neural networks**
+**convolutional operations**
+**correct prediction**
+**cost functions**
+
+- **defined**
+- **in neural networks**
+
+**cross-entropy**
+**cross-entropy loss**
+**cuDNN**
+**CV (computer vision)**
+
+- applications of
+
+**creating images**
+
+- face recognition
+  image classification
+  image recommendation systems
+  localization
+  neural style transfer
+  object detection
+  classifier learning algorithms
+  extracting features
+  automatically extracted features
+  handcrafted features
+  advantages of
+  overview
+  image input
+  color images
+  computer processing of images
+  images as functions
+  image preprocessing
+  interpreting devices
+  pipeline
+  sensing devices
+  vision systems
+  AI vision systems
+  human vision systems
+  visual perception
 
 ---
 
