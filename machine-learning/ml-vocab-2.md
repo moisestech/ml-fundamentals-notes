@@ -97,12 +97,14 @@
 **baseline models**
 **base_model summary**
 **batch gradient descent (BGD)**
-**derivative**
-**direction**
-**gradient**
-**learning rate**
-**pitfalls of**
-**step size**
+
+- **derivative**
+- **direction**
+- **gradient**
+- **learning rate**
+- **pitfalls of**
+- **step size**
+
 **batch hard (BH)**
 **batch normalization**
 **defined**
