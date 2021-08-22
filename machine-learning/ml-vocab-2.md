@@ -164,18 +164,22 @@ classification
 classification loss
 classification module
 classifier learning algorithms
-classifiers
-binary
-in Keras
-pretrained networks as
-CLVR (cross-level vehicle re-identification)
-adding dropout layers to avoid overfitting
-advantages of
-in CNN architecture
-overview of dropout layers
-overview of overfitting
-architecture of
-AlexNet
+**classifiers**
+
+- **binary**
+- **in Keras**
+- **pretrained networks as**
+
+**CLVR (cross-level vehicle re-identification)**
+
+- **adding dropout layers to avoid overfitting**
+- **advantages of**
+- **in CNN architecture**
+- **overview of dropout layers**
+- **overview of overfitting**
+- **architecture of**
+- **AlexNet**
+
 classification
 feature extraction
 GoogLeNet
