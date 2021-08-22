@@ -253,14 +253,20 @@ CONV2 layer
 CONV3 layer
 CONV4 layer
 CONV5 layer
-ConvNet weights
-overview
-convolutional layers
-convolutional operations
-kernel size
-number of filters in
-padding
-strides
+
+**ConvNet weights**
+
+- overview
+
+**convolutional layers**
+
+**convolutional operations**
+
+- kernel size
+- number of filters in
+- padding
+- strides
+
 convolutional neural network
 convolutional neural networks.
 convolutional operations
