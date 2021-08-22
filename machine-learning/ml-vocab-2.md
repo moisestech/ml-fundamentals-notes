@@ -180,115 +180,119 @@ classifier learning algorithms
 - **architecture of**
 - **AlexNet**
 
-classification
-feature extraction
-GoogLeNet
-Inception
-LeNet-5
-ResNet
-VGGNet
-convolutional layers
-convolutional operations
-kernel size
-number of filters in
-overview of convolution
-padding
-strides
-design patterns
-fully connected layers
-image classification
-building model architecture
-number of parameters
-weights
-with color images
-with MLPs
-implementing feature visualizer
-overview
-pooling layers
-convolutional layers
-max pooling vs. average pooling
-subsampling
-visualizing features
-coarse label
-COCO datasets
-collecting data
-color channel
-converting to grayscale images
-image classification for
-compiling models
-defining model architecture
-evaluating models
-image preprocessing
-loading datasets
-loading models with val_acc
-training models
-combined models
-combined-image
-compiling models
-computation problem
-computer vision.
-conda list command
-confidence threshold
-confusion matrix
-connection weights
-content image
-content loss
-content_image
-content_loss function
-content_weight parameter
-contrastive loss
-CONV_1 layer
-CONV1 layer
-CONV_2 layer
-CONV2 layer
-CONV3 layer
-CONV4 layer
-CONV5 layer
-ConvNet weights
-overview
-convolutional layers
-convolutional operations
-kernel size
-number of filters in
-padding
-strides
-convolutional neural network
-convolutional neural networks.
-convolutional operations
-correct prediction
-cost functions
-defined
-in neural networks
-cross-entropy
-cross-entropy loss
-cuDNN
-CV (computer vision)
-applications of
-creating images
-face recognition
-image classification
-image recommendation systems
-localization
-neural style transfer
-object detection
-classifier learning algorithms
-extracting features
-automatically extracted features
-handcrafted features
-advantages of
-overview
-image input
-color images
-computer processing of images
-images as functions
-image preprocessing
-interpreting devices
-pipeline
-sensing devices
-vision systems
-AI vision systems
-human vision systems
-visual perception
+**classification**
+
+- **feature extraction**
+- **GoogLeNet**
+- **Inception**
+- **LeNet-5**
+- **ResNet**
+- **VGGNet**
+
+- **convolutional layers**
+- **convolutional operations**
+  - kernel size
+- number of filters in
+- overview of convolution
+- padding
+- strides
+- design patterns
+- fully connected layers
+- image classification
+- building model architecture
+- number of parameters
+- weights
+- with color images
+- with MLPs
+- implementing feature visualizer
+- overview
+- pooling layers
+
+**convolutional layers**
+
+- max pooling vs. average pooling
+- subsampling
+  visualizing features
+  coarse label
+  COCO datasets
+  collecting data
+  color channel
+  converting to grayscale images
+  image classification for
+  compiling models
+  defining model architecture
+  evaluating models
+  image preprocessing
+  loading datasets
+  loading models with val_acc
+  training models
+  combined models
+  combined-image
+  compiling models
+  computation problem
+  computer vision.
+  conda list command
+  confidence threshold
+  confusion matrix
+  connection weights
+  content image
+  content loss
+  content_image
+  content_loss function
+  content_weight parameter
+  contrastive loss
+  CONV_1 layer
+  CONV1 layer
+  CONV_2 layer
+  CONV2 layer
+  CONV3 layer
+  CONV4 layer
+  CONV5 layer
+  ConvNet weights
+  overview
+  convolutional layers
+  convolutional operations
+  kernel size
+  number of filters in
+  padding
+  strides
+  convolutional neural network
+  convolutional neural networks.
+  convolutional operations
+  correct prediction
+  cost functions
+  defined
+  in neural networks
+  cross-entropy
+  cross-entropy loss
+  cuDNN
+  CV (computer vision)
+  applications of
+  creating images
+  face recognition
+  image classification
+  image recommendation systems
+  localization
+  neural style transfer
+  object detection
+  classifier learning algorithms
+  extracting features
+  automatically extracted features
+  handcrafted features
+  advantages of
+  overview
+  image input
+  color images
+  computer processing of images
+  images as functions
+  image preprocessing
+  interpreting devices
+  pipeline
+  sensing devices
+  vision systems
+  AI vision systems
+  human vision systems
+  visual perception
 
 ---
 
