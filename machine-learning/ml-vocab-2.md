@@ -319,15 +319,15 @@ classifier learning algorithms
 
 ### Darknet-53
 
-augmenting
-for image classification
-in AlexNet
-collecting
-loading
-mining
-BH
-BS
-BW
+- **augmenting**
+- **for image classification**
+- **in AlexNet**
+- **collecting**
+- **loading**
+- **mining**
+- **BH**
+- **BS**
+- **BW**
 
 ### dataloader
 
