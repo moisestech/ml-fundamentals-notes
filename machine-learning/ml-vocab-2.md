@@ -1,6 +1,7 @@
 # ML Vocab 2
 
 - [Google Doc](https://docs.google.com/document/d/1ElkOp8sU7_NlBJgQ6UQmlMnJNVr2RcgYL_fhVjOQCTY/edit#)
+- [Deep Learnng for Vision Systems, Glossary](https://livebook.manning.com/book/deep-learning-for-vision-systems), **Manning**,
 
 ---
 
@@ -89,8 +90,10 @@
 **backpropagation**
 **backward pass**
 **base networks**
-**predicting with**
-**to extract features**
+
+- **predicting with**
+- **to extract features**
+
 **baseline models**
 **base_model summary**
 **batch gradient descent (BGD)**
