@@ -191,28 +191,28 @@ classifier learning algorithms
 
 - **convolutional layers**
 - **convolutional operations**
-  - kernel size
-  - number of filters in
-  - overview of convolution
-  - padding
-  - strides
-  - design patterns
-  - fully connected layers
-  - image classification
-  - building model architecture
-  - number of parameters
-  - weights
-  - with color images
-  - with MLPs
-  - implementing feature visualizer
-  - overview
-  - pooling layers
+  - **kernel size**
+  - **number of filters in**
+  - **overview of convolution**
+  - **padding**
+  - **strides**
+  - **design patterns**
+  - **fully connected layers**
+  - **image classification**
+  - **building model architecture**
+  - **number of parameters**
+  - **weights**
+  - **with color images**
+  - **with MLPs**
+  - **implementing feature visualizer**
+  - **overview**
+  - **pooling layers**
 
 **convolutional layers**
 
-- max pooling vs. average pooling
-- subsampling
-- visualizing features
+- **max pooling vs. average pooling**
+- **subsampling**
+- **visualizing features**
 
 **coarse label**
 **COCO datasets**
