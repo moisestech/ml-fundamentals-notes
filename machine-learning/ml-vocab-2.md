@@ -317,7 +317,8 @@ classifier learning algorithms
 
 ## D
 
-Darknet-53
+### Darknet-53
+
 augmenting
 for image classification
 in AlexNet
@@ -327,7 +328,9 @@ mining
 BH
 BS
 BW
-dataloader
+
+### dataloader
+
 finding useful triplets
 normalizing
 preparing for training
@@ -336,29 +339,40 @@ augmenting images
 grayscaling images
 resizing images
 splitting
+
 data distillation
 DataGenerator objects
 dataloader
-downloading to GANs
+
+### downloading to GANs
+
 Kaggle
 loading
 MNIST
 splitting for training
 splitting for validation
 validation datasets
+
 DCGANs (deep convolutional generative adversarial networks)
 deep neural network
-DeepDream
+
+### DeepDream
+
 algorithms in
 in Keras
+
 deltas
-dendrites
+
+### dendrites
+
 See also
 Dense_1 layer
 Dense_2 layer
 dependencies, importing
 deprocess_image(x)
-design patterns
+
+### design patterns
+
 measuring speed of
 multi-stage vs. single-stage
 overfitting
