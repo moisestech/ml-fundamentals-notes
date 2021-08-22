@@ -89,7 +89,8 @@
 **background region**
 **backpropagation**
 **backward pass**
-**base networks**
+
+### **base networks**
 
 - **predicting with**
 - **to extract features**
