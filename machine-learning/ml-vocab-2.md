@@ -285,22 +285,23 @@ classifier learning algorithms
 
 **creating images**
 
-- face recognition
-  image classification
-  image recommendation systems
-  localization
-  neural style transfer
-  object detection
+- **face recognition**
+- **image classification**
+- **image recommendation systems**
+- **localization**
+- **neural style transfer**
+- **object detection**
 
-classifier learning algorithms
-extracting features
-automatically extracted features
-handcrafted features
-advantages of
-overview
-image input
-**color images**
-**computer processing of images**
+**classifier learning algorithms**
+
+- **extracting features**
+- **automatically extracted features**
+- **handcrafted features**
+- **advantages of**
+- **overview**
+- **image input**
+  **color images**
+  **computer processing of images**
 
 - **images as functions**
 - **image preprocessing**
