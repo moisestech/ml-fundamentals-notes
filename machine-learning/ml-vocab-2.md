@@ -144,33 +144,35 @@
 
 ## C
 
-Cars Dataset, Stanford
-categories
-CCTV monitoring
-cGAN (conditional GAN)
-chain rule
-channels value
-**CIFAR dataset**
+**Cars Dataset, Stanford**
+**categories**
+**CCTV monitoring**
+**cGAN (conditional GAN)**
+**chain rule**
+**channels value**
+
+### **CIFAR dataset**
 
 - **Inception performance on**
 - **ResNet performance on**
 
-CIFAR-10 dataset
-class predictions
-classes
-classes argument
-Class_id label
-classification
-classification loss
-classification module
-classifier learning algorithms
-**classifiers**
+**CIFAR-10 dataset**
+**class predictions**
+**classes**
+**classes argument**
+**Class_id label**
+**classification**
+**classification loss**
+**classification module**
+**classifier learning algorithms**
+
+### **classifiers**
 
 - **binary**
 - **in Keras**
 - **pretrained networks as**
 
-**CLVR (cross-level vehicle re-identification)**
+### **CLVR (cross-level vehicle re-identification)**
 
 - **adding dropout layers to avoid overfitting**
 - **advantages of**
@@ -180,7 +182,7 @@ classifier learning algorithms
 - **architecture of**
 - **AlexNet**
 
-**classification**
+### **classification**
 
 - **feature extraction**
 - **GoogLeNet**
@@ -189,26 +191,28 @@ classifier learning algorithms
 - **ResNet**
 - **VGGNet**
 
-- **convolutional layers**
-- **convolutional operations**
-  - **kernel size**
-  - **number of filters in**
-  - **overview of convolution**
-  - **padding**
-  - **strides**
-  - **design patterns**
-  - **fully connected layers**
-  - **image classification**
-  - **building model architecture**
-  - **number of parameters**
-  - **weights**
-  - **with color images**
-  - **with MLPs**
-  - **implementing feature visualizer**
-  - **overview**
-  - **pooling layers**
-
 **convolutional layers**
+
+### **convolutional operations**
+
+- **kernel size**
+- **number of filters in**
+- **overview of convolution**
+- **padding**
+- **strides**
+- **design patterns**
+- **fully connected layers**
+- **image classification**
+- **building model architecture**
+- **number of parameters**
+- **weights**
+- **with color images**
+- **with MLPs**
+- **implementing feature visualizer**
+- **overview**
+- **pooling layers**
+
+### **convolutional layers**
 
 - **max pooling vs. average pooling**
 - **subsampling**
@@ -218,7 +222,8 @@ classifier learning algorithms
 **COCO datasets**
 **collecting data**
 **color channel**
-**converting to grayscale images**
+
+### **converting to grayscale images**
 
 - **image classification for**
 
