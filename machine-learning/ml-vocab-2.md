@@ -281,7 +281,7 @@ classifier learning algorithms
 **cuDNN**
 **CV (computer vision)**
 
-- applications of
+- **applications of**
 
 **creating images**
 
@@ -291,24 +291,26 @@ classifier learning algorithms
   localization
   neural style transfer
   object detection
-  classifier learning algorithms
-  extracting features
-  automatically extracted features
-  handcrafted features
-  advantages of
-  overview
-  image input
-  color images
-  computer processing of images
-  images as functions
-  image preprocessing
-  interpreting devices
-  pipeline
-  sensing devices
-  vision systems
-  AI vision systems
-  human vision systems
-  visual perception
+
+classifier learning algorithms
+extracting features
+automatically extracted features
+handcrafted features
+advantages of
+overview
+image input
+**color images**
+**computer processing of images**
+
+- **images as functions**
+- **image preprocessing**
+- **interpreting devices**
+- **pipeline**
+- **sensing devices**
+- **vision systems**
+- **AI vision systems**
+- **human vision systems**
+- **visual perception**
 
 ---
 
