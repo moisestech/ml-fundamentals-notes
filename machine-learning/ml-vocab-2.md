@@ -96,7 +96,8 @@
 
 **baseline models**
 **base_model summary**
-**batch gradient descent (BGD)**
+
+### **batch gradient descent (BGD)**
 
 - **derivative**
 - **direction**
@@ -106,7 +107,8 @@
 - **step size**
 
 **batch hard (BH)**
-**batch normalization**
+
+### **batch normalization**
 
 - **defined**
 - **in neural networks**
@@ -131,7 +133,8 @@
 **bottleneck residual block**
 **bottleneck_residual_block function**
 **bounding box coordinates**
-**bounding box prediction**
+
+### **bounding box prediction**
 
 - **in YOLOv3**
 - **predicting with regressors**
