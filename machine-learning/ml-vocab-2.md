@@ -232,27 +232,27 @@ classifier learning algorithms
 - **training models**
 
 **combined models**
-combined-image
-compiling models
-computation problem
-computer vision.
-conda list command
-confidence threshold
-confusion matrix
-connection weights
-content image
-content loss
-content_image
-content_loss function
-content_weight parameter
-contrastive loss
-CONV_1 layer
-CONV1 layer
-CONV_2 layer
-CONV2 layer
-CONV3 layer
-CONV4 layer
-CONV5 layer
+**combined-image**
+**compiling models**
+**computation problem**
+**computer vision.**
+**conda list command**
+**confidence threshold**
+**confusion matrix**
+**connection weights**
+**content image**
+**content loss**
+**content_image**
+**content_loss function**
+**content_weight parameter**
+**contrastive loss**
+**CONV_1 layer**
+**CONV1 layer**
+**CONV_2 layer**
+**CONV2 layer**
+**CONV3 layer**
+**CONV4 layer**
+**CONV5 layer**
 
 **ConvNet weights**
 
