@@ -223,13 +223,15 @@ classifier learning algorithms
 - **image classification for**
 
 **compiling models**
-defining model architecture
-evaluating models
-image preprocessing
-loading datasets
-loading models with val_acc
-training models
-combined models
+
+- **defining model architecture**
+- **evaluating models**
+- **image preprocessing**
+- **loading datasets**
+- **loading models with val_acc**
+- **training models**
+
+**combined models**
 combined-image
 compiling models
 computation problem
