@@ -300,8 +300,10 @@ classifier learning algorithms
 - **advantages of**
 - **overview**
 - **image input**
-  **color images**
-  **computer processing of images**
+
+**color images**
+
+### **computer processing of images**
 
 - **images as functions**
 - **image preprocessing**
@@ -384,28 +386,34 @@ classifier learning algorithms
 
 ### **dimensionality reduction with Inception**
 
-- 1 × 1 convolutional layer
-- impact on network performance
+- **1 × 1 convolutional layer**
+- **impact on network performance**
 
 **direction**
-discriminator
-discriminator_model method
-in GANs
-training
-conda environment
-loading environments
-manual development environments
-saving environments
-setting up
-dropout hyperparameter
-dropout layers
-adding to avoid overfitting
-advantages of
-in AlexNet
-in CNN architecture
-overview
-dropout rate
-dropout regularization
+**discriminator**
+
+### **discriminator_model method**
+
+- **in GANs**
+- **training**
+- **conda environment**
+- **loading environments**
+- **anual development environments**
+- **saving environments**
+- **setting up**
+
+**dropout hyperparameter**
+
+### **dropout layers**
+
+- **adding to avoid overfitting**
+- **advantages of**
+- **in AlexNet**
+- **in CNN architecture**
+- **overview**
+
+**dropout rate**
+**dropout regularization**
 
 ---
 
