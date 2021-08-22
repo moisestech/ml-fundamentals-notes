@@ -271,7 +271,8 @@ classifier learning algorithms
 **convolutional neural networks**
 **convolutional operations**
 **correct prediction**
-**cost functions**
+
+### **cost functions**
 
 - **defined**
 - **in neural networks**
@@ -279,11 +280,12 @@ classifier learning algorithms
 **cross-entropy**
 **cross-entropy loss**
 **cuDNN**
-**CV (computer vision)**
+
+### **CV (computer vision)**
 
 - **applications of**
 
-**creating images**
+### **creating images**
 
 - **face recognition**
 - **image classification**
@@ -292,7 +294,7 @@ classifier learning algorithms
 - **neural style transfer**
 - **object detection**
 
-**classifier learning algorithms**
+### **classifier learning algorithms**
 
 - **extracting features**
 - **automatically extracted features**
