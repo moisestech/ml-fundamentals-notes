@@ -45,7 +45,8 @@
 **AGI (artificial general intelligence)**
 **AI vision systems**
 **AlexNet**
-**architecture of**
+
+### **architecture of**
 
 - **data augmentation**
 - **dropout layers**
@@ -68,14 +69,15 @@
 **artificial neural networks (ANNs)**
 **atrous convolutions**
 **attention network**
-**AUC (area under the curve)**
+
+### **AUC (area under the curve)**
 
 - **data**
 - **for image classification**
 - **in AlexNet**
 - **images**
 
-**average pooling**
+### **average pooling**
 
 - **creating AWS account**
 - **Jupyter notebooks**
