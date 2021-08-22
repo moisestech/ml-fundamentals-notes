@@ -222,7 +222,7 @@ classifier learning algorithms
 
 - **image classification for**
 
-**compiling models**
+### **compiling models**
 
 - **defining model architecture**
 - **evaluating models**
@@ -254,15 +254,15 @@ classifier learning algorithms
 **CONV4 layer**
 **CONV5 layer**
 
-**ConvNet weights**
+### **ConvNet weights**
 
 - **overview**
 
 **convolutional layers**
 
-**convolutional operations**
+### **convolutional operations**
 
-- k**ernel size**
+- **kernel size**
 - **number of filters in**
 - **padding**
 - **strides**
