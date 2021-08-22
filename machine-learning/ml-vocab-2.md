@@ -150,9 +150,11 @@ CCTV monitoring
 cGAN (conditional GAN)
 chain rule
 channels value
-CIFAR dataset
-Inception performance on
-ResNet performance on
+**CIFAR dataset**
+
+- **Inception performance on**
+- **ResNet performance on**
+
 CIFAR-10 dataset
 class predictions
 classes
