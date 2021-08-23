@@ -64,6 +64,14 @@
   3. Imports the matplotlib library to visualize results
 
 - **preparing data for training**
+
+  1. Downloads and splits the data
+  2. Breaks the training set into training and validation sets
+  3. Let’s print the shape of `x_train`, `x_valid`, and `x_test`
+  4. Normalizing the pixel values of our images is done by subtracting the mean from each pixel and then dividing the result by the standard deviation.
+  5. To one-hot encode the labels in the train, valid, and test datasets, we use the `to_` `categorical` function in Keras.
+  6. For augmentation techniques, we will arbitrarily go with the following transformations: rotation, width and height shift, and horizontal flip.
+
 - **training models**
 
 ### **activation functions**
