@@ -621,16 +621,16 @@
 **downloading datasets**
 **evaluating models of**
 **choosing evaluation scheme**
-FID
-inception score
-generators
-importing libraries
-training
-discriminators
-epochs
-generators
-training functions
-visualizing datasets
+**FID**
+**inception score**
+**generators**
+**importing libraries**
+**training**
+**discriminators**
+**epochs**
+**generators**
+**training functions**
+**visualizing datasets**
 generative models
 generator models
 generator_model function
