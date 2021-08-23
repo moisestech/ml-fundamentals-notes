@@ -522,16 +522,16 @@
 **advantages of**
 **cross-entropy**
 **errors**
-mean squared error
-overview
-weights
-errors
-evaluate() method
-evaluation schemes
-Evaluator class
-exhaustive search algorithm
-exploding gradients
-exponential decay
+**mean squared error**
+**overview**
+**weights**
+**errors**
+**evaluate() method**
+**evaluation schemes**
+**Evaluator class**
+**exhaustive search algorithm**
+**exploding gradients**
+**exponential decay**
 
 ---
 
