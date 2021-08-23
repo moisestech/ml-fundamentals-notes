@@ -537,16 +537,16 @@
 
 ## F
 
-f argument
-face identification
-face recognition (FR)
-face verification
-false negatives (FN)
-false positives (FP)
-False setting
-Fashion-MNIST
-fashion_mnist.load_data() method
-Fast R-CNNs (region-based convolutional neural networks)
+**f argument**
+**face identification**
+**face recognition (FR)**
+**face verification**
+**false negatives (FN)**
+**false positives (FP)**
+**False setting**
+**Fashion-MNIST**
+**fashion_mnist.load_data() method**
+**Fast R-CNNs (region-based convolutional neural networks)**
 architecture of
 disadvantages of
 multi-task loss function in
