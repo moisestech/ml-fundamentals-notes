@@ -76,12 +76,12 @@
 
   - Now that you have selected the metrics you will use to evaluate your system, it is time to establish a reasonable end-to-end system for training your model. Depending on the problem you are solving, you need to design the baseline to suit your network type and architecture. In this step, you will want to answer questions like these:
 
-        - Should I use an MLP or CNN network (or RNN, explained later in the book)?
-        - Should I use other object detection techniques like YOLO or SSD (explained in later chapters)?
-        - How deep should my network be?
-        - Which activation type will I use?
-        - What kind of optimizer do I use?
-        - Do I need to add any other regularization layers like dropout or batch normalization to avoid overfitting?
+    - Should I use an MLP or CNN network (or RNN, explained later in the book)?
+    - Should I use other object detection techniques like YOLO or SSD (explained in later chapters)?
+    - How deep should my network be?
+    - Which activation type will I use?
+    - What kind of optimizer do I use?
+    - Do I need to add any other regularization layers like dropout or batch normalization to avoid overfitting?
 
 ### **activation functions**
 
