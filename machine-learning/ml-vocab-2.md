@@ -498,16 +498,16 @@
 
 ## E
 
-early stopping
-EC2 Management Console
-EC2 On-Demand Pricing page
-edges
-embedding networks, training
-finding similar items
-implementation
-object re-identification
-testing trained models
-object re-identification
+**early stopping**
+**EC2 Management Console**
+**EC2 On-Demand Pricing page**
+**edges**
+**embedding networks, training**
+**finding similar items**
+**implementation**
+**object re-identification**
+**testing trained models**
+**object re-identification**
 retrievals
 embedding space
 endAnaconda
