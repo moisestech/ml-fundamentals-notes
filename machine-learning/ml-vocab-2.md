@@ -7,14 +7,22 @@
 
 ## $
 
-1 × 1 convolutional layer
+**1 × 1 convolutional layer**
+
+- The idea of the 1 × 1 convolutional layer is that it preserves the spatial dimensions (height and width) of the input volume but changes the number of channels of the volume (depth)
+
+---
 
 ## A
 
 **AAVER (adaptive attention for vehicle re-identification)**
+
+- Adaptive attention for vehicle re-identification (AAVER ) by Khorramshahi et al. [25] is a recent work wherein the authors construct a dual-path network for extracting global and local features. These are then concatenated to form a final embedding. The proposed embedding loss is minimized using identity and keypoint orientation annotations.
+
 **acc value**
 **accuracy**
-**as metric for evaluating models**
+
+### **as metric for evaluating models**
 
 - **improvements to**
 - **of image classification**
@@ -24,7 +32,7 @@
 - **preparing data for training**
 - **training models**
 
-**activation functions**
+### **activation functions**
 
 - **binary classifier**
 - **heaviside step function**
@@ -621,7 +629,10 @@ parameters vs.
 tuning
 collecting data vs.
 neural network hyperparameters
-parameters vs. hyperparameters
+
+**parameters vs. hyperparameters**:
+
+- hyperparameters are variables that are not learned by the network. They are set by the ML engineer before training the model and then tuned. These are variables that define the network structure and determine how the network is trained. Hyperparameter examples include learning rate, batch size, number of epochs, number of hidden layers
 
 ---
 
