@@ -547,11 +547,11 @@
 **Fashion-MNIST**
 **fashion_mnist.load_data() method**
 **Fast R-CNNs (region-based convolutional neural networks)**
-architecture of
-disadvantages of
-multi-task loss function in
-architecture of
-base network to extract features
+**architecture of**
+**disadvantages of**
+**multi-task loss function in**
+**architecture of**
+**base network to extract features**
 fully connected layers
 multi-task loss function
 object detection with
