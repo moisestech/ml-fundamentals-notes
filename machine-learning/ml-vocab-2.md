@@ -562,16 +562,16 @@
 **FC layer**
 **FCNs (fully convolutional networks)**
 **feature extraction**
-automatically
-handcrafted features
-feature extractors
-feature maps
-feature vector
-feature visualizer
-feature_layers
-advantages of
-handcrafted
-learning
+**automatically**
+**handcrafted features**
+**feature extractors**
+**feature maps**
+**feature vector**
+**feature visualizer**
+**feature_layers**
+**advantages of**
+**handcrafted**
+**learning**
 overview
 transferring
 visualizing
