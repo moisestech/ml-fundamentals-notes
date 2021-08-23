@@ -594,12 +594,12 @@
 **FLOPs (floating-point operations per second)**
 **flow_from_directory() method**
 **foreground region**
-FPS (frames per second)
-freezing layers
-F-score
-fully connected layers
-images as
-training
+**FPS (frames per second)**
+**freezing layers**
+**F-score**
+**fully connected layers**
+**images as**
+**training**
 
 ---
 
