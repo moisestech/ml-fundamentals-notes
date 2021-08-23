@@ -572,16 +572,16 @@
 **advantages of**
 **handcrafted**
 **learning**
-overview
-transferring
-visualizing
-feedforward process
-learning features
-FID (Fréchet inception distance)
-filter hyperparameter
-filter_index
-filters
-filters argument
+**overview**
+**transferring**
+**visualizing**
+**feedforward process**
+**learning features**
+**FID (Fréchet inception distance)**
+**filter hyperparameter**
+**filter_index**
+**filters**
+**filters argument**
 fine label
 fine-tuning
 advantages of
