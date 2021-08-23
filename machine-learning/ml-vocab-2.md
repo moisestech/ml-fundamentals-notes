@@ -605,15 +605,15 @@
 
 ## G
 
-gallery set
-GANs (generative adversarial networks)
-applications for
-image-to-image translation
-Pix2Pix GAN
-SRGAN
-architecture of
-DCGANs
-generator models
+**gallery set**
+**GANs (generative adversarial networks)**
+**applications for**
+**image-to-image translation**
+**Pix2Pix GAN**
+**SRGAN**
+**architecture of**
+**DCGANs**
+**generator models**
 minimax function
 building
 combined models
