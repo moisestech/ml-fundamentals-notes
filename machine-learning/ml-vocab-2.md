@@ -614,13 +614,13 @@
 **architecture of**
 **DCGANs**
 **generator models**
-minimax function
-building
-combined models
-discriminators
-downloading datasets
-evaluating models of
-choosing evaluation scheme
+**minimax function**
+**building**
+**combined models**
+**discriminators**
+**downloading datasets**
+**evaluating models of**
+**choosing evaluation scheme**
 FID
 inception score
 generators
