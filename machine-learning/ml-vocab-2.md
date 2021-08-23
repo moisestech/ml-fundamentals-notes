@@ -34,11 +34,16 @@
 
 - **improvements to**
 
-  - More training epochs --Notice that the network was improving until epoch 123. You can increase the number of epochs to 150 or 200 and let the network train longer.
-  - Deeper network --Try adding more layers to increase the model complexity, which increases the learning capacity.
-  - Lower learning rate --Decrease the lr (you should train longer if you do so).
-  - Different CNN architecture --Try something like Inception or ResNet (explained in detail in the next chapter). You can get up to 95% accuracy with the ResNet neural network after 200 epochs of training.
-  - Transfer learning --In chapter 6, we will explore the technique of using a pretrained network on your dataset to get higher results with a fraction of the learning time.
+  - More training epochs
+    - Notice that the network was improving until epoch 123. You can increase the number of epochs to 150 or 200 and let the network train longer.
+  - Deeper network
+    - Try adding more layers to increase the model complexity, which increases the learning capacity.
+  - Lower learning rate
+    - Decrease the lr (you should train longer if you do so).
+  - Different CNN architecture
+    - Try something like Inception or ResNet (explained in detail in the next chapter). You can get up to 95% accuracy with the ResNet neural network after 200 epochs of training.
+  - Transfer learning
+    - In chapter 6, we will explore the technique of using a pretrained network on your dataset to get higher results with a fraction of the learning time.
 
 - **of image classification**
 
