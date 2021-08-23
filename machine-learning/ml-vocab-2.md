@@ -582,18 +582,18 @@
 **filter_index**
 **filters**
 **filters argument**
-fine label
-fine-tuning
-advantages of
-learning rates when
-transfer learning
-.fit() method
-fit_generator() function
-Flatten layer
-flattened vector
-FLOPs (floating-point operations per second)
-flow_from_directory() method
-foreground region
+**fine label**
+**fine-tuning**
+**advantages of**
+**learning rates when**
+**transfer learning**
+**.fit() method**
+**fit_generator() function**
+**Flatten layer**
+**flattened vector**
+**FLOPs (floating-point operations per second)**
+**flow_from_directory() method**
+**foreground region**
 FPS (frames per second)
 freezing layers
 F-score
