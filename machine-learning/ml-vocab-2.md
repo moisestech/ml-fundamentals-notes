@@ -508,20 +508,20 @@
 **object re-identification**
 **testing trained models**
 **object re-identification**
-retrievals
-embedding space
-endAnaconda
-conda
-developing manually
-loading
-saving
-epochs
-number of
-training
-error functions
-advantages of
-cross-entropy
-errors
+**retrievals**
+**embedding space**
+**endAnaconda**
+**conda**
+**developing manually**
+**loading**
+**saving**
+**epochs**
+**number of**
+**training**
+**error functions**
+**advantages of**
+**cross-entropy**
+**errors**
 mean squared error
 overview
 weights
