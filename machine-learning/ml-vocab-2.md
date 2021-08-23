@@ -54,6 +54,9 @@
     - Batch normalization layers
 
 - **evaluating models**
+
+  - When evaluating model performance, the goal is to categorize the high-level problem. If it’s a data problem, spend more time on data preprocessing or collecting more data. If it’s a learning algorithm problem, try to tune the network.
+
 - **importing dependencies**
 - **preparing data for training**
 - **training models**
