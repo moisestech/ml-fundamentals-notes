@@ -552,16 +552,16 @@
 **multi-task loss function in**
 **architecture of**
 **base network to extract features**
-fully connected layers
-multi-task loss function
-object detection with
-RPNs
-anchor boxes
-predicting bounding box with regressor
-training
-FC layer
-FCNs (fully convolutional networks)
-feature extraction
+**fully connected layers**
+**multi-task loss function**
+**object detection with**
+**RPNs**
+**anchor boxes**
+**predicting bounding box with regressor**
+**training**
+**FC layer**
+**FCNs (fully convolutional networks)**
+**feature extraction**
 automatically
 handcrafted features
 feature extractors
