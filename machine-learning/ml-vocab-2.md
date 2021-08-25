@@ -68,7 +68,7 @@
   2. Imports numpy for math operations
   3. Imports the matplotlib library to visualize results
 
-- **preparing data for training**
+- <b>preparing data for training</b>
 
   1. Downloads and splits the data
   2. Breaks the training set into training and validation sets
