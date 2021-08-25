@@ -15,7 +15,7 @@
 
 ## A
 
-**AAVER (adaptive attention for vehicle re-identification)**
+<b>AAVER (adaptive attention for vehicle re-identification)</b>
 
 - Adaptive attention for vehicle re-identification (AAVER ) by Khorramshahi et al. [25] is a recent work wherein the authors construct a dual-path network for extracting global and local features. These are then concatenated to form a final embedding. The proposed embedding loss is minimized using identity and keypoint orientation annotations.
 
