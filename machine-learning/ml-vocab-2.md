@@ -158,178 +158,178 @@
 <b>backpropagation</b>
 <b>backward pass</b>
 
-### **base networks**
+### <b>base networks<b>
 
-- **predicting with**
-- **to extract features**
+- <b>predicting with</b>
+- <b>to extract features</b>
 
-**baseline models**
-**base_model summary**
+<b>baseline models</b>
+<b>base_model summary</b>
 
-### **batch gradient descent (BGD)**
+### <b>batch gradient descent (BGD)<b>
 
-- **derivative**
-- **direction**
-- **gradient**
-- **learning rate**
-- **pitfalls of**
-- **step size**
+- <b>derivative<b>
+- <b>direction<b>
+- <b>gradient<b>
+- <b>learning rate<b>
+- <b>pitfalls of<b>
+- <b>step size<b>
 
-**batch hard (BH)**
+<b>batch hard (BH)<b>
 
-### **batch normalization**
+### <b>batch normalization<b>
 
-- **defined**
-- **in neural networks**
-- **in Keras**
-- **overview**
+- <b>defined<b>
+- <b>in neural networks<b>
+- <b>in Keras<b>
+- <b>overview<b>
 
-**batch normalization (BN)**
-**batch sample (BS)**
-**batch weighted (BW)**
-**batch_size hyperparameter**
-**Bayes error rate**
-**biases**
-**BIER (boosting independent embeddings robustly)**
-**binary classifier**
-**binary_crossentropy function**
-**block1_conv1 layer**
-**block3_conv2 layer**
-**block5_conv2 layer**
-**block5_conv3 layer**
-**blocks.**
-**bottleneck layers**
-**bottleneck residual block**
-**bottleneck_residual_block function**
-**bounding box coordinates**
+<b>batch normalization (BN)<b>
+<b>batch sample (BS)<b>
+<b>batch weighted (BW)<b>
+<b>batch_size hyperparameter<b>
+<b>Bayes error rate<b>
+<b>biases<b>
+<b>BIER (boosting independent embeddings robustly)<b>
+<b>binary classifier<b>
+<b>binary_crossentropy function<b>
+<b>block1_conv1 layer<b>
+<b>block3_conv2 layer<b>
+<b>block5_conv2 layer<b>
+<b>block5_conv3 layer<b>
+<b>blocks.<b>
+<b>bottleneck layers<b>
+<b>bottleneck residual block<b>
+<b>bottleneck_residual_block function<b>
+<b>bounding box coordinates<b>
 
-### **bounding box prediction**
+### <b>bounding box prediction<b>
 
-- **in YOLOv3**
-- **predicting with regressors**
+- <b>in YOLOv3<b>
+- <b>predicting with regressors<b>
 
-**bounding-box regressors**
-**build_discriminator function**
-**build_model() function**
+<b>bounding-box regressors<b>
+<b>build_discriminator function<b>
+<b>build_model() function<b>
 
 ---
 
 ## C
 
-**Cars Dataset, Stanford**
-**categories**
-**CCTV monitoring**
-**cGAN (conditional GAN)**
-**chain rule**
-**channels value**
+<b>Cars Dataset, Stanford<b>
+<b>categories<b>
+<b>CCTV monitoring<b>
+<b>cGAN (conditional GAN)<b>
+<b>chain rule<b>
+<b>channels value<b>
 
-### **CIFAR dataset**
+### <b>CIFAR dataset<b>
 
-- **Inception performance on**
-- **ResNet performance on**
+- <b>Inception performance on<b>
+- <b>ResNet performance on<b>
 
-**CIFAR-10 dataset**
-**class predictions**
-**classes**
-**classes argument**
-**Class_id label**
-**classification**
-**classification loss**
-**classification module**
-**classifier learning algorithms**
+<b>CIFAR-10 dataset<b>
+<b>class predictions<b>
+<b>classes<b>
+<b>classes argument<b>
+<b>Class_id label<b>
+<b>classification<b>
+<b>classification loss<b>
+<b>classification module<b>
+<b>classifier learning algorithms<b>
 
-### **classifiers**
+### <b>classifiers<b>
 
-- **binary**
-- **in Keras**
-- **pretrained networks as**
+- <b>binary<b>
+- <b>in Keras<b>
+- <b>pretrained networks as<b>
 
-### **CLVR (cross-level vehicle re-identification)**
+### <b>CLVR (cross-level vehicle re-identification)<b>
 
-- **adding dropout layers to avoid overfitting**
-- **advantages of**
-- **in CNN architecture**
-- **overview of dropout layers**
-- **overview of overfitting**
-- **architecture of**
-- **AlexNet**
+- <b>adding dropout layers to avoid overfitting<b>
+- <b>advantages of<b>
+- <b>in CNN architecture<b>
+- <b>overview of dropout layers<b>
+- <b>overview of overfitting<b>
+- <b>architecture of<b>
+- <b>AlexNet<b>
 
-### **classification**
+### <b>classification<b>
 
-- **feature extraction**
-- **GoogLeNet**
-- **Inception**
-- **LeNet-5**
-- **ResNet**
-- **VGGNet**
+- <b>feature extraction<b>
+- <b>GoogLeNet<b>
+- <b>Inception<b>
+- <b>LeNet-5<b>
+- <b>ResNet<b>
+- <b>VGGNet<b>
 
-**convolutional layers**
+<b>convolutional layers<b>
 
-### **convolutional operations**
+### <b>convolutional operations<b>
 
-- **kernel size**
-- **number of filters in**
-- **overview of convolution**
-- **padding**
-- **strides**
-- **design patterns**
-- **fully connected layers**
-- **image classification**
-- **building model architecture**
-- **number of parameters**
-- **weights**
-- **with color images**
-- **with MLPs**
-- **implementing feature visualizer**
-- **overview**
-- **pooling layers**
+- <b>kernel size<b>
+- <b>number of filters in<b>
+- <b>overview of convolution<b>
+- <b>padding<b>
+- <b>strides<b>
+- <b>design patterns<b>
+- <b>fully connected layers<b>
+- <b>image classification<b>
+- <b>building model architecture<b>
+- <b>number of parameters<b>
+- <b>weights<b>
+- <b>with color images<b>
+- <b>with MLPs<b>
+- <b>implementing feature visualizer<b>
+- <b>overview<b>
+- <b>pooling layers<b>
 
-### **convolutional layers**
+### <b>convolutional layers<b>
 
-- **max pooling vs. average pooling**
-- **subsampling**
-- **visualizing features**
+- <b>max pooling vs. average pooling<b>
+- <b>subsampling<b>
+- <b>visualizing features<b>
 
-**coarse label**
-**COCO datasets**
-**collecting data**
-**color channel**
+<b>coarse label<b>
+<b>COCO datasets<b>
+<b>collecting data<b>
+<b>color channel<b>
 
-### **converting to grayscale images**
+### <b>converting to grayscale images<b>
 
-- **image classification for**
+- <b>image classification for<b>
 
-### **compiling models**
+### <b>compiling models<b>
 
-- **defining model architecture**
-- **evaluating models**
-- **image preprocessing**
-- **loading datasets**
-- **loading models with val_acc**
-- **training models**
+- <b>defining model architecture<b>
+- <b>evaluating models<b>
+- <b>image preprocessing<b>
+- <b>loading datasets<b>
+- <b>loading models with val_acc<b>
+- <b>training models<b>
 
-**combined models**
-**combined-image**
-**compiling models**
-**computation problem**
-**computer vision.**
-**conda list command**
-**confidence threshold**
-**confusion matrix**
-**connection weights**
-**content image**
-**content loss**
-**content_image**
-**content_loss function**
-**content_weight parameter**
-**contrastive loss**
-**CONV_1 layer**
-**CONV1 layer**
-**CONV_2 layer**
-**CONV2 layer**
-**CONV3 layer**
-**CONV4 layer**
-**CONV5 layer**
+<b>combined models<b>
+<b>combined-image<b>
+<b>compiling models<b>
+<b>computation problem<b>
+<b>computer vision.<b>
+<b>conda list command<b>
+<b>confidence threshold<b>
+<b>confusion matrix<b>
+<b>connection weights<b>
+<b>content image<b>
+<b>content loss<b>
+<b>content_image<b>
+<b>content_loss function<b>
+<b>content_weight parameter<b>
+<b>contrastive loss<b>
+<b>CONV_1 layer<b>
+<b>CONV1 layer<b>
+<b>CONV_2 layer<b>
+<b>CONV2 layer<b>
+<b>CONV3 layer<b>
+<b>CONV4 layer<b>
+<b>CONV5 layer<b>
 
 ### **ConvNet weights**
 
