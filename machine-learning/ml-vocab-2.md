@@ -19,7 +19,7 @@
 
 - Adaptive attention for vehicle re-identification (AAVER ) by Khorramshahi et al. [25] is a recent work wherein the authors construct a dual-path network for extracting global and local features. These are then concatenated to form a final embedding. The proposed embedding loss is minimized using identity and keypoint orientation annotations.
 
-**acc value**
+<b>acc value</b>
 
 - **loss** and **acc** are the error and accuracy values for the training data. val_loss and val_acc are the error and accuracy values for the validation data.
 - Look at the `val_loss` and `val_acc` values after each epoch. Ideally, we want val_loss to be decreasing and val_acc to be increasing, indicating that the network is actually learning after each epoch.
