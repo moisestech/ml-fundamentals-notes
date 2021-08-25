@@ -7,7 +7,7 @@
 
 ## $
 
-**1 × 1 convolutional layer**
+<b>1 × 1 convolutional layer</b>
 
 - The idea of the 1 × 1 convolutional layer is that it preserves the spatial dimensions (height and width) of the input volume but changes the number of channels of the volume (depth)
 
@@ -675,8 +675,8 @@ hidden units
 high-recall model
 human in the loop
 human vision systems
-hyperbolic tangent function
-in AlexNet
+<b></b>hyperbolic tangent function
+<b></b>in AlexNet
 <b></b>in GoogLeNet
 <b></b>in Inception
 <b></b>in LeNet-5
