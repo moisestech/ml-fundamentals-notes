@@ -129,12 +129,12 @@
 
 <b>alpha<b>
 <b>AMI (Amazon Machine Images)<b>
-<b>Anaconda<b>
-<b>anchor boxes<b>
-<b>AP (average precision)<b>
-<b>artificial neural networks (ANNs)<b>
-<b>atrous convolutions<b>
-<b>attention network<b>
+<b>Anaconda</b>
+<b>anchor boxes</b>
+<b>AP (average precision)</b>
+<b>artificial neural networks (ANNs)</b>
+<b>atrous convolutions</b>
+<b>attention network</b>
 
 ### <b>AUC (area under the curve)<b>
 
