@@ -77,7 +77,7 @@
   5. To one-hot encode the labels in the train, valid, and test datasets, we use the `to_` `categorical` function in Keras.
   6. For augmentation techniques, we will arbitrarily go with the following transformations: rotation, width and height shift, and horizontal flip.
 
-- **training models**
+- <b>training models</b>
 
   - Now that you have selected the metrics you will use to evaluate your system, it is time to establish a reasonable end-to-end system for training your model. Depending on the problem you are solving, you need to design the baseline to suit your network type and architecture. In this step, you will want to answer questions like these:
 
