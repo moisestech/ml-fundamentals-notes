@@ -88,75 +88,75 @@
     - What kind of optimizer do I use?
     - Do I need to add any other regularization layers like dropout or batch normalization to avoid overfitting?
 
-### **activation functions**
+### <b>activation functions</b>
 
 - Certain activation functions, like the sigmoid function, squish a large input space into a small input space between 0 and 1 (-1 to 1 for tanh activations). Therefore, a large change in the input of the sigmoid function causes a small change in the output. As a result, the derivative becomes very small.
 
-- **binary classifier**
-- **heaviside step function**
-- **leaky ReLU**
-- **linear transfer function**
-- **logistic function**
-- **ReLU**
-- **sigmoid function**
-- **softmax function**
-- **tanh**
+- <b>binary classifier<b>
+- <b>heaviside step function<b>
+- <b>leaky ReLU<b>
+- <b>linear transfer function<b>
+- <b>logistic function<b>
+- <b>ReLU<b>
+- <b>sigmoid function<b>
+- <b>softmax function<b>
+- <b>tanh<b>
 
-**activation maps**
-**activation type**
-**Adam (adaptive moment estimation)**
-**Adam optimizer**
-**adaptive learning**
-**adversarial training**
-**AGI (artificial general intelligence)**
-**AI vision systems**
-**AlexNet**
+<b>activation maps<b>
+<b>activation type<b>
+<b>Adam (adaptive moment estimation)<b>
+<b>Adam optimizer<b>
+<b>adaptive learning<b>
+<b>adversarial training<b>
+<b>AGI (artificial general intelligence)<b>
+<b>AI vision systems<b>
+<b>AlexNet<b>
 
-### **architecture of**
+### <b>architecture of<b>
 
-- **data augmentation**
-- **dropout layers**
-- **features of**
-- **in Keras**
-- **learning hyperparameters in**
-- **local response normalization**
-- **performance**
-- **ReLu activation function**
-- **training on multiple GPUs**
-- **weight regularization**
-- **classifier learning algorithms**
-- **in DeepDream**
+- <b>data augmentation<b>
+- <b>dropout layers<b>
+- <b>features of<b>
+- <b>in Keras<b>
+- <b>learning hyperparameters in<b>
+- <b>local response normalization<b>
+- <b>performance<b>
+- <b>ReLu activation function<b>
+- <b>training on multiple GPUs<b>
+- <b>weight regularization<b>
+- <b>classifier learning algorithms<b>
+- <b>in DeepDream<b>
 
-**alpha**
-**AMI (Amazon Machine Images)**
-**Anaconda**
-**anchor boxes**
-**AP (average precision)**
-**artificial neural networks (ANNs)**
-**atrous convolutions**
-**attention network**
+<b>alpha<b>
+<b>AMI (Amazon Machine Images)<b>
+<b>Anaconda<b>
+<b>anchor boxes<b>
+<b>AP (average precision)<b>
+<b>artificial neural networks (ANNs)<b>
+<b>atrous convolutions<b>
+<b>attention network<b>
 
-### **AUC (area under the curve)**
+### <b>AUC (area under the curve)<b>
 
-- **data**
-- **for image classification**
-- **in AlexNet**
-- **images**
+- <b>data<b>
+- <b>for image classification<b>
+- <b>in AlexNet<b>
+- <b>images<b>
 
-### **average pooling**
+### <b>average pooling<b>
 
-- **creating AWS account**
-- **Jupyter notebooks**
-- **remotely connect to instance**
-- **setting up**
+- <b>creating AWS account<b>
+- <b>Jupyter notebooks<b>
+- <b>remotely connect to instance<b>
+- <b>setting up<b>
 
 ---
 
 ## B
 
-**background region**
-**backpropagation**
-**backward pass**
+<b>background region<b>
+<b>backpropagation<b>
+<b>backward pass<b>
 
 ### **base networks**
 
