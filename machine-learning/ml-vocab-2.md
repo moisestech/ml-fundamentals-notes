@@ -205,12 +205,12 @@
 
 ### <b>bounding box prediction</b>
 
-- <b>in YOLOv3<b>
-- <b>predicting with regressors<b>
+- <b>in YOLOv3</b>
+- <b>predicting with regressors</b>
 
-<b>bounding-box regressors<b>
-<b>build_discriminator function<b>
-<b>build_model() function<b>
+<b>bounding-box regressors</b>
+<b>build_discriminator function</b>
+<b>build_model() function</b>
 
 ---
 
