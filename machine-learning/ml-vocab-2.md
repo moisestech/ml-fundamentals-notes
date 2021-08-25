@@ -49,7 +49,7 @@
 
   - To set the stage for other metrics, we will use a confusion matrix : a table that describes the performance of a classification model.
 
-- **building model architecture**
+- <b>building model architecture</b>
 
   - The optimal learning rate will be dependent on the topology of your loss landscape, which in turn is dependent on both your model architecture and your dataset.
   - Build the model architecture. In addition to regular convolutional and pooling layers, as in chapter 3, we add the following layers to our architecture:
