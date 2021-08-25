@@ -177,12 +177,12 @@
 
 <b>batch hard (BH)</b>
 
-### <b>batch normalization<b>
+### <b>batch normalization</b>
 
-- <b>defined<b>
-- <b>in neural networks<b>
-- <b>in Keras<b>
-- <b>overview<b>
+- <b>defined</b>
+- <b>in neural networks</b>
+- <b>in Keras</b>
+- <b>overview</b>
 
 <b>batch normalization (BN)<b>
 <b>batch sample (BS)<b>
