@@ -184,12 +184,12 @@
 - <b>in Keras</b>
 - <b>overview</b>
 
-<b>batch normalization (BN)<b>
-<b>batch sample (BS)<b>
-<b>batch weighted (BW)<b>
-<b>batch_size hyperparameter<b>
-<b>Bayes error rate<b>
-<b>biases<b>
+<b>batch normalization (BN)</b>
+<b>batch sample (BS)</b>
+<b>batch weighted (BW)</b>
+<b>batch_size hyperparameter</b>
+<b>Bayes error rate</b>
+<b>biases</b>
 <b>BIER (boosting independent embeddings robustly)<b>
 <b>binary classifier<b>
 <b>binary_crossentropy function<b>
