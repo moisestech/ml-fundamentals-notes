@@ -190,20 +190,20 @@
 <b>batch_size hyperparameter</b>
 <b>Bayes error rate</b>
 <b>biases</b>
-<b>BIER (boosting independent embeddings robustly)<b>
-<b>binary classifier<b>
-<b>binary_crossentropy function<b>
-<b>block1_conv1 layer<b>
-<b>block3_conv2 layer<b>
-<b>block5_conv2 layer<b>
-<b>block5_conv3 layer<b>
-<b>blocks.<b>
-<b>bottleneck layers<b>
-<b>bottleneck residual block<b>
-<b>bottleneck_residual_block function<b>
-<b>bounding box coordinates<b>
+<b>BIER (boosting independent embeddings robustly)</b>
+<b>binary classifier</b>
+<b>binary_crossentropy function</b>
+<b>block1_conv1 layer</b>
+<b>block3_conv2 layer</b>
+<b>block5_conv2 layer</b>
+<b>block5_conv3 layer</b>
+<b>blocks.</b>
+<b>bottleneck layers</b>
+<b>bottleneck residual block</b>
+<b>bottleneck_residual_block function</b>
+<b>bounding box coordinates</b>
 
-### <b>bounding box prediction<b>
+### <b>bounding box prediction</b>
 
 - <b>in YOLOv3<b>
 - <b>predicting with regressors<b>
