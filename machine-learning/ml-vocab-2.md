@@ -24,7 +24,7 @@
 - **loss** and **acc** are the error and accuracy values for the training data. val_loss and val_acc are the error and accuracy values for the validation data.
 - Look at the `val_loss` and `val_acc` values after each epoch. Ideally, we want val_loss to be decreasing and val_acc to be increasing, indicating that the network is actually learning after each epoch.
 
-**accuracy**
+<b>accuracy</b>
 
 - A recent work in vehicle re-identification, AAVER [25] boosts mAP accuracy by 5% by post-processing using re-ranking. This means the accuracy metric is not suitable to measure the “goodness” of this model. We need other evaluation metrics that measure different aspects of the model’s prediction ability.
 
