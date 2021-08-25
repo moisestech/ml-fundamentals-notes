@@ -92,25 +92,25 @@
 
 - Certain activation functions, like the sigmoid function, squish a large input space into a small input space between 0 and 1 (-1 to 1 for tanh activations). Therefore, a large change in the input of the sigmoid function causes a small change in the output. As a result, the derivative becomes very small.
 
-- <b>binary classifier<b>
-- <b>heaviside step function<b>
-- <b>leaky ReLU<b>
-- <b>linear transfer function<b>
-- <b>logistic function<b>
-- <b>ReLU<b>
-- <b>sigmoid function<b>
-- <b>softmax function<b>
-- <b>tanh<b>
+- <b>binary classifier</b>
+- <b>heaviside step function</b>
+- <b>leaky ReLU</b>
+- <b>linear transfer function</b>
+- <b>logistic function</b>
+- <b>ReLU</b>
+- <b>sigmoid function</b>
+- <b>softmax function</b>
+- <b>tanh</b>
 
-<b>activation maps<b>
-<b>activation type<b>
-<b>Adam (adaptive moment estimation)<b>
-<b>Adam optimizer<b>
-<b>adaptive learning<b>
-<b>adversarial training<b>
-<b>AGI (artificial general intelligence)<b>
-<b>AI vision systems<b>
-<b>AlexNet<b>
+<b>activation maps</b>
+<b>activation type</b>
+<b>Adam (adaptive moment estimation)</b>
+<b>Adam optimizer</b>
+<b>adaptive learning</b>
+<b>adversarial training</b>
+<b>AGI (artificial general intelligence)</b>
+<b>AI vision systems</b>
+<b>AlexNet</b>
 
 ### <b>architecture of<b>
 
