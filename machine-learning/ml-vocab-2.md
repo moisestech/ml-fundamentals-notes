@@ -138,17 +138,17 @@
 
 ### <b>AUC (area under the curve)<b>
 
-- <b>data<b>
-- <b>for image classification<b>
-- <b>in AlexNet<b>
-- <b>images<b>
+- <b>data</b>
+- <b>for image classification</b>
+- <b>in AlexNet</b>
+- <b>images</b>
 
 ### <b>average pooling<b>
 
-- <b>creating AWS account<b>
-- <b>Jupyter notebooks<b>
-- <b>remotely connect to instance<b>
-- <b>setting up<b>
+- <b>creating AWS account</b>
+- <b>Jupyter notebooks</b>
+- <b>remotely connect to instance</b>
+- <b>setting up</b>
 
 ---
 
