@@ -62,7 +62,7 @@
 
   - When evaluating model performance, the goal is to categorize the high-level problem. If it’s a data problem, spend more time on data preprocessing or collecting more data. If it’s a learning algorithm problem, try to tune the network.
 
-- **importing dependencies**
+- <b>importing dependencies</b>
 
   1. Keras library to download the datasets, preprocess images, and network components
   2. Imports numpy for math operations
