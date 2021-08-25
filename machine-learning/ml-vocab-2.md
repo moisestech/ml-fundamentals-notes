@@ -45,7 +45,7 @@
   - Transfer learning
     - In chapter 6, we will explore the technique of using a pretrained network on your dataset to get higher results with a fraction of the learning time.
 
-- **of image classification**
+- <b>of image classification</b>
 
   - To set the stage for other metrics, we will use a confusion matrix : a table that describes the performance of a classification model.
 
