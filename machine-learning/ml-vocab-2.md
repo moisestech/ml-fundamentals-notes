@@ -631,9 +631,9 @@
 **generators**
 **training functions**
 **visualizing datasets**
-generative models
-generator models
-generator_model function
+**generative models**
+**generator models**
+**generator_model function**
 generators
 in GANs
 training
@@ -688,9 +688,12 @@ tuning
 collecting data vs.
 neural network hyperparameters
 
-**parameters vs. hyperparameters**:
+<b>parameters vs. hyperparameters</b>
 
-- hyperparameters are variables that are not learned by the network. They are set by the ML engineer before training the model and then tuned. These are variables that define the network structure and determine how the network is trained. Hyperparameter examples include learning rate, batch size, number of epochs, number of hidden layers
+- **hyperparameters** are variables that are not learned by the network.
+  - They are set by the ML engineer before training the model and then tuned.
+  - These are variables that define the network structure and determine how the network is trained.
+  - Hyperparameter examples include **learning rate**, **batch size**, **number of epochs**, n**umber of hidden layers**
 
 ---
 
@@ -1463,42 +1466,44 @@ VUIs (voice user interfaces)
 
 ## W
 
-warm-up learning rate
-weight connections
-weight decay
-weight layers
-weight regularization
-weighted sum
-weighted sum function
-weights
-calculating parameters
-non-trainable params
-trainable params
-weights vector
-width value
+<b>warm-up learning rate</b>
+<b>weight connections</b>
+<b>weight decay</b>
+<b>weight layers</b>
+<b>weight regularization</b>
+<b>weighted sum</b>
+<b>weighted sum function</b>
+<b>weights</b>
+<b>calculating parameters</b>
+<b>non-trainable params</b>
+<b>trainable params</b>
+<b>weights vector</b>
+<b>width value</b>
 
 ---
 
 ## X
 
-X argument
-x_test
-x_train
-x_valid
-Y
-architecture of
-object detection with
-overview
-output bounding boxes
-predictions across different scales
+<b>X argument</b>
+<b>x_test</b>
+<b>x_train</b>
+<b>x_valid</b>
+<b>Y</b>
+<b>architecture of</b>
+<b>object detection with</b>
+<b>overview</b>
+<b>output bounding boxes</b>
+<b>predictions across different scales</b>
 
 ---
 
 ## Z
 
-zero-padding
+<b>zero-padding</b>
 
 ---
+
+<link rel="stylesheet" type="text/css" media="all" href="../assets/css/custom.css" />
 
 ## Foam Related Links
 
