@@ -677,16 +677,16 @@ human in the loop
 human vision systems
 hyperbolic tangent function
 in AlexNet
-in GoogLeNet
-in Inception
-in LeNet-5
-in ResNet
-in VGGNet
-neural network hyperparameters
-parameters vs.
-tuning
-collecting data vs.
-neural network hyperparameters
+<b></b>in GoogLeNet
+<b></b>in Inception
+<b></b>in LeNet-5
+<b></b>in ResNet
+<b></b>in VGGNet
+<b></b>neural network hyperparameters
+<b></b>parameters vs.
+<b></b>tuning
+<b>collecting data vs.</b>
+<b>neural network hyperparameters</b>
 
 <b>parameters vs. hyperparameters</b>
 
