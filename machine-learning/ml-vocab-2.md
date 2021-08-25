@@ -32,7 +32,7 @@
 
 - A recent work in vehicle re-identification, AAVER [25] boosts mAP accuracy by 5% by post-processing using re-ranking.
 
-- **improvements to**
+- <b>improvements to</b>
 
   - More training epochs
     - Notice that the network was improving until epoch 123. You can increase the number of epochs to 150 or 200 and let the network train longer.
