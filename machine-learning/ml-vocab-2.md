@@ -223,15 +223,15 @@
 <b>chain rule</b>
 <b>channels value</b>
 
-### <b>CIFAR dataset<b>
+### <b>CIFAR dataset</b>
 
-- <b>Inception performance on<b>
-- <b>ResNet performance on<b>
+- <b>Inception performance on</b>
+- <b>ResNet performance on</b>
 
-<b>CIFAR-10 dataset<b>
-<b>class predictions<b>
-<b>classes<b>
-<b>classes argument<b>
+<b>CIFAR-10 dataset</b>
+<b>class predictions</b>
+<b>classes</b>
+<b>classes argument</b>
 <b>Class_id label<b>
 <b>classification<b>
 <b>classification loss<b>
