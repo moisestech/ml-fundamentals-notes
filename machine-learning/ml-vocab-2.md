@@ -112,23 +112,23 @@
 <b>AI vision systems</b>
 <b>AlexNet</b>
 
-### <b>architecture of<b>
+### <b>architecture of</b>
 
-- <b>data augmentation<b>
-- <b>dropout layers<b>
-- <b>features of<b>
-- <b>in Keras<b>
-- <b>learning hyperparameters in<b>
-- <b>local response normalization<b>
-- <b>performance<b>
-- <b>ReLu activation function<b>
-- <b>training on multiple GPUs<b>
-- <b>weight regularization<b>
-- <b>classifier learning algorithms<b>
-- <b>in DeepDream<b>
+- <b>data augmentation</b>
+- <b>dropout layers</b>
+- <b>features of</b>
+- <b>in Keras</b>
+- <b>learning hyperparameters in</b>
+- <b>local response normalization</b>
+- <b>performance</b>
+- <b>ReLu activation function</b>
+- <b>training on multiple GPUs</b>
+- <b>weight regularization</b>
+- <b>classifier learning algorithms</b>
+- <b>in DeepDream</b>
 
-<b>alpha<b>
-<b>AMI (Amazon Machine Images)<b>
+<b>alpha</b>
+<b>AMI (Amazon Machine Images)</b>
 <b>Anaconda</b>
 <b>anchor boxes</b>
 <b>AP (average precision)</b>
