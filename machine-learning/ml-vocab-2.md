@@ -154,9 +154,9 @@
 
 ## B
 
-<b>background region<b>
-<b>backpropagation<b>
-<b>backward pass<b>
+<b>background region</b>
+<b>backpropagation</b>
+<b>backward pass</b>
 
 ### **base networks**
 
