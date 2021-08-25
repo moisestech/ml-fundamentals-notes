@@ -166,16 +166,16 @@
 <b>baseline models</b>
 <b>base_model summary</b>
 
-### <b>batch gradient descent (BGD)<b>
+### <b>batch gradient descent (BGD)</b>
 
-- <b>derivative<b>
-- <b>direction<b>
-- <b>gradient<b>
-- <b>learning rate<b>
-- <b>pitfalls of<b>
-- <b>step size<b>
+- <b>derivative</b>
+- <b>direction</b>
+- <b>gradient</b>
+- <b>learning rate</b>
+- <b>pitfalls of</b>
+- <b>step size</b>
 
-<b>batch hard (BH)<b>
+<b>batch hard (BH)</b>
 
 ### <b>batch normalization<b>
 
