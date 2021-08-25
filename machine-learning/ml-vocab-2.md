@@ -216,12 +216,12 @@
 
 ## C
 
-<b>Cars Dataset, Stanford<b>
-<b>categories<b>
-<b>CCTV monitoring<b>
-<b>cGAN (conditional GAN)<b>
-<b>chain rule<b>
-<b>channels value<b>
+<b>Cars Dataset, Stanford</b>
+<b>categories</b>
+<b>CCTV monitoring</b>
+<b>cGAN (conditional GAN)</b>
+<b>chain rule</b>
+<b>channels value</b>
 
 ### <b>CIFAR dataset<b>
 
