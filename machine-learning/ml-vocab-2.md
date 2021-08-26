@@ -471,28 +471,28 @@
 <b>direction<b>
 <b>discriminator<b>
 
-### <b>discriminator_model method<b>
+### <b>discriminator_model method</b>
 
-- <b>in GANs<b>
-- <b>training<b>
-- <b>conda environment<b>
-- <b>loading environments<b>
-- <b>anual development environments<b>
-- <b>saving environments<b>
-- <b>setting up<b>
+- <b>in GANs</b>
+- <b>training</b>
+- <b>conda environment</b>
+- <b>loading environments</b>
+- <b>anual development environments</b>
+- <b>saving environments</b>
+- <b>setting up</b>
 
-<b>dropout hyperparameter<b>
+<b>dropout hyperparameter</b>
 
-### <b>dropout layers<b>
+### <b>dropout layers</b>
 
-- <b>adding to avoid overfitting<b>
-- <b>advantages of<b>
-- <b>in AlexNet<b>
-- <b>in CNN architecture<b>
-- <b>overview<b>
+- <b>adding to avoid overfitting</b>
+- <b>advantages of</b>
+- <b>in AlexNet</b>
+- <b>in CNN architecture</b>
+- <b>overview</b>
 
-<b>dropout rate<b>
-<b>dropout regularization<b>
+<b>dropout rate</b>
+<b>dropout regularization</b>
 
 ---
 
