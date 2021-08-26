@@ -410,20 +410,20 @@
 - <b>BS</b>
 - <b>BW</b>
 
-### <b>dataloader<b>
+### <b>dataloader</b>
 
-- <b>finding useful triplets<b>
-- <b>normalizing<b>
-- <b>preparing for training<b>
-- <b>preprocessing<b>
-- <b>augmenting images<b>
-- <b>grayscaling images<b>
-- <b>resizing images<b>
-- <b>splitting<b>
+- <b>finding useful triplets</b>
+- <b>normalizing</b>
+- <b>preparing for training</b>
+- <b>preprocessing</b>
+- <b>augmenting images</b>
+- <b>grayscaling images</b>
+- <b>resizing images</b>
+- <b>splitting</b>
 
-<b>data distillation<b>
-<b>DataGenerator objects<b>
-<b>dataloader<b>
+<b>data distillation</b>
+<b>DataGenerator objects</b>
+<b>dataloader</b>
 
 ### **downloading to GANs**
 
