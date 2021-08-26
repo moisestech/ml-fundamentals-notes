@@ -308,20 +308,20 @@
 - <b>loading models with val_acc</b>
 - <b>training models</b>
 
-<b>combined models<b>
-<b>combined-image<b>
-<b>compiling models<b>
-<b>computation problem<b>
-<b>computer vision.<b>
-<b>conda list command<b>
-<b>confidence threshold<b>
-<b>confusion matrix<b>
-<b>connection weights<b>
-<b>content image<b>
-<b>content loss<b>
-<b>content_image<b>
-<b>content_loss function<b>
-<b>content_weight parameter<b>
+<b>combined models</b>
+<b>combined-image</b>
+<b>compiling models</b>
+<b>computation problem</b>
+<b>computer vision.</b>
+<b>conda list command</b>
+<b>confidence threshold</b>
+<b>confusion matrix</b>
+<b>connection weights</b>
+<b>content image</b>
+<b>content loss</b>
+<b>content_image</b>
+<b>content_loss function</b>
+<b>content_weight parameter</b>
 <b>contrastive loss<b>
 <b>CONV_1 layer<b>
 <b>CONV1 layer<b>
