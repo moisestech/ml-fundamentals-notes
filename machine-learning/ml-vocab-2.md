@@ -425,17 +425,17 @@
 <b>DataGenerator objects</b>
 <b>dataloader</b>
 
-### **downloading to GANs**
+### <b>downloading to GANs<b>
 
-**Kaggle**
-**loading**
-**MNIST**
-**splitting for training**
-**splitting for validation**
-**validation datasets**
+<b>Kaggle<b>
+<b>loading<b>
+<b>MNIST<b>
+<b>splitting for training<b>
+<b>splitting for validation<b>
+<b>validation datasets<b>
 
-**DCGANs (deep convolutional generative adversarial networks)**
-**deep neural network**
+<b>DCGANs (deep convolutional generative adversarial networks)<b>
+<b>deep neural network<b>
 
 ### **DeepDream**
 
