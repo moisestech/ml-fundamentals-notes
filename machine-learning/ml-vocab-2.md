@@ -371,16 +371,16 @@
 - <b>neural style transfer</b>
 - <b>object detection</b>
 
-### **classifier learning algorithms**
+### <b>classifier learning algorithms</b>
 
-- **extracting features**
-- **automatically extracted features**
-- **handcrafted features**
-- **advantages of**
-- **overview**
-- **image input**
+- <b>extracting features</b>
+- <b>automatically extracted features</b>
+- <b>handcrafted features</b>
+- <b>advantages of</b>
+- <b>overview</b>
+- <b>image input</b>
 
-**color images**
+<b>color images</b>
 
 ### **computer processing of images**
 
