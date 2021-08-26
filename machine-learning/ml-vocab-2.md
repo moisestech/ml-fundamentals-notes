@@ -322,22 +322,22 @@
 <b>content_image</b>
 <b>content_loss function</b>
 <b>content_weight parameter</b>
-<b>contrastive loss<b>
-<b>CONV_1 layer<b>
-<b>CONV1 layer<b>
-<b>CONV_2 layer<b>
-<b>CONV2 layer<b>
-<b>CONV3 layer<b>
-<b>CONV4 layer<b>
-<b>CONV5 layer<b>
+<b>contrastive loss</b>
+<b>CONV_1 layer</b>
+<b>CONV1 layer</b>
+<b>CONV_2 layer</b>
+<b>CONV2 layer</b>
+<b>CONV3 layer</b>
+<b>CONV4 layer</b>
+<b>CONV5 layer</b>
 
-### <b>ConvNet weights<b>
+### <b>ConvNet weights</b>
 
-- <b>overview<b>
+- <b>overview</b>
 
-<b>convolutional layers<b>
+<b>convolutional layers</b>
 
-### <b>convolutional operations<b>
+### <b>convolutional operations</b>
 
 - <b>kernel size<b>
 - <b>number of filters in<b>
