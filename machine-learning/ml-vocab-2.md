@@ -437,12 +437,12 @@
 <b>DCGANs (deep convolutional generative adversarial networks)</b>
 <b>deep neural network</b>
 
-### **DeepDream**
+### <b>DeepDream</b>
 
-**algorithms in**
-**in Keras**
+<b>algorithms in</b>
+<b>in Keras</b>
 
-**deltas**
+<b>deltas</b>
 
 ### **dendrites**
 
