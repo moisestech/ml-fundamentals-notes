@@ -295,9 +295,9 @@
 <b>collecting data</b>
 <b>color channel</b>
 
-### <b>converting to grayscale images<b>
+### <b>converting to grayscale images</b>
 
-- <b>image classification for<b>
+- <b>image classification for</b>
 
 ### <b>compiling models<b>
 
