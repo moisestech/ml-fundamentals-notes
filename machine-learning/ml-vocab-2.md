@@ -382,17 +382,17 @@
 
 <b>color images</b>
 
-### **computer processing of images**
+### <b>computer processing of images<b>
 
-- **images as functions**
-- **image preprocessing**
-- **interpreting devices**
-- **pipeline**
-- **sensing devices**
-- **vision systems**
-- **AI vision systems**
-- **human vision systems**
-- **visual perception**
+- <b>images as functions<b>
+- <b>image preprocessing<b>
+- <b>interpreting devices<b>
+- <b>pipeline<b>
+- <b>sensing devices<b>
+- <b>vision systems<b>
+- <b>AI vision systems<b>
+- <b>human vision systems<b>
+- <b>visual perception<b>
 
 ---
 
