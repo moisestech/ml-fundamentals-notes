@@ -349,14 +349,14 @@
 <b>convolutional operations</b>
 <b>correct prediction</b>
 
-### <b>cost functions<b>
+### <b>cost functions</b>
 
-- <b>defined<b>
-- <b>in neural networks<b>
+- <b>defined</b>
+- <b>in neural networks</b>
 
-<b>cross-entropy<b>
-<b>cross-entropy loss<b>
-<b>cuDNN<b>
+<b>cross-entropy</b>
+<b>cross-entropy loss</b>
+<b>cuDNN</b>
 
 ### **CV (computer vision)**
 
