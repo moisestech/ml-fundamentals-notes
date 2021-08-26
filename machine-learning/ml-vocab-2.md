@@ -398,17 +398,17 @@
 
 ## D
 
-### <b>Darknet-53<b>
+### <b>Darknet-53</b>
 
-- <b>augmenting<b>
-- <b>for image classification<b>
-- <b>in AlexNet<b>
-- <b>collecting<b>
-- <b>loading<b>
-- <b>mining<b>
-- <b>BH<b>
-- <b>BS<b>
-- <b>BW<b>
+- <b>augmenting</b>
+- <b>for image classification</b>
+- <b>in AlexNet</b>
+- <b>collecting</b>
+- <b>loading</b>
+- <b>mining</b>
+- <b>BH</b>
+- <b>BS</b>
+- <b>BW</b>
 
 ### **dataloader**
 
