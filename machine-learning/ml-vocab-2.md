@@ -244,15 +244,15 @@
 - <b>in Keras</b>
 - <b>pretrained networks as</b>
 
-### <b>CLVR (cross-level vehicle re-identification)<b>
+### <b>CLVR (cross-level vehicle re-identification)</b>
 
-- <b>adding dropout layers to avoid overfitting<b>
-- <b>advantages of<b>
-- <b>in CNN architecture<b>
-- <b>overview of dropout layers<b>
-- <b>overview of overfitting<b>
-- <b>architecture of<b>
-- <b>AlexNet<b>
+- <b>adding dropout layers to avoid overfitting</b>
+- <b>advantages of</b>
+- <b>in CNN architecture</b>
+- <b>overview of dropout layers</b>
+- <b>overview of overfitting</b>
+- <b>architecture of</b>
+- <b>AlexNet</b>
 
 ### <b>classification<b>
 
