@@ -284,16 +284,16 @@
 - <b>overview</b>
 - <b>pooling layers</b>
 
-### <b>convolutional layers<b>
+### <b>convolutional layers</b>
 
-- <b>max pooling vs. average pooling<b>
-- <b>subsampling<b>
-- <b>visualizing features<b>
+- <b>max pooling vs. average pooling</b>
+- <b>subsampling</b>
+- <b>visualizing features</b>
 
-<b>coarse label<b>
-<b>COCO datasets<b>
-<b>collecting data<b>
-<b>color channel<b>
+<b>coarse label</b>
+<b>COCO datasets</b>
+<b>collecting data</b>
+<b>color channel</b>
 
 ### <b>converting to grayscale images<b>
 
