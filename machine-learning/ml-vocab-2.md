@@ -299,14 +299,14 @@
 
 - <b>image classification for</b>
 
-### <b>compiling models<b>
+### <b>compiling models</b>
 
-- <b>defining model architecture<b>
-- <b>evaluating models<b>
-- <b>image preprocessing<b>
-- <b>loading datasets<b>
-- <b>loading models with val_acc<b>
-- <b>training models<b>
+- <b>defining model architecture</b>
+- <b>evaluating models</b>
+- <b>image preprocessing</b>
+- <b>loading datasets</b>
+- <b>loading models with val_acc</b>
+- <b>training models</b>
 
 <b>combined models<b>
 <b>combined-image<b>
