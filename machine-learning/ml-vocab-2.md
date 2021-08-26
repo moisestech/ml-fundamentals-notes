@@ -358,18 +358,18 @@
 <b>cross-entropy loss</b>
 <b>cuDNN</b>
 
-### <b>CV (computer vision)<b>
+### <b>CV (computer vision)</b>
 
-- <b>applications of<b>
+- <b>applications of</b>
 
-### <b>creating images<b>
+### <b>creating images</b>
 
-- <b>face recognition<b>
-- <b>image classification<b>
-- <b>image recommendation systems<b>
-- <b>localization<b>
-- <b>neural style transfer<b>
-- <b>object detection<b>
+- <b>face recognition</b>
+- <b>image classification</b>
+- <b>image recommendation systems</b>
+- <b>localization</b>
+- <b>neural style transfer</b>
+- <b>object detection</b>
 
 ### **classifier learning algorithms**
 
