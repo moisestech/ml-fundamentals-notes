@@ -232,11 +232,11 @@
 <b>class predictions</b>
 <b>classes</b>
 <b>classes argument</b>
-<b>Class_id label<b>
-<b>classification<b>
-<b>classification loss<b>
-<b>classification module<b>
-<b>classifier learning algorithms<b>
+<b>Class_id label</b>
+<b>classification</b>
+<b>classification loss</b>
+<b>classification module</b>
+<b>classifier learning algorithms</b>
 
 ### <b>classifiers<b>
 
