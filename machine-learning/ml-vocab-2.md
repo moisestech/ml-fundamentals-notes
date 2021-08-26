@@ -339,15 +339,15 @@
 
 ### <b>convolutional operations</b>
 
-- <b>kernel size<b>
-- <b>number of filters in<b>
-- <b>padding<b>
-- <b>strides<b>
+- <b>kernel size</b>
+- <b>number of filters in</b>
+- <b>padding</b>
+- <b>strides</b>
 
-<b>convolutional neural network<b>
-<b>convolutional neural networks<b>
-<b>convolutional operations<b>
-<b>correct prediction<b>
+<b>convolutional neural network</b>
+<b>convolutional neural networks</b>
+<b>convolutional operations</b>
+<b>correct prediction</b>
 
 ### <b>cost functions<b>
 
