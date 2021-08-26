@@ -442,96 +442,96 @@
 <b>algorithms in</b>
 <b>in Keras</b>
 
-<b>deltas</b>
+<b>deltas<b>
 
-### **dendrites**
+### <b>dendrites<b>
 
-**See also**
+<b>See also<b>
 
-**Dense_1 layer**
-**Dense_2 layer**
-**dependencies, importing**
-**deprocess_image(x)**
+<b>Dense_1 layer<b>
+<b>Dense_2 layer<b>
+<b>dependencies, importing<b>
+<b>deprocess_image(x)<b>
 
-### **design patterns**
+### <b>design patterns<b>
 
-- **measuring speed of**
-- **multi-stage vs. single-stage**
-- **overfitting**
-- **underfitting**
+- <b>measuring speed of<b>
+- <b>multi-stage vs. single-stage<b>
+- <b>overfitting<b>
+- <b>underfitting<b>
 
-**dilated convolutions**
-**dilation rate**
+<b>dilated convolutions<b>
+<b>dilation rate<b>
 
-### **dimensionality reduction with Inception**
+### <b>dimensionality reduction with Inception<b>
 
-- **1 × 1 convolutional layer**
-- **impact on network performance**
+- <b>1 × 1 convolutional layer<b>
+- <b>impact on network performance<b>
 
-**direction**
-**discriminator**
+<b>direction<b>
+<b>discriminator<b>
 
-### **discriminator_model method**
+### <b>discriminator_model method<b>
 
-- **in GANs**
-- **training**
-- **conda environment**
-- **loading environments**
-- **anual development environments**
-- **saving environments**
-- **setting up**
+- <b>in GANs<b>
+- <b>training<b>
+- <b>conda environment<b>
+- <b>loading environments<b>
+- <b>anual development environments<b>
+- <b>saving environments<b>
+- <b>setting up<b>
 
-**dropout hyperparameter**
+<b>dropout hyperparameter<b>
 
-### **dropout layers**
+### <b>dropout layers<b>
 
-- **adding to avoid overfitting**
-- **advantages of**
-- **in AlexNet**
-- **in CNN architecture**
-- **overview**
+- <b>adding to avoid overfitting<b>
+- <b>advantages of<b>
+- <b>in AlexNet<b>
+- <b>in CNN architecture<b>
+- <b>overview<b>
 
-**dropout rate**
-**dropout regularization**
+<b>dropout rate<b>
+<b>dropout regularization<b>
 
 ---
 
 ## E
 
-**early stopping**
-**EC2 Management Console**
-**EC2 On-Demand Pricing page**
-**edges**
-**embedding networks, training**
-**finding similar items**
-**implementation**
-**object re-identification**
-**testing trained models**
-**object re-identification**
-**retrievals**
-**embedding space**
-**endAnaconda**
-**conda**
-**developing manually**
-**loading**
-**saving**
-**epochs**
-**number of**
-**training**
-**error functions**
-**advantages of**
-**cross-entropy**
-**errors**
-**mean squared error**
-**overview**
-**weights**
-**errors**
-**evaluate() method**
-**evaluation schemes**
-**Evaluator class**
-**exhaustive search algorithm**
-**exploding gradients**
-**exponential decay**
+<b>early stopping<b>
+<b>EC2 Management Console<b>
+<b>EC2 On-Demand Pricing page<b>
+<b>edges<b>
+<b>embedding networks, training<b>
+<b>finding similar items<b>
+<b>implementation<b>
+<b>object re-identification<b>
+<b>testing trained models<b>
+<b>object re-identification<b>
+<b>retrievals<b>
+<b>embedding space<b>
+<b>endAnaconda<b>
+<b>conda<b>
+<b>developing manually<b>
+<b>loading<b>
+<b>saving<b>
+<b>epochs<b>
+<b>number of<b>
+<b>training<b>
+<b>error functions<b>
+<b>advantages of<b>
+<b>cross-entropy<b>
+<b>errors<b>
+<b>mean squared error<b>
+<b>overview<b>
+<b>weights<b>
+<b>errors<b>
+<b>evaluate() method<b>
+<b>evaluation schemes<b>
+<b>Evaluator class<b>
+<b>exhaustive search algorithm<b>
+<b>exploding gradients<b>
+<b>exponential decay<b>
 
 ---
 
