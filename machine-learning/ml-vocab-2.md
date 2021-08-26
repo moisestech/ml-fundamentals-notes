@@ -254,16 +254,16 @@
 - <b>architecture of</b>
 - <b>AlexNet</b>
 
-### <b>classification<b>
+### <b>classification</b>
 
-- <b>feature extraction<b>
-- <b>GoogLeNet<b>
-- <b>Inception<b>
-- <b>LeNet-5<b>
-- <b>ResNet<b>
-- <b>VGGNet<b>
+- <b>feature extraction</b>
+- <b>GoogLeNet</b>
+- <b>Inception</b>
+- <b>LeNet-5</b>
+- <b>ResNet</b>
+- <b>VGGNet</b>
 
-<b>convolutional layers<b>
+<b>convolutional layers</b>
 
 ### <b>convolutional operations<b>
 
