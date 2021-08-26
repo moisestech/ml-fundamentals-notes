@@ -265,24 +265,24 @@
 
 <b>convolutional layers</b>
 
-### <b>convolutional operations<b>
+### <b>convolutional operations</b>
 
-- <b>kernel size<b>
-- <b>number of filters in<b>
-- <b>overview of convolution<b>
-- <b>padding<b>
-- <b>strides<b>
-- <b>design patterns<b>
-- <b>fully connected layers<b>
-- <b>image classification<b>
-- <b>building model architecture<b>
-- <b>number of parameters<b>
-- <b>weights<b>
-- <b>with color images<b>
-- <b>with MLPs<b>
-- <b>implementing feature visualizer<b>
-- <b>overview<b>
-- <b>pooling layers<b>
+- <b>kernel size</b>
+- <b>number of filters in</b>
+- <b>overview of convolution</b>
+- <b>padding</b>
+- <b>strides</b>
+- <b>design patterns</b>
+- <b>fully connected layers</b>
+- <b>image classification</b>
+- <b>building model architecture</b>
+- <b>number of parameters</b>
+- <b>weights</b>
+- <b>with color images</b>
+- <b>with MLPs</b>
+- <b>implementing feature visualizer</b>
+- <b>overview</b>
+- <b>pooling layers</b>
 
 ### <b>convolutional layers<b>
 
