@@ -498,40 +498,40 @@
 
 ## E
 
-<b>early stopping<b>
-<b>EC2 Management Console<b>
-<b>EC2 On-Demand Pricing page<b>
-<b>edges<b>
-<b>embedding networks, training<b>
-<b>finding similar items<b>
-<b>implementation<b>
-<b>object re-identification<b>
-<b>testing trained models<b>
-<b>object re-identification<b>
-<b>retrievals<b>
-<b>embedding space<b>
-<b>endAnaconda<b>
-<b>conda<b>
-<b>developing manually<b>
-<b>loading<b>
-<b>saving<b>
-<b>epochs<b>
-<b>number of<b>
-<b>training<b>
-<b>error functions<b>
-<b>advantages of<b>
-<b>cross-entropy<b>
-<b>errors<b>
-<b>mean squared error<b>
-<b>overview<b>
-<b>weights<b>
-<b>errors<b>
-<b>evaluate() method<b>
-<b>evaluation schemes<b>
-<b>Evaluator class<b>
-<b>exhaustive search algorithm<b>
-<b>exploding gradients<b>
-<b>exponential decay<b>
+<b>early stopping</b>
+<b>EC2 Management Console</b>
+<b>EC2 On-Demand Pricing page</b>
+<b>edges</b>
+<b>embedding networks, training</b>
+<b>finding similar items</b>
+<b>implementation</b>
+<b>object re-identification</b>
+<b>testing trained models</b>
+<b>object re-identification</b>
+<b>retrievals</b>
+<b>embedding space</b>
+<b>endAnaconda</b>
+<b>conda</b>
+<b>developing manually</b>
+<b>loading</b>
+<b>saving</b>
+<b>epochs</b>
+<b>number of</b>
+<b>training</b>
+<b>error functions</b>
+<b>advantages of</b>
+<b>cross-entropy</b>
+<b>errors</b>
+<b>mean squared error</b>
+<b>overview</b>
+<b>weights</b>
+<b>errors</b>
+<b>evaluate() method</b>
+<b>evaluation schemes</b>
+<b>Evaluator class</b>
+<b>exhaustive search algorithm</b>
+<b>exploding gradients</b>
+<b>exponential decay</b>
 
 ---
 
