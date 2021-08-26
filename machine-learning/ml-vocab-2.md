@@ -331,32 +331,32 @@
 <b>CONV4 layer<b>
 <b>CONV5 layer<b>
 
-### **ConvNet weights**
+### <b>ConvNet weights<b>
 
-- **overview**
+- <b>overview<b>
 
-**convolutional layers**
+<b>convolutional layers<b>
 
-### **convolutional operations**
+### <b>convolutional operations<b>
 
-- **kernel size**
-- **number of filters in**
-- **padding**
-- **strides**
+- <b>kernel size<b>
+- <b>number of filters in<b>
+- <b>padding<b>
+- <b>strides<b>
 
-**convolutional neural network**
-**convolutional neural networks**
-**convolutional operations**
-**correct prediction**
+<b>convolutional neural network<b>
+<b>convolutional neural networks<b>
+<b>convolutional operations<b>
+<b>correct prediction<b>
 
-### **cost functions**
+### <b>cost functions<b>
 
-- **defined**
-- **in neural networks**
+- <b>defined<b>
+- <b>in neural networks<b>
 
-**cross-entropy**
-**cross-entropy loss**
-**cuDNN**
+<b>cross-entropy<b>
+<b>cross-entropy loss<b>
+<b>cuDNN<b>
 
 ### **CV (computer vision)**
 
