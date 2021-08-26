@@ -238,11 +238,11 @@
 <b>classification module</b>
 <b>classifier learning algorithms</b>
 
-### <b>classifiers<b>
+### <b>classifiers</b>
 
-- <b>binary<b>
-- <b>in Keras<b>
-- <b>pretrained networks as<b>
+- <b>binary</b>
+- <b>in Keras</b>
+- <b>pretrained networks as</b>
 
 ### <b>CLVR (cross-level vehicle re-identification)<b>
 
