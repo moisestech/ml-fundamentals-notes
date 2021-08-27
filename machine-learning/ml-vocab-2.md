@@ -636,7 +636,7 @@
 **generator_model function**
 generators
 in GANs
-training
+<b>training</b>
 <b>global average pooling</b>
 <b>global minima</b>
 <b>Google Open Images</b>
