@@ -657,16 +657,16 @@ gradients function
 gram matrix
 graph transformer network
 converting color images
-images
-ground truth bounding box
-GSTE (group-sensitive triplet embedding)
+<b>images</b>
+<b>ground truth bounding box</b>
+<b>GSTE (group-sensitive triplet embedding)</b>
 
 ---
 
 ## H
 
-hard data mining
-hard negative sample
+<b></b>hard data mining
+<b></b>hard negative sample
 <b></b>hard positive sample
 <b></b>heaviside step function
 <b></b>height value
