@@ -630,11 +630,11 @@
 <b>epochs</b>
 <b>generators</b>
 <b>training functions</b>
-visualizing datasets
-generative models
-generator models
-generator_model function
-generators
+<b>visualizing datasets</b>
+<b>generative models</b>
+<b>generator models</b>
+<b>generator_model function</b>
+<b>generators</b>
 <b>in GANs</b>
 <b>training</b>
 <b>global average pooling</b>
