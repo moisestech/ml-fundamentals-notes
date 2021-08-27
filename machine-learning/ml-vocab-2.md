@@ -605,27 +605,27 @@
 
 ## G
 
-<b>gallery set<b>
-<b>GANs (generative adversarial networks)<b>
-<b>applications for<b>
-<b>image-to-image translation<b>
-<b>Pix2Pix GAN<b>
-<b>SRGAN<b>
-<b>architecture of<b>
-<b>DCGANs<b>
-<b>generator models<b>
-<b>minimax function<b>
-<b>building<b>
-<b>combined models<b>
-<b>discriminators<b>
-<b>downloading datasets<b>
-<b>evaluating models of<b>
-<b>choosing evaluation scheme<b>
-<b>FID<b>
-<b>inception score<b>
-<b>generators<b>
-<b>importing libraries<b>
-<b>training<b>
+<b>gallery set</b>
+<b>GANs (generative adversarial networks)</b>
+<b>applications for</b>
+<b>image-to-image translation</b>
+<b>Pix2Pix GAN</b>
+<b>SRGAN</b>
+<b>architecture of</b>
+<b>DCGANs</b>
+<b>generator models</b>
+<b>minimax function</b>
+<b>building</b>
+<b>combined models</b>
+<b>discriminators</b>
+<b>downloading datasets</b>
+<b>evaluating models of</b>
+<b>choosing evaluation scheme</b>
+<b>FID</b>
+<b>inception score</b>
+<b>generators</b>
+<b>importing libraries</b>
+<b>training</b>
 **discriminators**
 **epochs**
 **generators**
