@@ -579,27 +579,27 @@
 <b>learning features</b>
 <b>FID (Fréchet inception distance)</b>
 <b>filter hyperparameter<b>
-<b>filter_index<b>
-<b>filters<b>
-<b>filters argument<b>
-<b>fine label<b>
-<b>fine-tuning<b>
-<b>advantages of<b>
-<b>learning rates when<b>
-<b>transfer learning<b>
-<b>.fit() method<b>
-<b>fit_generator() function<b>
-<b>Flatten layer<b>
-<b>flattened vector<b>
-<b>FLOPs (floating-point operations per second)<b>
-<b>flow_from_directory() method<b>
-<b>foreground region<b>
-<b>FPS (frames per second)<b>
-<b>freezing layers<b>
-<b>F-score<b>
-<b>fully connected layers<b>
-<b>images as<b>
-<b>training<b>
+<b>filter_index</b>
+<b>filters</b>
+<b>filters argument</b>
+<b>fine label</b>
+<b>fine-tuning</b>
+<b>advantages of</b>
+<b>learning rates when</b>
+<b>transfer learning</b>
+<b>.fit() method</b>
+<b>fit_generator() function</b>
+<b>Flatten layer</b>
+<b>flattened vector</b>
+<b>FLOPs (floating-point operations per second)</b>
+<b>flow_from_directory() method</b>
+<b>foreground region</b>
+<b>FPS (frames per second)</b>
+<b>freezing layers</b>
+<b>F-score</b>
+<b>fully connected layers</b>
+<b>images as</b>
+<b>training</b>
 
 ---
 
