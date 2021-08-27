@@ -638,7 +638,7 @@ generators
 in GANs
 training
 global average pooling
-global minima
+<b>global minima</b>
 <b>Google Open Images</b>
 <b>GoogLeNet</b>
 <b>architecture of</b>
