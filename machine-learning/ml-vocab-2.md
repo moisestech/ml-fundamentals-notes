@@ -641,7 +641,7 @@ global average pooling
 global minima
 Google Open Images
 GoogLeNet
-architecture of
+<b>architecture of</b>
 <b>in Keras</b>
 <b>building classifiers</b>
 <b>building inception modules</b>
