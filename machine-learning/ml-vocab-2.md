@@ -642,7 +642,7 @@ global minima
 Google Open Images
 GoogLeNet
 architecture of
-in Keras
+<b>in Keras</b>
 <b>building classifiers</b>
 <b>building inception modules</b>
 <b>building max-pooling layers</b>
