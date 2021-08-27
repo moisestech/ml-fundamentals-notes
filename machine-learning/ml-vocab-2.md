@@ -556,28 +556,28 @@
 <b>multi-task loss function</b>
 <b>object detection with</b>
 <b>RPNs</b>
-<b>anchor boxes<b>
-<b>predicting bounding box with regressor<b>
-<b>training<b>
-<b>FC layer<b>
-<b>FCNs (fully convolutional networks)<b>
-<b>feature extraction<b>
-<b>automatically<b>
-<b>handcrafted features<b>
-<b>feature extractors<b>
-<b>feature maps<b>
-<b>feature vector<b>
-<b>feature visualizer<b>
-<b>feature_layers<b>
-<b>advantages of<b>
-<b>handcrafted<b>
-<b>learning<b>
-<b>overview<b>
-<b>transferring<b>
-<b>visualizing<b>
-<b>feedforward process<b>
-<b>learning features<b>
-<b>FID (Fréchet inception distance)<b>
+<b>anchor boxes</b>
+<b>predicting bounding box with regressor</b>
+<b>training</b>
+<b>FC layer</b>
+<b>FCNs (fully convolutional networks)</b>
+<b>feature extraction</b>
+<b>automatically</b>
+<b>handcrafted features</b>
+<b>feature extractors</b>
+<b>feature maps</b>
+<b>feature vector</b>
+<b>feature visualizer</b>
+<b>feature_layers</b>
+<b>advantages of</b>
+<b>handcrafted</b>
+<b>learning</b>
+<b>overview</b>
+<b>transferring</b>
+<b>visualizing</b>
+<b>feedforward process</b>
+<b>learning features</b>
+<b>FID (Fréchet inception distance)</b>
 **filter hyperparameter**
 **filter_index**
 **filters**
