@@ -639,7 +639,7 @@ in GANs
 training
 global average pooling
 global minima
-Google Open Images
+<b>Google Open Images</b>
 <b>GoogLeNet</b>
 <b>architecture of</b>
 <b>in Keras</b>
