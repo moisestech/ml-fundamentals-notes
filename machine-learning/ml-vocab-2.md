@@ -643,20 +643,20 @@ Google Open Images
 GoogLeNet
 architecture of
 in Keras
-building classifiers
-building inception modules
-building max-pooling layers
-building network
-learning hyperparameters in
-GPUs (graphics processing units)
-gradient ascent
-gradient descent (GD)
-overview
-with momentum
-gradients function
-gram matrix
-graph transformer network
-converting color images
+<b>building classifiers</b>
+<b>building inception modules</b>
+<b>building max-pooling layers</b>
+<b>building network</b>
+<b>learning hyperparameters in</b>
+<b>GPUs (graphics processing units)</b>
+<b>gradient ascent</b>
+<b>gradient descent (GD)</b>
+<b>overview</b>
+<b>with momentum</b>
+<b>gradients function</b>
+<b>gram matrix</b>
+<b>graph transformer network</b>
+<b>converting color images</b>
 <b>images</b>
 <b>ground truth bounding box</b>
 <b>GSTE (group-sensitive triplet embedding)</b>
