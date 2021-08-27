@@ -626,8 +626,8 @@
 <b>generators</b>
 <b>importing libraries</b>
 <b>training</b>
-discriminators
-epochs
+<b>discriminators</b>
+<b>epochs
 generators
 training functions
 visualizing datasets
