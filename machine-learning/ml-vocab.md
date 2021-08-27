@@ -5,26 +5,26 @@
 
 ---
 
-<b>Accuracy and Loss<b>
-<b>Activation Function<b>
-<b>AI Chips for Training and Inference<b>
-<b>Artifacts<b>
-<b>Artificial General Intelligence (AGI)<b>
-<b>AUC (Area under the ROC Cuve)<b>
-<b>Automated Machine Learning (AutoML)<b>
-<b>CI/CD for Machine Learning<b>
-<b>Comparison of ML Frameworks<b>
-<b>Confusion Matrix<b>
-<b>Containers<b>
-<b>Convergence<b>
-<b>Convolutional Neural Network (CNN)<b>
-<b>Datasets and Machine Learning<b>
-<b>Data Science vs Machine Learning vs Deep Learning<b>
-<b>Distributed Training (TensorFlow, MPI, & Horovod)<b>
-<b>Generative Adversarial Network (GAN)<b>
-<b>Epochs, Batch Size, & Iterations<b>
-<b>ETL<b>
-<b>Features, Feature Engineering, & Feature Stores<b>
+<b>Accuracy and Loss</b>
+<b>Activation Function</b>
+<b>AI Chips for Training and Inference</b>
+<b>Artifacts</b>
+<b>Artificial General Intelligence (AGI)</b>
+<b>AUC (Area under the ROC Cuve)</b>
+<b>Automated Machine Learning (AutoML)</b>
+<b>CI/CD for Machine Learning</b>
+<b>Comparison of ML Frameworks</b>
+<b>Confusion Matrix</b>
+<b>Containers</b>
+<b>Convergence</b>
+<b>Convolutional Neural Network (CNN)</b>
+<b>Datasets and Machine Learning</b>
+<b>Data Science vs Machine Learning vs Deep Learning</b>
+<b>Distributed Training (TensorFlow, MPI, & Horovod)</b>
+<b>Generative Adversarial Network (GAN)</b>
+<b>Epochs, Batch Size, & Iterations</b>
+<b>ETL</b>
+<b>Features, Feature Engineering, & Feature Stores</b>
 **Gradient Boosting**
 **Gradient Descent**
 **Hyperparameter Optimization**
