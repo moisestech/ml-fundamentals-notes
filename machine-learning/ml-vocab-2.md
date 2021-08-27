@@ -667,14 +667,14 @@ GSTE (group-sensitive triplet embedding)
 
 hard data mining
 hard negative sample
-hard positive sample
-heaviside step function
-height value
-hidden layers
-hidden units
-high-recall model
-human in the loop
-human vision systems
+<b></b>hard positive sample
+<b></b>heaviside step function
+<b></b>height value
+<b></b>hidden layers
+<b></b>hidden units
+<b></b>high-recall model
+<b></b>human in the loop
+<b></b>human vision systems
 <b></b>hyperbolic tangent function
 <b></b>in AlexNet
 <b></b>in GoogLeNet
