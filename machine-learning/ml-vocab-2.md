@@ -626,14 +626,14 @@
 <b>generators</b>
 <b>importing libraries</b>
 <b>training</b>
-**discriminators**
-**epochs**
-**generators**
-**training functions**
-**visualizing datasets**
-**generative models**
-**generator models**
-**generator_model function**
+discriminators
+epochs
+generators
+training functions
+visualizing datasets
+generative models
+generator models
+generator_model function
 generators
 <b>in GANs</b>
 <b>training</b>
