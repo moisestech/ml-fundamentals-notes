@@ -537,25 +537,25 @@
 
 ## F
 
-**f argument**
-**face identification**
-**face recognition (FR)**
-**face verification**
-**false negatives (FN)**
-**false positives (FP)**
-**False setting**
-**Fashion-MNIST**
-**fashion_mnist.load_data() method**
-**Fast R-CNNs (region-based convolutional neural networks)**
-**architecture of**
-**disadvantages of**
-**multi-task loss function in**
-**architecture of**
-**base network to extract features**
-**fully connected layers**
-**multi-task loss function**
-**object detection with**
-**RPNs**
+<b>f argument<b>
+<b>face identification<b>
+<b>face recognition (FR)<b>
+<b>face verification<b>
+<b>false negatives (FN)<b>
+<b>false positives (FP)<b>
+<b>False setting<b>
+<b>Fashion-MNIST<b>
+<b>fashion_mnist.load_data() method<b>
+<b>Fast R-CNNs (region-based convolutional neural networks)<b>
+<b>architecture of<b>
+<b>disadvantages of<b>
+<b>multi-task loss function in<b>
+<b>architecture of<b>
+<b>base network to extract features<b>
+<b>fully connected layers<b>
+<b>multi-task loss function<b>
+<b>object detection with<b>
+<b>RPNs<b>
 **anchor boxes**
 **predicting bounding box with regressor**
 **training**
