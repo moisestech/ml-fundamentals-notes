@@ -665,26 +665,26 @@ converting color images
 
 ## H
 
-<b></b>hard data mining
-<b></b>hard negative sample
-<b></b>hard positive sample
-<b></b>heaviside step function
-<b></b>height value
-<b></b>hidden layers
-<b></b>hidden units
-<b></b>high-recall model
-<b></b>human in the loop
-<b></b>human vision systems
-<b></b>hyperbolic tangent function
-<b></b>in AlexNet
-<b></b>in GoogLeNet
-<b></b>in Inception
-<b></b>in LeNet-5
-<b></b>in ResNet
-<b></b>in VGGNet
-<b></b>neural network hyperparameters
-<b></b>parameters vs.
-<b></b>tuning
+<b>hard data mining</b>
+<b>hard negative sample</b>
+<b>hard positive sample</b>
+<b>heaviside step function</b>
+<b>height value</b>
+<b>hidden layers</b>
+<b>hidden units</b>
+<b>high-recall model</b>
+<b>human in the loop</b>
+<b>human vision systems</b>
+<b>hyperbolic tangent function</b>
+<b>in AlexNet</b>
+<b>in GoogLeNet</b>
+<b>in Inception</b>
+<b>in LeNet-5</b>
+<b>in ResNet</b>
+<b>in VGGNet</b>
+<b>neural network hyperparameters</b>
+<b>parameters vs.</b>
+<b>tuning</b>
 <b>collecting data vs.</b>
 <b>neural network hyperparameters</b>
 
