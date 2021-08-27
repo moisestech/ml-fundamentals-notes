@@ -537,47 +537,47 @@
 
 ## F
 
-<b>f argument<b>
-<b>face identification<b>
-<b>face recognition (FR)<b>
-<b>face verification<b>
-<b>false negatives (FN)<b>
-<b>false positives (FP)<b>
-<b>False setting<b>
-<b>Fashion-MNIST<b>
-<b>fashion_mnist.load_data() method<b>
-<b>Fast R-CNNs (region-based convolutional neural networks)<b>
-<b>architecture of<b>
-<b>disadvantages of<b>
-<b>multi-task loss function in<b>
-<b>architecture of<b>
-<b>base network to extract features<b>
-<b>fully connected layers<b>
-<b>multi-task loss function<b>
-<b>object detection with<b>
-<b>RPNs<b>
-**anchor boxes**
-**predicting bounding box with regressor**
-**training**
-**FC layer**
-**FCNs (fully convolutional networks)**
-**feature extraction**
-**automatically**
-**handcrafted features**
-**feature extractors**
-**feature maps**
-**feature vector**
-**feature visualizer**
-**feature_layers**
-**advantages of**
-**handcrafted**
-**learning**
-**overview**
-**transferring**
-**visualizing**
-**feedforward process**
-**learning features**
-**FID (Fréchet inception distance)**
+<b>f argument</b>
+<b>face identification</b>
+<b>face recognition (FR)</b>
+<b>face verification</b>
+<b>false negatives (FN)</b>
+<b>false positives (FP)</b>
+<b>False setting</b>
+<b>Fashion-MNIST</b>
+<b>fashion_mnist.load_data() method</b>
+<b>Fast R-CNNs (region-based convolutional neural networks)</b>
+<b>architecture of</b>
+<b>disadvantages of</b>
+<b>multi-task loss function in</b>
+<b>architecture of</b>
+<b>base network to extract features</b>
+<b>fully connected layers</b>
+<b>multi-task loss function</b>
+<b>object detection with</b>
+<b>RPNs</b>
+<b>anchor boxes<b>
+<b>predicting bounding box with regressor<b>
+<b>training<b>
+<b>FC layer<b>
+<b>FCNs (fully convolutional networks)<b>
+<b>feature extraction<b>
+<b>automatically<b>
+<b>handcrafted features<b>
+<b>feature extractors<b>
+<b>feature maps<b>
+<b>feature vector<b>
+<b>feature visualizer<b>
+<b>feature_layers<b>
+<b>advantages of<b>
+<b>handcrafted<b>
+<b>learning<b>
+<b>overview<b>
+<b>transferring<b>
+<b>visualizing<b>
+<b>feedforward process<b>
+<b>learning features<b>
+<b>FID (Fréchet inception distance)<b>
 **filter hyperparameter**
 **filter_index**
 **filters**
