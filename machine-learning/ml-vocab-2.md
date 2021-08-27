@@ -629,7 +629,7 @@
 <b>discriminators</b>
 <b>epochs</b>
 <b>generators</b>
-training functions
+<b>training functions</b>
 visualizing datasets
 generative models
 generator models
