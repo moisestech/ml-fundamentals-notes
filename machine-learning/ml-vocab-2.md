@@ -1105,28 +1105,28 @@ batch gradient descent
 derivative
 direction
 gradient
-learning rate
-pitfalls of
-step size
-early stopping
-gradient descent
-overview
-with momentum
-MB-GD
-number of epochs
-stochastic gradient descent
-optimization value
-optimized weights
-optimizer
-output layer
-Output Shape columns
-adding dropout layers to avoid
-diagnosing
-overview
-regularization techniques to avoid
-augmenting data
-dropout layers
-L2 regularization
+<b>learning rate</b>
+<b>pitfalls of</b>
+<b>step size</b>
+<b>early stopping</b>
+<b>gradient descent</b>
+<b>overview</b>
+<b>with momentum</b>
+<b>MB-GD</b>
+<b>number of epochs</b>
+<b>stochastic gradient descent</b>
+<b>optimization value</b>
+<b>optimized weights</b>
+<b>optimizer</b>
+<b>output layer</b>
+<b>Output Shape columns</b>
+<b>adding dropout layers to avoid</b>
+<b>diagnosing</b>
+<b>overview</b>
+<b>regularization techniques to avoid</b>
+<b>augmenting data</b>
+<b>dropout layers</b>
+<b>L2 regularization</b>
 
 ---
 
