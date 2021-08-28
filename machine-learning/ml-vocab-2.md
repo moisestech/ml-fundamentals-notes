@@ -1080,31 +1080,31 @@ overview
 object re-identification
 object-detector evaluation metrics
 FPS to measure detection speed
-IoU
-mAP to measure network precision
-PR CURVE
-objectness score
-octaves
-offline training
-one-hot encoding
-online learning
-Open Images Challenge
-open source datasets
-CIFAR
-Fashion-MNIST
-Google Open Images
-ImageNet
-Kaggle
-MNIST
-MS COCO
-optimal weights
-optimization
-optimization algorithms
-Adam (adaptive moment estimation)
-batch gradient descent
-derivative
-direction
-gradient
+<b>IoU</b>
+<b>mAP to measure network precision</b>
+<b>PR CURVE</b>
+<b>objectness score</b>
+<b>octaves</b>
+<b>offline training</b>
+<b>one-hot encoding</b>
+<b>online learning</b>
+<b>Open Images Challenge</b>
+<b>open source datasets</b>
+<b>CIFAR</b>
+<b>Fashion-MNIST</b>
+<b>Google Open Images</b>
+<b>ImageNet</b>
+<b>Kaggle</b>
+<b>MNIST</b>
+<b>MS COCO</b>
+<b>optimal weights</b>
+<b>optimization</b>
+<b>optimization algorithms</b>
+<b>Adam (adaptive moment estimation)</b>
+<b>batch gradient descent</b>
+<b>derivative</b>
+<b>direction</b>
+<b>gradient</b>
 <b>learning rate</b>
 <b>pitfalls of</b>
 <b>step size</b>
