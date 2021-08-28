@@ -1201,16 +1201,16 @@ Quick, Draw! dataset, Google
 
 ## R
 
-disadvantages of
-limitations of
-multi-stage detectors vs. single-stage detectors
-object detection with
-training
-receptive field
-reduce argument
-reduce layer
-reduce shortcut
-region proposals
+<b>disadvantages of</b>
+<b>limitations of</b>
+<b>multi-stage detectors vs. single-stage detectors</b>
+<b>object detection with</b>
+<b>training</b>
+<b>receptive field</b>
+<b>reduce argument</b>
+<b>reduce layer</b>
+<b>reduce shortcut</b>
+<b>region proposals</b>
 regions of interest (RoIs)
 regression layer
 regressors
