@@ -1347,24 +1347,24 @@ synset (synonym set)
 <b>generators</b>
 <b>models</b>
 <b>networks</b>
-preparing data for
-augmenting data
-normalizing data
-one-hot encode labels
-preprocessing data
-splitting data
-R-CNNs
-RPNs
-splitting datasets for
-SSD networks
-building models
-configuring models
-creating models
-loading data
-making predictions
-training models
-visualizing loss
-train_loss value
+<b>preparing data for</b>
+<b>augmenting data</b>
+<b>normalizing data</b>
+<b>one-hot encode labels</b>
+<b>preprocessing data</b>
+<b>splitting data</b>
+<b>R-CNNs</b>
+<b>RPNs</b>
+<b>splitting datasets for</b>
+<b>SSD networks</b>
+<b>building models</b>
+<b>configuring models</b>
+<b>creating models</b>
+<b>loading data</b>
+<b>making predictions</b>
+<b>training models</b>
+<b>visualizing loss</b>
+<b>train_loss value</b>
 train_on_batch method
 train_path variable
 transfer functions
