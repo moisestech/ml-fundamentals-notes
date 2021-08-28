@@ -44,71 +44,71 @@
 <b>MNIST</b>
 <b>Overfitting vs Underfitting</b>
 <b>Random Forest</b>
-**Recurrent Neural Network (RNN)**
-**Reproducibility in Machine Learning**
-**REST and gRPC**
-**Serverless ML: FaaS and Lambda**
-**Synthetic Data**
-**Structures vs Unstructured Data**
-**Supervised, Unsupervised, & Reinforcement Learning**
-**TensorBoard**
-**Tensor Processing Unit (TPU)**
-**Transfer Learning**
-**Weights and Biases**
+<b>Recurrent Neural Network (RNN)</b>
+<b>Reproducibility in Machine Learning</b>
+<b>REST and gRPC</b>
+<b>Serverless ML: FaaS and Lambda</b>
+<b>Synthetic Data</b>
+<b>Structures vs Unstructured Data</b>
+<b>Supervised, Unsupervised, & Reinforcement Learning</b>
+<b>TensorBoard</b>
+<b>Tensor Processing Unit (TPU)</b>
+<b>Transfer Learning</b>
+<b>Weights and Biases</b>
 
-**Neural Network**
-**Nodes**
-**Art**
-**A.I.**
-**Data**
-**Model**
-**Elite**
-**Generative**
-**Iteration**
-**Generation (as a noun, as in nth generation of network)**
-**Generation (as a verb, as in creating things)**
-**Python**
-**Search**
-**Indexing**
-**Objective**
-**“Strictly Better”**
-**Dominant Strategy**
-**Underflow**
-**Exploit**
-**Blind spots**
-**Realism**
-**Rubberbanding**
-**Computer vision**
-**Object recognition**
-**Weak v.s. Strong AI**
-**Image analysis**
-**Generative Adversarial Network (GAN)**
-**Machine Learning**
-**Style Transfer**
-**Hidden Layers**
-**Convolutional Neural Network (CNN)**
-**TensorFlow**
-**Epochs**
-**Inference**
-**Latent Space**
-**Dataset**
-**Training**
-**Natural Language Processing (NLP)**
-**YOLOv4**
-**GPT-2**
-**GPT-3**
-**GPT-J**
-**Data Crunching**
-**Data Mining**
-**Predicting**
-**Advertising**
-**Image manipulation**
-**Classifier**
-**ChatBots (i.e. Amazon Alexa, Siri)**
-**Bias**
-**LISP**
-**Java**
-**Face Recognition**
+<b>Neural Network</b>
+<b>Nodes<b>
+<b>Art<b>
+<b>A.I.<b>
+<b>Data<b>
+<b>Model<b>
+<b>Elite<b>
+<b>Generative<b>
+<b>Iteration<b>
+<b>Generation (as a noun, as in nth generation of network)<b>
+<b>Generation (as a verb, as in creating things)<b>
+<b>Python<b>
+<b>Search<b>
+<b>Indexing<b>
+<b>Objective<b>
+<b>“Strictly Better”<b>
+<b>Dominant Strategy<b>
+<b>Underflow<b>
+<b>Exploit<b>
+<b>Blind spots<b>
+<b>Realism<b>
+<b>Rubberbanding<b>
+<b>Computer vision<b>
+<b>Object recognition<b>
+<b>Weak v.s. Strong AI<b>
+<b>Image analysis<b>
+<b>Generative Adversarial Network (GAN)<b>
+<b>Machine Learning<b>
+<b>Style Transfer<b>
+<b>Hidden Layers<b>
+<b>Convolutional Neural Network (CNN)<b>
+<b>TensorFlow<b>
+<b>Epochs<b>
+<b>Inference<b>
+<b>Latent Space<b>
+<b>Dataset<b>
+<b>Training<b>
+<b>Natural Language Processing (NLP)<b>
+<b>YOLOv4<b>
+<b>GPT-2<b>
+<b>GPT-3<b>
+<b>GPT-J<b>
+<b>Data Crunching<b>
+<b>Data Mining<b>
+<b>Predicting<b>
+<b>Advertising<b>
+<b>Image manipulation<b>
+<b>Classifier<b>
+<b>ChatBots (i.e. Amazon Alexa, Siri)<b>
+<b>Bias<b>
+<b>LISP<b>
+<b>Java<b>
+<b>Face Recognition<b>
 **Narrow AI**
 **Deep vision**
 **Deep fakes**
