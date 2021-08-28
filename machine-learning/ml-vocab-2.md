@@ -1211,21 +1211,21 @@ Quick, Draw! dataset, Google
 <b>reduce layer</b>
 <b>reduce shortcut</b>
 <b>region proposals</b>
-regions of interest (RoIs)
-regression layer
-regressors
-regular shortcut
-regularization techniques to avoid overfitting
-augmenting data
-dropout layers
-L2 regularization
-ReLU (rectified linear unit)
-activation functions
-leaky
-rescaling images
-residual blocks
-residual module architecture
-residual notation
+<b>regions of interest (RoIs)</b>
+<b>regression layer</b>
+<b>regressors</b>
+<b>regular shortcut</b>
+<b>regularization techniques to avoid overfitting</b>
+<b>augmenting data</b>
+<b>dropout layers</b>
+<b>L2 regularization</b>
+<b>ReLU (rectified linear unit)</b>
+<b>activation functions</b>
+<b>leaky</b>
+<b>rescaling images</b>
+<b>residual blocks</b>
+<b>residual module architecture</b>
+<b>residual notation</b>
 resizing images
 ResNet (Residual Neural Network)
 features of
