@@ -25,25 +25,25 @@
 <b>Epochs, Batch Size, & Iterations</b>
 <b>ETL</b>
 <b>Features, Feature Engineering, & Feature Stores</b>
-**Gradient Boosting**
-**Gradient Descent**
-**Hyperparameter Optimization**
-**Interpretability**
-**Jupyter Notebooks**
-**Kubernetes**
-**Linear Regression**
-**Logistic Regression**
-**Long Short-Term Memory (LSTM)**
-**Machine Learning Operations (MLOps)**
-**Managing Machine Learning Models**
-**ML Showcase**
-**Metrics in Machine Learning**
-**Machine Learning Models Explained**
-**Model Drift & Decay**
-**Model Training**
-**MNIST**
-**Overfitting vs Underfitting**
-**Random Forest**
+<b>Gradient Boosting<b>
+<b>Gradient Descent<b>
+<b>Hyperparameter Optimization<b>
+<b>Interpretability<b>
+<b>Jupyter Notebooks<b>
+<b>Kubernetes<b>
+<b>Linear Regression<b>
+<b>Logistic Regression<b>
+<b>Long Short-Term Memory (LSTM)<b>
+<b>Machine Learning Operations (MLOps)<b>
+<b>Managing Machine Learning Models<b>
+<b>ML Showcase<b>
+<b>Metrics in Machine Learning<b>
+<b>Machine Learning Models Explained<b>
+<b>Model Drift & Decay<b>
+<b>Model Training<b>
+<b>MNIST<b>
+<b>Overfitting vs Underfitting<b>
+<b>Random Forest<b>
 **Recurrent Neural Network (RNN)**
 **Reproducibility in Machine Learning**
 **REST and gRPC**
