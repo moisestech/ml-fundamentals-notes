@@ -109,22 +109,22 @@
 <b>LISP</b>
 <b>Java</b>
 <b>Face Recognition</b>
-<b>Narrow AI<b>
-<b>Deep vision<b>
-<b>Deep fakes<b>
-<b>RunwayML<b>
-<b>Deep learning<b>
-<b>Deep Dream<b>
-<b>Magenta<b>
-<b>Abstraction<b>
-<b>Linear regression<b>
-<b>Logistic regression<b>
-<b>linear algebra<b>
-<b>Logistic regression<b>
-<b>Layers<b>
-<b>Drop out<b>
-<b>Biological neural networks vs neural networks<b>
-<b>Reinforcement learning<b>
+<b>Narrow AI</b>
+<b>Deep vision</b>
+<b>Deep fakes</b>
+<b>RunwayML</b>
+<b>Deep learning</b>
+<b>Deep Dream</b>
+<b>Magenta</b>
+<b>Abstraction</b>
+<b>Linear regression</b>
+<b>Logistic regression</b>
+<b>linear algebra</b>
+<b>Logistic regression</b>
+<b>Layers</b>
+<b>Drop out</b>
+<b>Biological neural networks vs neural networks</b>
+<b>Reinforcement learning</b>
 
 ---
 
