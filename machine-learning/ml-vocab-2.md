@@ -1132,11 +1132,11 @@ L2 regularization
 
 ## P
 
-padding
-PAMTRI (pose aware multi-task learning)
-calculating
-hyperparameters vs.
-non-trainable params
+<b>padding</b>
+<b>PAMTRI (pose aware multi-task learning)</b>
+<b>calculating</b>
+<b>hyperparameters vs.</b>
+<b>non-trainable params</b>
 <b>number of</b>
 <b>overview</b>
 <b>trainable params</b>
