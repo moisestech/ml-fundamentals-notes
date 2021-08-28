@@ -1324,29 +1324,29 @@ synset (synonym set)
 <b>top-1 error rate</b>
 <b>top-5 error rate</b>
 <b>top-k accuracy</b>
-total variance loss
-total variation loss
-total_loss function
-total_variation_loss function
-total_variation_weight parameter
-TP (true positives)
-train() function
-trainable params
-train_acc value
-AlexNet
-by trial and error
-discriminators
-embedding networks
-finding similar items
-implementation
-object re-identification
-testing trained models
-epochs
-functions
-GANs
-generators
-models
-networks
+<b>total variance loss</b>
+<b>total variation loss</b>
+<b>total_loss function</b>
+<b>total_variation_loss function</b>
+<b>total_variation_weight parameter</b>
+<b>TP (true positives)</b>
+<b>train() function</b>
+<b>trainable params</b>
+<b>train_acc value</b>
+<b>AlexNet</b>
+<b>by trial and error</b>
+<b>discriminators</b>
+<b>embedding networks</b>
+<b>finding similar items</b>
+<b>implementation</b>
+<b>object re-identification</b>
+<b>testing trained models</b>
+<b>epochs</b>
+<b>functions</b>
+<b>GANs</b>
+<b>generators</b>
+<b>models</b>
+<b>networks</b>
 preparing data for
 augmenting data
 normalizing data
