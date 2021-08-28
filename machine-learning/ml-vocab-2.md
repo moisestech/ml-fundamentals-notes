@@ -1249,37 +1249,37 @@ runtime analysis of losses
 
 ## S
 
-s argument
-save_interval
-scalar
-scalar multiplication
-scales, predictions across
-scipy.optimize.fmin_l_bfgs_b method
-sensing devices
-shortcut path
-Siamese loss
-sigmoid function
-single class
-single-stage detectors
-skip connections
-Softmax layer
-source domain
-spatial features
-specificity
-data
-for training
-for validation
-SRGAN (super-resolution generative adversarial networks)
-architecture of
-base network
-multi-scale feature layers
-architecture of multi-scale layers
-multi-scale detections
-non-maximum suppression
-object detection with
-training networks
-building models
-configuring models
+<b>s argument</g>
+<b>save_interval</g>
+<b>scalar</g>
+<b>scalar multiplication</g>
+<b>scales, predictions across</g>
+<b>scipy.optimize.fmin_l_bfgs_b method</g>
+<b>sensing devices</g>
+<b>shortcut path</g>
+<b>Siamese loss</g>
+<b>sigmoid function</g>
+<b>single class</g>
+<b>single-stage detectors</g>
+<b>skip connections</g>
+<b>Softmax layer</g>
+<b>source domain</g>
+<b>spatial features</g>
+<b>specificity</g>
+<b>data</g>
+<b>for training</g>
+<b>for validation</g>
+<b>SRGAN (super-resolution generative adversarial networks)</g>
+<b>architecture of</g>
+<b>base network</g>
+<b>multi-scale feature layers</g>
+<b>architecture of multi-scale layers</g>
+<b>multi-scale detections</g>
+<b>non-maximum suppression</g>
+<b>object detection with</g>
+<b>training networks</g>
+<b>building models</g>
+<b>configuring models</g>
 creating models
 loading data
 making predictions
