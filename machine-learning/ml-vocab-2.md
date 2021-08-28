@@ -1365,23 +1365,23 @@ synset (synonym set)
 <b>training models</b>
 <b>visualizing loss</b>
 <b>train_loss value</b>
-train_on_batch method
-train_path variable
-transfer functions
-in GANs
-linear
-transfer learning
-approaches to
-using pretrained network as classifier
-using pretrained network as feature extractor
-choosing level of
-when target dataset is large and different from source dataset
-when target dataset is large and similar to source dataset
-when target dataset is small and different from source
-when target dataset is small and similar to source dataset
-fine-tuning
-open source datasets
-CIFAR
+<b>train_on_batch method</b>
+<b>train_path variable</b>
+<b>transfer functions</b>
+<b>in GANs</b>
+<b>linear</b>
+<b>transfer learning</b>
+<b>approaches to</b>
+<b>using pretrained network as classifier</b>
+<b>using pretrained network as feature extractor</b>
+<b>choosing level of</b>
+<b>when target dataset is large and different from source dataset</b>
+<b>when target dataset is large and similar to source dataset</b>
+<b>when target dataset is small and different from source</b>
+<b>when target dataset is small and similar to source dataset</b>
+<b>fine-tuning</b>
+<b>open source datasets</b>
+<b>CIFAR</b>
 Fashion-MNIST
 Google Open Images
 ImageNet
