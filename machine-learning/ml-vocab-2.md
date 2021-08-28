@@ -1226,24 +1226,24 @@ Quick, Draw! dataset, Google
 <b>residual blocks</b>
 <b>residual module architecture</b>
 <b>residual notation</b>
-resizing images
-ResNet (Residual Neural Network)
-features of
-in Keras
-learning hyperparameters in
-performance on CIFAR dataset
-residual blocks
-results, observing
-retrievals
-RGB (Red Green Blue)
-RoI extractor
-RoI pooling layer
-RoIs (regions of interest)
-RPNs (region proposal networks)
-anchor boxes
-predicting bounding box with regressors
-training
-runtime analysis of losses
+<b>resizing images</b>
+<b>ResNet (Residual Neural Network)</b>
+<b>features of</b>
+<b>in Keras</b>
+<b>learning hyperparameters in</b>
+<b>performance on CIFAR dataset</b>
+<b>residual blocks</b>
+<b>results, observing</b>
+<b>retrievals</b>
+<b>RGB (Red Green Blue)</b>
+<b>RoI extractor</b>
+<b>RoI pooling layer</b>
+<b>RoIs (regions of interest)</b>
+<b>RPNs (region proposal networks)</b>
+<b>anchor boxes</b>
+<b>predicting bounding box with regressors</b>
+<b>training</b>
+<b>runtime analysis of losses</b>
 
 ---
 
