@@ -1294,16 +1294,16 @@ runtime analysis of losses
 <b>step size</b>
 <b>stochastic gradient descent (SGD)</b>
 <b>strides</b>
-style loss
-gram matrix for measuring jointly activated feature maps
-multiple layers for representing style features
-style_loss function
-style_weight parameter
-subsampling
-supervised learning
-suppression.
-synapses
-synset (synonym set)
+<b>style loss</b>
+<b>gram matrix for measuring jointly activated feature maps</b>
+<b>multiple layers for representing style features</b>
+<b>style_loss function</b>
+<b>style_weight parameter</b>
+<b>subsampling</b>
+<b>supervised learning</b>
+<b>suppression.</b>
+<b>synapses</b>
+<b>synset (synonym set)</b>
 
 ---
 
