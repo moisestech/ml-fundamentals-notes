@@ -1179,16 +1179,16 @@ POOL_2 layer
 <b>grayscaling images</b>
 <b>normalizing data</b>
 <b>resizing images</b>
-images
-converting color images to grayscale images
-one-hot encoding
-preparing labels
-splitting datasets for training
-splitting datasets for validation
-pretrained model
-as classifiers
-as feature extractors
-priors
+<b>images</b>
+<b>converting color images to grayscale images</b>
+<b>one-hot encoding</b>
+<b>preparing labels</b>
+<b>splitting datasets for training</b>
+<b>splitting datasets for validation</b>
+<b>pretrained model</b>
+<b>as classifiers</b>
+<b>as feature extractors</b>
+<b>priors</b>
 
 ---
 
