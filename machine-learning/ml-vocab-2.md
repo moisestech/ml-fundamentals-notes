@@ -1046,19 +1046,19 @@ nstaller/application.yaml file
 
 ## O
 
-oad_weights() method
-object detection
-framework
-network predictions
-NMS
-object-detector evaluation metrics
-region proposals
-with Fast R-CNNs
-architecture of
-disadvantages of
-multi-task loss function in
-with Faster R-CNNs
-architecture of
+<b>oad_weights() method</b>
+<b>object detection</b>
+<b>framework</b>
+<b>network predictions</b>
+<b>NMS</b>
+<b>object-detector evaluation metrics</b>
+<b>region proposals</b>
+<b>with Fast R-CNNs</b>
+<b>architecture of</b>
+<b>disadvantages of</b>
+<b>multi-task loss function in</b>
+<b>with Faster R-CNNs</b>
+<b>architecture of</b>
 <b>base network to extract features</b>
 <b>fully connected layers</b>
 <b>multi-task loss function</b>
