@@ -1137,33 +1137,33 @@ PAMTRI (pose aware multi-task learning)
 calculating
 hyperparameters vs.
 non-trainable params
-number of
-overview
-trainable params
-non-trainable
-trainable
-PASCAL VOC-2012 dataset
-Path-LSTM
-patience variable
-.pem file
-perceptrons
-learning logic of
-neurons
-overview
-step activation function
-weighted sum function
-performance metrics
-accuracy
-confusion matrix
-F-score
-person re-identification
-pip install
-Pix2Pix GAN (generative adversarial network)
-plot_generated_images() function
-plotting learning curves
-POOL layer
-POOL_1 layer
-POOL_2 layer
+<b>number of</b>
+<b>overview</b>
+<b>trainable params</b>
+<b>non-trainable</b>
+<b>trainable</b>
+<b>PASCAL VOC-2012 dataset</b>
+<b>Path-LSTM</b>
+<b>patience variable</b>
+<b>.pem file</b>
+<b>perceptrons</b>
+<b>learning logic of</b>
+<b>neurons</b>
+<b>overview</b>
+<b>step activation function</b>
+<b>weighted sum function</b>
+<b>performance metrics</b>
+<b>accuracy</b>
+<b>confusion matrix</b>
+<b>F-score</b>
+<b>person re-identification</b>
+<b>pip install</b>
+<b>Pix2Pix GAN (generative adversarial network)</b>
+<b>plot_generated_images() function</b>
+<b>plotting learning curves</b>
+<b>POOL layer</b>
+<b>POOL_1 layer</b>
+<b>POOL_2 layer</b>
 <b>pooling layers</b>
 <b>convolutional layers</b>
 <b>max pooling vs. average pooling</b>
