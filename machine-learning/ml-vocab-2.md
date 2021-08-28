@@ -1280,20 +1280,20 @@ runtime analysis of losses
 <b>training networks</g>
 <b>building models</g>
 <b>configuring models</g>
-creating models
-loading data
-making predictions
-training models
-visualizing loss
-SSDLoss function
-ssh command
-StackGAN (stacked generative adversarial network)
-step activation function
-step function
-step functions.
-step size
-stochastic gradient descent (SGD)
-strides
+<b>creating models</b>
+<b>loading data</b>
+<b>making predictions</b>
+<b>training models</b>
+<b>visualizing loss</b>
+<b>SSDLoss function</b>
+<b>ssh command</b>
+<b>StackGAN (stacked generative adversarial network)</b>
+<b>step activation function</b>
+<b>step function</b>
+<b>step functions.</b>
+<b>step size</b>
+<b>stochastic gradient descent (SGD)</b>
+<b>strides</b>
 style loss
 gram matrix for measuring jointly activated feature maps
 multiple layers for representing style features
