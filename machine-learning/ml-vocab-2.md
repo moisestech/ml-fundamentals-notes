@@ -1309,21 +1309,21 @@ synset (synonym set)
 
 ## T
 
-tanh (hyperbolic tangent function)
-tanh activation function
-Tensorflow playground
-tensors
-testing trained model
-object re-identification
-retrievals
-test_path variable
-test_targets
-test_tensors
-TN (true negatives)
-to_categorical function
-top-1 error rate
-top-5 error rate
-top-k accuracy
+<b>tanh (hyperbolic tangent function)</b>
+<b>tanh activation function</b>
+<b>Tensorflow playground</b>
+<b>tensors</b>
+<b>testing trained model</b>
+<b>object re-identification</b>
+<b>retrievals</b>
+<b>test_path variable</b>
+<b>test_targets</b>
+<b>test_tensors</b>
+<b>TN (true negatives)</b>
+<b>to_categorical function</b>
+<b>top-1 error rate</b>
+<b>top-5 error rate</b>
+<b>top-k accuracy</b>
 total variance loss
 total variation loss
 total_loss function
@@ -1405,62 +1405,62 @@ parameters vs. hyperparameters
 
 ## U
 
-underfitting
-untrained layers
-Upsampling layer
-Upsampling2D layer
+<b>underfitting</b>
+<b>untrained layers</b>
+<b>Upsampling layer</b>
+<b>Upsampling2D layer</b>
 
 ---
 
 ## V
 
-val_acc
-val_acc value
-val_error value
-overview
-splitting
-valid_path variable
-val_loss value
-VAMI (viewpoint attentive multi-view inference)
-vanishing gradients
-vector space
-VeRi dataset
-VGG16 configuration
-VGG19 configuration
-VGGNet (Visual Geometry Group at Oxford University)
-configurations
-features of
-learning hyperparameters in
-performance
-vision systems
-AI
-human
-visual embedding layer
-visual embeddings
-face recognition
-image recommendation systems
-learning embedding
-loss functions
-contrastive loss
-cross-entropy loss
-naive implementation
-runtime analysis of losses
-mining informative data
-BH
-BS
-BW
-dataloader
-finding useful triplets
-training embedding networks
-finding similar items
-implementation
-object re-identification
-testing trained models
-visual perception
-datasets
-features
-loss
-VUIs (voice user interfaces)
+<b>val_acc</b>
+<b>val_acc value</b>
+<b>val_error value</b>
+<b>overview</b>
+<b>splitting</b>
+<b>valid_path variable</b>
+<b>val_loss value</b>
+<b>VAMI (viewpoint attentive multi-view inference)</b>
+<b>vanishing gradients</b>
+<b>vector space</b>
+<b>VeRi dataset</b>
+<b>VGG16 configuration</b>
+<b>VGG19 configuration</b>
+<b>VGGNet (Visual Geometry Group at Oxford University)</b>
+<b>configurations</b>
+<b>features of</b>
+<b>learning hyperparameters in</b>
+<b>performance</b>
+<b>vision systems</b>
+<b>AI</b>
+<b>human</b>
+<b>visual embedding layer</b>
+<b>visual embeddings</b>
+<b>face recognition</b>
+<b>image recommendation systems</b>
+<b>learning embedding</b>
+<b>loss functions</b>
+<b>contrastive loss</b>
+<b>cross-entropy loss</b>
+<b>naive implementation</b>
+<b>runtime analysis of losses</b>
+<b>mining informative data</b>
+<b>BH</b>
+<b>BS</b>
+<b>BW</b>
+<b>dataloader</b>
+<b>finding useful triplets</b>
+<b>training embedding networks</b>
+<b>finding similar items</b>
+<b>implementation</b>
+<b>object re-identification</b>
+<b>testing trained models</b>
+<b>visual perception</b>
+<b>datasets</b>
+<b>features</b>
+<b>loss</b>
+<b>VUIs (voice user interfaces)</b>
 
 ---
 
