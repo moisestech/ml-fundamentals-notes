@@ -1194,8 +1194,8 @@ priors
 
 ## Q
 
-query sets
-Quick, Draw! dataset, Google
+<b>query sets</b>
+<b>Quick, Draw! dataset, Google</b>
 
 ---
 
