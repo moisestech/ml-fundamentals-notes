@@ -1059,27 +1059,27 @@ disadvantages of
 multi-task loss function in
 with Faster R-CNNs
 architecture of
-base network to extract features
-fully connected layers
-multi-task loss function
-RPNs
-with R-CNNs
-disadvantages of
-limitations of
-multi-stage detectors vs. single-stage detectors
-training
-with SSD
-architecture of
-base networks
-multi-scale feature layers
-NMS
-training SSD networks
-with YOLOv3
-architecture of
-overview
-object re-identification
-object-detector evaluation metrics
-FPS to measure detection speed
+<b>base network to extract features</b>
+<b>fully connected layers</b>
+<b>multi-task loss function</b>
+<b>RPNs</b>
+<b>with R-CNNs</b>
+<b>disadvantages of</b>
+<b>limitations of</b>
+<b>multi-stage detectors vs. single-stage detectors</b>
+<b>training</b>
+<b>with SSD</b>
+<b>architecture of</b>
+<b>base networks</b>
+<b>multi-scale feature layers</b>
+<b>NMS</b>
+<b>training SSD networks</b>
+<b>with YOLOv3</b>
+<b>architecture of</b>
+<b>overview</b>
+<b>object re-identification</b>
+<b>object-detector evaluation metrics</b>
+<b>FPS to measure detection speed</b>
 <b>IoU</b>
 <b>mAP to measure network precision</b>
 <b>PR CURVE</b>
