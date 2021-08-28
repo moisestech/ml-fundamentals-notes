@@ -1382,24 +1382,24 @@ synset (synonym set)
 <b>fine-tuning</b>
 <b>open source datasets</b>
 <b>CIFAR</b>
-Fashion-MNIST
-Google Open Images
-ImageNet
-Kaggle
-MNIST
-MS COCO
-overview
-neural networks learning features
-transferring features
-pretrained networks as feature extractors
-when to use
-transferring features
-transposition
-triplets, finding
-tuning hyperparameters
-collecting data vs.
-neural network hyperparameters
-parameters vs. hyperparameters
+<b>Fashion-MNIST</b>
+<b>Google Open Images</b>
+<b>ImageNet</b>
+<b>Kaggle</b>
+<b>MNIST</b>
+<b>MS COCO</b>
+<b>overview</b>
+<b>neural networks learning features</b>
+<b>transferring features</b>
+<b>pretrained networks as feature extractors</b>
+<b>when to use</b>
+<b>transferring features</b>
+<b>transposition</b>
+<b>triplets, finding</b>
+<b>tuning hyperparameters</b>
+<b>collecting data vs.</b>
+<b>neural network hyperparameters</b>
+<b>parameters vs. hyperparameters</b>
 
 ---
 
