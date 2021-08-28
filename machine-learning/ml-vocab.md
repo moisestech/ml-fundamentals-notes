@@ -57,47 +57,47 @@
 <b>Weights and Biases</b>
 
 <b>Neural Network</b>
-<b>Nodes<b>
-<b>Art<b>
-<b>A.I.<b>
-<b>Data<b>
-<b>Model<b>
-<b>Elite<b>
-<b>Generative<b>
-<b>Iteration<b>
-<b>Generation (as a noun, as in nth generation of network)<b>
-<b>Generation (as a verb, as in creating things)<b>
-<b>Python<b>
-<b>Search<b>
-<b>Indexing<b>
-<b>Objective<b>
-<b>“Strictly Better”<b>
-<b>Dominant Strategy<b>
-<b>Underflow<b>
-<b>Exploit<b>
-<b>Blind spots<b>
-<b>Realism<b>
-<b>Rubberbanding<b>
-<b>Computer vision<b>
-<b>Object recognition<b>
-<b>Weak v.s. Strong AI<b>
-<b>Image analysis<b>
-<b>Generative Adversarial Network (GAN)<b>
-<b>Machine Learning<b>
-<b>Style Transfer<b>
-<b>Hidden Layers<b>
-<b>Convolutional Neural Network (CNN)<b>
-<b>TensorFlow<b>
-<b>Epochs<b>
-<b>Inference<b>
-<b>Latent Space<b>
-<b>Dataset<b>
-<b>Training<b>
-<b>Natural Language Processing (NLP)<b>
-<b>YOLOv4<b>
-<b>GPT-2<b>
-<b>GPT-3<b>
-<b>GPT-J<b>
+<b>Nodes</b>
+<b>Art</b>
+<b>A.I.</b>
+<b>Data</b>
+<b>Model</b>
+<b>Elite</b>
+<b>Generative</b>
+<b>Iteration</b>
+<b>Generation (as a noun, as in nth generation of network)</b>
+<b>Generation (as a verb, as in creating things)</b>
+<b>Python</b>
+<b>Search</b>
+<b>Indexing</b>
+<b>Objective</b>
+<b>“Strictly Better”</b>
+<b>Dominant Strategy</b>
+<b>Underflow</b>
+<b>Exploit</b>
+<b>Blind spots</b>
+<b>Realism</b>
+<b>Rubberbanding</b>
+<b>Computer vision</b>
+<b>Object recognition</b>
+<b>Weak v.s. Strong AI</b>
+<b>Image analysis</b>
+<b>Generative Adversarial Network (GAN)</b>
+<b>Machine Learning</b>
+<b>Style Transfer</b>
+<b>Hidden Layers</b>
+<b>Convolutional Neural Network (CNN)</b>
+<b>TensorFlow</b>
+<b>Epochs</b>
+<b>Inference</b>
+<b>Latent Space</b>
+<b>Dataset</b>
+<b>Training</b>
+<b>Natural Language Processing (NLP)</b>
+<b>YOLOv4</b>
+<b>GPT-2</b>
+<b>GPT-3</b>
+<b>GPT-J</b>
 <b>Data Crunching<b>
 <b>Data Mining<b>
 <b>Predicting<b>
