@@ -1164,21 +1164,21 @@ plotting learning curves
 POOL layer
 POOL_1 layer
 POOL_2 layer
-pooling layers
-convolutional layers
-max pooling vs. average pooling
-PR CURVE (precision-recall curve)
-precision
-predictions
-across different scales
-bounding box with regressors
-for networks
-with base network
-data
-augmenting images
-grayscaling images
-normalizing data
-resizing images
+<b>pooling layers</b>
+<b>convolutional layers</b>
+<b>max pooling vs. average pooling</b>
+<b>PR CURVE (precision-recall curve)</b>
+<b>precision</b>
+<b>predictions</b>
+<b>across different scales</b>
+<b>bounding box with regressors</b>
+<b>for networks</b>
+<b>with base network</b>
+<b>data</b>
+<b>augmenting images</b>
+<b>grayscaling images</b>
+<b>normalizing data</b>
+<b>resizing images</b>
 images
 converting color images to grayscale images
 one-hot encoding
