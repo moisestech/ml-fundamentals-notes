@@ -835,7 +835,7 @@
 <b>in LeNet-5</b>
 <b>in ResNet</b>
 <b>in VGGNet</b>
-mini-batch size
+<b>mini-batch size</b>
 See also
 learning curves, plotting
 batch gradient descent
