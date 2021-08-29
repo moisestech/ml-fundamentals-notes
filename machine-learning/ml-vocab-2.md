@@ -825,7 +825,7 @@
 <b>representing style features</b>
 <b>Leaky ReLU</b>
 <b>learning</b>
-adaptive
+<b>adaptive</b>
 embedding
 features
 finding optimal learning rate
