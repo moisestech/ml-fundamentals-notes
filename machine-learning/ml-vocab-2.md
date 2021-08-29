@@ -826,7 +826,7 @@
 <b>Leaky ReLU</b>
 <b>learning</b>
 <b>adaptive</b>
-embedding
+<b>embedding</b>
 features
 finding optimal learning rate
 in AlexNet
