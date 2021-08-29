@@ -824,7 +824,7 @@
 <b>hidden<b>
 <b>representing style features</b>
 <b>Leaky ReLU</b>
-learning
+<b>learning</b>
 adaptive
 embedding
 features
