@@ -827,7 +827,7 @@
 <b>learning</b>
 <b>adaptive</b>
 <b>embedding</b>
-features
+<b>features</b>
 finding optimal learning rate
 in AlexNet
 in GoogLeNet
