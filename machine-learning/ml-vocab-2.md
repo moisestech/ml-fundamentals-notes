@@ -823,7 +823,7 @@
 <b>fully connected</b>
 <b>hidden<b>
 <b>representing style features</b>
-Leaky ReLU
+<b>Leaky ReLU</b>
 learning
 adaptive
 embedding
