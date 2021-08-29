@@ -819,7 +819,7 @@
 <b>advantages of</b>
 <b>in AlexNet</b>
 <b>in CNN architecture</b>
-overview
+<b>overview</b>
 fully connected
 hidden
 representing style features
