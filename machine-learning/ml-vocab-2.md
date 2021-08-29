@@ -828,8 +828,8 @@
 <b>adaptive</b>
 <b>embedding</b>
 <b>features</b>
-finding optimal learning rate
-in AlexNet
+<b>finding optimal learning rate</b>
+<b>in AlexNet</b>
 in GoogLeNet
 in Inception
 in LeNet-5
