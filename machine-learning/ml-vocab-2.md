@@ -817,7 +817,7 @@
 <b>dropout</b>
 <b>adding to avoid overfitting</b>
 <b>advantages of</b>
-in AlexNet
+<b>in AlexNet</b>
 in CNN architecture
 overview
 fully connected
