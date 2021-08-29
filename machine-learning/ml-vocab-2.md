@@ -822,7 +822,7 @@
 <b>overview</b>
 <b>fully connected</b>
 <b>hidden<b>
-representing style features
+<b>representing style features</b>
 Leaky ReLU
 learning
 adaptive
