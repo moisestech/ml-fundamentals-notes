@@ -813,7 +813,7 @@
 <b>lambda value</b>
 <b>layer_name</b>
 <b>layers</b>
-1 × 1 convolutional
+<b>1 × 1 convolutional</b>
 dropout
 adding to avoid overfitting
 advantages of
