@@ -821,7 +821,7 @@
 <b>in CNN architecture</b>
 <b>overview</b>
 <b>fully connected</b>
-hidden
+<b>hidden<b>
 representing style features
 Leaky ReLU
 learning
