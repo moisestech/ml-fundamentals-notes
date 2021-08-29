@@ -834,7 +834,7 @@
 <b>in Inception</b>
 <b>in LeNet-5</b>
 <b>in ResNet</b>
-in VGGNet
+<b>in VGGNet</b>
 mini-batch size
 See also
 learning curves, plotting
