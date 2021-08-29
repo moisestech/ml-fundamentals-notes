@@ -816,7 +816,7 @@
 <b>1 × 1 convolutional</b>
 <b>dropout</b>
 <b>adding to avoid overfitting</b>
-advantages of
+<b>advantages of</b>
 in AlexNet
 in CNN architecture
 overview
