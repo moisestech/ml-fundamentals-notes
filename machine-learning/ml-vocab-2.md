@@ -807,7 +807,7 @@
 <b>label smoothing</b>
 <b>labeled data</b>
 <b>labeled images</b>
-LabelImg application
+<b>LabelImg application</b>
 labels
 lambda parameter
 lambda value
