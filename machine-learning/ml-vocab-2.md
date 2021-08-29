@@ -831,7 +831,7 @@
 <b>finding optimal learning rate</b>
 <b>in AlexNet</b>
 <b>in GoogLeNet</b>
-in Inception
+<b>in Inception</b>
 in LeNet-5
 in ResNet
 in VGGNet
