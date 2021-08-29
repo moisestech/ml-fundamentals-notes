@@ -815,7 +815,7 @@
 <b>layers</b>
 <b>1 × 1 convolutional</b>
 <b>dropout</b>
-adding to avoid overfitting
+<b>adding to avoid overfitting</b>
 advantages of
 in AlexNet
 in CNN architecture
