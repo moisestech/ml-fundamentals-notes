@@ -818,7 +818,7 @@
 <b>adding to avoid overfitting</b>
 <b>advantages of</b>
 <b>in AlexNet</b>
-in CNN architecture
+<b>in CNN architecture</b>
 overview
 fully connected
 hidden
