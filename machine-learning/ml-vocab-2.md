@@ -830,7 +830,7 @@
 <b>features</b>
 <b>finding optimal learning rate</b>
 <b>in AlexNet</b>
-in GoogLeNet
+<b>in GoogLeNet</b>
 in Inception
 in LeNet-5
 in ResNet
