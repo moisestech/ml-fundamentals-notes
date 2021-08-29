@@ -810,7 +810,7 @@
 <b>LabelImg application</b>
 <b>labels</b>
 <b>lambda parameter</b>
-lambda value
+<b>lambda value</b>
 layer_name
 layers
 1 × 1 convolutional
