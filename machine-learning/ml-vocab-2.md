@@ -809,7 +809,7 @@
 <b>labeled images</b>
 <b>LabelImg application</b>
 <b>labels</b>
-lambda parameter
+<b>lambda parameter</b>
 lambda value
 layer_name
 layers
