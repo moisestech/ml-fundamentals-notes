@@ -814,7 +814,7 @@
 <b>layer_name</b>
 <b>layers</b>
 <b>1 × 1 convolutional</b>
-dropout
+<b>dropout</b>
 adding to avoid overfitting
 advantages of
 in AlexNet
