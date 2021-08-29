@@ -832,7 +832,7 @@
 <b>in AlexNet</b>
 <b>in GoogLeNet</b>
 <b>in Inception</b>
-in LeNet-5
+<b>in LeNet-5</b>
 in ResNet
 in VGGNet
 mini-batch size
