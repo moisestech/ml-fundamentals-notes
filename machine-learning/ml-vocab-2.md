@@ -820,7 +820,7 @@
 <b>in AlexNet</b>
 <b>in CNN architecture</b>
 <b>overview</b>
-fully connected
+<b>fully connected</b>
 hidden
 representing style features
 Leaky ReLU
