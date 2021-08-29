@@ -811,7 +811,7 @@
 <b>labels</b>
 <b>lambda parameter</b>
 <b>lambda value</b>
-layer_name
+<b>layer_name</b>
 layers
 1 × 1 convolutional
 dropout
