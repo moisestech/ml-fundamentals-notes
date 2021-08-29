@@ -808,7 +808,7 @@
 <b>labeled data</b>
 <b>labeled images</b>
 <b>LabelImg application</b>
-labels
+<b>labels</b>
 lambda parameter
 lambda value
 layer_name
