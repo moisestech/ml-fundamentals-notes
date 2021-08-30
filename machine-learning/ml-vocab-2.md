@@ -784,7 +784,7 @@
 <b>K object classes</b>
 <b>Kaggle datasets</b>
 <b>AlexNet in</b>
-batch normalization in
+<b>batch normalization in</b>
 DeepDream in
 GoogLeNet in
 building classifiers
