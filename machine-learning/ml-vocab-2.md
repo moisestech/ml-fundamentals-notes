@@ -803,7 +803,7 @@
 
 ## L
 
-L2 regularization
+<b>L2 regularization</b>
 label smoothing
 labeled data
 labeled images
