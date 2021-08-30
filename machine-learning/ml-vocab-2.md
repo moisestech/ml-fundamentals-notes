@@ -785,7 +785,7 @@
 <b>Kaggle datasets</b>
 <b>AlexNet in</b>
 <b>batch normalization in</b>
-DeepDream in
+<b>DeepDream in</b>
 GoogLeNet in
 building classifiers
 building inception modules
