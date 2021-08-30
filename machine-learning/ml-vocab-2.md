@@ -806,7 +806,7 @@
 <b>L2 regularization</b>
 <b>label smoothing</b>
 <b>labeled data</b>
-labeled images
+<b>labeled images</b>
 LabelImg application
 labels
 lambda parameter
