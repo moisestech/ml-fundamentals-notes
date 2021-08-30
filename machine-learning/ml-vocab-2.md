@@ -793,7 +793,7 @@
 <b>building network</b>
 <b>LeNet-5 in</b>
 <b>ResNet in</b>
-keras.datasets
+<b>keras.datasets</b>
 keras_ssd7.py file
 kernel
 kernel size
