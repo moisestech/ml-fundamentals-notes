@@ -791,7 +791,7 @@
 <b>building inception modules</b>
 <b>building max-pooling layers</b>
 <b>building network</b>
-LeNet-5 in
+<b>LeNet-5 in</b>
 ResNet in
 keras.datasets
 keras_ssd7.py file
