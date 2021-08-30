@@ -745,16 +745,16 @@
 <b>preparing labels</b>
 <b>splitting datasets for training</b>
 <b>splitting datasets for validation</b>
-rescaling
-resizing
-image-to-image translation
-Inception
-architecture of
-features of
-learning hyperparameters in
-modules
-naive version
-performance on CIFAR dataset
+<b>rescaling</b>
+<b>resizing</b>
+<b>image-to-image translation</b>
+<b>Inception</b>
+<b>architecture of</b>
+<b>features of</b>
+<b>learning hyperparameters in</b>
+<b>modules</b>
+<b>naive version</b>
+<b>performance on CIFAR dataset</b>
 with dimensionality reduction
 1 × 1 convolutional layer
 impact on network performance
