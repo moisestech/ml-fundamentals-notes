@@ -709,16 +709,16 @@
 <b>image preprocessing</b>
 <b>loading datasets</b>
 <b>loading models with val_acc</b>
-training models
-with CNNs
-building model architecture
-number of parameters
-weights
-with high accuracy
-building model architecture
-evaluating models
-importing dependencies
-preparing data for training
+<b>training models</b>
+<b>with CNNs</b>
+<b>building model architecture</b>
+<b>number of parameters</b>
+<b>weights</b>
+<b>with high accuracy</b>
+<b>building model architecture</b>
+<b>evaluating models</b>
+<b>importing dependencies</b>
+<b>preparing data for training</b>
 training models
 with MLPs
 drawbacks of
