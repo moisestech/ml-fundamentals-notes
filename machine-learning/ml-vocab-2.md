@@ -755,19 +755,19 @@
 <b>modules</b>
 <b>naive version</b>
 <b>performance on CIFAR dataset</b>
-with dimensionality reduction
-1 × 1 convolutional layer
-impact on network performance
-inception scores
-inception_module function
-include_top argument
-input image
-input layers
-input vector
-input_shape argument
-instances
-interpreting devices
-IoU (intersection over union)
+<b>with dimensionality reduction</b>
+<b>1 × 1 convolutional layer</b>
+<b>impact on network performance</b>
+<b>inception scores</b>
+<b>inception_module function</b>
+<b>include_top argument</b>
+<b>input image</b>
+<b>input layers</b>
+<b>input vector</b>
+<b>input_shape argument</b>
+<b>instances</b>
+<b>interpreting devices</b>
+<b>IoU (intersection over union)</b>
 
 ---
 
