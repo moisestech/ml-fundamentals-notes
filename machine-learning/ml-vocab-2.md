@@ -794,7 +794,7 @@
 <b>LeNet-5 in</b>
 <b>ResNet in</b>
 <b>keras.datasets</b>
-keras_ssd7.py file
+<b>keras_ssd7.py file</b>
 kernel
 kernel size
 kernel_size hyperparameter
