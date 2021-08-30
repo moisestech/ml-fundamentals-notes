@@ -804,8 +804,8 @@
 ## L
 
 <b>L2 regularization</b>
-label smoothing
-labeled data
+<b>label smoothing</b>
+<b>labeled data</b>
 labeled images
 LabelImg application
 labels
