@@ -732,19 +732,19 @@
 <b>ImageDataGenerator class</b>
 <b>ImageNet</b>
 <b>ImageNet Large Scale Visual Recognition Challenge (ILSVRC)</b>
-images
-as functions
-augmenting
-color images
-computer processing of
-creating
-grayscaling
-preprocessing
-converting color to grayscale
-one-hot encoding
-preparing labels
-splitting datasets for training
-splitting datasets for validation
+<b>images</b>
+<b>as functions</b>
+<b>augmenting</b>
+<b>color images</b>
+<b>computer processing of</b>
+<b>creating</b>
+<b>grayscaling</b>
+<b>preprocessing</b>
+<b>converting color to grayscale</b>
+<b>one-hot encoding</b>
+<b>preparing labels</b>
+<b>splitting datasets for training</b>
+<b>splitting datasets for validation</b>
 rescaling
 resizing
 image-to-image translation
