@@ -782,7 +782,7 @@
 ## K
 
 <b>K object classes</b>
-Kaggle datasets
+<b>Kaggle datasets</b>
 AlexNet in
 batch normalization in
 DeepDream in
