@@ -773,9 +773,9 @@
 
 ## J
 
-Jaccard distance
-joint training
-Jupyter notebooks
+<b>Jaccard distance</b>
+<b>joint training</b>
+<b>Jupyter notebooks</b>
 
 ---
 
