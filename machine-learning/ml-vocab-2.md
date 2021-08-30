@@ -792,7 +792,7 @@
 <b>building max-pooling layers</b>
 <b>building network</b>
 <b>LeNet-5 in</b>
-ResNet in
+<b>ResNet in</b>
 keras.datasets
 keras_ssd7.py file
 kernel
