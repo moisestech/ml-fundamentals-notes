@@ -790,7 +790,7 @@
 <b>building classifiers</b>
 <b>building inception modules</b>
 <b>building max-pooling layers</b>
-building network
+<b>building network</b>
 LeNet-5 in
 ResNet in
 keras.datasets
