@@ -781,7 +781,7 @@
 
 ## K
 
-K object classes
+<b>K object classes</b>
 Kaggle datasets
 AlexNet in
 batch normalization in
