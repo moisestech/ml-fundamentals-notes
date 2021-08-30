@@ -699,16 +699,16 @@
 
 ## I
 
-identity function
-if-else statements
-image classification
-for color images
-compiling models
-defining model architecture
-evaluating models
-image preprocessing
-loading datasets
-loading models with val_acc
+<b>identity function</b>
+<b>if-else statements</b>
+<b>image classification</b>
+<b>for color images</b>
+<b>compiling models</b>
+<b>defining model architecture</b>
+<b>evaluating models</b>
+<b>image preprocessing</b>
+<b>loading datasets</b>
+<b>loading models with val_acc</b>
 training models
 with CNNs
 building model architecture
@@ -1060,8 +1060,8 @@ nstaller/application.yaml file
 <b>with Faster R-CNNs</b>
 <b>architecture of</b>
 <b>base network to extract features</b>
-<b>fully connected layers</b>
-<b>multi-task loss function</b>
+<b>fully connected layers</b><b>
+</b><b>multi-task loss function</b>
 <b>RPNs</b>
 <b>with R-CNNs</b>
 <b>disadvantages of</b>
