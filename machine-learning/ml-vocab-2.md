@@ -789,7 +789,7 @@
 <b>GoogLeNet in</b>
 <b>building classifiers</b>
 <b>building inception modules</b>
-building max-pooling layers
+<b>building max-pooling layers</b>
 building network
 LeNet-5 in
 ResNet in
