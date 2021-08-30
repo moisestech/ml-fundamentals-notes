@@ -797,7 +797,7 @@
 <b>keras_ssd7.py file</b>
 <b>kernel</b>
 <b>kernel size</b>
-kernel_size hyperparameter
+<b>kernel_size hyperparameter</b>
 
 ---
 
