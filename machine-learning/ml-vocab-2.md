@@ -719,19 +719,19 @@
 <b>evaluating models</b>
 <b>importing dependencies</b>
 <b>preparing data for training</b>
-training models
-with MLPs
-drawbacks of
-hidden layers
-input layers
-output layers
-image classifier
-image flattening
-image preprocessing
-image recommendation systems
-ImageDataGenerator class
-ImageNet
-ImageNet Large Scale Visual Recognition Challenge (ILSVRC)
+<b>training models</b>
+<b>with MLPs</b>
+<b>drawbacks of</b>
+<b>hidden layers</b>
+<b>input layers</b>
+<b>output layers</b>
+<b>image classifier</b>
+<b>image flattening</b>
+<b>image preprocessing</b>
+<b>image recommendation systems</b>
+<b>ImageDataGenerator class</b>
+<b>ImageNet</b>
+<b>ImageNet Large Scale Visual Recognition Challenge (ILSVRC)</b>
 images
 as functions
 augmenting
