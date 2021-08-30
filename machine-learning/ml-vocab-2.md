@@ -787,7 +787,7 @@
 <b>batch normalization in</b>
 <b>DeepDream in</b>
 <b>GoogLeNet in</b>
-building classifiers
+<b>building classifiers</b>
 building inception modules
 building max-pooling layers
 building network
