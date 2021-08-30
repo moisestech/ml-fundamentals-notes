@@ -788,7 +788,7 @@
 <b>DeepDream in</b>
 <b>GoogLeNet in</b>
 <b>building classifiers</b>
-building inception modules
+<b>building inception modules</b>
 building max-pooling layers
 building network
 LeNet-5 in
