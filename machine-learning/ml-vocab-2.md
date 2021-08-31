@@ -862,7 +862,7 @@ See also
 <b>local minima</b>
 <b>local response normalization</b>
 <b>localization</b>
-localization module
+<b>localization module</b>
 locally connected layers
 LocalResponseNorm layer
 location loss
