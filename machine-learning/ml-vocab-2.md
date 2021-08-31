@@ -843,7 +843,7 @@ See also
 <b>derivative and</b>
 <b>optimal, finding</b>
 <b>when fine-tuning</b>
-LeNet-5
+<b>LeNet-5</b>
 architecture of
 in Keras
 learning hyperparameters in
