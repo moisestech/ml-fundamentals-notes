@@ -838,7 +838,7 @@
 <b>mini-batch size</b>
 See also
 <b>learning curves, plotting</b>
-batch gradient descent
+<b>batch gradient descent</b>
 decay
 derivative and
 optimal, finding
