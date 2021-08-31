@@ -844,7 +844,7 @@ See also
 <b>optimal, finding</b>
 <b>when fine-tuning</b>
 <b>LeNet-5</b>
-architecture of
+<b>architecture of</b>
 in Keras
 learning hyperparameters in
 on MNIST dataset
