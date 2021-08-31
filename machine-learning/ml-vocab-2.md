@@ -850,7 +850,7 @@ See also
 <b>on MNIST dataset</b>
 <b>libraries in GANs</b>
 <b>linear combination</b>
-linear datasets
+<b>linear datasets</b>
 linear decay
 linear transfer function
 load_data() method
