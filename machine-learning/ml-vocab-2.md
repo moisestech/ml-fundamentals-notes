@@ -845,7 +845,7 @@ See also
 <b>when fine-tuning</b>
 <b>LeNet-5</b>
 <b>architecture of</b>
-in Keras
+<b>in Keras</b>
 learning hyperparameters in
 on MNIST dataset
 libraries in GANs
