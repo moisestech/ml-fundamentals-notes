@@ -848,7 +848,7 @@ See also
 <b>in Keras</b>
 <b>learning hyperparameters in</b>
 <b>on MNIST dataset</b>
-libraries in GANs
+<b>libraries in GANs</b>
 linear combination
 linear datasets
 linear decay
