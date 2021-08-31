@@ -855,7 +855,7 @@ See also
 <b>linear transfer function</b>
 <b>load_data() method</b>
 <b>load_dataset() method</b>
-data
+<b>data</b>
 datasets
 environments
 models
