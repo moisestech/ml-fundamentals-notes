@@ -840,7 +840,7 @@ See also
 <b>learning curves, plotting</b>
 <b>batch gradient descent</b>
 <b>decay</b>
-derivative and
+<b>derivative and</b>
 optimal, finding
 when fine-tuning
 LeNet-5
