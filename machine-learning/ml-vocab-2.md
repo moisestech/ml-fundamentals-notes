@@ -853,7 +853,7 @@ See also
 <b>linear datasets</b>
 <b>linear decay</b>
 <b>linear transfer function</b>
-load_data() method
+<b>load_data() method</b>
 load_dataset() method
 data
 datasets
