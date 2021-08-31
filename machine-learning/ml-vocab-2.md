@@ -854,7 +854,7 @@ See also
 <b>linear decay</b>
 <b>linear transfer function</b>
 <b>load_data() method</b>
-load_dataset() method
+<b>load_dataset() method</b>
 data
 datasets
 environments
