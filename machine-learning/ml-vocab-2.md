@@ -856,7 +856,7 @@ See also
 <b>load_data() method</b>
 <b>load_dataset() method</b>
 <b>data</b>
-datasets
+<b>datasets</b>
 environments
 models
 local minima
