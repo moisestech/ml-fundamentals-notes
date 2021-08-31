@@ -851,8 +851,8 @@ See also
 <b>libraries in GANs</b>
 <b>linear combination</b>
 <b>linear datasets</b>
-linear decay
-linear transfer function
+<b>linear decay</b>
+<b>linear transfer function</b>
 load_data() method
 load_dataset() method
 data
