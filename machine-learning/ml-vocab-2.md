@@ -839,7 +839,7 @@
 See also
 <b>learning curves, plotting</b>
 <b>batch gradient descent</b>
-decay
+<b>decay</b>
 derivative and
 optimal, finding
 when fine-tuning
