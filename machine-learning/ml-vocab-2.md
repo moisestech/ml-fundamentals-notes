@@ -847,7 +847,7 @@ See also
 <b>architecture of</b>
 <b>in Keras</b>
 <b>learning hyperparameters in</b>
-on MNIST dataset
+<b>on MNIST dataset</b>
 libraries in GANs
 linear combination
 linear datasets
