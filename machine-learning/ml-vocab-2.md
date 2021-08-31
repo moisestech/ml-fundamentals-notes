@@ -860,7 +860,7 @@ See also
 <b>environments</b>
 <b>models</b>
 <b>local minima</b>
-local response normalization
+<b>local response normalization</b>
 localization
 localization module
 locally connected layers
