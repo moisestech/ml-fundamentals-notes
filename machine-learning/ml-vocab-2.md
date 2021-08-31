@@ -849,7 +849,7 @@ See also
 <b>learning hyperparameters in</b>
 <b>on MNIST dataset</b>
 <b>libraries in GANs</b>
-linear combination
+<b>linear combination</b>
 linear datasets
 linear decay
 linear transfer function
