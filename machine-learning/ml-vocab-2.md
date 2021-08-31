@@ -842,7 +842,7 @@ See also
 <b>decay</b>
 <b>derivative and</b>
 <b>optimal, finding</b>
-when fine-tuning
+<b>when fine-tuning</b>
 LeNet-5
 architecture of
 in Keras
