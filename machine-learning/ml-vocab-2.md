@@ -841,7 +841,7 @@ See also
 <b>batch gradient descent</b>
 <b>decay</b>
 <b>derivative and</b>
-optimal, finding
+<b>optimal, finding</b>
 when fine-tuning
 LeNet-5
 architecture of
