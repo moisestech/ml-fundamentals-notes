@@ -858,7 +858,7 @@ See also
 <b>data</b>
 <b>datasets</b>
 <b>environments</b>
-models
+<b>models</b>
 local minima
 local response normalization
 localization
