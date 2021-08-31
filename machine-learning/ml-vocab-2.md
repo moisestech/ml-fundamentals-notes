@@ -846,7 +846,7 @@ See also
 <b>LeNet-5</b>
 <b>architecture of</b>
 <b>in Keras</b>
-learning hyperparameters in
+<b>learning hyperparameters in</b>
 on MNIST dataset
 libraries in GANs
 linear combination
