@@ -859,7 +859,7 @@ See also
 <b>datasets</b>
 <b>environments</b>
 <b>models</b>
-local minima
+<b>local minima</b>
 local response normalization
 localization
 localization module
