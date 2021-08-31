@@ -861,7 +861,7 @@ See also
 <b>models</b>
 <b>local minima</b>
 <b>local response normalization</b>
-localization
+<b>localization</b>
 localization module
 locally connected layers
 LocalResponseNorm layer
