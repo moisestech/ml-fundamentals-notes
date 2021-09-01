@@ -891,7 +891,7 @@ See also
 <b>make_blobs</b>
 <b>matrices</b>
 <b>matrix multiplication</b>
-max pooling
+<b>max pooling</b>
 max-pooling layers
 mean absolute error (MAE)
 mean average precision (mAP)
