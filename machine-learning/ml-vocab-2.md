@@ -867,7 +867,7 @@ See also
 <b>LocalResponseNorm layer</b>
 <b>location loss</b>
 <b>logistic function</b>
-content loss
+<b>content loss</b>
 runtime analysis of
 total variance
 visualizing
