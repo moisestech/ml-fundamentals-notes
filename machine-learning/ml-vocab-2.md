@@ -893,7 +893,7 @@ See also
 <b>matrix multiplication</b>
 <b>max pooling</b>
 <b>max-pooling layers</b>
-mean absolute error (MAE)
+<b>mean absolute error (MAE)</b>
 mean average precision (mAP)
 mean squared error (MSE)
 Mechanical Turk crowdsourcing tool, Amazon
