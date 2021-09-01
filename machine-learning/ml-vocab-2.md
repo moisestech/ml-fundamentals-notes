@@ -888,7 +888,7 @@ See also
 <b>human brain vs.</b>
 <b>with handcrafted features</b>
 <b>main path</b>
-make_blobs
+<b>make_blobs</b>
 matrices
 matrix multiplication
 max pooling
