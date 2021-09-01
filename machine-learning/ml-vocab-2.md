@@ -872,7 +872,7 @@ See also
 <b>total variance</b>
 <b>visualizing</b>
 <b>loss functions</b>
-contrastive loss
+<b>contrastive loss</b>
 cross-entropy loss
 naive implementation
 loss value
