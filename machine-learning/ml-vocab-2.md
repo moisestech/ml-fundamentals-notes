@@ -887,7 +887,7 @@ See also
 <b>MAC operation</b>
 <b>human brain vs.</b>
 <b>with handcrafted features</b>
-main path
+<b>main path</b>
 make_blobs
 matrices
 matrix multiplication
