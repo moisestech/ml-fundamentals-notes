@@ -873,7 +873,7 @@ See also
 <b>visualizing</b>
 <b>loss functions</b>
 <b>contrastive loss</b>
-cross-entropy loss
+<b>cross-entropy loss</b>
 naive implementation
 loss value
 lr variable
