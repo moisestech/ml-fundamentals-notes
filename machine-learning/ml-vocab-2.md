@@ -890,7 +890,7 @@ See also
 <b>main path</b>
 <b>make_blobs</b>
 <b>matrices</b>
-matrix multiplication
+<b>matrix multiplication</b>
 max pooling
 max-pooling layers
 mean absolute error (MAE)
