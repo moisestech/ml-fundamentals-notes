@@ -885,7 +885,7 @@ See also
 
 <b>MAC (multiplier-accumulator)</b>
 <b>MAC operation</b>
-human brain vs.
+<b>human brain vs.</b>
 with handcrafted features
 main path
 make_blobs
