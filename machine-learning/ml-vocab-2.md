@@ -892,7 +892,7 @@ See also
 <b>matrices</b>
 <b>matrix multiplication</b>
 <b>max pooling</b>
-max-pooling layers
+<b>max-pooling layers</b>
 mean absolute error (MAE)
 mean average precision (mAP)
 mean squared error (MSE)
