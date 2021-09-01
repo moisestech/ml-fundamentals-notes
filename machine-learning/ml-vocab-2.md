@@ -863,7 +863,7 @@ See also
 <b>local response normalization</b>
 <b>localization</b>
 <b>localization module</b>
-locally connected layers
+<b>locally connected layers</b>
 LocalResponseNorm layer
 location loss
 logistic function
