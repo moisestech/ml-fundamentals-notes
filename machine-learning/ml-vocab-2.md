@@ -870,7 +870,7 @@ See also
 <b>content loss</b>
 <b>runtime analysis of</b>
 <b>total variance</b>
-visualizing
+<b>visualizing</b>
 loss functions
 contrastive loss
 cross-entropy loss
