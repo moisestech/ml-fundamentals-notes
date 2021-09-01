@@ -895,7 +895,7 @@ See also
 <b>max-pooling layers</b>
 <b>mean absolute error (MAE)</b>
 <b>mean average precision (mAP)</b>
-mean squared error (MSE)
+<b>mean squared error (MSE)</b>
 Mechanical Turk crowdsourcing tool, Amazon
 metrics
 min_delta argument
