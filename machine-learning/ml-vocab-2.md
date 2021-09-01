@@ -877,7 +877,7 @@ See also
 <b>naive implementation</b>
 <b>loss value</b>
 <b>lr variable</b>
-lr_schedule function
+<b>lr_schedule function</b>
 
 ---
 
