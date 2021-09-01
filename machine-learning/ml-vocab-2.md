@@ -889,7 +889,7 @@ See also
 <b>with handcrafted features</b>
 <b>main path</b>
 <b>make_blobs</b>
-matrices
+<b>matrices</b>
 matrix multiplication
 max pooling
 max-pooling layers
