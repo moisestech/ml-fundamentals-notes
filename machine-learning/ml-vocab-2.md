@@ -894,7 +894,7 @@ See also
 <b>max pooling</b>
 <b>max-pooling layers</b>
 <b>mean absolute error (MAE)</b>
-mean average precision (mAP)
+<b>mean average precision (mAP)</b>
 mean squared error (MSE)
 Mechanical Turk crowdsourcing tool, Amazon
 metrics
