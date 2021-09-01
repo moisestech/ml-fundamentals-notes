@@ -869,7 +869,7 @@ See also
 <b>logistic function</b>
 <b>content loss</b>
 <b>runtime analysis of</b>
-total variance
+<b>total variance</b>
 visualizing
 loss functions
 contrastive loss
