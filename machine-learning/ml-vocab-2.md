@@ -866,7 +866,7 @@ See also
 <b>locally connected layers</b>
 <b>LocalResponseNorm layer</b>
 <b>location loss</b>
-logistic function
+<b>logistic function</b>
 content loss
 runtime analysis of
 total variance
