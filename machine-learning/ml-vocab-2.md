@@ -874,7 +874,7 @@ See also
 <b>loss functions</b>
 <b>contrastive loss</b>
 <b>cross-entropy loss</b>
-naive implementation
+<b>naive implementation</b>
 loss value
 lr variable
 lr_schedule function
