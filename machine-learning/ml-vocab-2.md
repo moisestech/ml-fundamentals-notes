@@ -883,7 +883,7 @@ See also
 
 ## M
 
-MAC (multiplier-accumulator)
+<b>MAC (multiplier-accumulator)</b>
 MAC operation
 human brain vs.
 with handcrafted features
