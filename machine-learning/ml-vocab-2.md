@@ -868,7 +868,7 @@ See also
 <b>location loss</b>
 <b>logistic function</b>
 <b>content loss</b>
-runtime analysis of
+<b>runtime analysis of</b>
 total variance
 visualizing
 loss functions
