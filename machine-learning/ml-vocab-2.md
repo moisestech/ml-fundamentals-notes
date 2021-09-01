@@ -865,7 +865,7 @@ See also
 <b>localization module</b>
 <b>locally connected layers</b>
 <b>LocalResponseNorm layer</b>
-location loss
+<b>location loss</b>
 logistic function
 content loss
 runtime analysis of
