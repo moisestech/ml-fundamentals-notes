@@ -864,7 +864,7 @@ See also
 <b>localization</b>
 <b>localization module</b>
 <b>locally connected layers</b>
-LocalResponseNorm layer
+<b>LocalResponseNorm layer</b>
 location loss
 logistic function
 content loss
