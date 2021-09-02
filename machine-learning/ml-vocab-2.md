@@ -907,7 +907,7 @@ See also
 <b>BS</b>
 <b>BW</b>
 <b>dataloader</b>
-finding useful triplets
+<b>finding useful triplets</b>
 mixed2 layer
 mixed3 layer
 mixed4 layer
