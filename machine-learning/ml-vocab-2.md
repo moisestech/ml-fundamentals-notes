@@ -908,7 +908,7 @@ See also
 <b>BW</b>
 <b>dataloader</b>
 <b>finding useful triplets</b>
-mixed2 layer
+<b>mixed2 layer</b>
 mixed3 layer
 mixed4 layer
 mixed5 layer
