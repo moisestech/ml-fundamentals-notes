@@ -898,7 +898,7 @@ See also
 <b>mean squared error (MSE)</b>
 <b>Mechanical Turk crowdsourcing tool, Amazon</b>
 <b>metrics</b>
-min_delta argument
+<b>min_delta argument</b>
 mini-batch gradient descent (MB-GD)
 mini-batch size
 minimax function
