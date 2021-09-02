@@ -896,7 +896,7 @@ See also
 <b>mean absolute error (MAE)</b>
 <b>mean average precision (mAP)</b>
 <b>mean squared error (MSE)</b>
-Mechanical Turk crowdsourcing tool, Amazon
+<b>Mechanical Turk crowdsourcing tool, Amazon</b>
 metrics
 min_delta argument
 mini-batch gradient descent (MB-GD)
