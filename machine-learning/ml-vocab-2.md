@@ -906,7 +906,7 @@ See also
 <b>BH</b>
 <b>BS</b>
 <b>BW</b>
-dataloader
+<b>dataloader</b>
 finding useful triplets
 mixed2 layer
 mixed3 layer
