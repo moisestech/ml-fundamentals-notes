@@ -915,7 +915,7 @@ See also
 <b>MLPs (multilayer perceptrons)</b>
 <b>architecture of</b>
 <b>hidden layers</b>
-image classification with
+<b>image classification with</b>
 drawbacks of
 hidden layers
 input layers
