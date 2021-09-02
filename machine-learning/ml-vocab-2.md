@@ -902,7 +902,7 @@ See also
 <b>mini-batch gradient descent (MB-GD)</b>
 <b>mini-batch size</b>
 <b>minimax function</b>
-mining data
+<b>mining data</b>
 BH
 BS
 BW
