@@ -903,7 +903,7 @@ See also
 <b>mini-batch size</b>
 <b>minimax function</b>
 <b>mining data</b>
-BH
+<b>BH</b>
 BS
 BW
 dataloader
