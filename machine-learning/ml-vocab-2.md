@@ -904,7 +904,7 @@ See also
 <b>minimax function</b>
 <b>mining data</b>
 <b>BH</b>
-BS
+<b>BS</b>
 BW
 dataloader
 finding useful triplets
