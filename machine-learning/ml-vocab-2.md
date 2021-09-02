@@ -925,7 +925,7 @@ See also
 <b>MNIST (Modified National Institute of Standards and Technology) dataset</b>
 <b>architecture of</b>
 <b>building</b>
-compiling
+<b>compiling</b>
 configuring
 designing
 evaluating
