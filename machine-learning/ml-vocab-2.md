@@ -909,7 +909,7 @@ See also
 <b>dataloader</b>
 <b>finding useful triplets</b>
 <b>mixed2 layer</b>
-mixed3 layer
+<b>mixed3 layer</b>
 mixed4 layer
 mixed5 layer
 MLPs (multilayer perceptrons)
