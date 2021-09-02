@@ -919,8 +919,8 @@ See also
 <b>drawbacks of</b>
 <b>hidden layers</b>
 <b>input layers</b>
-output layers
-layers
+<b>output layers</b>
+<b>layers</b>
 nodes
 MNIST (Modified National Institute of Standards and Technology) dataset
 architecture of
