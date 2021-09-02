@@ -923,7 +923,7 @@ See also
 <b>layers</b>
 <b>nodes</b>
 <b>MNIST (Modified National Institute of Standards and Technology) dataset</b>
-architecture of
+<b>architecture of</b>
 building
 compiling
 configuring
