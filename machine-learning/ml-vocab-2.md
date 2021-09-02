@@ -913,7 +913,7 @@ See also
 <b>mixed4 layer</b>
 <b>mixed5 layer</b>
 <b>MLPs (multilayer perceptrons)</b>
-architecture of
+<b>architecture of</b>
 hidden layers
 image classification with
 drawbacks of
