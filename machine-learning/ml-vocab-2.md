@@ -924,7 +924,7 @@ See also
 <b>nodes</b>
 <b>MNIST (Modified National Institute of Standards and Technology) dataset</b>
 <b>architecture of</b>
-building
+<b>building</b>
 compiling
 configuring
 designing
