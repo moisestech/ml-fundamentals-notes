@@ -899,7 +899,7 @@ See also
 <b>Mechanical Turk crowdsourcing tool, Amazon</b>
 <b>metrics</b>
 <b>min_delta argument</b>
-mini-batch gradient descent (MB-GD)
+<b>mini-batch gradient descent (MB-GD)</b>
 mini-batch size
 minimax function
 mining data
