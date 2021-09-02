@@ -900,7 +900,7 @@ See also
 <b>metrics</b>
 <b>min_delta argument</b>
 <b>mini-batch gradient descent (MB-GD)</b>
-mini-batch size
+<b>mini-batch size</b>
 minimax function
 mining data
 BH
