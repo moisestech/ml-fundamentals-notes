@@ -910,7 +910,7 @@ See also
 <b>finding useful triplets</b>
 <b>mixed2 layer</b>
 <b>mixed3 layer</b>
-mixed4 layer
+<b>mixed4 layer</b>
 mixed5 layer
 MLPs (multilayer perceptrons)
 architecture of
