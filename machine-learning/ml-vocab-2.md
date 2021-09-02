@@ -911,7 +911,7 @@ See also
 <b>mixed2 layer</b>
 <b>mixed3 layer</b>
 <b>mixed4 layer</b>
-mixed5 layer
+<b>mixed5 layer</b>
 MLPs (multilayer perceptrons)
 architecture of
 hidden layers
