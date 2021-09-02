@@ -918,7 +918,7 @@ See also
 <b>image classification with</b>
 <b>drawbacks of</b>
 <b>hidden layers</b>
-input layers
+<b>input layers</b>
 output layers
 layers
 nodes
