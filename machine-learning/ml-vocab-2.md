@@ -905,7 +905,7 @@ See also
 <b>mining data</b>
 <b>BH</b>
 <b>BS</b>
-BW
+<b>BW</b>
 dataloader
 finding useful triplets
 mixed2 layer
