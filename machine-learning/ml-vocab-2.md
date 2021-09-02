@@ -916,7 +916,7 @@ See also
 <b>architecture of</b>
 <b>hidden layers</b>
 <b>image classification with</b>
-drawbacks of
+<b>drawbacks of</b>
 hidden layers
 input layers
 output layers
