@@ -921,8 +921,8 @@ See also
 <b>input layers</b>
 <b>output layers</b>
 <b>layers</b>
-nodes
-MNIST (Modified National Institute of Standards and Technology) dataset
+<b>nodes</b>
+<b>MNIST (Modified National Institute of Standards and Technology) dataset</b>
 architecture of
 building
 compiling
