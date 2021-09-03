@@ -939,7 +939,7 @@ See also
 <b>choosing evaluation scheme</b>
 <b>evaluating</b>
 <b>FID</b>
-inception score
+<b>inception score</b>
 testing
 object re-identification
 retrievals
