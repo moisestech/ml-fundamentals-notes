@@ -944,7 +944,7 @@ See also
 <b>object re-identification</b>
 <b>retrievals</b>
 <b>training</b>
-momentum, gradient descent with
+<b>momentum, gradient descent with</b>
 monitor argument
 MS COCO (Microsoft Common Objects in Context)
 multi-scale detections
