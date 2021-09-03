@@ -951,7 +951,7 @@ See also
 <b>multi-scale feature layers</b>
 <b>architecture of</b>
 <b>multi-scale detections</b>
-multi-scale vehicle representation (MSVR)
+<b>multi-scale vehicle representation (MSVR)</b>
 multi-stage detectors
 multi-task learning (MTL)
 multi-task loss function
