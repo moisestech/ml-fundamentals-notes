@@ -948,7 +948,7 @@ See also
 <b>monitor argument</b>
 <b>MS COCO (Microsoft Common Objects in Context)</b>
 <b>multi-scale detections</b>
-multi-scale feature layers
+<b>multi-scale feature layers</b>
 architecture of
 multi-scale detections
 multi-scale vehicle representation (MSVR)
