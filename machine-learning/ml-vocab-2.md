@@ -943,7 +943,7 @@ See also
 <b>testing</b>
 <b>object re-identification</b>
 <b>retrievals</b>
-training
+<b>training</b>
 momentum, gradient descent with
 monitor argument
 MS COCO (Microsoft Common Objects in Context)
