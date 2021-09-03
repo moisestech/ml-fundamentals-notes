@@ -942,7 +942,7 @@ See also
 <b>inception score</b>
 <b>testing</b>
 <b>object re-identification</b>
-retrievals
+<b>retrievals</b>
 training
 momentum, gradient descent with
 monitor argument
