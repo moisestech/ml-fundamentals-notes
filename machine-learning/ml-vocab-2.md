@@ -940,7 +940,7 @@ See also
 <b>evaluating</b>
 <b>FID</b>
 <b>inception score</b>
-testing
+<b>testing</b>
 object re-identification
 retrievals
 training
