@@ -950,7 +950,7 @@ See also
 <b>multi-scale detections</b>
 <b>multi-scale feature layers</b>
 <b>architecture of</b>
-multi-scale detections
+<b>multi-scale detections</b>
 multi-scale vehicle representation (MSVR)
 multi-stage detectors
 multi-task learning (MTL)
