@@ -938,7 +938,7 @@ See also
 <b>loading</b>
 <b>choosing evaluation scheme</b>
 <b>evaluating</b>
-FID
+<b>FID</b>
 inception score
 testing
 object re-identification
