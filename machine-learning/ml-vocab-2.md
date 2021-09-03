@@ -932,7 +932,7 @@ See also
 <b>building networks</b>
 <b>diagnosing overfitting</b>
 <b>diagnosing underfitting</b>
-evaluating networks
+<b>evaluating networks</b>
 plotting learning curves
 training networks
 loading
