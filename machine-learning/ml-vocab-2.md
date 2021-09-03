@@ -929,7 +929,7 @@ See also
 <b>configuring</b>
 <b>designing</b>
 <b>evaluating</b>
-building networks
+<b>building networks</b>
 diagnosing overfitting
 diagnosing underfitting
 evaluating networks
