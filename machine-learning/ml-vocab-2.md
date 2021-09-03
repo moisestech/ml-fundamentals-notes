@@ -947,7 +947,7 @@ See also
 <b>momentum, gradient descent with</b>
 <b>monitor argument</b>
 <b>MS COCO (Microsoft Common Objects in Context)</b>
-multi-scale detections
+<b>multi-scale detections</b>
 multi-scale feature layers
 architecture of
 multi-scale detections
