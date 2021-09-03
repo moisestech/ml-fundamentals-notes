@@ -935,7 +935,7 @@ See also
 <b>evaluating networks</b>
 <b>plotting learning curves</b>
 <b>training networks</b>
-loading
+<b>loading</b>
 choosing evaluation scheme
 evaluating
 FID
