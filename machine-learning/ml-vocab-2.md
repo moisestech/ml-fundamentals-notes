@@ -934,7 +934,7 @@ See also
 <b>diagnosing underfitting</b>
 <b>evaluating networks</b>
 <b>plotting learning curves</b>
-training networks
+<b>training networks</b>
 loading
 choosing evaluation scheme
 evaluating
