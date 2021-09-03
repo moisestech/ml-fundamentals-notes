@@ -941,7 +941,7 @@ See also
 <b>FID</b>
 <b>inception score</b>
 <b>testing</b>
-object re-identification
+<b>object re-identification</b>
 retrievals
 training
 momentum, gradient descent with
