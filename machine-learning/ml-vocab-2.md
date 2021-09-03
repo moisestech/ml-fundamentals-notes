@@ -937,7 +937,7 @@ See also
 <b>training networks</b>
 <b>loading</b>
 <b>choosing evaluation scheme</b>
-evaluating
+<b>evaluating</b>
 FID
 inception score
 testing
