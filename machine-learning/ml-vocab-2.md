@@ -926,7 +926,7 @@ See also
 <b>architecture of</b>
 <b>building</b>
 <b>compiling</b>
-configuring
+<b>configuring</b>
 designing
 evaluating
 building networks
