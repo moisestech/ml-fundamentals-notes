@@ -927,7 +927,7 @@ See also
 <b>building</b>
 <b>compiling</b>
 <b>configuring</b>
-designing
+<b>designing</b>
 evaluating
 building networks
 diagnosing overfitting
