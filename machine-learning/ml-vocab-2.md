@@ -945,7 +945,7 @@ See also
 <b>retrievals</b>
 <b>training</b>
 <b>momentum, gradient descent with</b>
-monitor argument
+<b>monitor argument</b>
 MS COCO (Microsoft Common Objects in Context)
 multi-scale detections
 multi-scale feature layers
