@@ -949,7 +949,7 @@ See also
 <b>MS COCO (Microsoft Common Objects in Context)</b>
 <b>multi-scale detections</b>
 <b>multi-scale feature layers</b>
-architecture of
+<b>architecture of</b>
 multi-scale detections
 multi-scale vehicle representation (MSVR)
 multi-stage detectors
