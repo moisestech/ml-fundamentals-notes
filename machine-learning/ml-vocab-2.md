@@ -930,7 +930,7 @@ See also
 <b>designing</b>
 <b>evaluating</b>
 <b>building networks</b>
-diagnosing overfitting
+<b>diagnosing overfitting</b>
 diagnosing underfitting
 evaluating networks
 plotting learning curves
