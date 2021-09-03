@@ -936,7 +936,7 @@ See also
 <b>plotting learning curves</b>
 <b>training networks</b>
 <b>loading</b>
-choosing evaluation scheme
+<b>choosing evaluation scheme</b>
 evaluating
 FID
 inception score
