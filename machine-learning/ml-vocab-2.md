@@ -974,7 +974,7 @@ See also
 <b>evaluating</b>
 <b>improving</b>
 <b>in Keras</b>
-measuring precision of
+<b>measuring precision of</b>
 predictions
 as classifiers
 as feature extractors
