@@ -954,7 +954,7 @@ See also
 <b>multi-scale vehicle representation (MSVR)</b>
 <b>multi-stage detectors</b>
 <b>multi-task learning (MTL)</b>
-multi-task loss function
+<b>multi-task loss function</b>
 
 ---
 
