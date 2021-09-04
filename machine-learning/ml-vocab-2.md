@@ -976,7 +976,7 @@ See also
 <b>in Keras</b>
 <b>measuring precision of</b>
 <b>predictions</b>
-as classifiers
+<b>as classifiers</b>
 as feature extractors
 to extract features
 training
