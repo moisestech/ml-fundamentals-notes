@@ -973,7 +973,7 @@ See also
 <b>building</b>
 <b>evaluating</b>
 <b>improving</b>
-in Keras
+<b>in Keras</b>
 measuring precision of
 predictions
 as classifiers
