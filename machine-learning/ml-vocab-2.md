@@ -982,7 +982,7 @@ See also
 <b>training</b>
 <b>neural networks</b>
 <b>activation functions</b>
-binary classifier
+<b>binary classifier</b>
 heaviside step function
 leaky ReLU
 linear transfer function
