@@ -967,7 +967,7 @@ See also
 <b>networks</b>
 <b>architecture of</b>
 <b>activation type</b>
-depth of neural networks
+<b>depth of neural networks</b>
 improving
 width of neural networks
 building
