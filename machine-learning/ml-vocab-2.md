@@ -979,7 +979,7 @@ See also
 <b>as classifiers</b>
 <b>as feature extractors</b>
 <b>to extract features</b>
-training
+<b>training</b>
 neural networks
 activation functions
 binary classifier
