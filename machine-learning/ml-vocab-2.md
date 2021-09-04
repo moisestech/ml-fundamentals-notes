@@ -970,7 +970,7 @@ See also
 <b>depth of neural networks</b>
 <b>improving</b>
 <b>width of neural networks</b>
-building
+<b>building</b>
 evaluating
 improving
 in Keras
