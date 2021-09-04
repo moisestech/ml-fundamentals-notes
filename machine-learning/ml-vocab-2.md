@@ -968,7 +968,7 @@ See also
 <b>architecture of</b>
 <b>activation type</b>
 <b>depth of neural networks</b>
-improving
+<b>improving</b>
 width of neural networks
 building
 evaluating
