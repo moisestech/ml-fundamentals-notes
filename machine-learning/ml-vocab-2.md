@@ -978,7 +978,7 @@ See also
 <b>predictions</b>
 <b>as classifiers</b>
 <b>as feature extractors</b>
-to extract features
+<b>to extract features</b>
 training
 neural networks
 activation functions
