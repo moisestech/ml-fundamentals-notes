@@ -966,7 +966,7 @@ See also
 <b>neg_pos_ratio</b>
 <b>networks</b>
 <b>architecture of</b>
-activation type
+<b>activation type</b>
 depth of neural networks
 improving
 width of neural networks
