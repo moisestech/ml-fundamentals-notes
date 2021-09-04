@@ -984,7 +984,7 @@ See also
 <b>activation functions</b>
 <b>binary classifier</b>
 <b>heaviside step function</b>
-leaky ReLU
+<b>leaky ReLU</b>
 linear transfer function
 logistic function
 ReLU
