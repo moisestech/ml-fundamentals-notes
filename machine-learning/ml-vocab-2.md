@@ -983,7 +983,7 @@ See also
 <b>neural networks</b>
 <b>activation functions</b>
 <b>binary classifier</b>
-heaviside step function
+<b>heaviside step function</b>
 leaky ReLU
 linear transfer function
 logistic function
