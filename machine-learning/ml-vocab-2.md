@@ -965,7 +965,7 @@ See also
 <b>n-dimensional array</b>
 <b>neg_pos_ratio</b>
 <b>networks</b>
-architecture of
+<b>architecture of</b>
 activation type
 depth of neural networks
 improving
