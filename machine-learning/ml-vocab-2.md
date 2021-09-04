@@ -969,7 +969,7 @@ See also
 <b>activation type</b>
 <b>depth of neural networks</b>
 <b>improving</b>
-width of neural networks
+<b>width of neural networks</b>
 building
 evaluating
 improving
