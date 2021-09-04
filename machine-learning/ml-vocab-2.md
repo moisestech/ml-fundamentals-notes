@@ -980,7 +980,7 @@ See also
 <b>as feature extractors</b>
 <b>to extract features</b>
 <b>training</b>
-neural networks
+<b>neural networks</b>
 activation functions
 binary classifier
 heaviside step function
