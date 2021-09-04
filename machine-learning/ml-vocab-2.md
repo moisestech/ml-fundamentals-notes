@@ -985,7 +985,7 @@ See also
 <b>binary classifier</b>
 <b>heaviside step function</b>
 <b>leaky ReLU</b>
-linear transfer function
+<b>linear transfer function</b>
 logistic function
 ReLU
 sigmoid function
