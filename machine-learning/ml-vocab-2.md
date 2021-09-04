@@ -972,7 +972,7 @@ See also
 <b>width of neural networks</b>
 <b>building</b>
 <b>evaluating</b>
-improving
+<b>improving</b>
 in Keras
 measuring precision of
 predictions
