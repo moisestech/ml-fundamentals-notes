@@ -981,7 +981,7 @@ See also
 <b>to extract features</b>
 <b>training</b>
 <b>neural networks</b>
-activation functions
+<b>activation functions</b>
 binary classifier
 heaviside step function
 leaky ReLU
