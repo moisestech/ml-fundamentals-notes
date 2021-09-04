@@ -962,7 +962,7 @@ See also
 
 <b>naive implementation</b>
 <b>naive representation</b>
-n-dimensional array
+<b>n-dimensional array</b>
 neg_pos_ratio
 networks
 architecture of
