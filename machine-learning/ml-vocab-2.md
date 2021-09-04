@@ -964,7 +964,7 @@ See also
 <b>naive representation</b>
 <b>n-dimensional array</b>
 <b>neg_pos_ratio</b>
-networks
+<b>networks</b>
 architecture of
 activation type
 depth of neural networks
