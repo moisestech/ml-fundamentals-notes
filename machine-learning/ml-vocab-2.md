@@ -960,7 +960,7 @@ See also
 
 ## N
 
-naive implementation
+<b>naive implementation</b>
 naive representation
 n-dimensional array
 neg_pos_ratio
