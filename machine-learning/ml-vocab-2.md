@@ -977,7 +977,7 @@ See also
 <b>measuring precision of</b>
 <b>predictions</b>
 <b>as classifiers</b>
-as feature extractors
+<b>as feature extractors</b>
 to extract features
 training
 neural networks
