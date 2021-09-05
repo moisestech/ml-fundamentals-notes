@@ -1018,7 +1018,7 @@ See also
 <b>stochastic gradient descent</b>
 <b>overview</b>
 <b>perceptrons</b>
-learning logic of
+<b>learning logic of</b>
 neurons
 overview
 width of
