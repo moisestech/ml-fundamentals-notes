@@ -1016,7 +1016,7 @@ See also
 <b>gradient descent</b>
 <b>MB-GD</b>
 <b>stochastic gradient descent</b>
-overview
+<b>overview</b>
 perceptrons
 learning logic of
 neurons
