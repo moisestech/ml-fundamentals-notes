@@ -1012,7 +1012,7 @@ See also
 <b>nodes</b>
 <b>optimization</b>
 <b>optimization algorithms</b>
-batch gradient descent
+<b>batch gradient descent</b>
 gradient descent
 MB-GD
 stochastic gradient descent
