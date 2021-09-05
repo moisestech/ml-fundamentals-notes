@@ -1019,7 +1019,7 @@ See also
 <b>overview</b>
 <b>perceptrons</b>
 <b>learning logic of</b>
-neurons
+<b>neurons</b>
 overview
 width of
 neural style transfer
