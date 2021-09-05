@@ -1011,7 +1011,7 @@ See also
 <b>layers</b>
 <b>nodes</b>
 <b>optimization</b>
-optimization algorithms
+<b>optimization algorithms</b>
 batch gradient descent
 gradient descent
 MB-GD
