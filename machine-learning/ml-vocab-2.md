@@ -1015,7 +1015,7 @@ See also
 <b>batch gradient descent</b>
 <b>gradient descent</b>
 <b>MB-GD</b>
-stochastic gradient descent
+<b>stochastic gradient descent</b>
 overview
 perceptrons
 learning logic of
