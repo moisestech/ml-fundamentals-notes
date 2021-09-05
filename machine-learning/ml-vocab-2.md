@@ -1021,7 +1021,7 @@ See also
 <b>learning logic of</b>
 <b>neurons</b>
 <b>overview</b>
-width of
+<b>width of</b>
 neural style transfer
 content loss
 network training
