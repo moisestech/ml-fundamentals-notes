@@ -986,7 +986,7 @@ See also
 <b>heaviside step function</b>
 <b>leaky ReLU</b>
 <b>linear transfer function</b>
-logistic function
+<b>logistic function</b>
 ReLU
 sigmoid function
 softmax function
