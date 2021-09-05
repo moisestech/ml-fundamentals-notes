@@ -1020,7 +1020,7 @@ See also
 <b>perceptrons</b>
 <b>learning logic of</b>
 <b>neurons</b>
-overview
+<b>overview</b>
 width of
 neural style transfer
 content loss
