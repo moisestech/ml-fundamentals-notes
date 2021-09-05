@@ -1002,7 +1002,7 @@ See also
 <b>overview</b>
 <b>weights</b>
 <b>feedforward process</b>
-learning features
+<b>learning features</b>
 hyperparameters in
 learning features
 multilayer perceptrons
