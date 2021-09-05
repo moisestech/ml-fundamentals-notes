@@ -1025,7 +1025,7 @@ See also
 <b>neural style transfer</b>
 <b>content loss</b>
 <b>network training</b>
-style loss
+<b>style loss</b>
 gram matrix for measuring jointly activated feature maps
 multiple layers for representing style features
 total variance loss
