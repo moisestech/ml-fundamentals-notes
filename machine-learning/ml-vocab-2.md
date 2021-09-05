@@ -1026,7 +1026,7 @@ See also
 <b>content loss</b>
 <b>network training</b>
 <b>style loss</b>
-gram matrix for measuring jointly activated feature maps
+<b>gram matrix for measuring jointly activated feature maps</b>
 multiple layers for representing style features
 total variance loss
 neurons
