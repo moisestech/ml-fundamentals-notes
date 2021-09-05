@@ -1010,7 +1010,7 @@ See also
 <b>hidden layers</b>
 <b>layers</b>
 <b>nodes</b>
-optimization
+<b>optimization</b>
 optimization algorithms
 batch gradient descent
 gradient descent
