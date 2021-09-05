@@ -1004,7 +1004,7 @@ See also
 <b>feedforward process</b>
 <b>learning features</b>
 <b>hyperparameters in</b>
-learning features
+<b>learning features</b>
 multilayer perceptrons
 architecture of
 hidden layers
