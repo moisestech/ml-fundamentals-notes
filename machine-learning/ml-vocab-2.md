@@ -987,19 +987,19 @@ See also
 <b>leaky ReLU</b>
 <b>linear transfer function</b>
 <b>logistic function</b>
-ReLU
-sigmoid function
-softmax function
-tanh
-backpropagation
-covariate shift in
-depth of
-error functions
-advantages of
-cross-entropy
-errors
-MSE
-overview
+<b>ReLU</b>
+<b>sigmoid function</b>
+<b>softmax function</b>
+<b>tanh</b>
+<b>backpropagation</b>
+<b>covariate shift in</b>
+<b>depth of</b>
+<b>error functions</b>
+<b>advantages of</b>
+<b>cross-entropy</b>
+<b>errors</b>
+<b>MSE</b>
+<b>overview</b>
 weights
 feedforward process
 learning features
