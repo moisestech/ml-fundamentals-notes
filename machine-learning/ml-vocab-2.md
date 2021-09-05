@@ -1013,7 +1013,7 @@ See also
 <b>optimization</b>
 <b>optimization algorithms</b>
 <b>batch gradient descent</b>
-gradient descent
+<b>gradient descent</b>
 MB-GD
 stochastic gradient descent
 overview
