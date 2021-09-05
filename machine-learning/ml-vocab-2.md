@@ -1000,7 +1000,7 @@ See also
 <b>errors</b>
 <b>MSE</b>
 <b>overview</b>
-weights
+<b>weights</b>
 feedforward process
 learning features
 hyperparameters in
