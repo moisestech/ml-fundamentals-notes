@@ -1007,7 +1007,7 @@ See also
 <b>learning features</b>
 <b>multilayer perceptrons</b>
 <b>architecture of</b>
-hidden layers
+<b>hidden layers</b>
 layers
 nodes
 optimization
