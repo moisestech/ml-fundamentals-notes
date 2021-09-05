@@ -1022,7 +1022,7 @@ See also
 <b>neurons</b>
 <b>overview</b>
 <b>width of</b>
-neural style transfer
+<b>neural style transfer</b>
 content loss
 network training
 style loss
