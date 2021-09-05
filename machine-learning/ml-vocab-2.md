@@ -1005,7 +1005,7 @@ See also
 <b>learning features</b>
 <b>hyperparameters in</b>
 <b>learning features</b>
-multilayer perceptrons
+<b>multilayer perceptrons</b>
 architecture of
 hidden layers
 layers
