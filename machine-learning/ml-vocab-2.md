@@ -1008,7 +1008,7 @@ See also
 <b>multilayer perceptrons</b>
 <b>architecture of</b>
 <b>hidden layers</b>
-layers
+<b>layers</b>
 nodes
 optimization
 optimization algorithms
