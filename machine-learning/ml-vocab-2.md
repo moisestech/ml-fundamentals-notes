@@ -1001,7 +1001,7 @@ See also
 <b>MSE</b>
 <b>overview</b>
 <b>weights</b>
-feedforward process
+<b>feedforward process</b>
 learning features
 hyperparameters in
 learning features
