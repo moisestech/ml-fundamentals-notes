@@ -1014,7 +1014,7 @@ See also
 <b>optimization algorithms</b>
 <b>batch gradient descent</b>
 <b>gradient descent</b>
-MB-GD
+<b>MB-GD</b>
 stochastic gradient descent
 overview
 perceptrons
