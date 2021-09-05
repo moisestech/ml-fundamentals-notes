@@ -1003,7 +1003,7 @@ See also
 <b>weights</b>
 <b>feedforward process</b>
 <b>learning features</b>
-hyperparameters in
+<b>hyperparameters in</b>
 learning features
 multilayer perceptrons
 architecture of
