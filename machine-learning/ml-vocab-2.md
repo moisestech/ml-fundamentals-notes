@@ -575,7 +575,9 @@
 <b>training</b>
 <b>FC layer</b>
 <b>FCNs (fully convolutional networks)</b>
-<b>feature extraction</b>
+
+### <b>feature extraction</b>
+
 <b>automatically</b>
 <b>handcrafted features</b>
 <b>feature extractors</b>
