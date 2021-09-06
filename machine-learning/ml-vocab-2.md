@@ -1037,7 +1037,7 @@ See also
 <b>nodes</b>
 <b>noise loss</b>
 <b>nonlinear datasets</b>
-nonlinearities
+<b>nonlinearities</b>
 non-trainable params
 normalizing data
 nstaller/application.yaml file
