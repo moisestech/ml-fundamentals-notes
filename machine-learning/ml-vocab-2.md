@@ -593,7 +593,9 @@
 <b>overview</b>
 <b>transferring</b>
 <b>visualizing</b>
-<b>feedforward process</b>
+
+### <b>feedforward process</b>
+
 <b>learning features</b>
 <b>FID (Fréchet inception distance)</b>
 <b>filter hyperparameter<b>
