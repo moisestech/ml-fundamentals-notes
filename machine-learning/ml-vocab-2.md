@@ -1035,7 +1035,7 @@ See also
 <b>no free lunch theorem</b>
 <b>node values</b>
 <b>nodes</b>
-noise loss
+<b>noise loss</b>
 nonlinear datasets
 nonlinearities
 non-trainable params
