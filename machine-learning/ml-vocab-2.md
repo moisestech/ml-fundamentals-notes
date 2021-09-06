@@ -639,7 +639,9 @@
 <b>SRGAN</b>
 <b>architecture of</b>
 <b>DCGANs</b>
-<b>generator models</b>
+
+### <b>generator models</b>
+
 <b>minimax function</b>
 <b>building</b>
 <b>combined models</b>
