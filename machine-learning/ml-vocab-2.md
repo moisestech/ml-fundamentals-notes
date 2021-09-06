@@ -1036,7 +1036,7 @@ See also
 <b>node values</b>
 <b>nodes</b>
 <b>noise loss</b>
-nonlinear datasets
+<b>nonlinear datasets</b>
 nonlinearities
 non-trainable params
 normalizing data
