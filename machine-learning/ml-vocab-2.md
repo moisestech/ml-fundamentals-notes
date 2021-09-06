@@ -603,7 +603,9 @@
 <b>filters</b>
 <b>filters argument</b>
 <b>fine label</b>
-<b>fine-tuning</b>
+
+### <b>fine-tuning</b>
+
 <b>advantages of</b>
 <b>learning rates when</b>
 <b>transfer learning</b>
