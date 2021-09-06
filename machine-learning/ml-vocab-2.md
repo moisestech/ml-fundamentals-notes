@@ -1034,7 +1034,7 @@ See also
 <b>NMS (non-maximum suppression)</b>
 <b>no free lunch theorem</b>
 <b>node values</b>
-nodes
+<b>nodes</b>
 noise loss
 nonlinear datasets
 nonlinearities
@@ -1046,7 +1046,7 @@ nstaller/application.yaml file
 
 ## O
 
-<b>oad_weights() method</b>
+<b>load_weights() method</b>
 <b>object detection</b>
 <b>framework</b>
 <b>network predictions</b>
