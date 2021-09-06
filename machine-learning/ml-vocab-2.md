@@ -619,7 +619,9 @@
 <b>FPS (frames per second)</b>
 <b>freezing layers</b>
 <b>F-score</b>
-<b>fully connected layers</b>
+
+### <b>fully connected layers</b>
+
 <b>images as</b>
 <b>training</b>
 
