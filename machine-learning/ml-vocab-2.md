@@ -584,7 +584,9 @@
 <b>feature maps</b>
 <b>feature vector</b>
 <b>feature visualizer</b>
-<b>feature_layers</b>
+
+### <b>feature_layers</b>
+
 <b>advantages of</b>
 <b>handcrafted</b>
 <b>learning</b>
