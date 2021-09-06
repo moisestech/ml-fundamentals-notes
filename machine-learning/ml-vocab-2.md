@@ -693,7 +693,9 @@
 <b>with momentum</b>
 <b>gradients function</b>
 <b>gram matrix</b>
-<b>graph transformer network</b>
+
+### <b>graph transformer network</b>
+
 <b>converting color images</b>
 <b>images</b>
 <b>ground truth bounding box</b>
