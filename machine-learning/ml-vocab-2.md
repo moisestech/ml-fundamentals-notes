@@ -1039,7 +1039,7 @@ See also
 <b>nonlinear datasets</b>
 <b>nonlinearities</b>
 <b>non-trainable params</b>
-normalizing data
+<b>normalizing data</b>
 nstaller/application.yaml file
 
 ---
