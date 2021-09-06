@@ -564,7 +564,9 @@
 <b>multi-task loss function in</b>
 <b>architecture of</b>
 <b>base network to extract features</b>
-<b>fully connected layers</b>
+
+### <b>fully connected layers</b>
+
 <b>multi-task loss function</b>
 <b>object detection with</b>
 <b>RPNs</b>
