@@ -502,7 +502,9 @@
 <b>EC2 Management Console</b>
 <b>EC2 On-Demand Pricing page</b>
 <b>edges</b>
-<b>embedding networks, training</b>
+
+### <b>embedding networks, training</b>
+
 <b>finding similar items</b>
 <b>implementation</b>
 <b>object re-identification</b>
