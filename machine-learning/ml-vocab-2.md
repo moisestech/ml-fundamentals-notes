@@ -524,7 +524,9 @@
 
 <b>number of</b>
 <b>training</b>
-<b>error functions</b>
+
+### <b>error functions</b>
+
 <b>advantages of</b>
 <b>cross-entropy</b>
 <b>errors</b>
