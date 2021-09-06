@@ -1040,7 +1040,7 @@ See also
 <b>nonlinearities</b>
 <b>non-trainable params</b>
 <b>normalizing data</b>
-nstaller/application.yaml file
+<b>installer/application.yaml file</b>
 
 ---
 
