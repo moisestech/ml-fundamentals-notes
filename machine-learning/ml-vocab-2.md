@@ -1027,13 +1027,13 @@ See also
 <b>network training</b>
 <b>style loss</b>
 <b>gram matrix for measuring jointly activated feature maps</b>
-multiple layers for representing style features
-total variance loss
-neurons
-new_model
-NMS (non-maximum suppression)
-no free lunch theorem
-node values
+<b>multiple layers for representing style features</b>
+<b>total variance loss</b>
+<b>neurons</b>
+<b>new_model</b>
+<b>NMS (non-maximum suppression)</b>
+<b>no free lunch theorem</b>
+<b>node values</b>
 nodes
 noise loss
 nonlinear datasets
