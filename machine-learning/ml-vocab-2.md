@@ -630,7 +630,9 @@
 ## G
 
 <b>gallery set</b>
-<b>GANs (generative adversarial networks)</b>
+
+### <b>GANs (generative adversarial networks)</b>
+
 <b>applications for</b>
 <b>image-to-image translation</b>
 <b>Pix2Pix GAN</b>
