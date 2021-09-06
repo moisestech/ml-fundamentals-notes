@@ -519,7 +519,9 @@
 <b>developing manually</b>
 <b>loading</b>
 <b>saving</b>
-<b>epochs</b>
+
+### <b>epochs</b>
+
 <b>number of</b>
 <b>training</b>
 <b>error functions</b>
