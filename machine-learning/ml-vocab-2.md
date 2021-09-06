@@ -651,7 +651,9 @@
 <b>choosing evaluation scheme</b>
 <b>FID</b>
 <b>inception score</b>
-<b>generators</b>
+
+### <b>generators</b>
+
 <b>importing libraries</b>
 <b>training</b>
 <b>discriminators</b>
