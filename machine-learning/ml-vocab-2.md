@@ -556,7 +556,9 @@
 <b>False setting</b>
 <b>Fashion-MNIST</b>
 <b>fashion_mnist.load_data() method</b>
-<b>Fast R-CNNs (region-based convolutional neural networks)</b>
+
+### <b>Fast R-CNNs (region-based convolutional neural networks)</b>
+
 <b>architecture of</b>
 <b>disadvantages of</b>
 <b>multi-task loss function in</b>
