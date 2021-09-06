@@ -512,7 +512,9 @@
 <b>object re-identification</b>
 <b>retrievals</b>
 <b>embedding space</b>
-<b>endAnaconda</b>
+
+### <b>endAnaconda</b>
+
 <b>conda</b>
 <b>developing manually</b>
 <b>loading</b>
