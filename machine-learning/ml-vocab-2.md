@@ -674,7 +674,9 @@
 <b>global average pooling</b>
 <b>global minima</b>
 <b>Google Open Images</b>
-<b>GoogLeNet</b>
+
+### <b>GoogLeNet</b>
+
 <b>architecture of</b>
 <b>in Keras</b>
 <b>building classifiers</b>
