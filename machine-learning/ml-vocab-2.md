@@ -1105,7 +1105,9 @@ See also
 <b>overview</b>
 <b>perceptrons</b>
 <b>learning logic of</b>
-<b>neurons</b>
+
+### <b>neurons</b>
+
 <b>overview</b>
 <b>width of</b>
 <b>neural style transfer</b>
