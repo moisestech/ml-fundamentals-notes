@@ -910,7 +910,9 @@ See also
 
 <b>architecture of</b>
 <b>in Keras</b>
-<b>learning hyperparameters in</b>
+
+### <b>learning hyperparameters in</b>
+
 <b>on MNIST dataset</b>
 <b>libraries in GANs</b>
 <b>linear combination</b>
