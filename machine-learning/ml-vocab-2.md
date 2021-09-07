@@ -868,7 +868,9 @@
 <b>lambda parameter</b>
 <b>lambda value</b>
 <b>layer_name</b>
-<b>layers</b>
+
+### <b>layers</b>
+
 <b>1 × 1 convolutional</b>
 <b>dropout</b>
 <b>adding to avoid overfitting</b>
