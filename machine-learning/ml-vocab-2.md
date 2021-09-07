@@ -941,7 +941,9 @@ See also
 <b>runtime analysis of</b>
 <b>total variance</b>
 <b>visualizing</b>
-<b>loss functions</b>
+
+### <b>loss functions</b>
+
 <b>contrastive loss</b>
 <b>cross-entropy loss</b>
 <b>naive implementation</b>
