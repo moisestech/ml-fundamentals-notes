@@ -1168,7 +1168,9 @@ See also
 <b>training SSD networks</b>
 <b>with YOLOv3</b>
 <b>architecture of</b>
-<b>overview</b>
+
+### <b>overview</b>
+
 <b>object re-identification</b>
 <b>object-detector evaluation metrics</b>
 <b>FPS to measure detection speed</b>
