@@ -782,7 +782,9 @@
 <b>ImageDataGenerator class</b>
 <b>ImageNet</b>
 <b>ImageNet Large Scale Visual Recognition Challenge (ILSVRC)</b>
-<b>images</b>
+
+### <b>images</b>
+
 <b>as functions</b>
 <b>augmenting</b>
 <b>color images</b>
