@@ -1093,7 +1093,9 @@ See also
 <b>architecture of</b>
 <b>hidden layers</b>
 <b>layers</b>
-<b>nodes</b>
+
+### <b>nodes</b>
+
 <b>optimization</b>
 <b>optimization algorithms</b>
 <b>batch gradient descent</b>
