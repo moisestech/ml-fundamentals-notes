@@ -836,7 +836,9 @@
 ## K
 
 <b>K object classes</b>
-<b>Kaggle datasets</b>
+
+### <b>Kaggle datasets</b>
+
 <b>AlexNet in</b>
 <b>batch normalization in</b>
 <b>DeepDream in</b>
