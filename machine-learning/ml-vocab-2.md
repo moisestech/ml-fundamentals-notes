@@ -1044,7 +1044,9 @@ See also
 <b>naive representation</b>
 <b>n-dimensional array</b>
 <b>neg_pos_ratio</b>
-<b>networks</b>
+
+### <b>networks</b>
+
 <b>architecture of</b>
 <b>activation type</b>
 <b>depth of neural networks</b>
@@ -1060,7 +1062,9 @@ See also
 <b>as feature extractors</b>
 <b>to extract features</b>
 <b>training</b>
-<b>neural networks</b>
+
+### <b>neural networks</b>
+
 <b>activation functions</b>
 <b>binary classifier</b>
 <b>heaviside step function</b>
