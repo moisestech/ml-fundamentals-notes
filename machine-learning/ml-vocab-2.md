@@ -882,7 +882,9 @@
 <b>hidden<b>
 <b>representing style features</b>
 <b>Leaky ReLU</b>
-<b>learning</b>
+
+### <b>learning</b>
+
 <b>adaptive</b>
 <b>embedding</b>
 <b>features</b>
