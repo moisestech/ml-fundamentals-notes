@@ -956,7 +956,9 @@ See also
 ## M
 
 <b>MAC (multiplier-accumulator)</b>
-<b>MAC operation</b>
+
+### <b>MAC operation</b>
+
 <b>human brain vs.</b>
 <b>with handcrafted features</b>
 <b>main path</b>
