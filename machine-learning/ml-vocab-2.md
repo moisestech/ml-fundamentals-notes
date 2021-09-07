@@ -897,7 +897,9 @@
 <b>in VGGNet</b>
 <b>mini-batch size</b>
 See also
-<b>learning curves, plotting</b>
+
+### <b>learning curves, plotting</b>
+
 <b>batch gradient descent</b>
 <b>decay</b>
 <b>derivative and</b>
