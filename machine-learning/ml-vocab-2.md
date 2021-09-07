@@ -1110,7 +1110,9 @@ See also
 
 <b>overview</b>
 <b>width of</b>
-<b>neural style transfer</b>
+
+### <b>neural style transfer</b>
+
 <b>content loss</b>
 <b>network training</b>
 <b>style loss</b>
