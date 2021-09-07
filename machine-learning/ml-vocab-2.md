@@ -1137,7 +1137,9 @@ See also
 ## O
 
 <b>load_weights() method</b>
-<b>object detection</b>
+
+### <b>object detection</b>
+
 <b>framework</b>
 <b>network predictions</b>
 <b>NMS</b>
