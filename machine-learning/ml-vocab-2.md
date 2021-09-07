@@ -920,7 +920,9 @@ See also
 <b>linear decay</b>
 <b>linear transfer function</b>
 <b>load_data() method</b>
-<b>load_dataset() method</b>
+
+### <b>load_dataset() method</b>
+
 <b>data</b>
 <b>datasets</b>
 <b>environments</b>
