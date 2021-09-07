@@ -763,7 +763,9 @@
 <b>with high accuracy</b>
 <b>building model architecture</b>
 <b>evaluating models</b>
-<b>importing dependencies</b>
+
+### <b>importing dependencies</b>
+
 <b>preparing data for training</b>
 <b>training models</b>
 <b>with MLPs</b>
