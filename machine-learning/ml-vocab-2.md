@@ -715,7 +715,9 @@
 <b>high-recall model</b>
 <b>human in the loop</b>
 <b>human vision systems</b>
-<b>hyperbolic tangent function</b>
+
+### <b>hyperbolic tangent function</b>
+
 <b>in AlexNet</b>
 <b>in GoogLeNet</b>
 <b>in Inception</b>
