@@ -743,7 +743,9 @@
 
 <b>identity function</b>
 <b>if-else statements</b>
-<b>image classification</b>
+
+### <b>image classification</b>
+
 <b>for color images</b>
 <b>compiling models</b>
 <b>defining model architecture</b>
