@@ -800,7 +800,9 @@
 <b>rescaling</b>
 <b>resizing</b>
 <b>image-to-image translation</b>
-<b>Inception</b>
+
+### <b>Inception</b>
+
 <b>architecture of</b>
 <b>features of</b>
 <b>learning hyperparameters in</b>
