@@ -988,7 +988,9 @@ See also
 <b>mixed3 layer</b>
 <b>mixed4 layer</b>
 <b>mixed5 layer</b>
-<b>MLPs (multilayer perceptrons)</b>
+
+### <b>MLPs (multilayer perceptrons)</b>
+
 <b>architecture of</b>
 <b>hidden layers</b>
 <b>image classification with</b>
