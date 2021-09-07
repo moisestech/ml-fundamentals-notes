@@ -771,7 +771,9 @@
 <b>with MLPs</b>
 <b>drawbacks of</b>
 <b>hidden layers</b>
-<b>input layers</b>
+
+### <b>input layers</b>
+
 <b>output layers</b>
 <b>image classifier</b>
 <b>image flattening</b>
