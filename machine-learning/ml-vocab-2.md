@@ -1183,7 +1183,9 @@ See also
 <b>one-hot encoding</b>
 <b>online learning</b>
 <b>Open Images Challenge</b>
-<b>open source datasets</b>
+
+### <b>open source datasets</b>
+
 <b>CIFAR</b>
 <b>Fashion-MNIST</b>
 <b>Google Open Images</b>
