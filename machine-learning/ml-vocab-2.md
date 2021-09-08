@@ -1333,7 +1333,9 @@ See also
 <b>regression layer</b>
 <b>regressors</b>
 <b>regular shortcut</b>
-<b>regularization techniques to avoid overfitting</b>
+
+### <b>regularization techniques to avoid overfitting</b>
+
 <b>augmenting data</b>
 <b>dropout layers</b>
 <b>L2 regularization</b>
