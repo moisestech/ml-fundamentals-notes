@@ -1474,7 +1474,9 @@ See also
 <b>finding similar items</b>
 <b>implementation</b>
 <b>object re-identification</b>
-<b>testing trained models</b>
+
+### <b>testing trained models</b>
+
 <b>epochs</b>
 <b>functions</b>
 <b>GANs</b>
@@ -1496,15 +1498,21 @@ See also
 <b>creating models</b>
 <b>loading data</b>
 <b>making predictions</b>
-<b>training models</b>
+
+### <b>training models</b>
+
 <b>visualizing loss</b>
 <b>train_loss value</b>
 <b>train_on_batch method</b>
 <b>train_path variable</b>
-<b>transfer functions</b>
+
+### <b>transfer functions</b>
+
 <b>in GANs</b>
 <b>linear</b>
-<b>transfer learning</b>
+
+### <b>transfer learning</b>
+
 <b>approaches to</b>
 <b>using pretrained network as classifier</b>
 <b>using pretrained network as feature extractor</b>
