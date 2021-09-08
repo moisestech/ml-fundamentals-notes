@@ -1349,7 +1349,9 @@ See also
 <b>residual module architecture</b>
 <b>residual notation</b>
 <b>resizing images</b>
-<b>ResNet (Residual Neural Network)</b>
+
+### <b>ResNet (Residual Neural Network)</b>
+
 <b>features of</b>
 <b>in Keras</b>
 <b>learning hyperparameters in</b>
