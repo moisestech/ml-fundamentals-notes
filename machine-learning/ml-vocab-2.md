@@ -1224,7 +1224,9 @@ See also
 
 <b>adding dropout layers to avoid</b>
 <b>diagnosing</b>
-<b>overview</b>
+
+### <b>overview</b>
+
 <b>regularization techniques to avoid</b>
 <b>augmenting data</b>
 <b>dropout layers</b>
