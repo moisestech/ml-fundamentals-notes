@@ -1339,7 +1339,9 @@ See also
 <b>augmenting data</b>
 <b>dropout layers</b>
 <b>L2 regularization</b>
-<b>ReLU (rectified linear unit)</b>
+
+### <b>ReLU (rectified linear unit)</b>
+
 <b>activation functions</b>
 <b>leaky</b>
 <b>rescaling images</b>
