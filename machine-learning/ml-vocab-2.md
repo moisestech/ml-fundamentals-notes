@@ -1562,7 +1562,9 @@ See also
 
 <b>val_acc</b>
 <b>val_acc value</b>
-<b>val_error value</b>
+
+### <b>val_error value</b>
+
 <b>overview</b>
 <b>splitting</b>
 <b>valid_path variable</b>
