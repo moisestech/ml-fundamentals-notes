@@ -1356,7 +1356,9 @@ See also
 <b>in Keras</b>
 <b>learning hyperparameters in</b>
 <b>performance on CIFAR dataset</b>
-<b>residual blocks</b>
+
+### <b>residual blocks</b>
+
 <b>results, observing</b>
 <b>retrievals</b>
 <b>RGB (Red Green Blue)</b>
