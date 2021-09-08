@@ -1237,7 +1237,9 @@ See also
 ## P
 
 <b>padding</b>
-<b>PAMTRI (pose aware multi-task learning)</b>
+
+### <b>PAMTRI (pose aware multi-task learning)</b>
+
 <b>calculating</b>
 <b>hyperparameters vs.</b>
 <b>non-trainable params</b>
