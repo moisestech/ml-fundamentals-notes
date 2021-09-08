@@ -1397,7 +1397,9 @@ See also
 <b>data</g>
 <b>for training</g>
 <b>for validation</g>
-<b>SRGAN (super-resolution generative adversarial networks)</g>
+
+### <b>SRGAN (super-resolution generative adversarial networks)</g>
+
 <b>architecture of</g>
 <b>base network</g>
 <b>multi-scale feature layers</g>
