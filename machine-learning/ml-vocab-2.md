@@ -1464,7 +1464,9 @@ See also
 <b>TP (true positives)</b>
 <b>train() function</b>
 <b>trainable params</b>
-<b>train_acc value</b>
+
+### <b>train_acc value</b>
+
 <b>AlexNet</b>
 <b>by trial and error</b>
 <b>discriminators</b>
