@@ -1281,7 +1281,9 @@ See also
 <b>max pooling vs. average pooling</b>
 <b>PR CURVE (precision-recall curve)</b>
 <b>precision</b>
-<b>predictions</b>
+
+### <b>predictions</b>
+
 <b>across different scales</b>
 <b>bounding box with regressors</b>
 <b>for networks</b>
