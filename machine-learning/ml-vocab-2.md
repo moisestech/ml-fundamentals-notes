@@ -1274,7 +1274,9 @@ See also
 <b>POOL layer</b>
 <b>POOL_1 layer</b>
 <b>POOL_2 layer</b>
-<b>pooling layers</b>
+
+### <b>pooling layers</b>
+
 <b>convolutional layers</b>
 <b>max pooling vs. average pooling</b>
 <b>PR CURVE (precision-recall curve)</b>
