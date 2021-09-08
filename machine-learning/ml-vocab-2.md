@@ -1575,7 +1575,9 @@ See also
 <b>VeRi dataset</b>
 <b>VGG16 configuration</b>
 <b>VGG19 configuration</b>
-<b>VGGNet (Visual Geometry Group at Oxford University)</b>
+
+### <b>VGGNet (Visual Geometry Group at Oxford University)</b>
+
 <b>configurations</b>
 <b>features of</b>
 <b>learning hyperparameters in</b>
