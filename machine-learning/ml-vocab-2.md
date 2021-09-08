@@ -1301,7 +1301,9 @@ See also
 
 <b>splitting datasets for training</b>
 <b>splitting datasets for validation</b>
-<b>pretrained model</b>
+
+### <b>pretrained model</b>
+
 <b>as classifiers</b>
 <b>as feature extractors</b>
 <b>priors</b>
