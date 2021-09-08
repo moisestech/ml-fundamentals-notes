@@ -1629,7 +1629,9 @@ See also
 <b>weight regularization</b>
 <b>weighted sum</b>
 <b>weighted sum function</b>
-<b>weights</b>
+
+### <b>weights</b>
+
 <b>calculating parameters</b>
 <b>non-trainable params</b>
 <b>trainable params</b>
