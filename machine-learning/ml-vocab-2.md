@@ -1391,7 +1391,9 @@ See also
 <b>Softmax layer</g>
 <b>source domain</g>
 <b>spatial features</g>
-<b>specificity</g>
+
+### <b>specificity</g>
+
 <b>data</g>
 <b>for training</g>
 <b>for validation</g>
