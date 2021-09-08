@@ -1443,7 +1443,9 @@ See also
 <b>tanh activation function</b>
 <b>Tensorflow playground</b>
 <b>tensors</b>
-<b>testing trained model</b>
+
+### <b>testing trained model</b>
+
 <b>object re-identification</b>
 <b>retrievals</b>
 <b>test_path variable</b>
