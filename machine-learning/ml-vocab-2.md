@@ -1219,7 +1219,9 @@ See also
 <b>optimized weights</b>
 <b>optimizer</b>
 <b>output layer</b>
-<b>Output Shape columns</b>
+
+### <b>Output Shape columns</b>
+
 <b>adding dropout layers to avoid</b>
 <b>diagnosing</b>
 <b>overview</b>
