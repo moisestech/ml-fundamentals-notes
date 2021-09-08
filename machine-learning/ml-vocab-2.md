@@ -1356,16 +1356,16 @@ See also
 <b>in Keras</b>
 <b>learning hyperparameters in</b>
 <b>performance on CIFAR dataset</b>
-
-### <b>residual blocks</b>
-
+<b>residual blocks</b>
 <b>results, observing</b>
 <b>retrievals</b>
 <b>RGB (Red Green Blue)</b>
 <b>RoI extractor</b>
 <b>RoI pooling layer</b>
 <b>RoIs (regions of interest)</b>
-<b>RPNs (region proposal networks)</b>
+
+### <b>RPNs (region proposal networks)</b>
+
 <b>anchor boxes</b>
 <b>predicting bounding box with regressors</b>
 <b>training</b>
