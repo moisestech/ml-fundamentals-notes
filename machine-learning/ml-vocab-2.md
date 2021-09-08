@@ -1252,7 +1252,9 @@ See also
 <b>Path-LSTM</b>
 <b>patience variable</b>
 <b>.pem file</b>
-<b>perceptrons</b>
+
+### <b>perceptrons</b>
+
 <b>learning logic of</b>
 <b>neurons</b>
 <b>overview</b>
