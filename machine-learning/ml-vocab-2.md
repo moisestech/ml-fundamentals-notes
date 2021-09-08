@@ -1610,7 +1610,9 @@ See also
 <b>implementation</b>
 <b>object re-identification</b>
 <b>testing trained models</b>
-<b>visual perception</b>
+
+### <b>visual perception</b>
+
 <b>datasets</b>
 <b>features</b>
 <b>loss</b>
