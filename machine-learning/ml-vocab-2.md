@@ -1260,7 +1260,9 @@ See also
 <b>overview</b>
 <b>step activation function</b>
 <b>weighted sum function</b>
-<b>performance metrics</b>
+
+### <b>performance metrics</b>
+
 <b>accuracy</b>
 <b>confusion matrix</b>
 <b>F-score</b>
