@@ -1532,7 +1532,9 @@ See also
 <b>MS COCO</b>
 <b>overview</b>
 <b>neural networks learning features</b>
-<b>transferring features</b>
+
+### <b>transferring features</b>
+
 <b>pretrained networks as feature extractors</b>
 <b>when to use</b>
 <b>transferring features</b>
