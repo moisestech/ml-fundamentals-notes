@@ -1296,7 +1296,9 @@ See also
 <b>images</b>
 <b>converting color images to grayscale images</b>
 <b>one-hot encoding</b>
-<b>preparing labels</b>
+
+### <b>preparing labels</b>
+
 <b>splitting datasets for training</b>
 <b>splitting datasets for validation</b>
 <b>pretrained model</b>
