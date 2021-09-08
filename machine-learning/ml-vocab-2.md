@@ -1540,7 +1540,9 @@ See also
 <b>transferring features</b>
 <b>transposition</b>
 <b>triplets, finding</b>
-<b>tuning hyperparameters</b>
+
+### <b>tuning hyperparameters</b>
+
 <b>collecting data vs.</b>
 <b>neural network hyperparameters</b>
 <b>parameters vs. hyperparameters</b>
