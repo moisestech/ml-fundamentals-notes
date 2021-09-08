@@ -1588,7 +1588,9 @@ See also
 <b>AI</b>
 <b>human</b>
 <b>visual embedding layer</b>
-<b>visual embeddings</b>
+
+### <b>visual embeddings</b>
+
 <b>face recognition</b>
 <b>image recommendation systems</b>
 <b>learning embedding</b>
