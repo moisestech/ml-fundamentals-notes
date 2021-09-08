@@ -1208,7 +1208,9 @@ See also
 <b>step size</b>
 <b>early stopping</b>
 <b>gradient descent</b>
-<b>overview</b>
+
+### <b>overview</b>
+
 <b>with momentum</b>
 <b>MB-GD</b>
 <b>number of epochs</b>
