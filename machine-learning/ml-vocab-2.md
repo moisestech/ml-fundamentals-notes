@@ -1195,7 +1195,9 @@ See also
 <b>MS COCO</b>
 <b>optimal weights</b>
 <b>optimization</b>
-<b>optimization algorithms</b>
+
+### <b>optimization algorithms</b>
+
 <b>Adam (adaptive moment estimation)</b>
 <b>batch gradient descent</b>
 <b>derivative</b>
