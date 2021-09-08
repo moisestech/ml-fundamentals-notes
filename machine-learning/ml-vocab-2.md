@@ -1582,7 +1582,9 @@ See also
 <b>features of</b>
 <b>learning hyperparameters in</b>
 <b>performance</b>
-<b>vision systems</b>
+
+### <b>vision systems</b>
+
 <b>AI</b>
 <b>human</b>
 <b>visual embedding layer</b>
