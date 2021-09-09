@@ -1596,7 +1596,7 @@ See also
 - <b>learning embedding</b>
 - <b>loss functions</b>
 - <b>contrastive loss</b>
-  <b>cross-entropy loss</b>
+- <b>cross-entropy loss</b>
   <b>naive implementation</b>
   <b>runtime analysis of losses</b>
   <b>mining informative data</b>
