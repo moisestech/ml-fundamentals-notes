@@ -1592,7 +1592,7 @@ See also
 ### <b>visual embeddings</b>
 
 - <b>face recognition</b>
-  <b>image recommendation systems</b>
+- <b>image recommendation systems</b>
   <b>learning embedding</b>
   <b>loss functions</b>
   <b>contrastive loss</b>
