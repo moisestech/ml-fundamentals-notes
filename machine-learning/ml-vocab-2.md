@@ -1658,7 +1658,7 @@ See also
 ## Y
 
 <b>architecture of</b>
-object detection with
+<b>object detection with</b>
 overview
 output bounding boxes
 predictions across different scales
