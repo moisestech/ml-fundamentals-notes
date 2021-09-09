@@ -1608,7 +1608,7 @@ See also
 - <b>training embedding networks</b>
 - <b>finding similar items</b>
 - <b>implementation</b>
-  <b>object re-identification</b>
+- <b>object re-identification</b>
   <b>testing trained models</b>
 
 ### <b>visual perception</b>
