@@ -1648,12 +1648,6 @@ See also
 <b>x_test</b>
 <b>x_train</b>
 <b>x_valid</b>
-<b>Y</b>
-<b>architecture of</b>
-<b>object detection with</b>
-<b>overview</b>
-<b>output bounding boxes</b>
-<b>predictions across different scales</b>
 
 ---
 
