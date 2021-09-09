@@ -1632,9 +1632,10 @@ See also
 
 ### <b>weights</b>
 
-<b>calculating parameters</b>
-<b>non-trainable params</b>
-<b>trainable params</b>
+- <b>calculating parameters</b>
+- <b>non-trainable params</b>
+- <b>trainable params</b>
+
 <b>weights vector</b>
 <b>width value</b>
 
