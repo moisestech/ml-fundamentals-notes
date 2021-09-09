@@ -1599,7 +1599,7 @@ See also
 - <b>cross-entropy loss</b>
 - <b>naive implementation</b>
 - <b>runtime analysis of losses</b>
-  <b>mining informative data</b>
+- <b>mining informative data</b>
   <b>BH</b>
   <b>BS</b>
   <b>BW</b>
