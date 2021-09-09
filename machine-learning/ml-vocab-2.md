@@ -1661,7 +1661,7 @@ See also
 <b>object detection with</b>
 <b>overview</b>
 <b>output bounding boxes</b>
-predictions across different scales
+<b>predictions across different scales</b>
 
 ## Z
 
