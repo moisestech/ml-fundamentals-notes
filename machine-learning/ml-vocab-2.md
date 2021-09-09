@@ -1657,7 +1657,7 @@ See also
 
 ## Y
 
-architecture of
+<b>architecture of</b>
 object detection with
 overview
 output bounding boxes
