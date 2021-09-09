@@ -1595,7 +1595,7 @@ See also
 - <b>image recommendation systems</b>
 - <b>learning embedding</b>
 - <b>loss functions</b>
-  <b>contrastive loss</b>
+- <b>contrastive loss</b>
   <b>cross-entropy loss</b>
   <b>naive implementation</b>
   <b>runtime analysis of losses</b>
