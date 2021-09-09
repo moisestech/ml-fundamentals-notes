@@ -1660,7 +1660,7 @@ See also
 <b>architecture of</b>
 <b>object detection with</b>
 <b>overview</b>
-output bounding boxes
+<b>output bounding boxes</b>
 predictions across different scales
 
 ## Z
