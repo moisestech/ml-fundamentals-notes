@@ -1659,7 +1659,7 @@ See also
 
 <b>architecture of</b>
 <b>object detection with</b>
-overview
+<b>overview</b>
 output bounding boxes
 predictions across different scales
 
