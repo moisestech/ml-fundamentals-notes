@@ -1655,6 +1655,14 @@ See also
 
 ---
 
+## Y
+
+architecture of
+object detection with
+overview
+output bounding boxes
+predictions across different scales
+
 ## Z
 
 <b>zero-padding</b>
