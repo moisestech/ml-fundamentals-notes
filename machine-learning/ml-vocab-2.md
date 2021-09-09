@@ -1594,7 +1594,7 @@ See also
 - <b>face recognition</b>
 - <b>image recommendation systems</b>
 - <b>learning embedding</b>
-  <b>loss functions</b>
+- <b>loss functions</b>
   <b>contrastive loss</b>
   <b>cross-entropy loss</b>
   <b>naive implementation</b>
