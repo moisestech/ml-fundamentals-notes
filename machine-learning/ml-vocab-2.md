@@ -1591,25 +1591,25 @@ See also
 
 ### <b>visual embeddings</b>
 
-<b>face recognition</b>
-<b>image recommendation systems</b>
-<b>learning embedding</b>
-<b>loss functions</b>
-<b>contrastive loss</b>
-<b>cross-entropy loss</b>
-<b>naive implementation</b>
-<b>runtime analysis of losses</b>
-<b>mining informative data</b>
-<b>BH</b>
-<b>BS</b>
-<b>BW</b>
-<b>dataloader</b>
-<b>finding useful triplets</b>
-<b>training embedding networks</b>
-<b>finding similar items</b>
-<b>implementation</b>
-<b>object re-identification</b>
-<b>testing trained models</b>
+- <b>face recognition</b>
+  <b>image recommendation systems</b>
+  <b>learning embedding</b>
+  <b>loss functions</b>
+  <b>contrastive loss</b>
+  <b>cross-entropy loss</b>
+  <b>naive implementation</b>
+  <b>runtime analysis of losses</b>
+  <b>mining informative data</b>
+  <b>BH</b>
+  <b>BS</b>
+  <b>BW</b>
+  <b>dataloader</b>
+  <b>finding useful triplets</b>
+  <b>training embedding networks</b>
+  <b>finding similar items</b>
+  <b>implementation</b>
+  <b>object re-identification</b>
+  <b>testing trained models</b>
 
 ### <b>visual perception</b>
 
