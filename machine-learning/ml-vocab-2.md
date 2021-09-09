@@ -1613,9 +1613,10 @@ See also
 
 ### <b>visual perception</b>
 
-<b>datasets</b>
-<b>features</b>
-<b>loss</b>
+- <b>datasets</b>
+- <b>features</b>
+- <b>loss</b>
+
 <b>VUIs (voice user interfaces)</b>
 
 ---
