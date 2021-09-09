@@ -1602,7 +1602,7 @@ See also
 - <b>mining informative data</b>
 - <b>BH</b>
 - <b>BS</b>
-  <b>BW</b>
+- <b>BW</b>
   <b>dataloader</b>
   <b>finding useful triplets</b>
   <b>training embedding networks</b>
