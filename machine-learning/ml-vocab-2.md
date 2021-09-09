@@ -1605,7 +1605,7 @@ See also
 - <b>BW</b>
 - <b>dataloader</b>
 - <b>finding useful triplets</b>
-  <b>training embedding networks</b>
+- <b>training embedding networks</b>
   <b>finding similar items</b>
   <b>implementation</b>
   <b>object re-identification</b>
