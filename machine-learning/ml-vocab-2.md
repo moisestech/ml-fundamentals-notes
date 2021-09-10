@@ -729,17 +729,17 @@
 
 ### <b>hyperbolic tangent function</b>
 
-<b>in AlexNet</b>
-<b>in GoogLeNet</b>
-<b>in Inception</b>
-<b>in LeNet-5</b>
-<b>in ResNet</b>
-<b>in VGGNet</b>
-<b>neural network hyperparameters</b>
-<b>parameters vs.</b>
-<b>tuning</b>
-<b>collecting data vs.</b>
-<b>neural network hyperparameters</b>
+- <b>in AlexNet</b>
+  <b>in GoogLeNet</b>
+  <b>in Inception</b>
+  <b>in LeNet-5</b>
+  <b>in ResNet</b>
+  <b>in VGGNet</b>
+  <b>neural network hyperparameters</b>
+  <b>parameters vs.</b>
+  <b>tuning</b>
+  <b>collecting data vs.</b>
+  <b>neural network hyperparameters</b>
 
 <b>parameters vs. hyperparameters</b>
 
