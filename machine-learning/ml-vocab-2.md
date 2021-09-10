@@ -660,10 +660,10 @@
 
 ### <b>generators</b>
 
-<b>importing libraries</b>
-<b>training</b>
-<b>discriminators</b>
-<b>epochs</b>
+- <b>importing libraries</b>
+  <b>training</b>
+  <b>discriminators</b>
+  <b>epochs</b>
 
 ### <b>generators</b>
 
