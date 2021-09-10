@@ -685,15 +685,15 @@
 
 ### <b>GoogLeNet</b>
 
-<b>architecture of</b>
-<b>in Keras</b>
-<b>building classifiers</b>
-<b>building inception modules</b>
-<b>building max-pooling layers</b>
-<b>building network</b>
-<b>learning hyperparameters in</b>
-<b>GPUs (graphics processing units)</b>
-<b>gradient ascent</b>
+- <b>architecture of</b>
+  <b>in Keras</b>
+  <b>building classifiers</b>
+  <b>building inception modules</b>
+  <b>building max-pooling layers</b>
+  <b>building network</b>
+  <b>learning hyperparameters in</b>
+  <b>GPUs (graphics processing units)</b>
+  <b>gradient ascent</b>
 
 ### <b>gradient descent (GD)</b>
 
