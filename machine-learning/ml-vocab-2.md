@@ -676,11 +676,11 @@
 
 ### <b>generators</b>
 
-<b>in GANs</b>
-<b>training</b>
-<b>global average pooling</b>
-<b>global minima</b>
-<b>Google Open Images</b>
+- <b>in GANs</b>
+  <b>training</b>
+  <b>global average pooling</b>
+  <b>global minima</b>
+  <b>Google Open Images</b>
 
 ### <b>GoogLeNet</b>
 
