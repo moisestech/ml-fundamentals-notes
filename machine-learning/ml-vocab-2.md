@@ -667,11 +667,11 @@
 
 ### <b>generators</b>
 
-<b>training functions</b>
-<b>visualizing datasets</b>
-<b>generative models</b>
-<b>generator models</b>
-<b>generator_model function</b>
+- <b>training functions</b>
+  <b>visualizing datasets</b>
+  <b>generative models</b>
+  <b>generator models</b>
+  <b>generator_model function</b>
 
 ### <b>generators</b>
 
