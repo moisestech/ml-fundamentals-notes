@@ -706,10 +706,10 @@
 
 ### <b>graph transformer network</b>
 
-<b>converting color images</b>
-<b>images</b>
-<b>ground truth bounding box</b>
-<b>GSTE (group-sensitive triplet embedding)</b>
+- <b>converting color images</b>
+  <b>images</b>
+  <b>ground truth bounding box</b>
+  <b>GSTE (group-sensitive triplet embedding)</b>
 
 ---
 
