@@ -692,8 +692,9 @@
 - <b>building max-pooling layers</b>
 - <b>building network</b>
 - <b>learning hyperparameters in</b>
-  <b>GPUs (graphics processing units)</b>
-  <b>gradient ascent</b>
+
+<b>GPUs (graphics processing units)</b>
+<b>gradient ascent</b>
 
 ### <b>gradient descent (GD)</b>
 
