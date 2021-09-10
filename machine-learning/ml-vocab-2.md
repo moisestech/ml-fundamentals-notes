@@ -672,7 +672,7 @@
 
 <b>generative models</b>
 <b>generator models</b>
-<b>generator_model function</b>
+<b>generator model function</b>
 
 ### <b>generators</b>
 
