@@ -699,9 +699,10 @@
 ### <b>gradient descent (GD)</b>
 
 - <b>overview</b>
-  <b>with momentum</b>
-  <b>gradients function</b>
-  <b>gram matrix</b>
+- <b>with momentum</b>
+
+<b>gradients function</b>
+<b>gram matrix</b>
 
 ### <b>graph transformer network</b>
 
