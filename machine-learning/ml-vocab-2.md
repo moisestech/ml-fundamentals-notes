@@ -639,12 +639,12 @@
 
 ### <b>GANs (generative adversarial networks)</b>
 
-<b>applications for</b>
-<b>image-to-image translation</b>
-<b>Pix2Pix GAN</b>
-<b>SRGAN</b>
-<b>architecture of</b>
-<b>DCGANs</b>
+- <b>applications for</b>
+- <b>image-to-image translation</b>
+- <b>Pix2Pix GAN</b>
+- <b>SRGAN</b>
+- <b>architecture of</b>
+- <b>DCGANs</b>
 
 ### <b>generator models</b>
 
