@@ -533,9 +533,9 @@
 
 ### <b>errors</b>
 
-<b>mean squared error</b>
-<b>overview</b>
-<b>weights</b>
+- <b>mean squared error</b>
+- <b>overview</b>
+- <b>weights</b>
 
 ### <b>errors</b>
 
