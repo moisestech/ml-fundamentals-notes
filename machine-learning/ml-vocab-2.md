@@ -591,12 +591,12 @@
 
 ### <b>feature_layers</b>
 
-<b>advantages of</b>
-<b>handcrafted</b>
-<b>learning</b>
-<b>overview</b>
-<b>transferring</b>
-<b>visualizing</b>
+- <b>advantages of</b>
+- <b>handcrafted</b>
+- <b>learning</b>
+- <b>overview</b>
+- <b>transferring</b>
+- <b>visualizing</b>
 
 ### <b>feedforward process</b>
 
