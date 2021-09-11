@@ -575,6 +575,7 @@
 <b>anchor boxes</b>
 <b>predicting bounding box with regressor</b>
 <b>training</b>
+
 <b>FC layer</b>
 <b>FCNs (fully convolutional networks)</b>
 
