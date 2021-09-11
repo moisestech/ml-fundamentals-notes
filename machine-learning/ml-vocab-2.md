@@ -537,8 +537,7 @@
 - <b>overview</b>
 - <b>weights</b>
 
-### <b>errors</b>
-
+<b>errors</b>
 <b>evaluate() method</b>
 <b>evaluation schemes</b>
 <b>Evaluator class</b>
