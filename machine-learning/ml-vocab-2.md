@@ -523,8 +523,8 @@
 
 ### <b>epochs</b>
 
-<b>number of</b>
-<b>training</b>
+- <b>number of</b>
+  <b>training</b>
 
 ### <b>error functions</b>
 
