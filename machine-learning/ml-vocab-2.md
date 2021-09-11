@@ -528,8 +528,9 @@
 
 ### <b>error functions</b>
 
-<b>advantages of</b>
-<b>cross-entropy</b>
+- <b>advantages of</b>
+- <b>cross-entropy</b>
+
 <b>errors</b>
 <b>mean squared error</b>
 <b>overview</b>
