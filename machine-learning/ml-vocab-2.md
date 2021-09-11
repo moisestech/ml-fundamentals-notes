@@ -581,8 +581,9 @@
 
 ### <b>feature extraction</b>
 
-<b>automatically</b>
-<b>handcrafted features</b>
+- <b>automatically</b>
+- <b>handcrafted features</b>
+
 <b>feature extractors</b>
 <b>feature maps</b>
 <b>feature vector</b>
