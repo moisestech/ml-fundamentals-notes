@@ -569,12 +569,12 @@
 
 ### <b>fully connected layers</b>
 
-<b>multi-task loss function</b>
-<b>object detection with</b>
-<b>RPNs</b>
-<b>anchor boxes</b>
-<b>predicting bounding box with regressor</b>
-<b>training</b>
+- <b>multi-task loss function</b>
+- <b>object detection with</b>
+- <b>RPNs</b>
+  <b>anchor boxes</b>
+  <b>predicting bounding box with regressor</b>
+  <b>training</b>
 
 <b>FC layer</b>
 <b>FCNs (fully convolutional networks)</b>
