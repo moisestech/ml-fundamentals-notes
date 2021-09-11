@@ -573,7 +573,7 @@
 - <b>object detection with</b>
 - <b>RPNs</b>
 - <b>anchor boxes</b>
-  <b>predicting bounding box with regressor</b>
+- <b>predicting bounding box with regressor</b>
   <b>training</b>
 
 <b>FC layer</b>
