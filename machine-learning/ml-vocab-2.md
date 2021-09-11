@@ -516,10 +516,10 @@
 
 ### <b>endAnaconda</b>
 
-<b>conda</b>
-<b>developing manually</b>
-<b>loading</b>
-<b>saving</b>
+- <b>conda</b>
+- <b>developing manually</b>
+- <b>loading</b>
+- <b>saving</b>
 
 ### <b>epochs</b>
 
