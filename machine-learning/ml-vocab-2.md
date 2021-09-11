@@ -628,8 +628,8 @@
 
 ### <b>fully connected layers</b>
 
-<b>images as</b>
-<b>training</b>
+- <b>images as</b>
+- <b>training</b>
 
 ---
 
