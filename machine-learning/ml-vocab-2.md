@@ -506,12 +506,13 @@
 ### <b>embedding networks, training</b>
 
 - <b>finding similar items</b>
-  <b>implementation</b>
-  <b>object re-identification</b>
-  <b>testing trained models</b>
-  <b>object re-identification</b>
+- <b>implementation</b>
+- <b>object re-identification</b>
+- <b>testing trained models</b>
+- <b>object re-identification</b>
 - <b>retrievals</b>
-  <b>embedding space</b>
+
+<b>embedding space</b>
 
 ### <b>endAnaconda</b>
 
