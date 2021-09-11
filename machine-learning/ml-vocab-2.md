@@ -565,7 +565,7 @@
 - <b>disadvantages of</b>
 - <b>multi-task loss function in</b>
 - <b>architecture of</b>
-  <b>base network to extract features</b>
+- <b>base network to extract features</b>
 
 ### <b>fully connected layers</b>
 
