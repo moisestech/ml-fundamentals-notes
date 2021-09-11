@@ -648,15 +648,15 @@
 
 ### <b>generator models</b>
 
-<b>minimax function</b>
-<b>building</b>
-<b>combined models</b>
-<b>discriminators</b>
-<b>downloading datasets</b>
-<b>evaluating models of</b>
-<b>choosing evaluation scheme</b>
-<b>FID</b>
-<b>inception score</b>
+- <b>minimax function</b>
+- <b>building</b>
+- <b>combined models</b>
+  <b>discriminators</b>
+  <b>downloading datasets</b>
+  <b>evaluating models of</b>
+  <b>choosing evaluation scheme</b>
+  <b>FID</b>
+  <b>inception score</b>
 
 ### <b>generators</b>
 
