@@ -600,7 +600,8 @@
 
 ### <b>feedforward process</b>
 
-<b>learning features</b>
+- <b>learning features</b>
+
 <b>FID (Fréchet inception distance)</b>
 <b>filter hyperparameter<b>
 <b>filter_index</b>
@@ -610,9 +611,10 @@
 
 ### <b>fine-tuning</b>
 
-<b>advantages of</b>
-<b>learning rates when</b>
-<b>transfer learning</b>
+- <b>advantages of</b>
+- <b>learning rates when</b>
+- <b>transfer learning</b>
+
 <b>.fit() method</b>
 <b>fit_generator() function</b>
 <b>Flatten layer</b>
