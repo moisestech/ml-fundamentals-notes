@@ -531,7 +531,8 @@
 - <b>advantages of</b>
 - <b>cross-entropy</b>
 
-<b>errors</b>
+### <b>errors</b>
+
 <b>mean squared error</b>
 <b>overview</b>
 <b>weights</b>
