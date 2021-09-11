@@ -654,9 +654,9 @@
 - <b>discriminators</b>
 - <b>downloading datasets</b>
 - <b>evaluating models of</b>
-  <b>choosing evaluation scheme</b>
-  <b>FID</b>
-  <b>inception score</b>
+- <b>choosing evaluation scheme</b>
+- <b>FID</b>
+- <b>inception score</b>
 
 ### <b>generators</b>
 
