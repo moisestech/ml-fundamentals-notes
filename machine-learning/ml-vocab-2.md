@@ -652,8 +652,8 @@
 - <b>building</b>
 - <b>combined models</b>
 - <b>discriminators</b>
-  <b>downloading datasets</b>
-  <b>evaluating models of</b>
+- <b>downloading datasets</b>
+- <b>evaluating models of</b>
   <b>choosing evaluation scheme</b>
   <b>FID</b>
   <b>inception score</b>
