@@ -765,7 +765,7 @@
 ### <b>image preprocessing</b>
 
 - <b>loading datasets</b>
-  <b>loading models with val_acc</b>
+- <b>loading models with val_acc</b>
   <b>training models</b>
   <b>with CNNs</b>
   <b>building model architecture</b>
