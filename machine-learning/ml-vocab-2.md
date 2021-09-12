@@ -760,7 +760,7 @@
 - <b>for color images</b>
 - <b>compiling models</b>
 - <b>defining model architecture</b>
-  <b>evaluating models</b>
+- <b>evaluating models</b>
 
 ### <b>image preprocessing</b>
 
