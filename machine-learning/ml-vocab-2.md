@@ -736,7 +736,7 @@
 - <b>in ResNet</b>
 - <b>in VGGNet</b>
 - <b>neural network hyperparameters</b>
-  <b>parameters vs.</b>
+- <b>parameters vs.</b>
   <b>tuning</b>
   <b>collecting data vs.</b>
   <b>neural network hyperparameters</b>
