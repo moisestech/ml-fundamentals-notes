@@ -766,7 +766,7 @@
 
 - <b>loading datasets</b>
 - <b>loading models with val_acc</b>
-  <b>training models</b>
+- <b>training models</b>
   <b>with CNNs</b>
   <b>building model architecture</b>
   <b>number of parameters</b>
