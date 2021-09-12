@@ -735,7 +735,7 @@
 - <b>in LeNet-5</b>
 - <b>in ResNet</b>
 - <b>in VGGNet</b>
-  <b>neural network hyperparameters</b>
+- <b>neural network hyperparameters</b>
   <b>parameters vs.</b>
   <b>tuning</b>
   <b>collecting data vs.</b>
