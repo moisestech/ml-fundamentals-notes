@@ -741,7 +741,7 @@
 - <b>collecting data vs.</b>
 - <b>neural network hyperparameters</b>
 
-<b>parameters vs. hyperparameters</b>
+- <b>parameters vs. hyperparameters</b>
 
 - **hyperparameters** are variables that are not learned by the network.
   - They are set by the ML engineer before training the model and then tuned.
