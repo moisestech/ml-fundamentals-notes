@@ -778,7 +778,7 @@
 ### <b>importing dependencies</b>
 
 - <b>preparing data for training</b>
-  <b>training models</b>
+- <b>training models</b>
   <b>with MLPs</b>
   <b>drawbacks of</b>
   <b>hidden layers</b>
