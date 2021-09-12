@@ -770,7 +770,7 @@
 - <b>with CNNs</b>
 - <b>building model architecture</b>
 - <b>number of parameters</b>
-  <b>weights</b>
+- <b>weights</b>
   <b>with high accuracy</b>
   <b>building model architecture</b>
   <b>evaluating models</b>
