@@ -758,7 +758,7 @@
 ### <b>image classification</b>
 
 - <b>for color images</b>
-  <b>compiling models</b>
+- <b>compiling models</b>
   <b>defining model architecture</b>
   <b>evaluating models</b>
 
