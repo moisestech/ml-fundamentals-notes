@@ -772,7 +772,7 @@
 - <b>number of parameters</b>
 - <b>weights</b>
 - <b>with high accuracy</b>
-  <b>building model architecture</b>
+- <b>building model architecture</b>
   <b>evaluating models</b>
 
 ### <b>importing dependencies</b>
