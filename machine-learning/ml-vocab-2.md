@@ -764,16 +764,16 @@
 
 ### <b>image preprocessing</b>
 
-<b>loading datasets</b>
-<b>loading models with val_acc</b>
-<b>training models</b>
-<b>with CNNs</b>
-<b>building model architecture</b>
-<b>number of parameters</b>
-<b>weights</b>
-<b>with high accuracy</b>
-<b>building model architecture</b>
-<b>evaluating models</b>
+- <b>loading datasets</b>
+  <b>loading models with val_acc</b>
+  <b>training models</b>
+  <b>with CNNs</b>
+  <b>building model architecture</b>
+  <b>number of parameters</b>
+  <b>weights</b>
+  <b>with high accuracy</b>
+  <b>building model architecture</b>
+  <b>evaluating models</b>
 
 ### <b>importing dependencies</b>
 
