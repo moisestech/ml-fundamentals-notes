@@ -821,7 +821,7 @@
 - <b>modules</b>
 - <b>naive version</b>
 - <b>performance on CIFAR dataset</b>
-  <b>with dimensionality reduction</b>
+- <b>with dimensionality reduction</b>
   <b>1 × 1 convolutional layer</b>
   <b>impact on network performance</b>
   <b>inception scores</b>
