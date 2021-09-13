@@ -824,7 +824,7 @@
 - <b>with dimensionality reduction</b>
 - <b>1 × 1 convolutional layer</b>
 - <b>impact on network performance</b>
-  <b>inception scores</b>
+- <b>inception scores</b>
   <b>inception_module function</b>
   <b>include_top argument</b>
   <b>input image</b>
