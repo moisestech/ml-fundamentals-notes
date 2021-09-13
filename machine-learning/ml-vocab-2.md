@@ -800,7 +800,7 @@
 - <b>as functions</b>
 - <b>augmenting</b>
 - <b>color images</b>
-  <b>computer processing of</b>
+- <b>computer processing of</b>
   <b>creating</b>
   <b>grayscaling</b>
   <b>preprocessing</b>
