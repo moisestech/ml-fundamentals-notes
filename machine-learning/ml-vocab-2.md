@@ -805,7 +805,7 @@
 - <b>grayscaling</b>
 - <b>preprocessing</b>
 - <b>converting color to grayscale</b>
-  <b>one-hot encoding</b>
+- <b>one-hot encoding</b>
   <b>preparing labels</b>
   <b>splitting datasets for training</b>
   <b>splitting datasets for validation</b>
