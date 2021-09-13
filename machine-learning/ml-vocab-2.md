@@ -811,7 +811,7 @@
 - <b>splitting datasets for validation</b>
 - <b>rescaling</b>
 - <b>resizing</b>
-  <b>image-to-image translation</b>
+- <b>image-to-image translation</b>
 
 ### <b>Inception</b>
 
