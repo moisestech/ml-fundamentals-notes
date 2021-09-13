@@ -818,7 +818,7 @@
 - <b>architecture of</b>
 - <b>features of</b>
 - <b>learning hyperparameters in</b>
-  <b>modules</b>
+- <b>modules</b>
   <b>naive version</b>
   <b>performance on CIFAR dataset</b>
   <b>with dimensionality reduction</b>
