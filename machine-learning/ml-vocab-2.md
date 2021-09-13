@@ -815,25 +815,25 @@
 
 ### <b>Inception</b>
 
-<b>architecture of</b>
-<b>features of</b>
-<b>learning hyperparameters in</b>
-<b>modules</b>
-<b>naive version</b>
-<b>performance on CIFAR dataset</b>
-<b>with dimensionality reduction</b>
-<b>1 × 1 convolutional layer</b>
-<b>impact on network performance</b>
-<b>inception scores</b>
-<b>inception_module function</b>
-<b>include_top argument</b>
-<b>input image</b>
-<b>input layers</b>
-<b>input vector</b>
-<b>input_shape argument</b>
-<b>instances</b>
-<b>interpreting devices</b>
-<b>IoU (intersection over union)</b>
+- <b>architecture of</b>
+- <b>features of</b>
+  <b>learning hyperparameters in</b>
+  <b>modules</b>
+  <b>naive version</b>
+  <b>performance on CIFAR dataset</b>
+  <b>with dimensionality reduction</b>
+  <b>1 × 1 convolutional layer</b>
+  <b>impact on network performance</b>
+  <b>inception scores</b>
+  <b>inception_module function</b>
+  <b>include_top argument</b>
+  <b>input image</b>
+  <b>input layers</b>
+  <b>input vector</b>
+  <b>input_shape argument</b>
+  <b>instances</b>
+  <b>interpreting devices</b>
+  <b>IoU (intersection over union)</b>
 
 ---
 
