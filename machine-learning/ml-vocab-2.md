@@ -801,7 +801,7 @@
 - <b>augmenting</b>
 - <b>color images</b>
 - <b>computer processing of</b>
-  <b>creating</b>
+- <b>creating</b>
   <b>grayscaling</b>
   <b>preprocessing</b>
   <b>converting color to grayscale</b>
