@@ -780,12 +780,13 @@
 - <b>preparing data for training</b>
 - <b>training models</b>
 - <b>with MLPs</b>
-  <b>drawbacks of</b>
-  <b>hidden layers</b>
+- <b>drawbacks of</b>
+- <b>hidden layers</b>
 
 ### <b>input layers</b>
 
-<b>output layers</b>
+- <b>output layers</b>
+
 <b>image classifier</b>
 <b>image flattening</b>
 <b>image preprocessing</b>
@@ -796,21 +797,21 @@
 
 ### <b>images</b>
 
-<b>as functions</b>
-<b>augmenting</b>
-<b>color images</b>
-<b>computer processing of</b>
-<b>creating</b>
-<b>grayscaling</b>
-<b>preprocessing</b>
-<b>converting color to grayscale</b>
-<b>one-hot encoding</b>
-<b>preparing labels</b>
-<b>splitting datasets for training</b>
-<b>splitting datasets for validation</b>
-<b>rescaling</b>
-<b>resizing</b>
-<b>image-to-image translation</b>
+- <b>as functions</b>
+  <b>augmenting</b>
+  <b>color images</b>
+  <b>computer processing of</b>
+  <b>creating</b>
+  <b>grayscaling</b>
+  <b>preprocessing</b>
+  <b>converting color to grayscale</b>
+  <b>one-hot encoding</b>
+  <b>preparing labels</b>
+  <b>splitting datasets for training</b>
+  <b>splitting datasets for validation</b>
+  <b>rescaling</b>
+  <b>resizing</b>
+  <b>image-to-image translation</b>
 
 ### <b>Inception</b>
 
