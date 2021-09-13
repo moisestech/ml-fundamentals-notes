@@ -798,7 +798,7 @@
 ### <b>images</b>
 
 - <b>as functions</b>
-  <b>augmenting</b>
+- <b>augmenting</b>
   <b>color images</b>
   <b>computer processing of</b>
   <b>creating</b>
