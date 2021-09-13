@@ -808,7 +808,7 @@
 - <b>one-hot encoding</b>
 - <b>preparing labels</b>
 - <b>splitting datasets for training</b>
-  <b>splitting datasets for validation</b>
+- <b>splitting datasets for validation</b>
   <b>rescaling</b>
   <b>resizing</b>
   <b>image-to-image translation</b>
