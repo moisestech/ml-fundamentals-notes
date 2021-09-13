@@ -803,7 +803,7 @@
 - <b>computer processing of</b>
 - <b>creating</b>
 - <b>grayscaling</b>
-  <b>preprocessing</b>
+- <b>preprocessing</b>
   <b>converting color to grayscale</b>
   <b>one-hot encoding</b>
   <b>preparing labels</b>
