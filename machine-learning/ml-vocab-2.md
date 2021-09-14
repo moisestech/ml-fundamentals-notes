@@ -910,7 +910,7 @@
 - <b>in LeNet-5</b>
 - <b>in ResNet</b>
 - <b>in VGGNet</b>
-  <b>mini-batch size</b>
+- <b>mini-batch size</b>
   See also
 
 ### <b>learning curves, plotting</b>
