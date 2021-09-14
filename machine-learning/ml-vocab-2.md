@@ -828,8 +828,8 @@
 <b>inception scores</b>
 <b>inception_module function</b>
 <b>include_top argument</b>
+<b>input image</b>
 
-- <b>input image</b>
 - <b>input layers</b>
   <b>input vector</b>
   <b>input_shape argument</b>
