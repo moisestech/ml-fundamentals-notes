@@ -861,7 +861,7 @@
 - <b>building max-pooling layers</b>
 - <b>building network</b>
 - <b>LeNet-5 in</b>
-  <b>ResNet in</b>
+- <b>ResNet in</b>
   <b>keras.datasets</b>
   <b>keras_ssd7.py file</b>
   <b>kernel</b>
