@@ -911,7 +911,7 @@
 - <b>in ResNet</b>
 - <b>in VGGNet</b>
 - <b>mini-batch size</b>
-  See also
+- See also
 
 ### <b>learning curves, plotting</b>
 
