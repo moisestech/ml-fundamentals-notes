@@ -826,8 +826,8 @@
 
 <b>impact on network performance</b>
 <b>inception scores</b>
+<b>inception_module function</b>
 
-- <b>inception_module function</b>
 - <b>include_top argument</b>
 - <b>input image</b>
 - <b>input layers</b>
