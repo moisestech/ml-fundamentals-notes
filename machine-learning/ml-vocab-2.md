@@ -864,11 +864,10 @@
 - <b>ResNet in</b>
 
 <b>keras.datasets</b>
-
-- <b>keras_ssd7.py file</b>
-  <b>kernel</b>
-  <b>kernel size</b>
-  <b>kernel_size hyperparameter</b>
+<b>keras_ssd7.py file</b>
+<b>kernel</b>
+<b>kernel size</b>
+<b>kernel_size hyperparameter</b>
 
 ---
 
