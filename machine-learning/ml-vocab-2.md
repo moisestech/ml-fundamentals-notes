@@ -885,17 +885,17 @@
 
 ### <b>layers</b>
 
-<b>1 × 1 convolutional</b>
-<b>dropout</b>
-<b>adding to avoid overfitting</b>
-<b>advantages of</b>
-<b>in AlexNet</b>
-<b>in CNN architecture</b>
-<b>overview</b>
-<b>fully connected</b>
-<b>hidden<b>
-<b>representing style features</b>
-<b>Leaky ReLU</b>
+- <b>1 × 1 convolutional</b>
+  <b>dropout</b>
+  <b>adding to avoid overfitting</b>
+  <b>advantages of</b>
+  <b>in AlexNet</b>
+  <b>in CNN architecture</b>
+  <b>overview</b>
+  <b>fully connected</b>
+  <b>hidden<b>
+  <b>representing style features</b>
+  <b>Leaky ReLU</b>
 
 ### <b>learning</b>
 
