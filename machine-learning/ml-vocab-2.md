@@ -928,13 +928,13 @@
 
 ### <b>learning hyperparameters in</b>
 
-<b>on MNIST dataset</b>
-<b>libraries in GANs</b>
-<b>linear combination</b>
-<b>linear datasets</b>
-<b>linear decay</b>
-<b>linear transfer function</b>
-<b>load_data() method</b>
+- <b>on MNIST dataset</b>
+  <b>libraries in GANs</b>
+  <b>linear combination</b>
+  <b>linear datasets</b>
+  <b>linear decay</b>
+  <b>linear transfer function</b>
+  <b>load_data() method</b>
 
 ### <b>load_dataset() method</b>
 
