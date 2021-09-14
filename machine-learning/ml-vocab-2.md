@@ -829,13 +829,12 @@
 <b>inception_module function</b>
 <b>include_top argument</b>
 <b>input image</b>
-
-- <b>input layers</b>
-  <b>input vector</b>
-  <b>input_shape argument</b>
-  <b>instances</b>
-  <b>interpreting devices</b>
-  <b>IoU (intersection over union)</b>
+<b>input layers</b>
+<b>input vector</b>
+<b>input_shape argument</b>
+<b>instances</b>
+<b>interpreting devices</b>
+<b>IoU (intersection over union)</b>
 
 ---
 
