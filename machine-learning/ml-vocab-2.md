@@ -915,11 +915,11 @@
 
 ### <b>learning curves, plotting</b>
 
-<b>batch gradient descent</b>
-<b>decay</b>
-<b>derivative and</b>
-<b>optimal, finding</b>
-<b>when fine-tuning</b>
+- <b>batch gradient descent</b>
+  <b>decay</b>
+  <b>derivative and</b>
+  <b>optimal, finding</b>
+  <b>when fine-tuning</b>
 
 ### <b>LeNet-5</b>
 
