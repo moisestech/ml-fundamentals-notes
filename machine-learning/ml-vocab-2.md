@@ -858,7 +858,7 @@
 - <b>GoogLeNet in</b>
 - <b>building classifiers</b>
 - <b>building inception modules</b>
-  <b>building max-pooling layers</b>
+- <b>building max-pooling layers</b>
   <b>building network</b>
   <b>LeNet-5 in</b>
   <b>ResNet in</b>
