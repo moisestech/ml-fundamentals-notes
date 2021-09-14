@@ -924,7 +924,7 @@
 ### <b>LeNet-5</b>
 
 - <b>architecture of</b>
-  <b>in Keras</b>
+- <b>in Keras</b>
 
 ### <b>learning hyperparameters in</b>
 
