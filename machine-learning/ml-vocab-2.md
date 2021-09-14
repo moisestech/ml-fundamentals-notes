@@ -903,7 +903,7 @@
 - <b>adaptive</b>
 - <b>embedding</b>
 - <b>features</b>
-  <b>finding optimal learning rate</b>
+- <b>finding optimal learning rate</b>
   <b>in AlexNet</b>
   <b>in GoogLeNet</b>
   <b>in Inception</b>
