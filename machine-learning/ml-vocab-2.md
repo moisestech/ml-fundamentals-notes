@@ -940,7 +940,7 @@
 ### <b>load_dataset() method</b>
 
 - <b>data</b>
-  <b>datasets</b>
+- <b>datasets</b>
   <b>environments</b>
   <b>models</b>
 
