@@ -906,7 +906,7 @@
 - <b>finding optimal learning rate</b>
 - <b>in AlexNet</b>
 - <b>in GoogLeNet</b>
-  <b>in Inception</b>
+- <b>in Inception</b>
   <b>in LeNet-5</b>
   <b>in ResNet</b>
   <b>in VGGNet</b>
