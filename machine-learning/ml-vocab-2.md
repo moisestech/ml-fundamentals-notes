@@ -900,18 +900,18 @@
 
 ### <b>learning</b>
 
-<b>adaptive</b>
-<b>embedding</b>
-<b>features</b>
-<b>finding optimal learning rate</b>
-<b>in AlexNet</b>
-<b>in GoogLeNet</b>
-<b>in Inception</b>
-<b>in LeNet-5</b>
-<b>in ResNet</b>
-<b>in VGGNet</b>
-<b>mini-batch size</b>
-See also
+- <b>adaptive</b>
+  <b>embedding</b>
+  <b>features</b>
+  <b>finding optimal learning rate</b>
+  <b>in AlexNet</b>
+  <b>in GoogLeNet</b>
+  <b>in Inception</b>
+  <b>in LeNet-5</b>
+  <b>in ResNet</b>
+  <b>in VGGNet</b>
+  <b>mini-batch size</b>
+  See also
 
 ### <b>learning curves, plotting</b>
 
