@@ -894,8 +894,9 @@
 - <b>overview</b>
 - <b>fully connected</b>
 - <b>hidden<b>
-  <b>representing style features</b>
-  <b>Leaky ReLU</b>
+- <b>representing style features</b>
+
+<b>Leaky ReLU</b>
 
 ### <b>learning</b>
 
