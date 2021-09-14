@@ -855,7 +855,7 @@
 - <b>AlexNet in</b>
 - <b>batch normalization in</b>
 - <b>DeepDream in</b>
-  <b>GoogLeNet in</b>
+- <b>GoogLeNet in</b>
   <b>building classifiers</b>
   <b>building inception modules</b>
   <b>building max-pooling layers</b>
