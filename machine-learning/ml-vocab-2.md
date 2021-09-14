@@ -853,7 +853,7 @@
 ### <b>Kaggle datasets</b>
 
 - <b>AlexNet in</b>
-  <b>batch normalization in</b>
+- <b>batch normalization in</b>
   <b>DeepDream in</b>
   <b>GoogLeNet in</b>
   <b>building classifiers</b>
