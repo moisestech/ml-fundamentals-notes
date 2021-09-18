@@ -954,10 +954,10 @@
 
 ### <b>logistic function</b>
 
-<b>content loss</b>
-<b>runtime analysis of</b>
-<b>total variance</b>
-<b>visualizing</b>
+- <b>content loss</b>
+  <b>runtime analysis of</b>
+  <b>total variance</b>
+  <b>visualizing</b>
 
 ### <b>loss functions</b>
 
